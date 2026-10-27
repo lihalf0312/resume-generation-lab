@@ -1,0 +1,272 @@
+{
+  "case_id": "case-040",
+  "evaluated_at": "2026-10-27T18:38:43.469115+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "reviewer_run": "batch004_new_instance",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native semantic review of frozen actual EN/ZH text against raw profile and job. Python only serializes manually authored judgments and verifies hashes/text correspondence; it does not assign quality labels.",
+  "blinding": {
+    "curation_notes_viewed": false,
+    "design_answers_viewed": false,
+    "generator_ledger_viewed": true
+  },
+  "hashes": {
+    "claims.json": "fa61bc16095135fdb13cd614c010a68d9aef2a3d40bc5e4ece717bb106df3595",
+    "resume.zh.md": "4c4eaf0dd7f93cb3df84be086fb6ae32fbd5ccefa90d2f9f200ff61ae964f49a",
+    "provenance.json": "b9ff60af3a075d2e5bcd317247b5c3b170d74ba1a8b10817925ff0f4d6b101da",
+    "resume.en.md": "c24a15ef7e55f27fe964bb9c054106dc45b83a53bab24bfa12fcbaca7eef51c5",
+    "job.json": "b991bf4de7d9434d20f62879947da8fa4034b973cbc729ec90a05e8e09741ad1",
+    "prompt.md": "d52d24fda654ee28775a6c5b808d023741b8647edabd08ac946484ae10dce51a",
+    "profile.json": "7da528a087c589e242403dad037fa147a48fc3a93d3499f6f16edccd79ac5bee"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Research Administration Assistant | Fictional Research Centre D040",
+        "zh": "研究行政助理｜虚构研究中心D040"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports assistant title/employer. Start date disputed F15/U01 and not asserted; omitted tenure does not extend history or silently resolve conflict.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F02"
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Scheduled project meetings and maintained deliverable trackers for 3 community-research workstreams.",
+        "zh": "为3个社区研究工作流安排项目会议，维护交付物跟踪表。"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 supports meeting scheduling and deliverable tracking for three community-research workstreams.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F03"
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Tracked 5 concurrent workstreams at the **Q4 2025** reporting peak; the regular allocation in **August 2026** was 3.",
+        "zh": "**2025年第四季度**报告高峰期跟踪5个并行工作流；**2026年8月**常规分工为3个。"
+      },
+      "source_fact_ids": [
+        "F14"
+      ],
+      "status": "supported",
+      "reason": "F14 supports five concurrent Q4 2025 peak versus three regular August 2026; no five-current claim.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F14"
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Co-designed a quarterly internal-report submission checklist with the programme manager in **January 2025**.",
+        "zh": "**2025年1月**与项目经理共同设计季度内部报告提交清单。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 supports January 2025 joint programme-manager checklist design.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F05"
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Missing attachments required follow-up for 4 of 18 report sections submitted in **Q2 2025**, versus 9 of 18 in **Q1 2025**; multiple workstream teams used the checklist.",
+        "zh": "**2025年第二季度**提交的18个报告部分中，4个需跟进缺失附件，**第一季度**的18个中为9个；多个工作流团队使用该清单。"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 supports Q2 2025 four of18 report sections versus Q1 nine of18 and multiple team use; units remain report sections, not entire reports or people. Chinese Q1 inherits same2025 context.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F06"
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Collected expense documentation and checked entries against approved budget codes; the finance officer authorized reimbursements.",
+        "zh": "收集费用凭证，按获批预算编码核对条目；报销由财务专员批准。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 supports expense documentation/code checking while finance officer authorizes reimbursement.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F04"
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "Used spreadsheet validation lists and shared document folders with project-specific permissions.",
+        "zh": "使用电子表格验证列表及具有项目专属权限的共享文件夹。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 supports validation lists and project-specific shared-folder permissions, not administrator/security ownership.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F07"
+    },
+    {
+      "claim_id": "C08",
+      "text": {
+        "en": "Prepared draft participant-information packs using ethics-approved wording; investigators approved distribution.",
+        "zh": "使用伦理审查批准的措辞准备参与者信息资料草稿；分发由研究负责人批准。"
+      },
+      "source_fact_ids": [
+        "F08"
+      ],
+      "status": "supported",
+      "reason": "F08 supports draft participant packs with ethics-approved wording and investigator distribution approval; no personal ethics approval.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F08"
+    },
+    {
+      "claim_id": "C09",
+      "text": {
+        "en": "MSc Social Research Methods | Fictional Institute D040 | **Graduated 2020**",
+        "zh": "社会研究方法理学硕士｜虚构院校D040｜**毕业时间：2020年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports 2020 Social Research Methods MSc.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F01"
+    }
+  ],
+  "bilingual_fidelity": "Both languages retain report-section denominators, quarters, joint checklist contribution and separate financial/ethics approval authorities. Conflicting start date omitted rather than affirmed or tenure extended. Absence is a chronology input gap, not a factual falsehood.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35,
+      "reason": "Priority coordination, financial records and participant communications clear; unsupported grants leadership not added."
+    },
+    "clarity": {
+      "rating": 3,
+      "weight": 25,
+      "reason": "Split contributions scan well, but role lacks employment range pending source clarification; do not invent a date to repair it."
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25,
+      "reason": "Quarter-specific4/18 versus9/18 sections and shared team use precisely preserved with approvals and current/peak distinction."
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "full_score": null,
+  "assessed_score": 93,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation diagnostic only; not candidate qualification, hiring probability, calibrated HR judgment or comparable full score.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "supported",
+      "source_fact_ids": [
+        "F03",
+        "F05",
+        "F06",
+        "F14"
+      ],
+      "reason": "Meetings, deliverables and reporting checklist across workstreams."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "supported",
+      "source_fact_ids": [
+        "F04",
+        "F07"
+      ],
+      "reason": "Expense/budget-code documentation and permission-scoped project records, not spending approval."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "supported",
+      "source_fact_ids": [
+        "F08",
+        "F09"
+      ],
+      "reason": "Draft participant communications under approved wording/distribution authority."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F16"
+      ],
+      "reason": "No grant-proposal leadership success or funder negotiation evidence."
+    }
+  ],
+  "feedback": [
+    {
+      "severity": "medium",
+      "dimension": "clarity",
+      "claim_or_section_id": "C01",
+      "observed_issue": "Employment range omitted because source start date conflicts; chronology remains incomplete.",
+      "evidence_ids": [
+        "F02",
+        "F15",
+        "U01"
+      ],
+      "action": "Obtain date clarification before adding tenure in a later version; preserve frozen original.",
+      "safe_rewrite_or_question": "Was October 2020 a separate engagement before the January 2021 appointment, and what title and dates can be confirmed?"
+    }
+  ],
+  "artifact_limitation": "Content only. No DOCX/PDF export or render; page count, clipping, glyphs, extraction, line lengths and actual formatting unassessed.",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "frozen_input_hash_verification": "all source and output hashes match generation provenance; evaluated input hashes unchanged"
+}

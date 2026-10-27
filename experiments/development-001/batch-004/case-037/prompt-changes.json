@@ -1,0 +1,8 @@
+{
+  "previous_case": "case-036",
+  "previous_evaluation_sha256": "5234fd456b22671e922d401e16014dfb3cd9ec84de52f056a0fc5a8630b748eb",
+  "changes": [
+    "Review036 flagged long multi-clause bullets. Split ingest scope and team outcome into separate bullets; keep qualifiers close to claims and do not repair036."
+  ],
+  "application": "Only this new distinct source; prior output immutable"
+}

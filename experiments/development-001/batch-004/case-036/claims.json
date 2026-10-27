@@ -1,0 +1,69 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Purchasing Data Assistant | Fictional Packaging Employer D036 | **March 2020–August 2026**",
+    "zh": "采购数据助理｜虚构包装企业D036｜**2020年3月—2026年8月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F04",
+      "F05"
+    ],
+    "en": "Maintained corrugated-packaging quote comparisons using spreadsheet lookups, pivot tables and unit conversions to compare quantities and delivery terms; the procurement manager selected suppliers and signed contracts.",
+    "zh": "维护瓦楞包装报价比较表，使用电子表格查找、数据透视表和单位换算比较数量与交货条款；采购经理选择供应商并签署合同。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Built a landed-cost workbook for 6 packaging suppliers in **January–March 2025**, including freight and minimum-order assumptions.",
+    "zh": "**2025年1—3月**为6家包装供应商建立到岸成本工作簿，纳入运费及最低订单量假设。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F07",
+      "F08"
+    ],
+    "en": "Jointly standardized inputs with the buyer. Across 24 quote packs in **Q2 2025**, median preparation time fell from 75 to 50 minutes, excluding contract negotiation time; this was not a verified cost saving.",
+    "zh": "与采购员共同标准化输入。**2025年第二季度**的24份报价资料准备时间中位数从75分钟降至50分钟，不包含合同谈判时间；该结果不等于经核实的成本节省。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F14"
+    ],
+    "en": "Handled quote files for 18 active suppliers at the **September 2025** peak; the active list contained 11 suppliers in **August 2026**.",
+    "zh": "**2025年9月**高峰时处理18家活跃供应商报价档案；**2026年8月**活跃名单包含11家供应商。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F09",
+      "F10"
+    ],
+    "en": "Course exercise, **November 2025**: compared 3 fictional solar-module bids by warranty, delivery and price; read English technical datasheets and recorded unresolved terminology for the tutor. No purchase occurred.",
+    "zh": "**2025年11月**课程练习：按质保、交货和价格标准比较3份虚构太阳能组件投标；阅读英文技术数据表，将未理解术语记录下来交导师解答。未发生采购。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Part-time MSc Energy Systems studies | Fictional Institute E036 | **September 2024–paused February 2026**; completed 4 modules, degree not earned",
+    "zh": "能源系统理学硕士非全日制学习｜虚构院校E036｜**2024年9月—2026年2月暂停**；完成4个模块，未获得学位"
+  },
+  {
+    "id": "C08",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "BSc Applied Mathematics | Fictional Institute D036 | **Graduated 2019**",
+    "zh": "应用数学理学学士｜虚构院校D036｜**毕业时间：2019年**"
+  }
+]

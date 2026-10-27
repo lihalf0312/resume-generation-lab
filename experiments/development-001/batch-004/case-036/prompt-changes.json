@@ -1,0 +1,8 @@
+{
+  "previous_case": "case-035",
+  "previous_evaluation_sha256": "e5357a97ee33ba9e1ab6cc6823f69803d49a922653ad10180df7aa9a38a2f63b",
+  "changes": [
+    "Review035 required no new repair. Retain exact active/peak distinction and draft/qualification scope; this case separates time savings from unsupported purchase cost savings."
+  ],
+  "application": "Only this new distinct source; prior output immutable"
+}

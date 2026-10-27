@@ -1,0 +1,235 @@
+{
+  "case_id": "case-038",
+  "evaluated_at": "2026-10-27T18:36:55.889460+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "reviewer_run": "batch004_new_instance",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native semantic review of frozen actual EN/ZH text against raw profile and job. Python only serializes manually authored judgments and verifies hashes/text correspondence; it does not assign quality labels.",
+  "blinding": {
+    "curation_notes_viewed": false,
+    "design_answers_viewed": false,
+    "generator_ledger_viewed": true
+  },
+  "hashes": {
+    "claims.json": "082966bbbba6500900b423ede8c92a218ecc1b461fe139761aa7c01d1d3c7d4c",
+    "resume.zh.md": "af6ccae0c42cf445b725764a7d49d0cd97935bb43afc10f30aeb3c1bd5e9a418",
+    "provenance.json": "72f8302eb04ec3a02749b3acb4694a374f663b8453a947ca8981b1501a962189",
+    "resume.en.md": "bbd145b17fd253fa170522e0a0728cad7491d27a008f713c0f6f4a726062122e",
+    "job.json": "ff062ef11f145faf2e2c441a5ed7ec6e0a5aa9e4a3036ac88c8db5136fa470e5",
+    "prompt.md": "07b0d0a18a45865530517cbb51c52155eb42969072be28778580540ddb437530",
+    "profile.json": "382834147631be75355c3b9f862999072067fb436b001695f02d1d853641a146"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Project Office Assistant | Fictional Builder D038 | **August 2024–August 2026**; office-based administrative role",
+        "zh": "项目办公室助理｜虚构建筑企业D038｜**2024年8月—2026年8月**；办公室行政岗位"
+      },
+      "source_fact_ids": [
+        "F02",
+        "F16"
+      ],
+      "status": "supported",
+      "reason": "F02/F16 support August 2024–August 2026 office administrative assistant role, not independent site engineer.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F02,F16"
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Maintained drawing-transmittal and RFI logs for an office-refurbishment project. Used spreadsheet filters and revision codes to route current drawings to approved recipients.",
+        "zh": "为办公室翻新项目维护图纸传递及信息请求记录，使用电子表格筛选和修订编码，将最新版图纸发送给获批接收者。"
+      },
+      "source_fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F03/F04 support single office-refurbishment project, transmittal/RFI logs and routing current revisions to approved recipients.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F03,F04"
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "With the site administrator, reconciled 86 transmittals against acknowledgments in **February 2026**. The review identified 13 missing acknowledgments: 10 were obtained that month and 3 remained escalated to the site administrator.",
+        "zh": "**2026年2月**与现场行政员合作，依据签收确认核对86份文件传递记录。复查发现13份缺失确认，月内取得10份，其余3份仍由现场行政员跟进。"
+      },
+      "source_fact_ids": [
+        "F05",
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F05/F06 preserve February 2026 joint86-transmittal review,13 missing,10 obtained within month and3 outstanding/escalated; no all-resolved or solo result.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F05,F06"
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Recorded meeting minutes and action owners; the project manager approved minutes before circulation.",
+        "zh": "记录会议纪要及行动负责人，纪要经项目经理审批后分发。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 supports minutes/action owners and project-manager approval before circulation.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F07"
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Used PDF markup to flag missing drawing numbers for review without altering technical design content.",
+        "zh": "使用PDF批注标出缺失图号供审查，不修改技术设计内容。"
+      },
+      "source_fact_ids": [
+        "F14"
+      ],
+      "status": "supported",
+      "reason": "F14 supports PDF missing-number annotations, no technical design modification.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F14"
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Drafted an induction-pack index in **April 2026**; it had not been approved by the safety officer for operational use.",
+        "zh": "**2026年4月**起草入场培训资料索引；安全专员尚未批准其投入实际使用。"
+      },
+      "source_fact_ids": [
+        "F09"
+      ],
+      "status": "supported",
+      "reason": "F09 supports April 2026 induction index draft explicitly not approved for operational use.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F09"
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "Maintained logs for 7 subcontractor packages at the **October 2025** project peak; 2 packages remained active in **August 2026**.",
+        "zh": "**2025年10月**项目高峰期维护7个分包工作包记录；**2026年8月**仍在进行的工作包为2个。"
+      },
+      "source_fact_ids": [
+        "F12"
+      ],
+      "status": "supported",
+      "reason": "F12 supports October 2025 seven-package peak versus two active August 2026, not ongoing seven-package workload.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F12"
+    },
+    {
+      "claim_id": "C08",
+      "text": {
+        "en": "Diploma in Construction Administration | Fictional Institute D038 | **Completed 2024**",
+        "zh": "施工行政专科学历｜虚构院校D038｜**完成时间：2024年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports 2024 Construction Administration diploma with supplied Chinese level unchanged.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F01"
+    }
+  ],
+  "bilingual_fidelity": "EN/ZH preserve86-transmittal denominator,13 missing/10 obtained/3 escalated in February, dated7peak/2active packages and unapproved induction draft. Neither conflicting project value asserted. No site safety, engineering, valuation or budget ownership invented.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35,
+      "reason": "Administrative documentation evidence prioritized; disputed project budget and irrelevant model omitted."
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25,
+      "reason": "Clear distinction between identified, obtained and unresolved acknowledgments; exact scope and approvals readable."
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25,
+      "reason": "Specific86/13/10/3 reconciliation outcome and named collaborator preserve incompleteness rather than invent perfect resolution."
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "full_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation diagnostic only; not candidate qualification, hiring probability, calibrated HR judgment or comparable full score.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "supported",
+      "source_fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "reason": "Document and RFI registers directly evidenced."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "supported",
+      "source_fact_ids": [
+        "F05",
+        "F06",
+        "F07"
+      ],
+      "reason": "Meeting action records and acknowledgment reconciliation, unresolved3 retained."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "supported",
+      "source_fact_ids": [
+        "F09"
+      ],
+      "reason": "Limited administrative draft index support only, no approved operational delivery or certification."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F08",
+        "F15"
+      ],
+      "reason": "Attendance entry is not certified payment valuation; none asserted."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "Content only. No DOCX/PDF export or render; page count, clipping, glyphs, extraction, line lengths and actual formatting unassessed."
+}

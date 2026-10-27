@@ -1,0 +1,8 @@
+{
+  "previous_case": "case-030",
+  "previous_evaluation_sha256": "8d74b794157f70751d94784142ea7896fcd906f2e926201df7370e743fca4dbb",
+  "changes": [
+    "Case030 had no new repair request. Retain date emphasis, natural Chinese, bilingual action/status parity and scoped evidence boundaries."
+  ],
+  "application": "Only this new distinct source; prior output immutable"
+}

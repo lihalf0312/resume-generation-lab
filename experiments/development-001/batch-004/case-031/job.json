@@ -1,0 +1,33 @@
+{
+  "case_id": "case-031",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "title": {
+    "en": "Supplier Quality Documentation Coordinator",
+    "zh": "供应商质量文档协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Maintain supplier specification and expiry records.",
+      "zh": "维护供应商规格及有效期记录。"
+    },
+    {
+      "id": "R02",
+      "en": "Build spreadsheet checks and support review documentation.",
+      "zh": "建立电子表格检查并支持审核文档整理。"
+    },
+    {
+      "id": "R03",
+      "en": "Coordinate supplier onboarding process changes.",
+      "zh": "协调供应商入门流程变更。"
+    },
+    {
+      "id": "R04",
+      "en": "Conduct certified food-safety audits independently.",
+      "zh": "独立执行经认证的食品安全审核。"
+    }
+  ]
+}

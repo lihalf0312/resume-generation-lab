@@ -6,7 +6,7 @@
 | Production generator/evaluator models trained | **0** |
 | HR/expert labels collected or validated examples | **0** |
 | Real arithmetic regression fitting | Unit test fits synthetic numeric labels; no HR meaning, no persisted deployed model |
-| Local tests | **27 passed** (`python -m unittest discover -s tests -v`); hosted CI not configured/run |
+| Local tests | **33 passed** (`python -m unittest discover -s tests -v`); hosted CI not configured/run |
 | Fictional smoke corpus | 20 fictional profiles + 20 fictional jobs; schema + public synthetic gate checked |
 | Current deterministic optimization smoke | **10 processed, 10 exact-renderer fidelity passes, 0 expert validated**; private_runs/verified-v2 |
 | Research-input structural smoke | 12 original synthetic profiles + 8 real-source employer JD summaries loaded; **10 dev examples processed, 10 exact-renderer fidelity passes, 0 expert validated** |
@@ -44,3 +44,5 @@ Current execution choice: existing product plan only; external paid providers re
 The separate [development tracker](DEVELOPMENT_PROGRESS.md) records the new 30-pair effort and subsequent batches. Initial reviewed publication:10 completed pairs,9 factual passes and1 needs_review; old pilot files remain unchanged.
 
 Initial 30 new development pairs are now complete: 29 factual passes, 1 retained needs_review, 0 known fails according to unvalidated native judgments. See the development tracker for the separate ongoing extension and calibration diagnostic. No paid calls or rendered-document checks were added.
+
+Additional rich batch 004 completed 10 pairs (40 new development pairs total). The source-only validator now ignores generated artifacts while retaining strict source membership/hash checks; six regression tests were added. Native experiment review-version metadata issue and exact-hash recovery are disclosed in the linked development tracker; no semantic judgments or old outputs were rewritten.

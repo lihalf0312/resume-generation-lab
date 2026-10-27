@@ -1,0 +1,26 @@
+{
+  "cases": 10,
+  "files": 30,
+  "fact_counts": {
+    "case-031": 18,
+    "case-032": 18,
+    "case-033": 18,
+    "case-034": 18,
+    "case-035": 18,
+    "case-036": 16,
+    "case-037": 16,
+    "case-038": 16,
+    "case-039": 16,
+    "case-040": 16
+  },
+  "requirement_labels": {
+    "direct": 26,
+    "transferable": 4,
+    "missing": 10
+  },
+  "errors": [],
+  "limitations": [
+    "Structural and numeric checks do not prove semantic entailment. Contradictions are deliberately flagged, not automatically resolved.",
+    "Original 30-case frozen sources and manifest are unchanged; extension is development-only."
+  ]
+}

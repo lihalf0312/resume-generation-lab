@@ -1,0 +1,5 @@
+# Carry-forward after case040
+
+Continue only within parent-confirmed user authorization. Preserve batch001–004 sources and outputs. Capture new sources before generation; use only actual profile/job and explicit uncertainties, never curation answers. Select relevant evidence, do not transcribe all facts. Preserve unfinished qualification status, draft/approved/implemented distinctions, period/denominator/current-versus-peak and individual-versus-team scope. Omit disputed details and ask externally; do not choose convenient conflicting figures.
+
+Carry contextual outcome evidence rather than deleting every qualified metric. Split long timeline/authority clauses for scanability while retaining qualifiers. All dates bold; natural bilingual actions/status. Case040 review should be read directly before the next pair; its hash must appear in carry-forward metadata. One native generation per distinct pair, separate native review, feedback only on the next case; no repairing failures. Content-only is not application-ready. No paid API, model training, rendering or quality-gain claims.

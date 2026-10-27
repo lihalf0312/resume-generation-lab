@@ -1,0 +1,27 @@
+{
+  "requirements": [
+    {
+      "id": "R01",
+      "status": "temporary_scope",
+      "reason": "Acting queue coverage for6 advisers limited toAug–Oct2025, not ongoing management."
+    },
+    {
+      "id": "R02",
+      "status": "partial",
+      "reason": "Coaching plan plus2 demonstrations, rollout paused."
+    },
+    {
+      "id": "R04",
+      "status": "not_shown",
+      "reason": "No hiring/appraisal authority or workforce forecasting ownership."
+    }
+  ],
+  "uncertainty_handling": [
+    {
+      "id": "U01",
+      "handling": "Omitted both95% satisfaction and19/24 survey figures; did not calculate a substitute personal score.",
+      "question": "Provide approved survey metric definition, return rate, scope and candidate-versus-shift attribution."
+    }
+  ],
+  "other_limits": "No GDS ticketing authority, cash-refund authority or departmental budget ownership claimed."
+}

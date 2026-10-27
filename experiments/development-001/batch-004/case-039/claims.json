@@ -1,0 +1,69 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Travel Support Adviser | Fictional Travel Service D039 | **January 2019–August 2026**",
+    "zh": "旅行支持顾问｜虚构旅行服务企业D039｜**2019年1月—2026年8月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03",
+      "F04"
+    ],
+    "en": "Handled itinerary-change enquiries in a ticket queue and escalated fare-rule exceptions to authorized agents. Recorded case histories and approved response macros in a customer-service platform.",
+    "zh": "在工单队列处理行程变更咨询，将票价规则例外转交获授权代理；使用客户服务平台记录个案历史及获批回复模板。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Co-developed a disruption-response checklist with the quality analyst in **June 2025**.",
+    "zh": "**2025年6月**与质量分析师共同开发行程中断响应清单。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Missing follow-up notes numbered 7 in 60 disruption cases reviewed in **July 2025**, versus 15 in 60 reviewed in **May 2025**; sampling and seasonal differences limit attribution.",
+    "zh": "**2025年7月**审查的60个行程中断个案中，7个缺少跟进备注；**2025年5月**审查的60个个案中为15个，抽样及季节差异限制归因。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F07",
+      "F08"
+    ],
+    "en": "Acting Shift Coordinator, **August–October 2025**: assigned queue coverage for 6 advisers without hiring or appraisal authority. Returned to an individual adviser assignment in **November 2025**; no direct reports as of **August 2026**.",
+    "zh": "**2025年8—10月**代理班次协调工作，为6名顾问分配队列值守，无招聘或考评权限。**2025年11月**回归个人顾问岗位；截至**2026年8月**无直属下属。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F09"
+    ],
+    "en": "Drafted a new-hire coaching plan in **March 2026**; 2 demonstration sessions were delivered before the proposed rollout was paused.",
+    "zh": "**2026年3月**起草新人辅导计划；拟议推广暂停前开展了2场示范课。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F10",
+      "F15"
+    ],
+    "en": "Reviewed escalation examples with peers, distinguishing policy-approved remedies from exceptions requiring manager sign-off. Could authorize policy-based goodwill vouchers up to 30 currency units, but not cash refunds.",
+    "zh": "与同事复盘上报实例，区分政策允许的补救措施与需经理签字的例外；可依政策批准最高30货币单位的善意补偿券，但不能批准现金退款。"
+  },
+  {
+    "id": "C08",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "BA Service Management | Fictional Institute D039 | **Graduated 2018**",
+    "zh": "服务管理文学学士｜虚构院校D039｜**毕业时间：2018年**"
+  }
+]

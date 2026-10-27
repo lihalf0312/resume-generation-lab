@@ -1,0 +1,153 @@
+{
+  "case_id": "case-034",
+  "identity_id": "synthetic-person-034",
+  "source_family": "original-lineage-034",
+  "creation_batch": "development-001-extension-004",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "live events",
+  "career_stage": "mixed-experience",
+  "evidence_density": "rich-challenging",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed a business diploma at Fictional Lantern Bay College in 2019.",
+      "zh": "2019 年在虚构灯湾学院完成商科文凭课程。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Venue operations assistant at Fictional Canvas Hall, 2020-01 to 2023-03.",
+      "zh": "2020-01 至 2023-03 在虚构帆布厅任场地运营助理。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F03",
+      "kind": "employment",
+      "en": "Vendor liaison at Fictional Canvas Hall, 2023-04 to 2026-08.",
+      "zh": "2023-04 至 2026-08 在虚构帆布厅任供应商联络员。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F04",
+      "kind": "employment",
+      "en": "Requested vendor arrival plans and checked delivery documents against event schedules.",
+      "zh": "索取供应商到场计划并依据活动日程检查送货文件。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F05",
+      "kind": "employment",
+      "en": "Handled liaison for 11 vendors at a 2025 festival peak; ordinary events in 2026 involved 4 to 6 vendors.",
+      "zh": "2025 年节庆高峰负责 11 家供应商联络；2026 年普通活动涉及 4 至 6 家供应商。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F06",
+      "kind": "project",
+      "en": "Coordinated a shared arrival-slot board designed by the operations manager in 2025-05.",
+      "zh": "2025-05 协调使用由运营经理设计的共享到场时段板。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F07",
+      "kind": "project",
+      "en": "Personally collected vendor constraints and updated slots; the manager made final conflict decisions.",
+      "zh": "个人负责收集供应商限制条件并更新时段；冲突最终决策由经理做出。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F08",
+      "kind": "outcome",
+      "en": "For 7 events during 2025-06 to 2025-08, 39 of 46 deliveries arrived within agreed windows; no comparable baseline was retained.",
+      "zh": "2025-06 至 2025-08 的 7 场活动中，46 次送货有 39 次在约定窗口内到达；未保留可比基线。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F09",
+      "kind": "employment",
+      "en": "Logged quoted supplier costs but did not approve contracts or payments.",
+      "zh": "记录供应商报价，但不批准合同或付款。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F10",
+      "kind": "project",
+      "en": "Drafted a vendor scorecard in 2026-01; only the catering category was trialled in 2026-03.",
+      "zh": "2026-01 起草供应商评分卡；2026-03 仅试用了餐饮类别。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F11",
+      "kind": "skill",
+      "en": "Uses Excel tables and shared calendars to track deliveries and open issues.",
+      "zh": "使用 Excel 表格及共享日历跟踪送货和未解决问题。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F12",
+      "kind": "other",
+      "en": "Completed a venue evacuation briefing; this does not constitute a security or safety-officer licence.",
+      "zh": "完成场馆疏散简报培训；这不构成安保或安全员执照。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F13",
+      "kind": "employment",
+      "en": "Weekend ticket-desk contractor at Fictional Pocket Theatre from 2022-09 to 2023-02, averaging 6 hours weekly alongside the venue role.",
+      "zh": "2022-09 至 2023-02 在虚构口袋剧场承包周末售票台工作，与场地岗位同期，平均每周 6 小时。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F14",
+      "kind": "project",
+      "en": "Made a personal lighting mood board for a fictional play in 2024; no equipment installation was performed.",
+      "zh": "2024 年为虚构剧目制作个人灯光风格板；未执行设备安装。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F15",
+      "kind": "other",
+      "en": "Collects hand-made paper stage models as a hobby.",
+      "zh": "爱好收集手工纸舞台模型。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F16",
+      "kind": "other",
+      "en": "Two notes disagree on whether the 2026 catering scorecard trial covered 2 or 3 events; no event-level log is supplied.",
+      "zh": "两条备注对 2026 年餐饮评分卡试点覆盖 2 场还是 3 场活动说法不一致；未提供逐场日志。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F17",
+      "kind": "employment",
+      "en": "Prepared written handover notes for venue colleagues without managing their employment.",
+      "zh": "为场馆同事准备书面交接备注，不负责其雇佣管理。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    },
+    {
+      "id": "F18",
+      "kind": "other",
+      "en": "No supplier-contract negotiation authority is documented.",
+      "zh": "未记录供应商合同谈判权限。",
+      "provenance": "Original fictional authoring; no real person, employer, school, or private records."
+    }
+  ],
+  "uncertainties": [
+    {
+      "id": "U01",
+      "en": "Trial event count is contradictory; omit the count, not the confirmed limited trial.",
+      "zh": "试点活动数量互相矛盾；省略数量，但可保留已确认的有限试点。",
+      "affected_fact_ids": [
+        "F10",
+        "F16"
+      ],
+      "status": "confirmation_required",
+      "safe_handling": "Omit disputed detail; do not infer a resolution."
+    }
+  ]
+}

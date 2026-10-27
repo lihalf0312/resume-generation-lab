@@ -1,0 +1,22 @@
+{
+  "requirements": [
+    {
+      "id": "R03",
+      "status": "transferable_only",
+      "reason": "Coursework point display is not professional geospatial analysis."
+    },
+    {
+      "id": "R04",
+      "status": "not_shown",
+      "reason": "Python claim unverified; no script or assessment supplied."
+    }
+  ],
+  "uncertainty_handling": [
+    {
+      "id": "U01",
+      "handling": "Omitted Python claim.",
+      "question": "Can you supply the Python exercise, your contribution and assessment before capability is described?"
+    }
+  ],
+  "qualification_status": "F01/F16 confirm no degree awarded; old expected-graduation note not used. No professional licence claimed."
+}

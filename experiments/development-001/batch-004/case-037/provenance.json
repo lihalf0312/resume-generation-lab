@@ -1,0 +1,36 @@
+{
+  "case_id": "case-037",
+  "generator_run": "batch004_new_instance",
+  "generated_at": "2026-10-27T18:35:46.641733+00:00",
+  "generation_method": "native_LLM_once",
+  "model_id": "native_model_unknown",
+  "attempt": 1,
+  "source_path": "experiments/development-001/batch-004/case-037",
+  "source_sha256": {
+    "profile.json": "678be79a9abbdfedf4c9e6c5d1705037a8f0e51a0549f60dbabed37f9bf6ac81",
+    "job.json": "c7a832dab8f0b5248dd1aae4f042cc063f94c7648db772913c9c171137b16788"
+  },
+  "source_manifest_capture_sha256": "ba9bf1f624219f1ae35f73d24fb51d81ef4561eb9106fc41362d8ce888be9932",
+  "prompt_sha256": "0b15c411353322d51b371006bd23c9508e6e6519d2f6aa84fd37fdac8783ed07",
+  "skill_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "output_sha256": {
+    "resume.en.md": "79e2eb099ae94bcd240b9a72e1fb426fb745aebea92e1a7017030073b18829ed",
+    "resume.zh.md": "0634cbdeb36fe4c7e3568e13e01c709132597e7e7c873de53a516a79f981484d",
+    "claims.json": "d5fb3179c19b124e40784c41dec51ea9c4b4d36449b72a6e2c9d6fca9d221ae7",
+    "facts-ledger.json": "40cacc6c4e99678c62385e99238221045b283a112de112966def3a75677deaff",
+    "gaps.json": "b4a401d40d67e48934b008f2f99016031b9670c3e62d192537cee5be11814895",
+    "prompt-changes.json": "90267075df90bb474b69876cfeabb89e9d81d587b9f83596972c8d1ae4ef29e6"
+  },
+  "content_only": true,
+  "application_ready": false,
+  "visual_checks": "not_assessed",
+  "docx_pdf_export": false,
+  "curation_notes_read": false,
+  "frozen": true
+}

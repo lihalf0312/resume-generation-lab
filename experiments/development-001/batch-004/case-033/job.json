@@ -1,0 +1,33 @@
+{
+  "case_id": "case-033",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "title": {
+    "en": "Field Data Operations Assistant",
+    "zh": "现场数据运营助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Validate field data and escalate incomplete records.",
+      "zh": "校验现场数据并上报不完整记录。"
+    },
+    {
+      "id": "R02",
+      "en": "Support user testing of collection forms.",
+      "zh": "支持采集表单用户测试。"
+    },
+    {
+      "id": "R03",
+      "en": "Produce professional geospatial analyses in QGIS.",
+      "zh": "在 QGIS 中开展专业地理空间分析。"
+    },
+    {
+      "id": "R04",
+      "en": "Automate data validation in Python.",
+      "zh": "使用 Python 自动化数据校验。"
+    }
+  ]
+}

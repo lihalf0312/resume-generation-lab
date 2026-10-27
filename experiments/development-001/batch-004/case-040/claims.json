@@ -1,0 +1,74 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Research Administration Assistant | Fictional Research Centre D040",
+    "zh": "研究行政助理｜虚构研究中心D040"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Scheduled project meetings and maintained deliverable trackers for 3 community-research workstreams.",
+    "zh": "为3个社区研究工作流安排项目会议，维护交付物跟踪表。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F14"
+    ],
+    "en": "Tracked 5 concurrent workstreams at the **Q4 2025** reporting peak; the regular allocation in **August 2026** was 3.",
+    "zh": "**2025年第四季度**报告高峰期跟踪5个并行工作流；**2026年8月**常规分工为3个。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Co-designed a quarterly internal-report submission checklist with the programme manager in **January 2025**.",
+    "zh": "**2025年1月**与项目经理共同设计季度内部报告提交清单。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Missing attachments required follow-up for 4 of 18 report sections submitted in **Q2 2025**, versus 9 of 18 in **Q1 2025**; multiple workstream teams used the checklist.",
+    "zh": "**2025年第二季度**提交的18个报告部分中，4个需跟进缺失附件，**第一季度**的18个中为9个；多个工作流团队使用该清单。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Collected expense documentation and checked entries against approved budget codes; the finance officer authorized reimbursements.",
+    "zh": "收集费用凭证，按获批预算编码核对条目；报销由财务专员批准。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "Used spreadsheet validation lists and shared document folders with project-specific permissions.",
+    "zh": "使用电子表格验证列表及具有项目专属权限的共享文件夹。"
+  },
+  {
+    "id": "C08",
+    "fact_ids": [
+      "F08"
+    ],
+    "en": "Prepared draft participant-information packs using ethics-approved wording; investigators approved distribution.",
+    "zh": "使用伦理审查批准的措辞准备参与者信息资料草稿；分发由研究负责人批准。"
+  },
+  {
+    "id": "C09",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "MSc Social Research Methods | Fictional Institute D040 | **Graduated 2020**",
+    "zh": "社会研究方法理学硕士｜虚构院校D040｜**毕业时间：2020年**"
+  }
+]

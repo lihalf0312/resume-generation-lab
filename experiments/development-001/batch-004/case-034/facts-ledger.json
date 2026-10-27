@@ -1,0 +1,100 @@
+{
+  "claim_source": "profile.json",
+  "claims": [
+    {
+      "id": "C01",
+      "fact_ids": [
+        "F03"
+      ],
+      "en": "Vendor Liaison | Fictional Canvas Hall | **April 2023–August 2026**",
+      "zh": "供应商联络员｜虚构帆布厅｜**2023年4月—2026年8月**"
+    },
+    {
+      "id": "C02",
+      "fact_ids": [
+        "F04",
+        "F05"
+      ],
+      "en": "Requested vendor arrival plans and checked delivery documents against event schedules. Handled liaison for 11 vendors at the **2025** festival peak; ordinary events in **2026** involved 4–6 vendors.",
+      "zh": "索取供应商到场计划，依据活动日程检查送货文件。**2025年**节庆高峰负责11家供应商联络；**2026年**普通活动涉及4—6家供应商。"
+    },
+    {
+      "id": "C03",
+      "fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "en": "Coordinated use of the operations manager’s shared arrival-slot board in **May 2025**, collecting vendor constraints and updating slots; the manager made final conflict decisions.",
+      "zh": "**2025年5月**协调使用运营经理设计的共享到场时段板，收集供应商限制条件并更新时段；冲突最终决策由经理做出。"
+    },
+    {
+      "id": "C04",
+      "fact_ids": [
+        "F08"
+      ],
+      "en": "Across 7 events in **June–August 2025**, 39 of 46 deliveries arrived within agreed windows; no comparable baseline was retained.",
+      "zh": "**2025年6—8月**的7场活动中，46次送货有39次在约定窗口内到达；未保留可比基线。"
+    },
+    {
+      "id": "C05",
+      "fact_ids": [
+        "F09",
+        "F11"
+      ],
+      "en": "Logged quoted supplier costs and used Excel tables and shared calendars to track deliveries and open issues; contract and payment approval remained outside the role.",
+      "zh": "记录供应商报价，使用Excel表格及共享日历跟踪送货和未解决问题；不承担合同或付款审批职责。"
+    },
+    {
+      "id": "C06",
+      "fact_ids": [
+        "F10"
+      ],
+      "en": "Drafted a vendor scorecard in **January 2026**; only its catering category was trialled in **March 2026**.",
+      "zh": "**2026年1月**起草供应商评分卡；**2026年3月**仅试用其中的餐饮类别。"
+    },
+    {
+      "id": "C07",
+      "fact_ids": [
+        "F17"
+      ],
+      "en": "Prepared written handover notes for venue colleagues.",
+      "zh": "为场馆同事准备书面交接备注。"
+    },
+    {
+      "id": "C08",
+      "fact_ids": [
+        "F02"
+      ],
+      "en": "Venue Operations Assistant | Fictional Canvas Hall | **January 2020–March 2023**",
+      "zh": "场地运营助理｜虚构帆布厅｜**2020年1月—2023年3月**"
+    },
+    {
+      "id": "C09",
+      "fact_ids": [
+        "F01"
+      ],
+      "en": "Business diploma | Fictional Lantern Bay College | **Completed 2019**",
+      "zh": "商科文凭课程｜虚构灯湾学院｜**完成时间：2019年**"
+    }
+  ],
+  "selection_decisions": [
+    "Prioritized delivery coordination, cost records, scoped performance observations and limited scorecard trial.",
+    "Preserved observed punctuality count without inventing improvement or manager-level decision authority.",
+    "Omitted weekend ticket work, hobby, personal lighting board and non-licensing briefing as lower priority."
+  ],
+  "omitted_fact_ids": [
+    "F12",
+    "F13",
+    "F14",
+    "F15",
+    "F16",
+    "F18"
+  ],
+  "uncertainty_handling": [
+    {
+      "id": "U01",
+      "handling": "Retained confirmed catering-only trial and dates; omitted 2-versus-3 event count.",
+      "question": "Can event-level records confirm how many events were included in the catering scorecard trial?"
+    }
+  ]
+}

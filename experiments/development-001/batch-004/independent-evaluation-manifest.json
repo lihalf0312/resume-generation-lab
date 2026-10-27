@@ -1,0 +1,216 @@
+{
+  "batch": "batch-004",
+  "reviewer_run": "batch004_new_instance",
+  "cases": [
+    {
+      "case_id": "case-031",
+      "evaluation_path": "experiments/development-001/batch-004/case-031/evaluation.json",
+      "evaluation_sha256": "d8768111e6d180afe5830fa5bd1dfda6201853da13d167e5ae5d8cabdb23ced4",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 4,
+        "supported_achievements": 3,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "7fac46f8ba5ef589376f35b3dbd327280553f2caf45c52a58e9457607a17a34a",
+        "resume.zh.md": "7197d22dca4cbaa189f33094e2a61cccbefcbaa717ffb1181fbf5d2429f97935",
+        "provenance.json": "4f8861da2c3c8a9fb055af4db2996bf3624614a69183d7863b07916fa45bb538",
+        "resume.en.md": "0b94da15c5c61e7db3d4f268b0b5956d15540c0b7f4e72b83e145c1bbcd4d413",
+        "job.json": "2633666b3a4c6b3ad93fda1a7d0fde8e54fb341da46880fe67d1d728242bad64",
+        "prompt.md": "835e21e8971fcd7961a92e7ed29158b761e61a19d6d634cdec3b64b840fd6866",
+        "profile.json": "ba1a35bd39328665184d88e3a8c761a333156e4ec1695b0ac21a965b39ae34dd"
+      }
+    },
+    {
+      "case_id": "case-032",
+      "evaluation_path": "experiments/development-001/batch-004/case-032/evaluation.json",
+      "evaluation_sha256": "d1b2129d5ff33306ba1bccce5f13549afbec8e017790be6fc5431e9876ff9551",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 4,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "7781e7fd1981393c9803df19479cb8db6371045d6d03de679f27264bcf36a252",
+        "resume.zh.md": "1e16f339990a4cce81d429b4e42abc485f54f29b0756e02625b674b9a9640667",
+        "provenance.json": "858c66a82279d5c4801f5ca40085e99fd6b04581e118d88d0d89e83f5fe966f4",
+        "resume.en.md": "b3fa2eca2b401080db137d266ba4d8a52847c7a12d3547559d3d2163cc755407",
+        "job.json": "5ff88ed02c51a0965d827b38b7d90b8b04b9b865e354dd1480b42b9a73946255",
+        "prompt.md": "61aa7692f2d81413159a49b2b452a05bc960b21ab7031bdcd9d27fad6f7d1759",
+        "profile.json": "67d9ae02b14ecd7e44c3e5e648d7043698fadb955d478fe58b39bbd75944d7df"
+      }
+    },
+    {
+      "case_id": "case-033",
+      "evaluation_path": "experiments/development-001/batch-004/case-033/evaluation.json",
+      "evaluation_sha256": "6d8cd76bac027ad3a34ebda29c63177b263e2fd76c07db73dff8bcd5c72137cb",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 4,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "f9675efd1e86cd802395199b78b3f3cbf3e558aafd6b612ee2e6f1556d361169",
+        "resume.zh.md": "6b38601939ef74e8f0fa96b2d06056f64318380f544afaa431840c37122877f1",
+        "provenance.json": "9872176c82e9ba297101ef0e59aef8a1c4840bfccc4e4668c2f75bd2c3112265",
+        "resume.en.md": "4d0e233c20ae00ee83d324b5ab87e86dac0b95a06d33da7095bfba0a4b3316d2",
+        "job.json": "e25b76254ba970bb91b4622c18ca17d839e157af8ff4851910d32e9fbd0ccc8c",
+        "prompt.md": "97d9a81a7c5347105c17b6337dfd25a07f79da44a65ac5dd3a0863500defdbda",
+        "profile.json": "d6963d7fe24add0b0cd0914a815214a5c7351df118c1fdf406cf932c4b86a927"
+      }
+    },
+    {
+      "case_id": "case-034",
+      "evaluation_path": "experiments/development-001/batch-004/case-034/evaluation.json",
+      "evaluation_sha256": "34553a6938120e07364a70baf2d06542ba1de8fc495dc94865958926259acc00",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 4,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "18724794ac49be486de44f3341d337bea683664343785d2031ac8e4612d6dcf3",
+        "resume.zh.md": "38f3da11f66e377319eb6ba3ab6f09decf41fb71cecc23964074ed1df00dce8e",
+        "provenance.json": "92e663d7f208595f2148de386135c79b43d41388e5721fe4ae305cc51d00e782",
+        "resume.en.md": "3793972ca8fc0a02d6b7a65fd450414bfd75109f378d879bde47ef3bc9a6408b",
+        "job.json": "6df552ea2aec6e50514da1be035df6deea3536f3d76ef35888da590edb932ca3",
+        "prompt.md": "5fc9472596c0baaa0d2fb56d8886ba3890d5d0e0b57d57944ea66d600ee9b888",
+        "profile.json": "2b09bc52af7249c6cf57fe9fc4914fab763ba9f7374f2b6ac46b848ea3cb127b"
+      }
+    },
+    {
+      "case_id": "case-035",
+      "evaluation_path": "experiments/development-001/batch-004/case-035/evaluation.json",
+      "evaluation_sha256": "6e47018a2d5db0eea65ba81106ad28a4b665f1c673a50fe952c8c3073af3a082",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 4,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "a0eb2ee7f43f3c540f4ee4a4769dfa61aec72adcd4cbf25ec58b41e155e95385",
+        "resume.zh.md": "9a4d8c4fa44df7b8ab93838eaa07b2278e41ed9d0930926d78b879c2e9c707e0",
+        "provenance.json": "851e08f6e71e66452c28e8a67857d5e523d0525418dd395c6c54db6bf03848f7",
+        "resume.en.md": "ecc0303cc11d9ea643a48c611764a556a1ae340bec1388283daff76b892c28bd",
+        "job.json": "9e638ec6b931a4c91a862c143b1813942485c9ac1ef21dee3fa60f519943b901",
+        "prompt.md": "71548a24201e0a94a80d3bc7a315aa370ebd908ee3137cea99e08c30aa22b313",
+        "profile.json": "73b86ed6d8c9c7ca194f3f9c85581ca812a9157e0b822c49468f3444599be9a5"
+      }
+    },
+    {
+      "case_id": "case-036",
+      "evaluation_path": "experiments/development-001/batch-004/case-036/evaluation.json",
+      "evaluation_sha256": "db71f4dd40f8ebe747fc358ad288e1c6c917d5dcba03542c5b4ea9d7f49b8658",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 3,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "568c660001185de7117221980e1fbb771fc2f0d23535bd3db3fa1921a534a560",
+        "resume.zh.md": "b28039aa1dac6a90a83060d39d59c3a738dc278c6d0c8c45157ca37b10af1dfd",
+        "provenance.json": "c4570f29299edf6f9c900c2886aac332b7785dee7d0cb13c123141d01d46aaa0",
+        "resume.en.md": "429d724907af7cc8b2a7f0bda59b823b4c00f33ecc99c105d3edee6bfb06ffe8",
+        "job.json": "73416343c1fce6226f509b1dbe9b2b6c12202a0fa8ee9863e624fc508786ec91",
+        "prompt.md": "7b10a2eef623d06516f4a542318f87b1b47f94bbe7330f8b9b9c9e40d4da9f25",
+        "profile.json": "656c6346337122918e8b2b363efad88eda4f0da56d4639fe834a4db713976f64"
+      }
+    },
+    {
+      "case_id": "case-037",
+      "evaluation_path": "experiments/development-001/batch-004/case-037/evaluation.json",
+      "evaluation_sha256": "bf2e9c0e49cf57f4faa5c601f4c83832599e8b890b05c2207be1d19fc8d184f9",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 4,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "d5fb3179c19b124e40784c41dec51ea9c4b4d36449b72a6e2c9d6fca9d221ae7",
+        "resume.zh.md": "0634cbdeb36fe4c7e3568e13e01c709132597e7e7c873de53a516a79f981484d",
+        "provenance.json": "e2c12e06bab654a60e23cc03325ffab1486bbb9dbd4f957c98f9bf24b53a0b11",
+        "resume.en.md": "79e2eb099ae94bcd240b9a72e1fb426fb745aebea92e1a7017030073b18829ed",
+        "job.json": "c7a832dab8f0b5248dd1aae4f042cc063f94c7648db772913c9c171137b16788",
+        "prompt.md": "0b15c411353322d51b371006bd23c9508e6e6519d2f6aa84fd37fdac8783ed07",
+        "profile.json": "678be79a9abbdfedf4c9e6c5d1705037a8f0e51a0549f60dbabed37f9bf6ac81"
+      }
+    },
+    {
+      "case_id": "case-038",
+      "evaluation_path": "experiments/development-001/batch-004/case-038/evaluation.json",
+      "evaluation_sha256": "cffa8c616e22f2a3be7a923bf54c5e0dae53e084ddb48b1880f7a3197f3e18aa",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 4,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "082966bbbba6500900b423ede8c92a218ecc1b461fe139761aa7c01d1d3c7d4c",
+        "resume.zh.md": "af6ccae0c42cf445b725764a7d49d0cd97935bb43afc10f30aeb3c1bd5e9a418",
+        "provenance.json": "72f8302eb04ec3a02749b3acb4694a374f663b8453a947ca8981b1501a962189",
+        "resume.en.md": "bbd145b17fd253fa170522e0a0728cad7491d27a008f713c0f6f4a726062122e",
+        "job.json": "ff062ef11f145faf2e2c441a5ed7ec6e0a5aa9e4a3036ac88c8db5136fa470e5",
+        "prompt.md": "07b0d0a18a45865530517cbb51c52155eb42969072be28778580540ddb437530",
+        "profile.json": "382834147631be75355c3b9f862999072067fb436b001695f02d1d853641a146"
+      }
+    },
+    {
+      "case_id": "case-039",
+      "evaluation_path": "experiments/development-001/batch-004/case-039/evaluation.json",
+      "evaluation_sha256": "f66fc942616b52a62736392c62e0aaf58542a5c3a938576820697f2a55be8b31",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 3,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "7aed42e01390d4d7aeb271936421cbba6f4812ca9bebebfdff5cf3c56d53d746",
+        "resume.zh.md": "3d183893ddfe39d7a69fa076abd4234f09012242ba0e721a48eac09b366ca085",
+        "provenance.json": "e3b0f828c41b9b7b2dbd38f01c606989e7e53f0038995cc2c70e9b3e096d5fd7",
+        "resume.en.md": "2faad0eabadb5c009f09feb4b85df2debbbd6a7d59bb1f18829e491a4b0a0883",
+        "job.json": "4e195370fd72d7e9b4513c4ff2b92126e3184602f1faf2083ff7cb5281a7f51e",
+        "prompt.md": "b3820a6651f7b2e7f12e8a314c88a49109ea93ded3a3277b2a167c010c0f6627",
+        "profile.json": "60b5ad631fcc6e78e3bd67741fcea8b1e8c3ece836812bfc541328a2423369d0"
+      }
+    },
+    {
+      "case_id": "case-040",
+      "evaluation_path": "experiments/development-001/batch-004/case-040/evaluation.json",
+      "evaluation_sha256": "cdc77a118bc18460a9673dbd7f212609de56b7e559814cd9468edefc87fa3b8b",
+      "factual_fidelity": "pass",
+      "presentation_ratings": {
+        "jd_relevance": 4,
+        "clarity": 3,
+        "supported_achievements": 4,
+        "format_readability": null
+      },
+      "hashes": {
+        "claims.json": "fa61bc16095135fdb13cd614c010a68d9aef2a3d40bc5e4ece717bb106df3595",
+        "resume.zh.md": "4c4eaf0dd7f93cb3df84be086fb6ae32fbd5ccefa90d2f9f200ff61ae964f49a",
+        "provenance.json": "b9ff60af3a075d2e5bcd317247b5c3b170d74ba1a8b10817925ff0f4d6b101da",
+        "resume.en.md": "c24a15ef7e55f27fe964bb9c054106dc45b83a53bab24bfa12fcbaca7eef51c5",
+        "job.json": "b991bf4de7d9434d20f62879947da8fa4034b973cbc729ec90a05e8e09741ad1",
+        "prompt.md": "d52d24fda654ee28775a6c5b808d023741b8647edabd08ac946484ae10dce51a",
+        "profile.json": "7da528a087c589e242403dad037fa147a48fc3a93d3499f6f16edccd79ac5bee"
+      }
+    }
+  ]
+}

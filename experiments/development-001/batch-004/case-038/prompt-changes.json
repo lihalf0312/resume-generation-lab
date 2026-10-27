@@ -1,0 +1,8 @@
+{
+  "previous_case": "case-037",
+  "previous_evaluation_sha256": "d8605c3b903c90ba6baf7d2c3b6c57ad28d12b884ff00166df14825d4de3218f",
+  "changes": [
+    "Review037 requested no new repair. Retain actor-specific task limits and short scoped bullets; distinguish obtained acknowledgments from remaining escalations and unapproved index from operational induction."
+  ],
+  "application": "Only this new distinct source; prior output immutable"
+}

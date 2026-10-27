@@ -1,0 +1,94 @@
+{
+  "claim_source": "profile.json",
+  "claims": [
+    {
+      "id": "C01",
+      "fact_ids": [
+        "F03"
+      ],
+      "en": "Support Content Coordinator | Fictional Prism Desk | **September 2022–August 2026**",
+      "zh": "支持内容协调员｜虚构棱镜台机构｜**2022年9月—2026年8月**"
+    },
+    {
+      "id": "C02",
+      "fact_ids": [
+        "F04",
+        "F05",
+        "F17"
+      ],
+      "en": "Edited setup articles after checking steps with a product specialist; maintained 64 live help articles in **August 2026** and a review queue showing article owners and next review dates.",
+      "zh": "与产品专员核对步骤后编辑设置文章；**2026年8月**维护64篇在线帮助文章，并维护显示文章负责人及下次审核日期的审核队列。"
+    },
+    {
+      "id": "C03",
+      "fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "en": "Collaborated with 2 support colleagues and a designer on navigation-label research and drafting in **January 2025**. Summarized search queries and drafted label alternatives; the designer selected the final information architecture.",
+      "zh": "**2025年1月**与2名支持同事及一名设计师合作研究、起草导航标签，总结搜索查询并起草备选标签；最终信息架构由设计师选择。"
+    },
+    {
+      "id": "C04",
+      "fact_ids": [
+        "F08"
+      ],
+      "en": "In a moderated test in **February 2025**, 9 of 12 participants found the reset article without assistance. An earlier test involved different participants and cannot establish improvement.",
+      "zh": "**2025年2月**的一次有主持人的测试中，12名参与者有9名无需协助找到重置文章。此前测试使用不同参与者，不能据此证明改善。"
+    },
+    {
+      "id": "C05",
+      "fact_ids": [
+        "F12"
+      ],
+      "en": "Prepared English-to-Chinese draft translations for 6 help articles in **2025**; a reviewer finalized them.",
+      "zh": "**2025年**为6篇帮助文章制作英译中初稿，由审核者定稿。"
+    },
+    {
+      "id": "C06",
+      "fact_ids": [
+        "F02"
+      ],
+      "en": "Customer Support Associate | Fictional Prism Desk | **February 2019–August 2022**",
+      "zh": "客户支持专员｜虚构棱镜台机构｜**2019年2月—2022年8月**"
+    },
+    {
+      "id": "C07",
+      "fact_ids": [
+        "F09",
+        "F10"
+      ],
+      "en": "Markdown, screenshot annotations and version-history comparisons; reads simple HTML markup to fix links",
+      "zh": "Markdown、截图标注及版本历史比较；阅读简单HTML标记以修复链接"
+    },
+    {
+      "id": "C08",
+      "fact_ids": [
+        "F01"
+      ],
+      "en": "Bachelor degree in language studies | Fictional Copper Finch College | **Graduated 2018**",
+      "zh": "语言研究学士｜虚构铜雀学院｜**毕业时间：2018年**"
+    }
+  ],
+  "selection_decisions": [
+    "Selected live article maintenance and review queue, collaborative navigation research and reviewed bilingual drafts.",
+    "Kept active64 articles, not archived91; no causality inferred from usability test.",
+    "Omitted unapproved AI proposal, unrelated recipe notebook and older concurrent note-taking role as less relevant.",
+    "Moderated test stated without claiming candidate personally moderated it."
+  ],
+  "omitted_fact_ids": [
+    "F11",
+    "F13",
+    "F14",
+    "F15",
+    "F16",
+    "F18"
+  ],
+  "uncertainty_handling": [
+    {
+      "id": "U01",
+      "handling": "Navigation described only as research, drafts and observed test; no launch date or launched-redesign claim.",
+      "question": "Which dated record confirms whether and when the navigation changes launched?"
+    }
+  ]
+}

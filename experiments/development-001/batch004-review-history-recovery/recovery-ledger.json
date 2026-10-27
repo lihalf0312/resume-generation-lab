@@ -1,0 +1,85 @@
+{
+  "status": "all9_predecessor_hashes_exactly_recovered",
+  "method": "Remove only the two post-review appended keys skill_snapshot_sha256 and frozen_input_hash_verification; serialize with original JSON formatting. Every recovered byte stream SHA256 exactly matches the hash captured in the next case prompt-changes.json. Originals and finalized summaries/manifests not modified.",
+  "reason": "Post-review finalization appended verification metadata to evaluation.json, making predecessor hashes point to earlier review versions. This recovery is append-only, not a claim original evaluation files never changed.",
+  "cases": [
+    {
+      "case_id": "case-031",
+      "snapshot_path": "batch004-review-history-recovery/case-031.evaluation-at-feedback.json",
+      "sha256": "0dfae857704a346f72784e9cc376bc9561d1b1e236ab79ae79cffb938b99d2b0",
+      "matched_next_case": "case-032",
+      "current_enriched_evaluation_sha256": "d8768111e6d180afe5830fa5bd1dfda6201853da13d167e5ae5d8cabdb23ced4",
+      "corresponding_next_case_recorded_sha256": "0dfae857704a346f72784e9cc376bc9561d1b1e236ab79ae79cffb938b99d2b0"
+    },
+    {
+      "case_id": "case-032",
+      "snapshot_path": "batch004-review-history-recovery/case-032.evaluation-at-feedback.json",
+      "sha256": "62f6c63921a2b3eea53cd24fa39918134c6d38d3b8865c9aa0a7d3ffbf8306eb",
+      "matched_next_case": "case-033",
+      "current_enriched_evaluation_sha256": "d1b2129d5ff33306ba1bccce5f13549afbec8e017790be6fc5431e9876ff9551",
+      "corresponding_next_case_recorded_sha256": "62f6c63921a2b3eea53cd24fa39918134c6d38d3b8865c9aa0a7d3ffbf8306eb"
+    },
+    {
+      "case_id": "case-033",
+      "snapshot_path": "batch004-review-history-recovery/case-033.evaluation-at-feedback.json",
+      "sha256": "f2a0c316c0dcbd8462e112b84fbf0907c063ad27a39ad68b5d3dfa8c73d230f9",
+      "matched_next_case": "case-034",
+      "current_enriched_evaluation_sha256": "6d8cd76bac027ad3a34ebda29c63177b263e2fd76c07db73dff8bcd5c72137cb",
+      "corresponding_next_case_recorded_sha256": "f2a0c316c0dcbd8462e112b84fbf0907c063ad27a39ad68b5d3dfa8c73d230f9"
+    },
+    {
+      "case_id": "case-034",
+      "snapshot_path": "batch004-review-history-recovery/case-034.evaluation-at-feedback.json",
+      "sha256": "cc7331a0f1cf05847c3227b557d159fdc1d620b19453021689a044623e812d06",
+      "matched_next_case": "case-035",
+      "current_enriched_evaluation_sha256": "34553a6938120e07364a70baf2d06542ba1de8fc495dc94865958926259acc00",
+      "corresponding_next_case_recorded_sha256": "cc7331a0f1cf05847c3227b557d159fdc1d620b19453021689a044623e812d06"
+    },
+    {
+      "case_id": "case-035",
+      "snapshot_path": "batch004-review-history-recovery/case-035.evaluation-at-feedback.json",
+      "sha256": "e5357a97ee33ba9e1ab6cc6823f69803d49a922653ad10180df7aa9a38a2f63b",
+      "matched_next_case": "case-036",
+      "current_enriched_evaluation_sha256": "6e47018a2d5db0eea65ba81106ad28a4b665f1c673a50fe952c8c3073af3a082",
+      "corresponding_next_case_recorded_sha256": "e5357a97ee33ba9e1ab6cc6823f69803d49a922653ad10180df7aa9a38a2f63b"
+    },
+    {
+      "case_id": "case-036",
+      "snapshot_path": "batch004-review-history-recovery/case-036.evaluation-at-feedback.json",
+      "sha256": "5234fd456b22671e922d401e16014dfb3cd9ec84de52f056a0fc5a8630b748eb",
+      "matched_next_case": "case-037",
+      "current_enriched_evaluation_sha256": "db71f4dd40f8ebe747fc358ad288e1c6c917d5dcba03542c5b4ea9d7f49b8658",
+      "corresponding_next_case_recorded_sha256": "5234fd456b22671e922d401e16014dfb3cd9ec84de52f056a0fc5a8630b748eb"
+    },
+    {
+      "case_id": "case-037",
+      "snapshot_path": "batch004-review-history-recovery/case-037.evaluation-at-feedback.json",
+      "sha256": "d8605c3b903c90ba6baf7d2c3b6c57ad28d12b884ff00166df14825d4de3218f",
+      "matched_next_case": "case-038",
+      "current_enriched_evaluation_sha256": "bf2e9c0e49cf57f4faa5c601f4c83832599e8b890b05c2207be1d19fc8d184f9",
+      "corresponding_next_case_recorded_sha256": "d8605c3b903c90ba6baf7d2c3b6c57ad28d12b884ff00166df14825d4de3218f"
+    },
+    {
+      "case_id": "case-038",
+      "snapshot_path": "batch004-review-history-recovery/case-038.evaluation-at-feedback.json",
+      "sha256": "ffc60163d2e2be0595f6de1e7366a9383eef5af3abecd9bbee8e061f20f82d71",
+      "matched_next_case": "case-039",
+      "current_enriched_evaluation_sha256": "cffa8c616e22f2a3be7a923bf54c5e0dae53e084ddb48b1880f7a3197f3e18aa",
+      "corresponding_next_case_recorded_sha256": "ffc60163d2e2be0595f6de1e7366a9383eef5af3abecd9bbee8e061f20f82d71"
+    },
+    {
+      "case_id": "case-039",
+      "snapshot_path": "batch004-review-history-recovery/case-039.evaluation-at-feedback.json",
+      "sha256": "b4286afa6a90c56f5e4380878c1c95f6aee673913db911427b4c80b8bd4eb8aa",
+      "matched_next_case": "case-040",
+      "current_enriched_evaluation_sha256": "f66fc942616b52a62736392c62e0aaf58542a5c3a938576820697f2a55be8b31",
+      "corresponding_next_case_recorded_sha256": "b4286afa6a90c56f5e4380878c1c95f6aee673913db911427b4c80b8bd4eb8aa"
+    }
+  ],
+  "removed_keys": [
+    "skill_snapshot_sha256",
+    "frozen_input_hash_verification"
+  ],
+  "reconstructed_at": "2026-10-27T18:42:19.446977+00:00",
+  "archive_claim": false
+}

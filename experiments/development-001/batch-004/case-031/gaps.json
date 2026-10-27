@@ -1,0 +1,22 @@
+{
+  "requirements": [
+    {
+      "id": "R03",
+      "status": "partial",
+      "reason": "Flowchart draft supports process documentation, not implemented change coordination."
+    },
+    {
+      "id": "R04",
+      "status": "not_shown",
+      "reason": "Internal awareness briefing is not certification; no independent certified audit evidence."
+    }
+  ],
+  "uncertainty_handling": [
+    {
+      "id": "U01",
+      "handling": "Omitted design ownership entirely; retained separately confirmed Excel implementation F08.",
+      "question": "Please confirm register design contributors before any ownership description is added."
+    }
+  ],
+  "other_omissions": "No supplier approval authority or microbiological testing claimed."
+}

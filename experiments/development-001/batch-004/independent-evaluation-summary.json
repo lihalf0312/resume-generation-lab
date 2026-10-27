@@ -1,0 +1,48 @@
+{
+  "batch": "batch-004",
+  "completed_pairs": 10,
+  "planned_pairs": 10,
+  "gate_counts": {
+    "pass": 10,
+    "fail": 0,
+    "needs_review": 0
+  },
+  "reviewer_run": "batch004_new_instance",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "native_model_change_claimed": false,
+  "overall_score": null,
+  "full_score": null,
+  "format_readability": "not_assessed",
+  "export_ready": false,
+  "content_only": true,
+  "curation_notes_viewed": false,
+  "requirement_design_labels_viewed": false,
+  "frozen_hashes_verified": true,
+  "case_ids": [
+    "case-031",
+    "case-032",
+    "case-033",
+    "case-034",
+    "case-035",
+    "case-036",
+    "case-037",
+    "case-038",
+    "case-039",
+    "case-040"
+  ],
+  "limitations": [
+    "Independent second instance, not claimed different model or calibrated HR reviewer.",
+    "Synthetic source fidelity only; no external verification or hiring outcome measurement.",
+    "No DOCX/PDF/render/ATS compatibility assessment.",
+    "Ten completed irrespective of gate; all observed passes retained, no replacement sampling.",
+    "Case040 employment chronology remains incomplete pending source clarification; no uncertain start date asserted."
+  ],
+  "findings": [
+    "Case031 supported-achievement rating3: selected actions concrete but little outcome context.",
+    "Cases036 and039 clarity3: dense multi-clause scope statements.",
+    "Case040 clarity3: missing employment range due unresolved source conflict.",
+    "Remaining content presentation ratings4 are judgments about available evidence presentation, not complete qualification coverage."
+  ],
+  "evaluated_at": "2026-10-27T18:39:21.415862+00:00"
+}

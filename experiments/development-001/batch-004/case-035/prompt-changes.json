@@ -1,0 +1,8 @@
+{
+  "previous_case": "case-034",
+  "previous_evaluation_sha256": "cc7331a0f1cf05847c3227b557d159fdc1d620b19453021689a044623e812d06",
+  "changes": [
+    "Review034 required no repair; retain narrow confirmed actions around disputed status. Preserve translation draft versus finalized contribution and avoid implying personal test moderation."
+  ],
+  "application": "Only this new distinct source; prior output immutable"
+}

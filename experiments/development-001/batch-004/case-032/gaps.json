@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "id": "R04",
+      "status": "not_shown",
+      "reason": "No EPUB accessibility audit certification; untested checklist draft does not establish compliance authority."
+    }
+  ],
+  "uncertainty_handling": [
+    {
+      "id": "U01",
+      "handling": "Omitted workload counts from F05 and F17, including disputed concurrent peak.",
+      "question": "Confirm peak concurrent-title count and dated supporting log before adding volume."
+    }
+  ],
+  "other_omissions": "No original template design, budget approval or staff management claimed."
+}

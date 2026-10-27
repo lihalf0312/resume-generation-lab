@@ -1,0 +1,94 @@
+{
+  "claim_source": "profile.json",
+  "claims": [
+    {
+      "id": "C01",
+      "fact_ids": [
+        "F03"
+      ],
+      "en": "Production Coordinator | Fictional Paper Harbor Press | **January 2023–August 2026**",
+      "zh": "制作协调员｜虚构纸港出版社｜**2023年1月—2026年8月**"
+    },
+    {
+      "id": "C02",
+      "fact_ids": [
+        "F04",
+        "F10"
+      ],
+      "en": "Tracked author corrections, proof versions and handoffs to an external typesetting team; used Word tracked changes and spreadsheet production schedules.",
+      "zh": "跟踪作者修改、校样版本及向外部排版团队的交接；使用Word修订和电子表格制作进度表。"
+    },
+    {
+      "id": "C03",
+      "fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "en": "Worked with a copy editor and designer to introduce a proof-return checklist in **May 2024**, writing its version-naming section; the collaborators owned language and layout checks respectively.",
+      "zh": "**2024年5月**与文字编辑及设计师合作引入校样回传核对表，编写其中的版本命名部分；语言和版式检查分别由文字编辑及设计师负责。"
+    },
+    {
+      "id": "C04",
+      "fact_ids": [
+        "F08",
+        "F09"
+      ],
+      "en": "Of 10 titles completed in **June–September 2024**, 8 met the internal proof-return target, versus 6 of 9 in the preceding cohort. Title lengths differed, so the comparison cannot be attributed solely to the checklist.",
+      "zh": "**2024年6—9月**完成的10个书目中，8个达到内部校样回传目标，上一组为9个中6个按时。书目篇幅不同，该比较结果不能完全归因于核对表。"
+    },
+    {
+      "id": "C05",
+      "fact_ids": [
+        "F11"
+      ],
+      "en": "Exported print-ready PDFs from existing InDesign templates under designer review.",
+      "zh": "在设计师审核下，使用现有InDesign模板导出印刷用PDF。"
+    },
+    {
+      "id": "C06",
+      "fact_ids": [
+        "F02"
+      ],
+      "en": "Editorial Assistant | Fictional Paper Harbor Press | **March 2018–December 2022**",
+      "zh": "编辑助理｜虚构纸港出版社｜**2018年3月—2022年12月**"
+    },
+    {
+      "id": "C07",
+      "fact_ids": [
+        "F14"
+      ],
+      "en": "Freelance Proofreader | Fictional Evening Pamphlet | **February–July 2021**; averaged 3 evening hours weekly alongside the main job",
+      "zh": "自由职业校对员｜虚构晚间小册｜**2021年2—7月**；与主职同期，每周平均晚间工作3小时"
+    },
+    {
+      "id": "C08",
+      "fact_ids": [
+        "F01"
+      ],
+      "en": "Bachelor degree in comparative literature | Fictional Bramble College | **Graduated 2017**",
+      "zh": "比较文学学士｜虚构荆棘学院｜**毕业时间：2017年**"
+    }
+  ],
+  "selection_decisions": [
+    "Prioritized proof/version coordination, cross-functional checklist contribution and designer-reviewed export.",
+    "Retained 8/10 versus 6/9 outcome with period and differing-length causal limitation; no derived percentage or sole impact.",
+    "Included short concurrent freelance proofreader context; omitted unrelated private map and sketching hobby.",
+    "Omitted untested accessibility draft rather than diluting stronger production evidence."
+  ],
+  "omitted_fact_ids": [
+    "F05",
+    "F12",
+    "F13",
+    "F15",
+    "F16",
+    "F17",
+    "F18"
+  ],
+  "uncertainty_handling": [
+    {
+      "id": "U01",
+      "handling": "Omitted workload counts from F05 and F17, including disputed concurrent peak.",
+      "question": "Confirm peak concurrent-title count and dated supporting log before adding volume."
+    }
+  ]
+}

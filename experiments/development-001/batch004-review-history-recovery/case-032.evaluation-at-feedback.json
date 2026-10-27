@@ -1,0 +1,234 @@
+{
+  "case_id": "case-032",
+  "evaluated_at": "2026-10-27T18:32:02.178037+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "reviewer_run": "batch004_new_instance",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native semantic review of frozen actual EN/ZH text against raw profile and job. Python only serializes manually authored judgments and verifies hashes/text correspondence; it does not assign quality labels.",
+  "blinding": {
+    "curation_notes_viewed": false,
+    "design_answers_viewed": false,
+    "generator_ledger_viewed": true
+  },
+  "hashes": {
+    "claims.json": "7781e7fd1981393c9803df19479cb8db6371045d6d03de679f27264bcf36a252",
+    "resume.zh.md": "1e16f339990a4cce81d429b4e42abc485f54f29b0756e02625b674b9a9640667",
+    "provenance.json": "858c66a82279d5c4801f5ca40085e99fd6b04581e118d88d0d89e83f5fe966f4",
+    "resume.en.md": "b3fa2eca2b401080db137d266ba4d8a52847c7a12d3547559d3d2163cc755407",
+    "job.json": "5ff88ed02c51a0965d827b38b7d90b8b04b9b865e354dd1480b42b9a73946255",
+    "prompt.md": "61aa7692f2d81413159a49b2b452a05bc960b21ab7031bdcd9d27fad6f7d1759",
+    "profile.json": "67d9ae02b14ecd7e44c3e5e648d7043698fadb955d478fe58b39bbd75944d7df"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Production Coordinator | Fictional Paper Harbor Press | **January 2023–August 2026**",
+        "zh": "制作协调员｜虚构纸港出版社｜**2023年1月—2026年8月**"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 supports coordinator role, employer and January 2023–August 2026.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F03"
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Tracked author corrections, proof versions and handoffs to an external typesetting team; used Word tracked changes and spreadsheet production schedules.",
+        "zh": "跟踪作者修改、校样版本及向外部排版团队的交接；使用Word修订和电子表格制作进度表。"
+      },
+      "source_fact_ids": [
+        "F04",
+        "F10"
+      ],
+      "status": "supported",
+      "reason": "F04/F10 support author corrections, proof versions, external typesetting handoffs and named Word/spreadsheet tools.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F04,F10"
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Worked with a copy editor and designer to introduce a proof-return checklist in **May 2024**, writing its version-naming section; the collaborators owned language and layout checks respectively.",
+        "zh": "**2024年5月**与文字编辑及设计师合作引入校样回传核对表，编写其中的版本命名部分；语言和版式检查分别由文字编辑及设计师负责。"
+      },
+      "source_fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F06/F07 support May 2024 collaboration and personal version-naming contribution; copy editor language and designer layout boundaries maintained.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F06,F07"
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Of 10 titles completed in **June–September 2024**, 8 met the internal proof-return target, versus 6 of 9 in the preceding cohort. Title lengths differed, so the comparison cannot be attributed solely to the checklist.",
+        "zh": "**2024年6—9月**完成的10个书目中，8个达到内部校样回传目标，上一组为9个中6个按时。书目篇幅不同，该比较结果不能完全归因于核对表。"
+      },
+      "source_fact_ids": [
+        "F08",
+        "F09"
+      ],
+      "status": "supported",
+      "reason": "F08/F09 preserve June–September 2024, 8/10 versus previous 6/9 titles, internal target and differing title-length attribution caveat; no invented percent or causal benefit.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F08,F09"
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Exported print-ready PDFs from existing InDesign templates under designer review.",
+        "zh": "在设计师审核下，使用现有InDesign模板导出印刷用PDF。"
+      },
+      "source_fact_ids": [
+        "F11"
+      ],
+      "status": "supported",
+      "reason": "F11 supports existing-template PDF exports under review, not original template creation.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F11"
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Editorial Assistant | Fictional Paper Harbor Press | **March 2018–December 2022**",
+        "zh": "编辑助理｜虚构纸港出版社｜**2018年3月—2022年12月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports editorial assistant title and March 2018–December 2022 dates.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F02"
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "Freelance Proofreader | Fictional Evening Pamphlet | **February–July 2021**; averaged 3 evening hours weekly alongside the main job",
+        "zh": "自由职业校对员｜虚构晚间小册｜**2021年2—7月**；与主职同期，每周平均晚间工作3小时"
+      },
+      "source_fact_ids": [
+        "F14"
+      ],
+      "status": "supported",
+      "reason": "F14 preserves concurrent February–July 2021 evening freelance work and average three weekly hours, avoiding false sequential full-time history.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F14"
+    },
+    {
+      "claim_id": "C08",
+      "text": {
+        "en": "Bachelor degree in comparative literature | Fictional Bramble College | **Graduated 2017**",
+        "zh": "比较文学学士｜虚构荆棘学院｜**毕业时间：2017年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports 2017 comparative-literature bachelor degree and institution.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ],
+      "evidence_pointer": "profile.json#F01"
+    }
+  ],
+  "bilingual_fidelity": "Actual EN/ZH preserve 8/10 and 6/9 title cohorts with June–September 2024 and differing-length caveat. Workload counts disputed by F05/F17/U01 omitted; no affirmation of either. Concurrent freelance timing and designer review preserved.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35,
+      "reason": "Three supported priority areas prominent; accessibility certification not fabricated."
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25,
+      "reason": "Clear chronological role labels and precise shared ownership; natural bilingual text."
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25,
+      "reason": "Preserves useful cohort observation and limitations plus concrete version-naming contribution."
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "full_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation diagnostic only; not candidate qualification, hiring probability, calibrated HR judgment or comparable full score.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "supported",
+      "source_fact_ids": [
+        "F04",
+        "F10"
+      ],
+      "reason": "Proof-version tracking and spreadsheet schedules shown."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "supported",
+      "source_fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "reason": "Editorial/design collaboration with contribution boundaries."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "supported",
+      "source_fact_ids": [
+        "F11"
+      ],
+      "reason": "Reviewed exports from existing InDesign templates."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F12",
+        "F13"
+      ],
+      "reason": "Untested accessibility checklist is not compliance certification; omitted without implied capability."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "Content only. No DOCX/PDF export or render; page count, clipping, glyphs, extraction, line lengths and actual formatting unassessed."
+}
