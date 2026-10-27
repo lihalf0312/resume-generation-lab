@@ -1,0 +1,41 @@
+{
+  "case_id": "case-020",
+  "source_manifest_capture": {
+    "source_manifest_sha256": "f153fd91c59ab624d0aa827876df1bc627a3a60e480c696068b3330a60af70e6",
+    "captured_at": "2026-10-27T18:16:26.406535+00:00",
+    "applies_before_generation_from": "case-013",
+    "already_frozen_without_snapshot_reference": [
+      "case-011",
+      "case-012"
+    ],
+    "note": "All20 source hashes checked before011 in tool transcript; this explicit capture was persisted later and is not backdated."
+  },
+  "source_manifest_capture_sha256": "a1adfc6c48ae3544d470521e4dd295789f2e05d1c4c778d72ae7d847bde5386c",
+  "generated_at": "2026-10-27T18:21:33.971517+00:00",
+  "generation_method": "native_LLM_once",
+  "model_id": "native_model_unknown",
+  "attempt": 1,
+  "source_path": "experiments/development-001/batch-002/case-020/profile.json",
+  "source_sha256": {
+    "profile.json": "3ea8c5d2f8269105b3a9508ac19fe5200261b57c10d015af8da32e89f0ca7237",
+    "job.json": "0dc7a9fe5289fbd34e48948a2538eac00f124657cc41266bc5b469175ed51b0e"
+  },
+  "prompt_sha256": "ab18baf9336bbb1843a61a3e08e993f369fbbfc0aeb52d76a5a9ee89ac4bd0ca",
+  "skill_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "output_sha256": {
+    "resume.en.md": "adc4952a2facab8f86a25ef436f774299f82a1966b5b66ab80ff946363442e1c",
+    "resume.zh.md": "aeb56fd073f722ff42f490d81fb46ff6e176089d956de8ae0b55610f1f41704b",
+    "claims.json": "d36c7462b53bc9f7fe600bcae1621aacf690b9fe30849d7054d3d12a2ab8f3e9",
+    "gaps.json": "ecd4f71473a37106f9980e8a382c506e010a201b5647116b5ab54740ba02ceca"
+  },
+  "visual_checks": "not_assessed",
+  "docx_pdf_export": false,
+  "source_requirement_labels": "design aid only, not evaluator truth",
+  "frozen": true
+}

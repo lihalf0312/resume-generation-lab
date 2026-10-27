@@ -1,0 +1,208 @@
+{
+  "case_id": "case-028",
+  "evaluated_at": "2026-10-27T18:27:48.523673+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "7e7da2e1f7c8f6573519f508371bd92397e07dc75170f8de567ad3a31bd096e9",
+    "job.json": "b199d6d3662fa10cdc25a4b5d43f09db6485adba1c12a330176ddad57daa7633",
+    "judge-visible-job.json": "b3fb8125d5c9b52962c5e5cea8dc08146ae307c47a7fd1d4d5dd4510a5d10a9c",
+    "prompt.md": "0b721af739b365ab5bef4e2c0c826a09c5f27892f924b0f433119368088dc727",
+    "provenance.json": "c84c7a1b31ba9f640b4564c67463743af0a732499444cafd12a4053f49537c73",
+    "resume.en.md": "2dddbc04e7da21568874c17732fefefb3ed0e75eae974c157ff5d9f3ccf5950d",
+    "resume.zh.md": "1d74f75203fc402eab204df4bf03d6ab75cff95db3b6207932c620b9bd475dcd",
+    "claims.json": "85e706c50882ac21949189ac574bd01b195e4a232cae21f296266b9a06f97b5d"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Community Venue Bookings Assistant | Fictional Venue D028 | **October 2022–April 2026**",
+        "zh": "社区场地预约助理｜虚构场地D028｜**2022年10月—2026年4月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports community-venue role and October2022–April2026,not hotel employment.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Confirmed room bookings by email and recorded equipment requests in a shared calendar.",
+        "zh": "通过电子邮件确认房间预约，并在共享日历中记录设备需求。"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 supports room-booking emails and equipment requests in shared calendar; venue header preserves room context.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Explained published cancellation terms and escalated refund exceptions to the venue manager.",
+        "zh": "解释已公布的取消条款，并将退款例外情况转交场地经理。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 supports published-term explanation and manager escalation,not refund approval.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Created a confirmation-email checklist covering dates, room setup, and contact instructions.",
+        "zh": "创建确认邮件清单，涵盖日期、房间布置及联系说明。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 supports checklist and three covered fields.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Used calendar software and spreadsheet filters.",
+        "zh": "使用日历软件和电子表格筛选功能。"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 supports calendars/filters without implied hotel PMS proficiency.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Volunteered at 4 fictional local arts events in **2025**, greeting attendees and directing them to rooms.",
+        "zh": "**2025年**在4场虚构本地艺术活动中担任志愿者，迎接参与者并指引其前往房间。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 preserves four fictional arts events,2025,volunteer greeting/directions,not paid hotel work.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "Diploma in Event Administration | Fictional Institute D028 | **Completed 2022**",
+        "zh": "活动行政专科学历｜虚构院校D028｜**完成时间：2022年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports supplied Diploma/专科学历 wording,institute and2022,not independent credential equivalence.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Both actual outputs preserve venue-versus-hotel context,four events,dates,volunteer status and refund escalation. Source credential wording retained. No occupancy/conversion/satisfaction gains,refund authority,PMS mastery or language proficiency added.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F03",
+        "F05"
+      ],
+      "reason": "Venue-room email confirmations and checklist transfer to guest reservations,not hotel room inventory."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "direct",
+      "source_fact_ids": [
+        "F04"
+      ],
+      "reason": "Cancellation-policy explanation and exception escalation directly demonstrated in venue setting."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "direct",
+      "source_fact_ids": [
+        "F07"
+      ],
+      "reason": "Greeted event visitors and directed rooms; no measured satisfaction inferred."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F06"
+      ],
+      "reason": "No hotel PMS experience; calendar is not PMS."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

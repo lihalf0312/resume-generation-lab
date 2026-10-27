@@ -1,0 +1,410 @@
+{
+  "batch_id": "development-001/batch-002",
+  "evaluated_at": "2026-10-27T18:22:25.400097+00:00",
+  "cases_evaluated": 10,
+  "languages_per_case": [
+    "en",
+    "zh"
+  ],
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "gate_counts": {
+    "pass": 10
+  },
+  "diagnostic_assessed_scores": {
+    "case-011": 100,
+    "case-012": 100,
+    "case-013": 100,
+    "case-014": 100,
+    "case-015": 100,
+    "case-016": 100,
+    "case-017": 100,
+    "case-018": 100,
+    "case-019": 100,
+    "case-020": 100
+  },
+  "assessed_weight": 85,
+  "overall_scores_all_null": true,
+  "export_ready_count": 0,
+  "requirement_coverage_counts": {
+    "direct": 19,
+    "not_shown": 12,
+    "transferable": 9
+  },
+  "claims_audited": 67,
+  "claim_status_counts": {
+    "supported": 67
+  },
+  "retained_findings": [],
+  "integrity_checks": [
+    {
+      "case_id": "case-011",
+      "file": "profile.json",
+      "sha256": "98ee808b2b16d2124cbddf9198e516e3b4dc62648e10b7b5baca7c3f33b71c05",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-011",
+      "file": "job.json",
+      "sha256": "528ffa332e4b77aa5b8232effcde78c1d67512d7436cdcd34720ddad457fc42c",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-011",
+      "file": "resume.en.md",
+      "sha256": "a5a1c0f8fde08be3fcf6dc79f5adeda7f938085216a8d85c0132aa87e77a2a14",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-011",
+      "file": "resume.zh.md",
+      "sha256": "c5344fd589a13f6ed2d373cec4fff2be179d149c79e2f4bda3766a596e0839ae",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-011",
+      "file": "claims.json",
+      "sha256": "93dcfcce38a473ff75835184c34452ae1199c8fbc2a815ae34b470a167747862",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-011",
+      "file": "gaps.json",
+      "sha256": "f494909cfd7834c23decb50ea9a2524be8b732e63c69b050c31d65804d16f6b6",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-012",
+      "file": "profile.json",
+      "sha256": "3ecff48ff28b575971995c6d706b7ee68f3eabe00b0e830bda32ae57eec188a2",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-012",
+      "file": "job.json",
+      "sha256": "0556a1234a7eb39582be8f7481f8687cae724887bd2eaa1b2ff48ab3a6dedbfc",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-012",
+      "file": "resume.en.md",
+      "sha256": "835cfc5f7c14a21396c573166c192face8255ac4cfc9fda4cac07a2574d3cbba",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-012",
+      "file": "resume.zh.md",
+      "sha256": "69b38ae06c31538d8eeecf54c961b37afed1e5d1388eed5ce60cf17d9ffc331f",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-012",
+      "file": "claims.json",
+      "sha256": "87a3a0d52c82d1a8df2b0ad85082646a09d7e3113e72717f38c8e6249c932fb3",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-012",
+      "file": "gaps.json",
+      "sha256": "f88e808854607cbe1fc5ae7efda82676f5bdf76973e1a33f92ed063d70cfdf6b",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-013",
+      "file": "profile.json",
+      "sha256": "64e0567cffddb96a852ffe663261fece0bcef3c18af03dab3eb34e6907b3691d",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-013",
+      "file": "job.json",
+      "sha256": "306c9a12eeeb2ac8d3498135de0770c6b32224beae7ec0cf3b5d1e3ce2e19a7e",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-013",
+      "file": "resume.en.md",
+      "sha256": "7c84987a57f599e1af63dd46f8b65470f0588fcefea8e31f4556592037c3e601",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-013",
+      "file": "resume.zh.md",
+      "sha256": "5d8c343f56e921067c3b2de51b9d01129355a85867bd1b16b65022554e18979d",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-013",
+      "file": "claims.json",
+      "sha256": "2af8e7b560b68e24d16b480861c028be4d18b4d08abe267ad823c114559a732a",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-013",
+      "file": "gaps.json",
+      "sha256": "3b323b82273183cc84be8ff740110e102aed44156275a458eb64c6e9a3f7eb2f",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-014",
+      "file": "profile.json",
+      "sha256": "2d791be6ad41ac93c4dc7e1bd70b0866a2a05f542d25e1e50d65db575b2f8bb0",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-014",
+      "file": "job.json",
+      "sha256": "3262262f09488aac2eb77de832c256dcff6b0f05668ad0d6baaa08711104c070",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-014",
+      "file": "resume.en.md",
+      "sha256": "5aef7c15b443ec804074583572e158d8fbf610e9dbe50d99c1feb3f0a3dbadc4",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-014",
+      "file": "resume.zh.md",
+      "sha256": "a3ec47111183120c4ee45eb4bb7337b2b4c0f3083f63faa36b06cded9a234501",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-014",
+      "file": "claims.json",
+      "sha256": "70ab489b42619fa1ed3465f9bbe730dc7ab8f4d88906e325171236a6591b979c",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-014",
+      "file": "gaps.json",
+      "sha256": "643d3835a6077467ac150c23fc1999b825bd0701238ecf790e74a87dcf7074d7",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-015",
+      "file": "profile.json",
+      "sha256": "98217e066273b1ebd9ca345fa4a11e24ca4cc908b36b2b447a0889c0caa51725",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-015",
+      "file": "job.json",
+      "sha256": "c563901ed619753fe11e9f652b3f43eaaa06cb05119a6f954e55a2aa59ccd9b5",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-015",
+      "file": "resume.en.md",
+      "sha256": "7b916b70001a836523a790811c469d8c6db6e3250b1b02e597c1dcbdc7e67617",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-015",
+      "file": "resume.zh.md",
+      "sha256": "626d0db9878ea6d265f665cf3f13eaacff2d88094273b0d7771e16e29971163b",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-015",
+      "file": "claims.json",
+      "sha256": "708451b1de3a5558008fc5e74dff3a4c310d7d90741b6451fc94962a8688f6e8",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-015",
+      "file": "gaps.json",
+      "sha256": "7523b1bfc03009ab229e0cf63451f7b2e308f78354c6fc1d1f9e86f2c2be1e7c",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-016",
+      "file": "profile.json",
+      "sha256": "f4b52160f9da38e2e351ccf44227012fa13feebd3bd7d1c34ffbff2d556de5bb",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-016",
+      "file": "job.json",
+      "sha256": "5ed6839986d449ce6355c30559fe9c53fa2bd33a46366c597b57b90fb3dc4793",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-016",
+      "file": "resume.en.md",
+      "sha256": "b634ab35d21a463492a95e4bb37733024f5e43377ed2e0f0bbada0a46f68b055",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-016",
+      "file": "resume.zh.md",
+      "sha256": "e0fc14de6e970fbb63a38b75df9b4c6a0715bcfcddb599c81268c626da999181",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-016",
+      "file": "claims.json",
+      "sha256": "cd6d701fa68bac9082875608ef12b26f425ab90d008a5894e1c55b8a216d22d1",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-016",
+      "file": "gaps.json",
+      "sha256": "6b03fe8dd12f4c56c9669f4469f34f22b76095f12b837ef9ebf3f1b29122e508",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-017",
+      "file": "profile.json",
+      "sha256": "6f4ae5c558e4986bb457f417e2fd273eef2fc6384f984178a1181ce43ebe32cc",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-017",
+      "file": "job.json",
+      "sha256": "a4cba63248ffaac8034643101a9073f5c017aa59f27125c697de66d57c9020cf",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-017",
+      "file": "resume.en.md",
+      "sha256": "dcc1861e9195d817fe513a8fa829b2f93892811b4e0da9c47a882aec7cb54700",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-017",
+      "file": "resume.zh.md",
+      "sha256": "8796121b37fae443925b94e620b1a6e50028ff2063ffe675ff502063a484191c",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-017",
+      "file": "claims.json",
+      "sha256": "656dec834c60ec6492aa60184610ccde8db846e720acfc4ea25680a67cb93506",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-017",
+      "file": "gaps.json",
+      "sha256": "8bfb1400a442b7d773acfc9d0679f610693a1b5a979bb74c0f155b4bea2d501d",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-018",
+      "file": "profile.json",
+      "sha256": "02bf5fc6a7f202b71ffe21b228f29738e9a704ed346436ce4533f0c28c96635d",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-018",
+      "file": "job.json",
+      "sha256": "3986f4431ac71de314bc2935c9027233ba1423413f74253ec20df999400888b9",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-018",
+      "file": "resume.en.md",
+      "sha256": "da0e9b402613c891e0e652687935237c95462d3993c723ab5fd78058ef2afadb",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-018",
+      "file": "resume.zh.md",
+      "sha256": "682f84eb3c233c6e98f9f6a9a550e9f8e4491f48a5a3064691f4107494eaf3f1",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-018",
+      "file": "claims.json",
+      "sha256": "2315f294eefd0639c29e70afdf908bf619191197800526110cca989dc2446c14",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-018",
+      "file": "gaps.json",
+      "sha256": "54082b0132961fe7dfeb696889d3ffb58d2098a19a8d6b082bcdb007b536103f",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-019",
+      "file": "profile.json",
+      "sha256": "d1a05684331e0a8aa46bd530a8c0728f951fab3e8cf59578ddcfcc98a223010b",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-019",
+      "file": "job.json",
+      "sha256": "3952ffea248a0f11e791188f57361a3f6640d0987a514b3157b3dab4ad0bfd87",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-019",
+      "file": "resume.en.md",
+      "sha256": "19d0d50587161df628fecbf9ab8ecec26b648919e0f7497668810c63c2a39c6d",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-019",
+      "file": "resume.zh.md",
+      "sha256": "d2b21f6c588c0426817be84370723c224d7309ca36ea00a49ab9282374e29bf3",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-019",
+      "file": "claims.json",
+      "sha256": "fa7c8f07a14652c8a6de4decbea656ef1718d6bce28a55dda0734520007d7ea0",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-019",
+      "file": "gaps.json",
+      "sha256": "29635afd9ff96f0fb3c8c68ea547f2498be795b65ce4c7f8644ec903a2a4ee3e",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-020",
+      "file": "profile.json",
+      "sha256": "3ea8c5d2f8269105b3a9508ac19fe5200261b57c10d015af8da32e89f0ca7237",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-020",
+      "file": "job.json",
+      "sha256": "0dc7a9fe5289fbd34e48948a2538eac00f124657cc41266bc5b469175ed51b0e",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-020",
+      "file": "resume.en.md",
+      "sha256": "adc4952a2facab8f86a25ef436f774299f82a1966b5b66ab80ff946363442e1c",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-020",
+      "file": "resume.zh.md",
+      "sha256": "aeb56fd073f722ff42f490d81fb46ff6e176089d956de8ae0b55610f1f41704b",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-020",
+      "file": "claims.json",
+      "sha256": "d36c7462b53bc9f7fe600bcae1621aacf690b9fe30849d7054d3d12a2ab8f3e9",
+      "matches_frozen_provenance": true
+    },
+    {
+      "case_id": "case-020",
+      "file": "gaps.json",
+      "sha256": "ecd4f71473a37106f9980e8a382c506e010a201b5647116b5ab54740ba02ceca",
+      "matches_frozen_provenance": true
+    }
+  ],
+  "limitations": [
+    "Synthetic development cases, not HR labels or human calibration.",
+    "Native judge/generator can share blind spots.",
+    "Corpus requirement answer annotations not viewed; profile fit metadata and generator messages/ledgers visible, so not fully blinded.",
+    "High ceiling scores are coarse content presentation judgments, not evidence of validated improvement or future model quality.",
+    "No DOCX/PDF checks, full scores, export readiness or hiring/qualification verdicts.",
+    "Source manifest capture is prospective for013 onward;011/012 not backdated.",
+    "Batch001 retained unchanged; original007 needs_review remains."
+  ]
+}

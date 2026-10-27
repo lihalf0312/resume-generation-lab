@@ -1,0 +1,209 @@
+{
+  "case_id": "case-025",
+  "evaluated_at": "2026-10-27T18:25:57.186731+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "17db40f4653d8a963d872ccf98e2373ac64233518cd1194be5e54cfb73d18e08",
+    "job.json": "617b78523e427424ec82ae9dc55d27e7cfdcbed0ed3d9297b62e2d69c5355c89",
+    "judge-visible-job.json": "49e1e9715b6f0282692d22232f4c7541db6bbb68343b398330f84e17f2c6295c",
+    "prompt.md": "7247fbd9cf34de0d8988641db59cebc781f7544f85cbb82a21506bb34adb6107",
+    "provenance.json": "ac2937852dc6a812805ef5478130f1e14bf0ffcbcca802a9b0bc6bea0c6892ea",
+    "resume.en.md": "98564c60ad00e17cc201151147f4c3edaf0267b3ae3b0d59db3c0c9d959a0ff9",
+    "resume.zh.md": "ad8c096d77b48cf8c8e797685a4ac287b085334cef52bbe3e9ca1597ff352e42",
+    "claims.json": "3c95f14dda67b05e99ca610779daaacbadcd16db30374b53904b4e4c2cbd5dd6"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Facilities Purchasing Assistant | Fictional Employer D025 | **August 2021–May 2026**",
+        "zh": "设施采购助理｜虚构雇主D025｜**2021年8月—2026年5月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports facilities-purchasing assistant,employer and August2021–May2026.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Compared delivery notes with purchase orders and referred mismatches to the purchasing officer.",
+        "zh": "核对送货单与采购订单，并将不匹配项目提交采购专员。"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 supports delivery-note/PO comparison and referral,not live invoice matching.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "During a 3-month file review of 130 orders, identified 9 missing delivery notes and obtained 7 from suppliers; the remaining 2 stayed with the purchasing officer for follow-up.",
+        "zh": "在为期3个月的档案复查中，从130笔订单发现9份缺失送货单，并向供应商取得7份；其余2份由采购专员继续跟进。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 preserves three months,130 orders,nine missing notes,seven obtained and two officer-follow-up items; no complete-resolution inflation.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Maintained a purchase-order status log using spreadsheet lookups and filters.",
+        "zh": "使用电子表格查找和筛选功能维护采购订单状态记录。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 supports spreadsheet lookups/filters and purchase-order log.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Wrote concise supplier emails requesting missing documents, without approving purchases or payments.",
+        "zh": "撰写简明供应商邮件索取缺失文件，不审批采购或付款。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 supports supplier emails,no purchase/payment approval.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Completed a bookkeeping practice module in **April 2026**, covering debits, credits, and invoice matching using fictional transactions.",
+        "zh": "**2026年4月**完成记账练习模块，使用虚构交易练习借记、贷记和发票匹配。"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 preserves April2026 fictional-transaction module,debits/credits/invoice matching,not live accounting work.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "Diploma in Business Administration | Fictional Institute D025 | **Completed 2021**",
+        "zh": "工商管理专科学历｜虚构院校D025｜**完成时间：2021年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supplies Diploma EN/专科学历 ZH and2021; reproduced without independent equivalence conclusion.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Actual bilingual outputs preserve130/nine/seven/two reconciliation,three-month window,dates and contribution limits. Fictional invoice practice distinct from real PO/receipt matching. Source credential wording preserved; no approved payment,live ERP,language proficiency or total-resolution claim added.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F03",
+        "F06"
+      ],
+      "reason": "Real PO/receipt comparisons plus fictional invoice-matching practice; live three-way invoice matching not established."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "direct",
+      "source_fact_ids": [
+        "F05"
+      ],
+      "reason": "PO-status log using lookups/filters; no measured error-free accuracy claimed."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "direct",
+      "source_fact_ids": [
+        "F04",
+        "F07"
+      ],
+      "reason": "Supplier requests recovered seven missing notes; two outstanding retained."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F08"
+      ],
+      "reason": "No live accounting invoice entry or payment runs."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

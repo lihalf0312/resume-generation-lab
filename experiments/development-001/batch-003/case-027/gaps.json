@@ -1,0 +1,17 @@
+[
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No supplier audit leadership or lead-auditor certification held."
+  },
+  {
+    "fact_ids": [
+      "F04",
+      "F05",
+      "F06",
+      "F07"
+    ],
+    "status": "scope_limit",
+    "reason": "Document register contribution was assistance; observation across6 areas is team-owned; compiling requested evidence is not conducting audits, briefings are not line management."
+  }
+]

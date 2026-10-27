@@ -1,0 +1,31 @@
+{
+  "case_id": "case-030",
+  "synthetic": true,
+  "title": {
+    "en": "Volunteer Programme Officer",
+    "zh": "志愿者项目专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Coordinate volunteer rotas and cover arrangements.",
+      "zh": "协调志愿者轮值及替补安排。"
+    },
+    {
+      "id": "R02",
+      "en": "Produce participation reports while protecting personal information.",
+      "zh": "在保护个人信息的前提下制作参与情况报告。"
+    },
+    {
+      "id": "R03",
+      "en": "Run inductions and follow safeguarding escalation procedures.",
+      "zh": "开展入职说明并遵循安全保护上报流程。"
+    },
+    {
+      "id": "R04",
+      "en": "Write successful grant applications independently.",
+      "zh": "独立撰写成功获批的资助申请。"
+    }
+  ]
+}

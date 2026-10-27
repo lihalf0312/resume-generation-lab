@@ -1,0 +1,7 @@
+{
+  "version": 21,
+  "previous_case": "case-020",
+  "previous_evaluation_sha256": "562d979dbd3bb9f67854b790a0a98f5e8f07aa235ffc008e63b262bb53e8886c",
+  "changes": [],
+  "reason": "Case020 independent review requested no new repair. Retain cumulative rules; batch003 manifest capture was persisted before this generation and predecessor020 evaluation hash recorded."
+}

@@ -1,0 +1,26 @@
+{
+  "notice": "Source labels are design aids, not gold truth; originals remain frozen.",
+  "disagreements": [
+    {
+      "case_id": "case-022",
+      "requirement_id": "R03",
+      "source_design_label": "transferable",
+      "independent_judge_label": "direct",
+      "judge_reason": "Explained usage tables to venue managers and recorded questions."
+    },
+    {
+      "case_id": "case-028",
+      "requirement_id": "R03",
+      "source_design_label": "transferable",
+      "independent_judge_label": "direct",
+      "judge_reason": "Greeted event visitors and directed rooms; no measured satisfaction inferred."
+    },
+    {
+      "case_id": "case-029",
+      "requirement_id": "R03",
+      "source_design_label": "transferable",
+      "independent_judge_label": "direct",
+      "judge_reason": "Supports cycle counts and escalates variances to controller; joint investigation beyond escalation not separately stated."
+    }
+  ]
+}

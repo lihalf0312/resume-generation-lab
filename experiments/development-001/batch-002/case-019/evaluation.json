@@ -1,0 +1,193 @@
+{
+  "case_id": "case-019",
+  "evaluated_at": "2026-10-27T18:21:19.170251+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "d1a05684331e0a8aa46bd530a8c0728f951fab3e8cf59578ddcfcc98a223010b",
+    "job.json": "3952ffea248a0f11e791188f57361a3f6640d0987a514b3157b3dab4ad0bfd87",
+    "judge-visible-job.json": "b2c9b23ec2e3313f07592b0b906fed7f0035d23557f360f532876a7e7e8ee1a7",
+    "prompt.md": "8c4f7ab3666720e7b0361c463e751593059c5d2775691e37ca03fce1f1125c9e",
+    "provenance.json": "96dd7c6042ed0dc4490f7ec4607e95523a51271d67c7ec958483092e28982f53",
+    "resume.en.md": "19d0d50587161df628fecbf9ab8ecec26b648919e0f7497668810c63c2a39c6d",
+    "resume.zh.md": "d2b21f6c588c0426817be84370723c224d7309ca36ea00a49ab9282374e29bf3",
+    "claims.json": "fa7c8f07a14652c8a6de4decbea656ef1718d6bce28a55dda0734520007d7ea0"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Library Circulation Assistant | Fictional Reading Room B19 | **August 2022–May 2026**",
+        "zh": "图书流通助理｜虚构阅览室B19｜**2022年8月—2026年5月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports circulation-assistant title, reading room and August2022–May2026.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Scanned returned items and updated shelf-location records in a library system.",
+        "zh": "扫描归还物品，并在图书馆系统中更新书架位置记录。"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 preserves returned-item scanning and library shelf records, not merchandise/POS.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Reconciled a shelf audit of 460 books in **March 2026** and flagged 11 location mismatches for librarian review.",
+        "zh": "**2026年3月**核对460册图书的书架盘点，标出11处位置不匹配供馆员复核。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 preserves March2026 audit460 books and11 location mismatches for review, not11 missing books or resolved cases.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Answered visitor questions and referred account disputes to the librarian.",
+        "zh": "回答访客问题，并将账户争议转交馆员。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 supports visitor answers and referred disputes, not independent adjudication.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Created a personal spreadsheet in **April 2026** to track 35 fictional shop items and reorder thresholds; this was a practice exercise, not retail employment.",
+        "zh": "**2026年4月**制作个人电子表格，跟踪35种虚构商店商品及补货阈值；该表格为练习项目，并非零售任职经历。"
+      },
+      "source_fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F06/F07 support April2026 personal tracker35 fictional shop items and reorder thresholds, explicitly practice not employment.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Library Support Certificate Course | Fictional Institute B19 | **Completed 2022**",
+        "zh": "图书馆支持证书课程｜虚构学院B19｜**完成时间：2022年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports library-support certificate course and2022.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Actual bilingual outputs preserve460 books,11 location mismatches,35 fictional items,dates,review status and library/practice boundaries. No lost-stock savings, supplier ordering, POS/cash ownership, language proficiency or upgraded credential. Direct spreadsheet evidence is practice only; it does not erase retail experience gaps.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F03"
+      ],
+      "reason": "Library scanning and shelf records transfer to merchandise stock locations."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F04"
+      ],
+      "reason": "Shelf audit and location-mismatch flags are related; retail count-discrepancy investigation not explicitly shown."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F08"
+      ],
+      "reason": "No POS/cash handling."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "direct",
+      "source_fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "reason": "Created stock spreadsheet for35 fictional items; direct tool evidence limited to practice, not retail operations."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

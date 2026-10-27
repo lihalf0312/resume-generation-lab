@@ -1,0 +1,50 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Fixed-term Dispatch Support Assignment | Fictional Depot D026 | **January–June 2026**",
+    "zh": "定期发运支持工作｜虚构仓站D026｜**2026年1月—6月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Printed dispatch labels and compared package counts with approved pick lists before supervisor sign-off.",
+    "zh": "打印发运标签，在主管签字前将包裹数量与获批拣货单核对。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Recorded carrier collection times and unresolved count discrepancies in a shared spreadsheet.",
+    "zh": "在共享电子表格中记录承运商取货时间及未解决的数量差异。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Prepared a desk guide explaining where to find carrier cutoff times; a senior clerk approved the guide.",
+    "zh": "编写桌面指南，说明承运商截单时间的查询位置，指南经高级文员批准。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Escalated late collections by telephone using the team contact list.",
+    "zh": "使用团队联系人清单，通过电话上报取货延误。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Certificate in Supply Chain Fundamentals | Fictional Institute D026 | **Completed 2025**",
+    "zh": "供应链基础结业证书｜虚构院校D026｜**完成时间：2025年**"
+  }
+]

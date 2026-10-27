@@ -1,0 +1,226 @@
+{
+  "case_id": "case-015",
+  "evaluated_at": "2026-10-27T18:18:45.430244+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "98217e066273b1ebd9ca345fa4a11e24ca4cc908b36b2b447a0889c0caa51725",
+    "job.json": "c563901ed619753fe11e9f652b3f43eaaa06cb05119a6f954e55a2aa59ccd9b5",
+    "judge-visible-job.json": "58b5394dabd32dbe15b1815c760a7cb9bb0c2ee9d21c7f702eb4d6ad2f1d9a09",
+    "prompt.md": "bf329c2b72cadec2bd2f02679a3d8d02c8c3e1fd9164787ee4700b258c70370f",
+    "provenance.json": "aee4a90c8474dec94ebe29c0911e72daadf18af21af7ca0a8becd9d9c31e7e79",
+    "resume.en.md": "7b916b70001a836523a790811c469d8c6db6e3250b1b02e597c1dcbdc7e67617",
+    "resume.zh.md": "626d0db9878ea6d265f665cf3f13eaacff2d88094273b0d7771e16e29971163b",
+    "claims.json": "708451b1de3a5558008fc5e74dff3a4c310d7d90741b6451fc94962a8688f6e8"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Accounts Payable Associate | Fictional Supply Cooperative B15 | **January 2022–September 2026**",
+        "zh": "应付账款专员｜虚构供应合作社B15｜**2022年1月—2026年9月**"
+      },
+      "source_fact_ids": [
+        "F02",
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F02/F03 establish same cooperative, associate role and January2022–September2026.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Invoice Clerk | Fictional Supply Cooperative B15 | **August 2018–December 2021**",
+        "zh": "发票文员｜虚构供应合作社B15｜**2018年8月—2021年12月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 establishes invoice-clerk title and August2018–December2021.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Matched supplier invoices to purchase orders and receipt records before routing them for approval.",
+        "zh": "在提交审批前，将供应商发票与采购订单及收货记录匹配。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 supports three-document matching before approval routing, not approval authority.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Processed a median of 85 invoices per month during **January–June 2026**, as measured from an internal register.",
+        "zh": "**2026年1月—6月**每月处理发票数量的中位数为85张，依据内部登记表统计。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 preserves median85 invoices/month, January–June2026 and register measurement; not mean, total or all-career rate.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Maintained an exception queue and requested missing receipt documents from purchasing colleagues.",
+        "zh": "维护异常处理队列，并向采购同事索取缺失收货文件。"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 supports maintained exception queue and requests to buyers; no guaranteed resolution outcome.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Built an Excel lookup sheet for invoice reference checks in **September 2025**. In a 40-invoice trial, the sheet flagged 3 repeated reference numbers for review; no fraud conclusion was made.",
+        "zh": "**2025年9月**制作Excel查找表，用于核对发票参考编号。在40张发票试用中，该表标出3个重复参考编号供复核，未作出欺诈结论。"
+      },
+      "source_fact_ids": [
+        "F07",
+        "F08"
+      ],
+      "status": "supported",
+      "reason": "F07/F08 preserve September2025 lookup sheet,40-invoice trial,3 repeated references for review and no fraud finding.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "Payment release remained with the finance manager.",
+        "zh": "付款放行由财务经理负责。"
+      },
+      "source_fact_ids": [
+        "F09"
+      ],
+      "status": "supported",
+      "reason": "F09 preserves finance-manager payment-release ownership.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C08",
+      "text": {
+        "en": "Diploma in Accounting Operations | Fictional Academy B15 | **Completed 2018**",
+        "zh": "会计运营文凭课程｜虚构学院B15｜**完成时间：2018年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports accounting-operations diploma, academy and2018.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Actual EN/ZH preserve median versus average,85/month period,40-invoice trial,3 references and pending-review/no-fraud status. Roles, dates, diploma and manager payment authority faithful. No fraud detection conclusion, payroll or language proficiency claimed. R03 exact function proficiency remains unproven despite relevant Excel sheet.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "direct",
+      "source_fact_ids": [
+        "F04"
+      ],
+      "reason": "Matched invoice,PO and receipt records."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "direct",
+      "source_fact_ids": [
+        "F06"
+      ],
+      "reason": "Exception queue and missing-document requests to buyers directly support exception handling; confirmed closure is not stated."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F07",
+        "F08"
+      ],
+      "reason": "Excel lookup sheet performs reference checks, but specific lookup-function use is not explicit; do not infer XLOOKUP/VLOOKUP from sheet name."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F09"
+      ],
+      "reason": "No payroll processing documented."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

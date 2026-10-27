@@ -1,0 +1,68 @@
+{
+  "schema_version": "independent_blind_judgment_v1",
+  "case_id": "d9k4",
+  "input_path": "blind_inputs/d9k4.json",
+  "inputsha": "754c21c707c925ebedfa4b536e57376a2350cbc2179488417229c290b7b5e78d",
+  "input_sha256": "754c21c707c925ebedfa4b536e57376a2350cbc2179488417229c290b7b5e78d",
+  "judge_label": "llm_judge_unvalidated/native_model_unknown",
+  "rubric_version": "0.1.0",
+  "verdict": "pass",
+  "factual_fidelity": "pass",
+  "summary": "Internship, dates, 18 quotations, spreadsheet filters and lookup formulas match the facts. Supervisor-retained purchasing authority is a reasonable faithful summary of supervisor approval of all decisions; no independent authority is claimed. Maintaining purchase logs is not shown.",
+  "claims": [
+    {
+      "claim_id": "d9k4.resume.en.line1",
+      "text": "Purchasing intern | Indigo Pebble Foundry | September–December 2024",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "d9k4.resume.en.line2",
+      "text": "Compared 18 vendor quotations using spreadsheet filters and lookup formulas; purchasing decisions remained with the supervisor.",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "d9k4.resume.zh.line1",
+      "text": "采购实习生｜靛蓝卵石铸造厂｜2024年9月—12月",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "d9k4.resume.zh.line2",
+      "text": "使用电子表格筛选和查找公式比较18份供应商报价；采购决定仍由主管作出。",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    }
+  ],
+  "issues": [],
+  "confidence": {
+    "level": "high",
+    "value": 0.99,
+    "interpretation": "Subjective confidence in source-relative judgment, not calibrated accuracy or candidate truthfulness."
+  },
+  "limitations": [
+    "Only the supplied source facts, resume strings, job description and rubric were assessed. User-supplied facts were not independently verified.",
+    "Fact and claim IDs were not supplied; stable JSON pointers and language-specific 1-based resume line identifiers are used instead.",
+    "Native model identity is unknown; this is an unvalidated LLM judgment, not HR expert annotation.",
+    "No PDF/DOCX or rendered artifact was supplied or assessed. No extraction, ATS-compatibility, layout, hiring probability or candidate-quality claims are made."
+  ],
+  "format_readability": "not_assessed",
+  "overall_score": null,
+  "export_ready": false,
+  "export_ready_reason": "Actual exported/rendered artifact checks are absent."
+}

@@ -11,3 +11,9 @@ Public files include sources, prompts, actual generated contents, evidence ledge
 Batch manifests cover their documented artifacts and transitive output hashes. The parent publication manifest additionally inventories released reports, schemas and other final files. Completed means generated and independently evaluated, not passed: case-007 remains needs_review because one English clause can imply an unsupported printing action. All originals are retained without retrospective correction.
 
 No paid model API, model-weight training, DOCX/PDF rendering, visual validation, ATS certification or causal quality improvement is claimed.
+
+## Batch 002 and versioned publication snapshots
+
+The original30 corpus was already frozen before batch002 generation. Its additional explicit timestamped batch capture was persisted after cases011/012; those records are not retroactively marked capture-referenced. Cases013 onward use that capture prospectively.
+
+Publication manifests describe the bytes at the Git commit introducing that manifest. Global progress trackers and explanatory notes may change in later commits; inspect an older manifest at its historical commit rather than treating later tracker updates as mutation of frozen case artifacts. Source and evaluated output files remain unchanged.

@@ -1,0 +1,20 @@
+[
+  {
+    "requirement_id": "R02",
+    "status": "scope_limit",
+    "reason": "SQL evidence is self-directed fictional project work, not production employment."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No production BI platform or Power BI maintenance experience."
+  },
+  {
+    "fact_ids": [
+      "F04",
+      "F06"
+    ],
+    "status": "scope_limit",
+    "reason": "Supervisor approval retained; expected-result checks do not assert passing test results or production correctness."
+  }
+]

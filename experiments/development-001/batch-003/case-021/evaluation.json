@@ -1,0 +1,193 @@
+{
+  "case_id": "case-021",
+  "evaluated_at": "2026-10-27T18:23:30.496462+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "ed22db87b39de3a3ccf85d495d269ba7eb78eb0a1c859af894f12c289858821e",
+    "job.json": "c866a8e12aa0adf4c55efcd6910f2ebbed6dd937450f4fca86545ee08025507e",
+    "judge-visible-job.json": "fa9a5f1df1420991b9bb4ff0ae0427f607a7ee1072a2be3ed7c4092252bfead5",
+    "prompt.md": "9200f8ae0478345da307e4940647d5601dbf51d7e7783c66a80d8af04a51ab71",
+    "provenance.json": "0c0bcdbf4e8dd22a23bd3a04e1ce1db363949ca3b9ac15f2f5e02d2d7699f459",
+    "resume.en.md": "2578fb876b89c25d820d37d7cb66bddf115e8394f932af7cbc5e4b00c1893803",
+    "resume.zh.md": "bdb9974a9c550dc4aa963a9d64b17a49fcae09d77566291d830668ff407c680b",
+    "claims.json": "f8fa880a07d2db02071ca61e0e825ad1c4aa240f6950d627dc3e6108d247aaa9"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Internal Tools Developer | Fictional Employer D021 | **February 2021–August 2026**",
+        "zh": "内部工具开发工程师｜虚构雇主D021｜**2021年2月—2026年8月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports developer role, employer and February2021–August2026.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Built a Python service to validate incoming inventory CSV files before loading them into PostgreSQL. Wrote SQL joins and reconciliation queries for the service, using Git pull requests for review.",
+        "zh": "开发Python服务，在库存CSV文件载入PostgreSQL前进行校验；为该服务编写SQL连接和核对查询，并通过Git拉取请求接受审查。"
+      },
+      "source_fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F03/F04 support Python inventory-CSV validation before PostgreSQL loading, SQL joins/reconciliation and Git PR review; no platform deployment claim.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Across 12 measured weekly imports, median manual correction time fell from 90 to 35 minutes after validation was introduced; this was a team result.",
+        "zh": "引入校验后，在测量的12次每周导入中，人工修正时间中位数从90分钟降至35分钟，为团队成果。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 preserves12 measured weekly imports,median90→35 minutes,after-validation sequence and team attribution; no percentage or sole causality added.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Added unit tests for 18 malformed-file cases and documented a local recovery procedure.",
+        "zh": "为18种格式错误文件情况添加单元测试，并记录本地恢复流程。"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 supports tests for18 malformed-file cases and local recovery documentation;18 describes cases, not coverage percent.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Paired with an operations analyst to clarify field definitions and demonstrate each monthly release.",
+        "zh": "与运营分析师结对明确字段定义，并演示每月发布内容。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 supports analyst pairing,field definition clarification and monthly-release demonstration, not broad user research ownership.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "BSc in Computing | Fictional Institute D021 | **Completed 2020**",
+        "zh": "计算机学理学学士｜虚构院校D021｜**完成时间：2020年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports Computing BSc,institute and2020.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Actual EN/ZH preserve all date/numeric units,team ownership and operational collaborator boundaries. No deployment, Kubernetes,language proficiency or degree inflation. Median timing result remains after-introduction team observation rather than personal percentage gain.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "direct",
+      "source_fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "reason": "Python validation service with SQL reconciliation queries."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "direct",
+      "source_fact_ids": [
+        "F06"
+      ],
+      "reason": "Unit tests and local recovery procedure documented."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "direct",
+      "source_fact_ids": [
+        "F07"
+      ],
+      "reason": "Clarified field requirements with operations analyst; evidence limited to that operational collaborator."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F08"
+      ],
+      "reason": "Platform team handles deployment; no Kubernetes administration."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

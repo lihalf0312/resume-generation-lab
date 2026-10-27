@@ -1,0 +1,24 @@
+{
+  "case_id": "h5p1",
+  "profile": {
+    "candidate_id": "h5p1",
+    "facts": [
+      {
+        "en": "Program assistant at Silver Meadow Collective, July 2022–June 2023.",
+        "zh": "2022年7月至2023年6月任银草甸合作社项目助理。"
+      },
+      {
+        "en": "Coordinated 12 workshops with 96 total attendee registrations, including repeat attendees.",
+        "zh": "协调12场工作坊，共96人次报名，含重复参加者。"
+      }
+    ]
+  },
+  "job_description": {
+    "en": "Community programs assistant: organize workshops and track participation.",
+    "zh": "社区项目助理：组织工作坊并追踪参与情况。"
+  },
+  "resume": {
+    "en": "Program assistant | Silver Meadow Collective | July 2022–June 2023\nCoordinated 12 workshops with 96 attendee registrations, including repeat attendees.",
+    "zh": "项目助理｜银草甸合作社｜2022年7月—2024年6月\n协调12场工作坊，共69人次报名，含重复参加者。"
+  }
+}

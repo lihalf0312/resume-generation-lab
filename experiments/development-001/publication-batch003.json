@@ -1,0 +1,1239 @@
+{
+  "scope": "development_pairs011_to030_and_separate12case_judge_diagnostic",
+  "historical_base_commit": "2fa4452452823c4bff0fbaf8f833ffcc741660f0",
+  "files": [
+    {
+      "path": "DEVELOPMENT_PROGRESS.md",
+      "sha256": "59685875ba63b5c2350fafc75fb515edab2bc1b4239337bf9f3b053f71c62e5d"
+    },
+    {
+      "path": "STATUS.md",
+      "sha256": "8a92d39445de5051dbb7fa8f65cf736d95c31d97cf232a3879efe2e4c1149396"
+    },
+    {
+      "path": "experiments/development-001/PUBLICATION_NOTES.md",
+      "sha256": "8d3e0195dc428a41833b8ae92b41afc5cf1d812c6e661c484d2f79c31b99c3b7"
+    },
+    {
+      "path": "experiments/development-001/batch-002/EVALUATION-REPORT.md",
+      "sha256": "8a4b3d5025af01f6c1cb4c055c4baf7ed0192dd1168374ec9b07b85a09f99941"
+    },
+    {
+      "path": "experiments/development-001/batch-002/SUMMARY.md",
+      "sha256": "353e87b2d4c97f7c42cc5c3b1e335214e125f01db975e2a04882fc077c79ffed"
+    },
+    {
+      "path": "experiments/development-001/batch-002/base-prompt.md",
+      "sha256": "d5b47a9928ccc67b4b6d787f7ef2e3f01c2bfdf7a063b6209efecc5cfbb8129c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/batch_manifest.json",
+      "sha256": "5237b08503388771781021cf276fa75ebc3938a655609a2fcd53156d73e008a8"
+    },
+    {
+      "path": "experiments/development-001/batch-002/carry-forward-v11.md",
+      "sha256": "9d2d5ee11e2e9d6ce4aa06e8cf3057ef95d317ed24a73244865e01054a31e87a"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/claims.json",
+      "sha256": "93dcfcce38a473ff75835184c34452ae1199c8fbc2a815ae34b470a167747862"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/evaluation.json",
+      "sha256": "17c3b9a7631c4d5d37a89bd30c4caab84a1f4a80d18d3e30134916d00f905816"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/evaluation.md",
+      "sha256": "dd3dcfcbd065cd6acda4bbdb6298e14afc33b0c6492170921a16d084680d43e0"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/gaps.json",
+      "sha256": "f494909cfd7834c23decb50ea9a2524be8b732e63c69b050c31d65804d16f6b6"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/job.json",
+      "sha256": "528ffa332e4b77aa5b8232effcde78c1d67512d7436cdcd34720ddad457fc42c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/judge-visible-job.json",
+      "sha256": "137a6fecdd55b96250fd3169502d13f8f4c68b4aa8aad66d89a798d2e26cf75c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/profile.json",
+      "sha256": "98ee808b2b16d2124cbddf9198e516e3b4dc62648e10b7b5baca7c3f33b71c05"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/prompt-changes.json",
+      "sha256": "ba9eebac083a294d2f4b8b31424e061810cd98ff9620c4ab39baea6a32a044df"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/prompt.md",
+      "sha256": "ed9eeca565a5dec8178cb3b042fe662116587a19d7904acd70737ef461d4ab5c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/provenance.json",
+      "sha256": "4517ee22100f86f02087e288c7482505ef7989446ddf1db0179c84c5005df828"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/resume.en.md",
+      "sha256": "a5a1c0f8fde08be3fcf6dc79f5adeda7f938085216a8d85c0132aa87e77a2a14"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-011/resume.zh.md",
+      "sha256": "c5344fd589a13f6ed2d373cec4fff2be179d149c79e2f4bda3766a596e0839ae"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/claims.json",
+      "sha256": "87a3a0d52c82d1a8df2b0ad85082646a09d7e3113e72717f38c8e6249c932fb3"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/evaluation.json",
+      "sha256": "713a3265f1c69562e8e6066c76910b7032ee437febc6002ca8aa84cb1b23f06f"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/evaluation.md",
+      "sha256": "91515ceb30c7ea25cec1e103ee03195b20604bb89f828953898f9685d2191339"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/gaps.json",
+      "sha256": "f88e808854607cbe1fc5ae7efda82676f5bdf76973e1a33f92ed063d70cfdf6b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/job.json",
+      "sha256": "0556a1234a7eb39582be8f7481f8687cae724887bd2eaa1b2ff48ab3a6dedbfc"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/judge-visible-job.json",
+      "sha256": "19617f0cf29b4408a463ba0367c58670d9a8d631482f78f504d6090a78dabb2e"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/profile.json",
+      "sha256": "3ecff48ff28b575971995c6d706b7ee68f3eabe00b0e830bda32ae57eec188a2"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/prompt-changes.json",
+      "sha256": "d8f81587274590b5c51ed73dbe897433a4441c7fcc9c384f5171c37af91a8923"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/prompt.md",
+      "sha256": "1f3d1b291e14321faa796571efdf2d68f19424239f0c54b9bc863841197fa53d"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/provenance.json",
+      "sha256": "2dca68607937d4c5296d5932d06137243024f2efcdf069c79cb758710f539089"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/resume.en.md",
+      "sha256": "835cfc5f7c14a21396c573166c192face8255ac4cfc9fda4cac07a2574d3cbba"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-012/resume.zh.md",
+      "sha256": "69b38ae06c31538d8eeecf54c961b37afed1e5d1388eed5ce60cf17d9ffc331f"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/claims.json",
+      "sha256": "2af8e7b560b68e24d16b480861c028be4d18b4d08abe267ad823c114559a732a"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/evaluation.json",
+      "sha256": "afea7a9d3622ca3b7b339ee0af293438aafb8699cc7a9b8d7db6f247fa1c1299"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/evaluation.md",
+      "sha256": "4b80f13e85e5673d4cf5de3d3ae4c03663820826f642a6c99be340a6c6a6a69f"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/gaps.json",
+      "sha256": "3b323b82273183cc84be8ff740110e102aed44156275a458eb64c6e9a3f7eb2f"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/job.json",
+      "sha256": "306c9a12eeeb2ac8d3498135de0770c6b32224beae7ec0cf3b5d1e3ce2e19a7e"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/judge-visible-job.json",
+      "sha256": "c00e9497181c4283e73ea512e268dae86f865ce63e33c16e8e00a1db126f96b3"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/profile.json",
+      "sha256": "64e0567cffddb96a852ffe663261fece0bcef3c18af03dab3eb34e6907b3691d"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/prompt-changes.json",
+      "sha256": "1e6e6e3133cc8634814f279e7d79ef00fa9e09da57a23f251101324e3f57d32a"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/prompt.md",
+      "sha256": "d5be5e5d92606aab2077fb29a0ab42e478300c6c0a846d5cc53badafe6a5553e"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/provenance.json",
+      "sha256": "ae40fde6207bce32effd450a36ad9cac4486d4063a38c1e3b420ae04a46221b5"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/resume.en.md",
+      "sha256": "7c84987a57f599e1af63dd46f8b65470f0588fcefea8e31f4556592037c3e601"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-013/resume.zh.md",
+      "sha256": "5d8c343f56e921067c3b2de51b9d01129355a85867bd1b16b65022554e18979d"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/claims.json",
+      "sha256": "70ab489b42619fa1ed3465f9bbe730dc7ab8f4d88906e325171236a6591b979c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/evaluation.json",
+      "sha256": "20eb214d13d8056b857054181b3e1560a5ad1a5283f9857367dfc80e8e50becf"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/evaluation.md",
+      "sha256": "c41d00d8c8faae25648fbe32e188eea4a16c97658e7a86f0284647f09db0eaf0"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/gaps.json",
+      "sha256": "643d3835a6077467ac150c23fc1999b825bd0701238ecf790e74a87dcf7074d7"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/job.json",
+      "sha256": "3262262f09488aac2eb77de832c256dcff6b0f05668ad0d6baaa08711104c070"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/judge-visible-job.json",
+      "sha256": "8ddf4d56439567e3d4641a5454c9494ccc1c8339d8a4c12fbd91abd912267cf0"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/profile.json",
+      "sha256": "2d791be6ad41ac93c4dc7e1bd70b0866a2a05f542d25e1e50d65db575b2f8bb0"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/prompt-changes.json",
+      "sha256": "7e2a5b0a580a6815bc40c302d3e4db0777b8066dfd428c6edd21a586a9602467"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/prompt.md",
+      "sha256": "aa6f311ca99476092dc5f8815306a59c4e9a6945ffc4c40e689a8608761d8c0f"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/provenance.json",
+      "sha256": "943d260ecf706dda66d1d64289a669a76ea771299a17d0eff3d1e7eca14e86f3"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/resume.en.md",
+      "sha256": "5aef7c15b443ec804074583572e158d8fbf610e9dbe50d99c1feb3f0a3dbadc4"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-014/resume.zh.md",
+      "sha256": "a3ec47111183120c4ee45eb4bb7337b2b4c0f3083f63faa36b06cded9a234501"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/claims.json",
+      "sha256": "708451b1de3a5558008fc5e74dff3a4c310d7d90741b6451fc94962a8688f6e8"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/evaluation.json",
+      "sha256": "b9f3b160a57a1e0ab1bd31da89fca6524c1d9b861a6a8a0d583c656197246a62"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/evaluation.md",
+      "sha256": "85c219cc4a024d759e48057af4f2310707ee6e081750b4afd87f2d04f932f6a7"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/gaps.json",
+      "sha256": "7523b1bfc03009ab229e0cf63451f7b2e308f78354c6fc1d1f9e86f2c2be1e7c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/job.json",
+      "sha256": "c563901ed619753fe11e9f652b3f43eaaa06cb05119a6f954e55a2aa59ccd9b5"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/judge-visible-job.json",
+      "sha256": "58b5394dabd32dbe15b1815c760a7cb9bb0c2ee9d21c7f702eb4d6ad2f1d9a09"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/profile.json",
+      "sha256": "98217e066273b1ebd9ca345fa4a11e24ca4cc908b36b2b447a0889c0caa51725"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/prompt-changes.json",
+      "sha256": "f17cc8a8c9d8a51ba897197b6a4c01f03e72e882849d2af48e5b21d64c309158"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/prompt.md",
+      "sha256": "bf329c2b72cadec2bd2f02679a3d8d02c8c3e1fd9164787ee4700b258c70370f"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/provenance.json",
+      "sha256": "aee4a90c8474dec94ebe29c0911e72daadf18af21af7ca0a8becd9d9c31e7e79"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/resume.en.md",
+      "sha256": "7b916b70001a836523a790811c469d8c6db6e3250b1b02e597c1dcbdc7e67617"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-015/resume.zh.md",
+      "sha256": "626d0db9878ea6d265f665cf3f13eaacff2d88094273b0d7771e16e29971163b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/claims.json",
+      "sha256": "cd6d701fa68bac9082875608ef12b26f425ab90d008a5894e1c55b8a216d22d1"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/evaluation.json",
+      "sha256": "65245664daf82edb5a0c13019fb9207df230bb40cbb73a39bbda14bdc123b78b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/evaluation.md",
+      "sha256": "d7da9ba3035b99d1a7959b406894fce975fd229949033476f4183fc45e55bc9c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/gaps.json",
+      "sha256": "6b03fe8dd12f4c56c9669f4469f34f22b76095f12b837ef9ebf3f1b29122e508"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/job.json",
+      "sha256": "5ed6839986d449ce6355c30559fe9c53fa2bd33a46366c597b57b90fb3dc4793"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/judge-visible-job.json",
+      "sha256": "eeec2bcea23b84597ef7e95ceccc04e1571b692cd614ac7856ad584c6044dbab"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/profile.json",
+      "sha256": "f4b52160f9da38e2e351ccf44227012fa13feebd3bd7d1c34ffbff2d556de5bb"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/prompt-changes.json",
+      "sha256": "e4e3f82a26caacf86b82ce49c95b629d5e31a7a7c8d7a3b71e2d8e1c5ec7975b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/prompt.md",
+      "sha256": "0f437a8cebdb385f8139211c4afc911fa73257930adf0b713596b5e9f0c3f13c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/provenance.json",
+      "sha256": "67f5e008b5746a1456f07532c184f7041c88b064d6e7adb083ee86418225cd00"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/resume.en.md",
+      "sha256": "b634ab35d21a463492a95e4bb37733024f5e43377ed2e0f0bbada0a46f68b055"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-016/resume.zh.md",
+      "sha256": "e0fc14de6e970fbb63a38b75df9b4c6a0715bcfcddb599c81268c626da999181"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/claims.json",
+      "sha256": "656dec834c60ec6492aa60184610ccde8db846e720acfc4ea25680a67cb93506"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/evaluation.json",
+      "sha256": "cdd43fb835e754421e090d7794538cb43c58ea24dc77e35b436dfa3f09c82787"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/evaluation.md",
+      "sha256": "fdb3bc1fb74166c43f184bff6422c05c9167500ae0737476a66650efc6e98864"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/gaps.json",
+      "sha256": "8bfb1400a442b7d773acfc9d0679f610693a1b5a979bb74c0f155b4bea2d501d"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/job.json",
+      "sha256": "a4cba63248ffaac8034643101a9073f5c017aa59f27125c697de66d57c9020cf"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/judge-visible-job.json",
+      "sha256": "25e41bdce4f36bd3dcb47fdf383e6cbfc9aeca6ad055e8614e840c9beb3102e7"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/profile.json",
+      "sha256": "6f4ae5c558e4986bb457f417e2fd273eef2fc6384f984178a1181ce43ebe32cc"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/prompt-changes.json",
+      "sha256": "793d1dc69b93d5798f3b22a8dadc1053735a01eb7937ef11a193d3332e3ae782"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/prompt.md",
+      "sha256": "bec4dbadcb6dd45244f450d551d6b99bc9ea496fa0569299fdcf6064dc076e2c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/provenance.json",
+      "sha256": "7e5254e4297138bbc71cada1d0f69c22b98fe9e781c6a4910f8b82f6bffb953a"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/resume.en.md",
+      "sha256": "dcc1861e9195d817fe513a8fa829b2f93892811b4e0da9c47a882aec7cb54700"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-017/resume.zh.md",
+      "sha256": "8796121b37fae443925b94e620b1a6e50028ff2063ffe675ff502063a484191c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/claims.json",
+      "sha256": "2315f294eefd0639c29e70afdf908bf619191197800526110cca989dc2446c14"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/evaluation.json",
+      "sha256": "9a09910f5479761b79ea91a77440c667ca381f200d5707bd3a16f4dcd8f06f87"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/evaluation.md",
+      "sha256": "3f29b1dfc0a3f7664bf043ec9c6e909e80cd48d3f656d7a885d09457317ff5db"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/gaps.json",
+      "sha256": "54082b0132961fe7dfeb696889d3ffb58d2098a19a8d6b082bcdb007b536103f"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/job.json",
+      "sha256": "3986f4431ac71de314bc2935c9027233ba1423413f74253ec20df999400888b9"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/judge-visible-job.json",
+      "sha256": "4fb88c947471bb64d7ac4fa59c369483ce09eab22624b235ed0c8db0b610075b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/profile.json",
+      "sha256": "02bf5fc6a7f202b71ffe21b228f29738e9a704ed346436ce4533f0c28c96635d"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/prompt-changes.json",
+      "sha256": "9f928750bd8ea33f4ac961d179cae58be6829d492cad51f4c223466124c58b17"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/prompt.md",
+      "sha256": "ba35ac31c793cb1e42d6fdbeb1c6c39f996b3c74bc055f23cafcb2626eb75d82"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/provenance.json",
+      "sha256": "23376d7d402d3ee275531e7e5610a29eb22a98c010e2df3b00675630721d255d"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/resume.en.md",
+      "sha256": "da0e9b402613c891e0e652687935237c95462d3993c723ab5fd78058ef2afadb"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-018/resume.zh.md",
+      "sha256": "682f84eb3c233c6e98f9f6a9a550e9f8e4491f48a5a3064691f4107494eaf3f1"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/claims.json",
+      "sha256": "fa7c8f07a14652c8a6de4decbea656ef1718d6bce28a55dda0734520007d7ea0"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/evaluation.json",
+      "sha256": "6c77262ddd5bd1725ed78668c74442bfd4c02e4f4ddfb5c3683bf46355de0f14"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/evaluation.md",
+      "sha256": "b5040fe289e267f6d78c346e56da6eee0a1eff936af7008a75e270f41f8c5147"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/gaps.json",
+      "sha256": "29635afd9ff96f0fb3c8c68ea547f2498be795b65ce4c7f8644ec903a2a4ee3e"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/job.json",
+      "sha256": "3952ffea248a0f11e791188f57361a3f6640d0987a514b3157b3dab4ad0bfd87"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/judge-visible-job.json",
+      "sha256": "b2c9b23ec2e3313f07592b0b906fed7f0035d23557f360f532876a7e7e8ee1a7"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/profile.json",
+      "sha256": "d1a05684331e0a8aa46bd530a8c0728f951fab3e8cf59578ddcfcc98a223010b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/prompt-changes.json",
+      "sha256": "f5acff5ee4be5bc9ac374432279f436514a8f155b62d02107d9d6f47f8937499"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/prompt.md",
+      "sha256": "8c4f7ab3666720e7b0361c463e751593059c5d2775691e37ca03fce1f1125c9e"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/provenance.json",
+      "sha256": "96dd7c6042ed0dc4490f7ec4607e95523a51271d67c7ec958483092e28982f53"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/resume.en.md",
+      "sha256": "19d0d50587161df628fecbf9ab8ecec26b648919e0f7497668810c63c2a39c6d"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-019/resume.zh.md",
+      "sha256": "d2b21f6c588c0426817be84370723c224d7309ca36ea00a49ab9282374e29bf3"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/claims.json",
+      "sha256": "d36c7462b53bc9f7fe600bcae1621aacf690b9fe30849d7054d3d12a2ab8f3e9"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/evaluation.json",
+      "sha256": "562d979dbd3bb9f67854b790a0a98f5e8f07aa235ffc008e63b262bb53e8886c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/evaluation.md",
+      "sha256": "5779c8ff223e29f5e1380e00c6b452068eb09f4131e579ae40ff8f07b6573ff1"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/gaps.json",
+      "sha256": "ecd4f71473a37106f9980e8a382c506e010a201b5647116b5ab54740ba02ceca"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/job.json",
+      "sha256": "0dc7a9fe5289fbd34e48948a2538eac00f124657cc41266bc5b469175ed51b0e"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/judge-visible-job.json",
+      "sha256": "f0de057dd7f322f4f036688feba14e20c637b456c57a985f146fe674ebae3768"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/profile.json",
+      "sha256": "3ea8c5d2f8269105b3a9508ac19fe5200261b57c10d015af8da32e89f0ca7237"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/prompt-changes.json",
+      "sha256": "c3949d3d306e5b63b32be09d09b088e16781f005005bfa64eb77aac4a1e1a38b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/prompt.md",
+      "sha256": "ab18baf9336bbb1843a61a3e08e993f369fbbfc0aeb52d76a5a9ee89ac4bd0ca"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/provenance.json",
+      "sha256": "ab0a22d2195b02ef8cde5fdda9b8c853c669b40c6534e2d5e4c34d41e2590af2"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/resume.en.md",
+      "sha256": "adc4952a2facab8f86a25ef436f774299f82a1966b5b66ab80ff946363442e1c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/case-020/resume.zh.md",
+      "sha256": "aeb56fd073f722ff42f490d81fb46ff6e176089d956de8ae0b55610f1f41704b"
+    },
+    {
+      "path": "experiments/development-001/batch-002/evaluation-summary.json",
+      "sha256": "03b751f064dbf753e72a320e4b63230764cf37169640ce7ecb037f275e4f5acb"
+    },
+    {
+      "path": "experiments/development-001/batch-002/manifest_capture.json",
+      "sha256": "a1adfc6c48ae3544d470521e4dd295789f2e05d1c4c778d72ae7d847bde5386c"
+    },
+    {
+      "path": "experiments/development-001/batch-002/next-batch-prompt.md",
+      "sha256": "665ece8513008e45959303c52d0242ec4b9c19297c5581d489061c62e3637c92"
+    },
+    {
+      "path": "experiments/development-001/batch-002/source-label-disagreements.json",
+      "sha256": "fd9868dbd3a1b99c4667654905d5aab531c91394fdbad18a5a053b06dd27dd57"
+    },
+    {
+      "path": "experiments/development-001/batch-002/source_manifest.json",
+      "sha256": "f153fd91c59ab624d0aa827876df1bc627a3a60e480c696068b3330a60af70e6"
+    },
+    {
+      "path": "experiments/development-001/batch-003/EVALUATION-REPORT.md",
+      "sha256": "27f59dc10af3aa890474ddd1522998e51b2206faa3238251bc615f57d56f248a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/SUMMARY.md",
+      "sha256": "7fe74d538fc62f902f1cbc7c77dd562b9d91ce58a416f59def93790b3e34bdf9"
+    },
+    {
+      "path": "experiments/development-001/batch-003/base-prompt.md",
+      "sha256": "d5b47a9928ccc67b4b6d787f7ef2e3f01c2bfdf7a063b6209efecc5cfbb8129c"
+    },
+    {
+      "path": "experiments/development-001/batch-003/batch_manifest.json",
+      "sha256": "f29c2eda0b87e40ec372f7d2964fbb37e0c18d5f5807b0b3e1280cfda2c94695"
+    },
+    {
+      "path": "experiments/development-001/batch-003/carry-forward-v21.md",
+      "sha256": "665ece8513008e45959303c52d0242ec4b9c19297c5581d489061c62e3637c92"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/claims.json",
+      "sha256": "f8fa880a07d2db02071ca61e0e825ad1c4aa240f6950d627dc3e6108d247aaa9"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/evaluation.json",
+      "sha256": "5e7e932525a06a9873d7fed8f4aa07486a4399057b39918d85f9e0915392b7a7"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/evaluation.md",
+      "sha256": "a2f28ea37f90c3d7a44d3a2198ee4570ba41ed86688e79577f0fd730d0fed60b"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/gaps.json",
+      "sha256": "ce43b02696c9336fb3b30b50a4757dde2fe3a75d49e8e96d3790463cf8a3918d"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/job.json",
+      "sha256": "c866a8e12aa0adf4c55efcd6910f2ebbed6dd937450f4fca86545ee08025507e"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/judge-visible-job.json",
+      "sha256": "fa9a5f1df1420991b9bb4ff0ae0427f607a7ee1072a2be3ed7c4092252bfead5"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/profile.json",
+      "sha256": "ed22db87b39de3a3ccf85d495d269ba7eb78eb0a1c859af894f12c289858821e"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/prompt-changes.json",
+      "sha256": "c05117a9c179e688d78ecb75913d74d676ddc7e58e6644f8c448b7d2f0fb0136"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/prompt.md",
+      "sha256": "9200f8ae0478345da307e4940647d5601dbf51d7e7783c66a80d8af04a51ab71"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/provenance.json",
+      "sha256": "0c0bcdbf4e8dd22a23bd3a04e1ce1db363949ca3b9ac15f2f5e02d2d7699f459"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/resume.en.md",
+      "sha256": "2578fb876b89c25d820d37d7cb66bddf115e8394f932af7cbc5e4b00c1893803"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-021/resume.zh.md",
+      "sha256": "bdb9974a9c550dc4aa963a9d64b17a49fcae09d77566291d830668ff407c680b"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/claims.json",
+      "sha256": "f72f1666f3afd0b63118445dfd64691be9fd639f475559736edd633f32276f8d"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/evaluation.json",
+      "sha256": "c063ba05488e75b928a3323adad0a6409f40a62d814f597ced3171ea1f7f8be7"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/evaluation.md",
+      "sha256": "d15454bc797b27d07b383d0d80aece70a6cb9b3f1da4103454b69172f23356d8"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/gaps.json",
+      "sha256": "0ccfd2ca595ae9d9eb8dd01e3c6d3cfcc3d6144696c019cd20a89f58242cb4ad"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/job.json",
+      "sha256": "13be277cb361ec5f82ba080a189dbeb99d14660d2a187bdb4eb93fc084617cca"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/judge-visible-job.json",
+      "sha256": "d16ee9c3167d7bcb9791595c9efa2fbb75c7351a535cacefbd84461e316e4133"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/profile.json",
+      "sha256": "847df98c1504262ec20f3af60f7f0667d6c98ed2c0589b187cdbb6552cfa536a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/prompt-changes.json",
+      "sha256": "64dd1311d5c6405ff9feb94ad5daed2f403d0fb1703658e55a733ca0dd711a34"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/prompt.md",
+      "sha256": "fe2f8044598364d97c5215f65208f175c3df30d4d0ffcd55bf4033ba8e815a21"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/provenance.json",
+      "sha256": "bc6e71302fe243d95c7b3cf5ea8b4d882b25ba79aa0bc822aa4284d55abc6afa"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/resume.en.md",
+      "sha256": "d74398593279c50bbeeba36c55b28dfbc42f2e020511a7dc5add115b75e7af52"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-022/resume.zh.md",
+      "sha256": "b7d8b8a9368abab0fb51b739be82e776f9d5ec22dbb8d5a2ab25af0587b5de3a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/claims.json",
+      "sha256": "501fa2b680bc48295b67a44f5ee0c60d8ea4ef045a17a0df6015e7cc7a01bd65"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/evaluation.json",
+      "sha256": "189ae39dbe88c57c89f50eebd14777f65965bb7bc03935c5b3203c4532233100"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/evaluation.md",
+      "sha256": "eb2241b70162b8e612b6a6c87af16c45d66cebfd46fd8f3405a0a5dcdc6d48f4"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/gaps.json",
+      "sha256": "92cd9f815c03f1989875616120ae4a38820a9aab9635ddcda1626a3249a6dbe9"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/job.json",
+      "sha256": "9597d8036334e7c56a7068e27b48bcdb33a9bf8546c5e35cc63abebedc47ccce"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/judge-visible-job.json",
+      "sha256": "5f47e4deaa1791156f876485c4dce4d06c8eb867ed3bbee3baa93ed06a2d5335"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/profile.json",
+      "sha256": "4d59d9896fc2b4827a4bce2f09b5e5fbd3954f0f2b66a569561fe033dc7d922a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/prompt-changes.json",
+      "sha256": "ef7650e035deafb71aa701d91e268ed30305b7c87f7dfabcbaead0c6abb804a8"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/prompt.md",
+      "sha256": "6dbea49e47de8e5e0662993fc08e554a5540fbc51ef39e4f4640d31f527302e8"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/provenance.json",
+      "sha256": "9e2c8c00cbb137d2cf9f283d06fe2156a13e224e92e0150862ba68d9f0eb99fe"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/resume.en.md",
+      "sha256": "a18ef30b3551abad68c02a56dd9f541bc245dada98b0592e817672bd3fe270ad"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-023/resume.zh.md",
+      "sha256": "fcbac8db39b581845d5f227382f6ec2e5d938f7d3a6b577b30ed21708da803e3"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/claims.json",
+      "sha256": "9aaff61c9d80d28062001de9cb271ed64377bac9c63c867cbc9a65e85b1a2152"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/evaluation.json",
+      "sha256": "5f8648e2ec827c17dee4905d8cc9f73712d7c5064a078aaa3e429f60ef2a200f"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/evaluation.md",
+      "sha256": "75ce4b19c40dda678b857f97167274585dd4b559c2d35f61379ee6582b33c261"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/gaps.json",
+      "sha256": "543bb281e975c8e1991c959a1d617c269ab54c7e24d083e59ea39a00bdcb92eb"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/job.json",
+      "sha256": "2dde3fd0e499d5cf4e62c1b944226e100a81bdcb1cc50d6ae0f5d21dcb996f1c"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/judge-visible-job.json",
+      "sha256": "b83cfabf9363ec4cefc7236636d2a233bb467332ef752bd554ee598324393296"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/profile.json",
+      "sha256": "2da3d1e57999e76e9439c051dffe171dd297c16b60a01e2d6663f0b5c2828786"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/prompt-changes.json",
+      "sha256": "161c19c4dfce3cbf2a008d7c0fe002e50d5e49d54c21824e0bb73f382289b624"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/prompt.md",
+      "sha256": "e1c2378fc67ce8c4a8af5908cbfb8a57de47b19228afe03769ee3bd258e340c1"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/provenance.json",
+      "sha256": "1258b73380f6d729ff7a9d86525d26d58b288c7a7c0b0f6ad9572917ad0cc5c0"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/resume.en.md",
+      "sha256": "5e8f59d9e929cb059bdf77a44ac91d064f98af56d5ee6e35588ae942e50e0b0d"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-024/resume.zh.md",
+      "sha256": "5ef7d81140c9e258d4f09573bfe4c2adfddcc22e00ed4ec7e453ad03fc3b9cd0"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/claims.json",
+      "sha256": "3c95f14dda67b05e99ca610779daaacbadcd16db30374b53904b4e4c2cbd5dd6"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/evaluation.json",
+      "sha256": "a206b54562d19a00a172c3938720ea899d30889e2f4486dffe0dbe7fe2e38a39"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/evaluation.md",
+      "sha256": "e539d185804714eae4fd6a8c295ac5be8d4c67cb77b3a2a8cd3ea6c073a87bbd"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/gaps.json",
+      "sha256": "4df00f33ece52ca94aa2615a37ddc1b57758f42c70062a5f1cda5eb1f4a8545a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/job.json",
+      "sha256": "617b78523e427424ec82ae9dc55d27e7cfdcbed0ed3d9297b62e2d69c5355c89"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/judge-visible-job.json",
+      "sha256": "49e1e9715b6f0282692d22232f4c7541db6bbb68343b398330f84e17f2c6295c"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/profile.json",
+      "sha256": "17db40f4653d8a963d872ccf98e2373ac64233518cd1194be5e54cfb73d18e08"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/prompt-changes.json",
+      "sha256": "a8e3a996c95133b2609317e340de8202f59aec95969fe8dedfe63cfcd901bb50"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/prompt.md",
+      "sha256": "7247fbd9cf34de0d8988641db59cebc781f7544f85cbb82a21506bb34adb6107"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/provenance.json",
+      "sha256": "ac2937852dc6a812805ef5478130f1e14bf0ffcbcca802a9b0bc6bea0c6892ea"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/resume.en.md",
+      "sha256": "98564c60ad00e17cc201151147f4c3edaf0267b3ae3b0d59db3c0c9d959a0ff9"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-025/resume.zh.md",
+      "sha256": "ad8c096d77b48cf8c8e797685a4ac287b085334cef52bbe3e9ca1597ff352e42"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/claims.json",
+      "sha256": "f673e27eee1b530d21ce5c4dc0069d6355d1fa5cb027201650d4929feb04ede5"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/evaluation.json",
+      "sha256": "7de1feaaabf2c0140dc59695a73c4ffe816e471860f89106d7893cbc2db24eb0"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/evaluation.md",
+      "sha256": "9c42d24118a0967342387d14dd26aaa45555837ac1296a45ae1eb231373d8527"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/gaps.json",
+      "sha256": "a38eb9d736e6b775eab2d72ee2041cc1ee1c5d8b4fa5a52bf944d2c2ddcf6a63"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/job.json",
+      "sha256": "db663c951a1b11020b67b084122297d660c874330a18b0384de680ed449ac54b"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/judge-visible-job.json",
+      "sha256": "c9007cebb8d8d5e6f1eba53700269b356419b43d44b55a59479785dd5bb74b81"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/profile.json",
+      "sha256": "154d73db38a4c021bd8e23756d44b53def71ed292418e311d8f4542368751e6c"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/prompt-changes.json",
+      "sha256": "d9ef2a6ead3eca5c9ef3f9e733e4f010c69e5692febcf5494ec8403be813fcf6"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/prompt.md",
+      "sha256": "f7503023b1307b6719d774990eba34fc4e768cab959473952045c058e94d2321"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/provenance.json",
+      "sha256": "a26fe8d785ebb3e1344b05f8eb6f414bbde4f7faaf5fe867de62ff5779a32eb4"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/resume.en.md",
+      "sha256": "20b35757245a1ccc7b236fa1b2f9483c502a4df2aeba5688b29c73d01222d741"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-026/resume.zh.md",
+      "sha256": "6d7fbdaf3b4f8a7f88d7bbeb0ff1313a3425112aecacf289e557ae04614af551"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/claims.json",
+      "sha256": "5f7a98ec5e6665752a6fe859c6c7250e7b18573ae31f474690b28235cc180799"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/evaluation.json",
+      "sha256": "3a506fb1343ebbfe4e0f6d02622b3554d81e93faf9a01a0635598120bc2b0443"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/evaluation.md",
+      "sha256": "1670d3ef44c13569e1522e29017c15fde19323268459fb3fef92b3f114276da2"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/gaps.json",
+      "sha256": "2cd739501e24e20d009391477742ae37f9401551f307550c220b819c6c3249da"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/job.json",
+      "sha256": "64424979d21d66f314009318481250d944d9a7f9e0c8e83566cd434dd794f633"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/judge-visible-job.json",
+      "sha256": "60e624b93f0fe404c84c40f975238d0ec327dfc628002765ea8d8f503bd68875"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/profile.json",
+      "sha256": "292847798bc5592b061d3ddc679340e6f8ab55e583a3a2885752c84b2801269c"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/prompt-changes.json",
+      "sha256": "20535eeae72c665cb089fc9f3aa7f3863a0c82c53c352ce7e38fbe6a2198f1b7"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/prompt.md",
+      "sha256": "8fabf0d99956d4c96076d874d05e857c1121d986c13a828bb1ceb97389fdb4e1"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/provenance.json",
+      "sha256": "8dbfbd8c0a4bd414ee921576e96d20f698f6d34771333bd2ae3581bfff53f096"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/resume.en.md",
+      "sha256": "695c4f091218ca831c4f8bcd43881286b682081ff425480234cc1f3e7c2d70b3"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-027/resume.zh.md",
+      "sha256": "2c7cdcfaea4efcc9d38d1fe612ff17897d38901f3d7dafc6940fffcf0744df30"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/claims.json",
+      "sha256": "85e706c50882ac21949189ac574bd01b195e4a232cae21f296266b9a06f97b5d"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/evaluation.json",
+      "sha256": "6ce254fb37aaca7e5afa351537ca5655d52a9668711eba50fb58108ea77195c7"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/evaluation.md",
+      "sha256": "8e4e8ab45acc61a47a7ad4df4f340976e3fc72ef40f9c682b0c91adce02be8b4"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/gaps.json",
+      "sha256": "d4344397508f0a51c588593234f8be2864ed8eb34442d8abd24467cf5b64a787"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/job.json",
+      "sha256": "b199d6d3662fa10cdc25a4b5d43f09db6485adba1c12a330176ddad57daa7633"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/judge-visible-job.json",
+      "sha256": "b3fb8125d5c9b52962c5e5cea8dc08146ae307c47a7fd1d4d5dd4510a5d10a9c"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/profile.json",
+      "sha256": "7e7da2e1f7c8f6573519f508371bd92397e07dc75170f8de567ad3a31bd096e9"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/prompt-changes.json",
+      "sha256": "eaf8c019e3693a8a561e5e6d89038c7216c7f2fb2034ff80c690ed18933365a4"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/prompt.md",
+      "sha256": "0b721af739b365ab5bef4e2c0c826a09c5f27892f924b0f433119368088dc727"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/provenance.json",
+      "sha256": "c84c7a1b31ba9f640b4564c67463743af0a732499444cafd12a4053f49537c73"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/resume.en.md",
+      "sha256": "2dddbc04e7da21568874c17732fefefb3ed0e75eae974c157ff5d9f3ccf5950d"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-028/resume.zh.md",
+      "sha256": "1d74f75203fc402eab204df4bf03d6ab75cff95db3b6207932c620b9bd475dcd"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/claims.json",
+      "sha256": "bbeed6383036ccf9f5a02daafda4bd1a0d15e1d77fabda7ffc4525abadc86f03"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/evaluation.json",
+      "sha256": "79d8496091bf57353c702ab1962290090451b40dfe534242c5ef33ccc1c4a581"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/evaluation.md",
+      "sha256": "0019ca51608745bf2861e1ae5940d281346ae0721856070f01f4fda91efac0ac"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/gaps.json",
+      "sha256": "fb1243cde9c2b548708b61356f413813b3cce69a303232527fa5323343e399eb"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/job.json",
+      "sha256": "abf4c261a603806a5799eca64e759b9fb1d59f2a4d7ed254161209f09a8f1f98"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/judge-visible-job.json",
+      "sha256": "072aaee14c02496cb0e77faac4cee8d7756381abcdb5355939b6aa56b516fd87"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/profile.json",
+      "sha256": "55dffa2908eb2b4c313d2dc93112fa5a1bf5ae2ef8ad26d63bb55f7c15cc81b5"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/prompt-changes.json",
+      "sha256": "097d1e8ae615e6585d1dec7d7191dfe73132d1d826e5d04c25b3b68e5d274374"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/prompt.md",
+      "sha256": "48473f32bd91e2d9a1c4f8a9b33718c79d3abe2b31dda57acbd41dd81608c286"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/provenance.json",
+      "sha256": "cbb6903171891f217f44fbbbb5f333153bc5f6d648a03b90664db79787318c70"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/resume.en.md",
+      "sha256": "36b5379c5a6d2b35709775ba1bbd1b29970d730946e07384e5be0049014f2c7a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-029/resume.zh.md",
+      "sha256": "d72e88039cb693adf0bf15a9af77cbb6abc496dd0d6875fde5e7c67230018553"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/claims.json",
+      "sha256": "fc26ee2d746779e9d6780936d03080bf9538c5ad90f9ece1655c5877a5bc5e6a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/evaluation.json",
+      "sha256": "8d74b794157f70751d94784142ea7896fcd906f2e926201df7370e743fca4dbb"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/evaluation.md",
+      "sha256": "ec827bad30a8c4f162951b10ede3e71915beaf37a608ef899bfb6a6cabafa70d"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/gaps.json",
+      "sha256": "74ea5e7c50c42e435b1acd79d6f3c9a942e63450b418eb42ac32b2d236b7c599"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/job.json",
+      "sha256": "c3c504e39bbc2c290b2f1f13067c4a7ce39a374bb6adcf6cb32d28445a33aaa7"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/judge-visible-job.json",
+      "sha256": "ea3b2860a4a83ba38c887c94bc8dbba293a036e70523c46f59cd14ea1e837627"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/profile.json",
+      "sha256": "89bc31f962cf00137d4a4a9dac503a34fe647a5866ed82e8f350fa59f83e60dd"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/prompt-changes.json",
+      "sha256": "f9cff70f11970b2383ff5499fe45c1967849380607dc879f5e1aa8fec9332dec"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/prompt.md",
+      "sha256": "958a70c66203377512cea90374114d8a44e791952f5c46f3866a5b9e5b60367a"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/provenance.json",
+      "sha256": "cd79952aa78129aaeab1dc6ccab7d82382be34ebe9c64648047ea3f8e39ebd69"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/resume.en.md",
+      "sha256": "27d11416b53f355306c27a322431bad417d32b910829acbaa4e699b81d092e10"
+    },
+    {
+      "path": "experiments/development-001/batch-003/case-030/resume.zh.md",
+      "sha256": "d31cec96c1bf621a9c39b0684464da76e05c8f8ecf2f0375d875e7902dab8a31"
+    },
+    {
+      "path": "experiments/development-001/batch-003/cumulative-30-summary.json",
+      "sha256": "07a29bec486119e239183c198da2f02507728884470219bee97f1477022ec4e2"
+    },
+    {
+      "path": "experiments/development-001/batch-003/evaluation-summary.json",
+      "sha256": "d1bbe094b26e9e976e7e487257df8dbadb8bdd2d742647653edfa7aa068a44d2"
+    },
+    {
+      "path": "experiments/development-001/batch-003/manifest_capture.json",
+      "sha256": "945e27e277c2c4fc5b5af0e862b6d7ec379732a1ad1597022045b9c04168c721"
+    },
+    {
+      "path": "experiments/development-001/batch-003/next-batch-prompt.md",
+      "sha256": "ba97df168e4d56a8aa785ee321ff358151e1e074b583ac3a22f29b275c73a364"
+    },
+    {
+      "path": "experiments/development-001/batch-003/source-label-disagreements.json",
+      "sha256": "14d1495f58da2e1dfedc379ec25fc246c9863f3428bfb34265c50d6be20edc14"
+    },
+    {
+      "path": "experiments/development-001/batch-003/source_manifest.json",
+      "sha256": "ed32ac9fb2b916d3b11bbc433223c55f730c93c85bdd3f1950e3f63fc9c416bd"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/README.md",
+      "sha256": "ae0bedcafcf883b4a3c384b1ae2737569dbcd046f5f1976ae7b0208243a79d2b"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/RESULTS.md",
+      "sha256": "95fa74b6fae7a876a0aae7258160dd2265b065f3bf46e93805b1bf4a7ff55c38"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_input_paths.txt",
+      "sha256": "69a60b6a6dbc43b0dcfe1b07d2acc915e9e070bdcce444ed1cc041eba9d1a722"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/b4t9.json",
+      "sha256": "c40a2e0536aba6fa33d226deb1a59ce8df905fae0c73d19f65df03a727c26f02"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/c2z6.json",
+      "sha256": "532f8fc3fa54daeb82c05e1d69d36325a6e823a8755c7714205954d074851f8a"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/d9k4.json",
+      "sha256": "754c21c707c925ebedfa4b536e57376a2350cbc2179488417229c290b7b5e78d"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/f6a2.json",
+      "sha256": "47d847ad62dd18cde4042c14c584258b8f40de1031090a9ea2e0ff63564a0e66"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/h5p1.json",
+      "sha256": "b0b6afb8b43dd4f019239277b5a906fd1e8814a9442eb9b62d7602565e910a65"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/j1u7.json",
+      "sha256": "483b61fbe479a9d28bb23d2e2cf4229e6c13181f55a491bd1c221c59c5fc2650"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/m4e9.json",
+      "sha256": "74fa6d504ec5ed6776e74e4a8805fb21a364aa9cf548bac4fc3d4a1eb8c6c8a8"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/n8c3.json",
+      "sha256": "4080c226f5f38a64ef59b6e705fd6c71c9d45903ef0b15d8b7d20f92b5e67005"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/q7m2.json",
+      "sha256": "682e66fe5b90cd1f7b60c48c66332d7958a7d2daefafc12b786e01aa13a3fd0c"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/r8g5.json",
+      "sha256": "71bac6390668dc5c0079eb2ff7a480dcdd9001de1a6a086209a4942ecbe76e86"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/s3w8.json",
+      "sha256": "527e7274dcce95fb046c6829aa7425777e9cab6f8bd6e25227386a574836d1f3"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/blind_inputs/v2r6.json",
+      "sha256": "1ef0453dc4ba9fed337b28b7291725a8dd54600992c0b95103a7a3dafc7aa71c"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/export_transformation_ledger.json",
+      "sha256": "46f746a9ffffbcc7d6191cca6c8af9ee37718800e1e62a1535e3898a17d92d91"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/frozen_input_manifest.json",
+      "sha256": "e43a3d5f1a29774a90df59f4f3edb2e175e6587f2587409d58d794ef0c991b59"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/b4t9.json",
+      "sha256": "8f5a37324a84a5fe19ba53c2455c8717dc8c0c09edeab1c11d282ad23bd20008"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/c2z6.json",
+      "sha256": "176ec547d1d243496dcd8b87486eecbd156f824d6836c72eb2b7ec3ba20cc2e7"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/confusion_matrix_plan.md",
+      "sha256": "e7583df4634945bc8e9c0918762c346f614f57f83ea9bc2f63cf4fb26af15229"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/d9k4.json",
+      "sha256": "9630e5223039a27d35b4812f2929cf609a4166678fc689c00ff30e89b648148a"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/f6a2.json",
+      "sha256": "1d37a06abbbd2f38c70c87d10be44340a2f63d588a3df41f7dc733aeb6739ef6"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/h5p1.json",
+      "sha256": "559dc7b6fa673cbd739d6966e772779d07b10ad3b86ad6166da5e72f42215c62"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/j1u7.json",
+      "sha256": "026c295d972b8f4f0ec78ffa8a6c731fb31c156979aa78ca2d90a2132de4e17f"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/m4e9.json",
+      "sha256": "d4a70559deaaaf9c1c3e4ca4a163c68e8d1ef7e3dc0e8b344d90a33bf480bbc1"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/n8c3.json",
+      "sha256": "0304c49713524ff9d54dfd888458f6815f381733572056f5728d8d4d5d769ca8"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/q7m2.json",
+      "sha256": "11a73c64a8d74bc328fa2add171dad93c5d2d2d6c32084da4b8533d568402596"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/r8g5.json",
+      "sha256": "6d4050cb39190789e4c24952564ce32fd38b9d5fed8ac6af77f140312e8cdcbc"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/s3w8.json",
+      "sha256": "2d34d4123d33b1467cbbad39637c36e67f1e7f2baffacafc4dc87dc22c4f1a6e"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/gold/v2r6.json",
+      "sha256": "7b76ba706ba10f6dd18c132f905e9c55cb2d9b8fb76d59def2a227b7832e4590"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/b4t9.json",
+      "sha256": "ae238460f600620ec9d9a5ff690d28cb7fe2250d3c5d399137a0e07d235a7fe4"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/c2z6.json",
+      "sha256": "53239cd4cfb39386b147e311e1491a09418fb55257f7385f2495a78417422ddb"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/d9k4.json",
+      "sha256": "47bf117cab5b5721da8416d973114d538d0ed79854365d23d93ac354221ef203"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/f6a2.json",
+      "sha256": "01d99769a5b52fc5afeed7deb17410bf071ddd63229495a77d7e977100327b0d"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/h5p1.json",
+      "sha256": "a843f622dca3ed2dd798552327764622f0e3c8fb6e5d15861813a87996a6d3be"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/j1u7.json",
+      "sha256": "8bd108b9e1748106089493be1a2d54977735663381d038bc2ecd4ec5329f7347"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/m4e9.json",
+      "sha256": "58e45519794c772386689691d8951d4289a68526ba830233e5b55da3f405a08b"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/n8c3.json",
+      "sha256": "9ce9fc496508e6b1be35fd3e7dd6668f89217c9a2ee5287b55dca107b5e6fb86"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/q7m2.json",
+      "sha256": "9df3d488d66dd4bc89af904abb27fe07a61a3c8c2a6f104c4f2aca75952f05f6"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/r8g5.json",
+      "sha256": "8ab08dcb72fd246dae93cc0fe16afc660c3b1a9fc12c74bd3e6bd76e5bb98218"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/s3w8.json",
+      "sha256": "c8defee0278a354f0c54139f644ffe63eb6531e483ee4b67bdcb4aa37e80f34c"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/judgments/v2r6.json",
+      "sha256": "ebb61cffb5541ba26cc47800147718582239289954433bb2e7c89fe67b21a3a6"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/public_safe_manifest.json",
+      "sha256": "cc33d843b9b918de6b48fb2243c42ca1226217de11edbd4c2d8e055ee6083360"
+    },
+    {
+      "path": "experiments/judge-calibration-001-public/summary.json",
+      "sha256": "99b051dcbb3a1e2f024867f09f54eb480af4568751e51e1dd9c17af5007f0307"
+    }
+  ],
+  "note": "Snapshot at introducing commit; global trackers may change in later commits. Frozen case artifacts remain unchanged."
+}

@@ -1,0 +1,7 @@
+{
+  "version": 12,
+  "previous_case": "case-011",
+  "previous_evaluation_sha256": "17c3b9a7631c4d5d37a89bd30c4caab84a1f4a80d18d3e30134916d00f905816",
+  "changes": [],
+  "reason": "Case011 had no new repair; retain completed reviewer approval, scope and action-parity checks without inventing changes."
+}

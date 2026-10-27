@@ -42,3 +42,5 @@ Current execution choice: existing product plan only; external paid providers re
 ## Continuing development
 
 The separate [development tracker](DEVELOPMENT_PROGRESS.md) records the new 30-pair effort and subsequent batches. Initial reviewed publication:10 completed pairs,9 factual passes and1 needs_review; old pilot files remain unchanged.
+
+Initial 30 new development pairs are now complete: 29 factual passes, 1 retained needs_review, 0 known fails according to unvalidated native judgments. See the development tracker for the separate ongoing extension and calibration diagnostic. No paid calls or rendered-document checks were added.

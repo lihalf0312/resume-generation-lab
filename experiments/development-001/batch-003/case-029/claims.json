@@ -1,0 +1,51 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Part-time Stock Assistant | Fictional Shop D029 | **June 2025–August 2026**",
+    "zh": "兼职库存助理｜虚构商店D029｜**2025年6月—2026年8月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Checked inbound cartons against delivery notes and reported damaged packaging to the shift lead.",
+    "zh": "依据送货单检查入库纸箱，并向班次负责人报告包装损坏。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Used a handheld scanner to record stock movements and followed assigned shelf-location codes.",
+    "zh": "使用手持扫描器记录库存移动，并遵循指定货架位置编码。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F05",
+      "F06"
+    ],
+    "en": "Helped relabel 60 shelf positions in one stockroom zone using an approved location map. In 20 sampled retrievals from that zone after relabeling, median lookup time fell from 4 to 3 minutes; the shift team performed the work.",
+    "zh": "依据获批位置图，协助为一个库房区域的60个货架位置重新贴标。重新贴标后，在该区域抽样的20次取货中，查找时间中位数从4分钟降至3分钟，工作由班次团队完成。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "Supported weekly cycle counts and passed variances to the stock controller rather than independently changing balances.",
+    "zh": "协助每周循环盘点，并将差异提交库存管理员，而非独立调整余额。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Certificate in Retail Operations | Fictional Institute D029 | **Completed 2025**",
+    "zh": "零售运营结业证书｜虚构院校D029｜**完成时间：2025年**"
+  }
+]

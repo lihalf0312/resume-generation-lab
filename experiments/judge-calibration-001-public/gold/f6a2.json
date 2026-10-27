@@ -1,0 +1,16 @@
+{
+  "case_id": "f6a2",
+  "expected_factual_issue": true,
+  "issue_type": "in_progress_as_awarded",
+  "injected_spans": [
+    {
+      "language": "en",
+      "text": "awarded September 2025"
+    },
+    {
+      "language": "zh",
+      "text": "2025年9月获学位"
+    }
+  ],
+  "expectation": "Flag degree award: source establishes ongoing enrollment and expected June 2027 completion."
+}

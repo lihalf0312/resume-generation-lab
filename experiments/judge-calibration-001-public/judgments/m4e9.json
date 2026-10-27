@@ -1,0 +1,102 @@
+{
+  "schema_version": "independent_blind_judgment_v1",
+  "case_id": "m4e9",
+  "input_path": "blind_inputs/m4e9.json",
+  "inputsha": "74fa6d504ec5ed6776e74e4a8805fb21a364aa9cf548bac4fc3d4a1eb8c6c8a8",
+  "input_sha256": "74fa6d504ec5ed6776e74e4a8805fb21a364aa9cf548bac4fc3d4a1eb8c6c8a8",
+  "judge_label": "llm_judge_unvalidated/native_model_unknown",
+  "rubric_version": "0.1.0",
+  "verdict": "fail",
+  "factual_fidelity": "fail",
+  "summary": "A draft plan targeting 200 customers is presented as executed research. The source expressly says the survey was not launched and no responses collected. The 200 figure is a planned target, not an achieved participant count.",
+  "claims": [
+    {
+      "claim_id": "m4e9.resume.en.line1",
+      "text": "Research assistant | Coral Lantern Lab | April–July 2024",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "m4e9.resume.en.line2",
+      "text": "Summarized 14 interview transcripts. Executed a follow-up survey of 200 customers.",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "A draft plan targeting 200 customers is presented as executed research. The source expressly says the survey was not launched and no responses collected. The 200 figure is a planned target, not an achieved participant count."
+    },
+    {
+      "claim_id": "m4e9.resume.zh.line1",
+      "text": "研究助理｜珊瑚灯笼实验室｜2024年4月—7月",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "m4e9.resume.zh.line2",
+      "text": "总结14份访谈文字稿。已执行面向200名客户的后续问卷调查。",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "A draft plan targeting 200 customers is presented as executed research. The source expressly says the survey was not launched and no responses collected. The 200 figure is a planned target, not an achieved participant count."
+    }
+  ],
+  "issues": [
+    {
+      "issue_id": "m4e9.survey_status",
+      "severity": "factual_blocker",
+      "dimension": "factual_fidelity",
+      "status": "fail",
+      "locations": [
+        {
+          "claim_id": "m4e9.resume.en.line2",
+          "json_pointer": "/resume/en",
+          "line_1_based": 2,
+          "quote": "Executed a follow-up survey of 200 customers."
+        },
+        {
+          "claim_id": "m4e9.resume.zh.line2",
+          "json_pointer": "/resume/zh",
+          "line_1_based": 2,
+          "quote": "已执行面向200名客户的后续问卷调查。"
+        }
+      ],
+      "observed_issue": "A draft plan targeting 200 customers is presented as executed research. The source expressly says the survey was not launched and no responses collected. The 200 figure is a planned target, not an achieved participant count.",
+      "source_fact_ids": [
+        "/profile/facts/2"
+      ],
+      "source_evidence": [
+        {
+          "json_pointer": "/profile/facts/2",
+          "en": "Drafted a follow-up survey plan targeting 200 customers; survey was not launched, no responses collected, and no product changes implemented.",
+          "zh": "起草面向200名客户的后续问卷计划；问卷未发布，未收集回复，也未实施产品变更。"
+        }
+      ],
+      "safe_rewrite_or_question": "Say drafted a follow-up survey plan targeting 200 customers; not launched. / 改为起草面向200名客户的后续问卷计划，尚未发布。",
+      "confidence": 0.99
+    }
+  ],
+  "confidence": {
+    "level": "high",
+    "value": 0.99,
+    "interpretation": "Subjective confidence in source-relative judgment, not calibrated accuracy or candidate truthfulness."
+  },
+  "limitations": [
+    "Only the supplied source facts, resume strings, job description and rubric were assessed. User-supplied facts were not independently verified.",
+    "Fact and claim IDs were not supplied; stable JSON pointers and language-specific 1-based resume line identifiers are used instead.",
+    "Native model identity is unknown; this is an unvalidated LLM judgment, not HR expert annotation.",
+    "No PDF/DOCX or rendered artifact was supplied or assessed. No extraction, ATS-compatibility, layout, hiring probability or candidate-quality claims are made."
+  ],
+  "format_readability": "not_assessed",
+  "overall_score": null,
+  "export_ready": false,
+  "export_ready_reason": "Factual fidelity gate is not pass; actual exported/rendered artifact checks are also absent."
+}

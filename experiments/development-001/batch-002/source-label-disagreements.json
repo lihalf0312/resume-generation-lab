@@ -1,0 +1,26 @@
+{
+  "notice": "Source labels are design aids, not gold truth; originals remain frozen.",
+  "disagreements": [
+    {
+      "case_id": "case-014",
+      "requirement_id": "R02",
+      "source_design_label": "direct",
+      "independent_judge_label": "transferable",
+      "judge_reason": "Heading-style capability related to accessible structure; accessible-heading practice or validation not documented."
+    },
+    {
+      "case_id": "case-015",
+      "requirement_id": "R03",
+      "source_design_label": "direct",
+      "independent_judge_label": "transferable",
+      "judge_reason": "Excel lookup sheet performs reference checks, but specific lookup-function use is not explicit; do not infer XLOOKUP/VLOOKUP from sheet name."
+    },
+    {
+      "case_id": "case-020",
+      "requirement_id": "R02",
+      "source_design_label": "transferable",
+      "independent_judge_label": "direct",
+      "judge_reason": "Drafted orientation materials directly, but only imaginary coursework, not delivered volunteer programme."
+    }
+  ]
+}

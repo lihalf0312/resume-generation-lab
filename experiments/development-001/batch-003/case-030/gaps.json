@@ -1,0 +1,18 @@
+[
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "Candidate did not write grant applications; successful independent grant applications not shown."
+  },
+  {
+    "fact_ids": [
+      "F03",
+      "F05",
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "status": "scope_limit",
+    "reason": "35 is volunteer pool size, not recruits.12-session comparisons and team responsibility retained. Contact removal is not full anonymization certification; safeguarding referral is not independent case management or formal qualification. No fundraising-target responsibility."
+  }
+]

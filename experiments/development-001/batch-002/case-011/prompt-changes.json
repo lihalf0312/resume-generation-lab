@@ -1,0 +1,9 @@
+{
+  "version": 11,
+  "previous_case": "case-010",
+  "previous_evaluation_sha256": "6db3cc4bbd3660bf556f7da9e0337a06ac352df0485e905ace2e443b31dca79b",
+  "changes": [
+    "Preserve completed review status: tests reviewed by engineering lead, not merely submitted for review."
+  ],
+  "reason": "Carry case010 feedback across batches; predecessor evaluation SHA256 recorded. Retain prior date, Chinese collocation and coordinated-action checks."
+}

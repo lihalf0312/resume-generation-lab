@@ -1,0 +1,7 @@
+{
+  "source_manifest_sha256": "ed32ac9fb2b916d3b11bbc433223c55f730c93c85bdd3f1950e3f63fc9c416bd",
+  "captured_at": "2026-10-27T18:22:56.000811+00:00",
+  "applies_before_generation_from": "case-021",
+  "already_frozen_without_snapshot_reference": [],
+  "note": "Capture and verification persisted before any batch003 generation."
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Quality Trainee | Fictional Ceramic Works B17 | **August 2024–August 2026**",
+    "zh": "质量见习员｜虚构陶瓷工厂B17｜**2024年8月—2026年8月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Checked glazed tile dimensions with calipers against the shift inspection sheet under supervision.",
+    "zh": "在监督下使用卡尺，依据班次检验表检查釉面砖尺寸。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Recorded 320 sampled tile measurements in a **February 2026** inspection exercise.",
+    "zh": "在**2026年2月**的检验练习中记录320次抽样瓷砖测量。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Labeled nonconforming samples for quality-engineer review, without authority to approve batch release.",
+    "zh": "标记不合格样品供质量工程师复核，不具备批次放行审批权限。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F08"
+    ],
+    "en": "Entered inspection results in spreadsheets and used basic charts to show measurement ranges.",
+    "zh": "将检验结果录入电子表格，并使用基础图表呈现测量范围。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F06",
+      "F07"
+    ],
+    "en": "Prepared a photo reference sheet for 7 visible glaze-defect types in **December 2025**; the shift trainer approved it for internal trainee practice only.",
+    "zh": "**2025年12月**为7类可见釉面缺陷制作照片参考表，经班次培训员批准，仅用于内部见习练习。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Associate Qualification in Industrial Quality | Fictional Technical College B17 | **Completed 2024**",
+    "zh": "工业质量专科学历｜虚构技术学院B17｜**完成时间：2024年**"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "transferable",
+    "reason": "Community-venue room confirmations, not hotel guest reservation employment; no accuracy rate supplied."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No hotel PMS or hotel room-inventory experience recorded."
+  },
+  {
+    "fact_ids": [
+      "F04",
+      "F08"
+    ],
+    "status": "scope_limit",
+    "reason": "Refund exceptions escalated, not approved; no occupancy, conversion or satisfaction improvement metric available."
+  }
+]

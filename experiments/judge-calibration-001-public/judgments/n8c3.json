@@ -1,0 +1,108 @@
+{
+  "schema_version": "independent_blind_judgment_v1",
+  "case_id": "n8c3",
+  "input_path": "blind_inputs/n8c3.json",
+  "inputsha": "4080c226f5f38a64ef59b6e705fd6c71c9d45903ef0b15d8b7d20f92b5e67005",
+  "input_sha256": "4080c226f5f38a64ef59b6e705fd6c71c9d45903ef0b15d8b7d20f92b5e67005",
+  "judge_label": "llm_judge_unvalidated/native_model_unknown",
+  "rubric_version": "0.1.0",
+  "verdict": "fail",
+  "factual_fidelity": "fail",
+  "summary": "40% to 50% is a 10-percentage-point increase, or (50−40)/40 = 25% relative increase, not 10% relative. Dashboard reporting does not itself claim causal credit.",
+  "claims": [
+    {
+      "claim_id": "n8c3.resume.en.line1",
+      "text": "Renewal coordinator | Violet Compass Studio | 2023–2024",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "n8c3.resume.en.line2",
+      "text": "Prepared a dashboard reporting a 10% relative increase in renewal rate from Q1 to Q2 2024.",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "40% to 50% is a 10-percentage-point increase, or (50−40)/40 = 25% relative increase, not 10% relative. Dashboard reporting does not itself claim causal credit."
+    },
+    {
+      "claim_id": "n8c3.resume.zh.line1",
+      "text": "续订协调员｜紫罗兰罗盘工作室｜2023—2024年",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "n8c3.resume.zh.line2",
+      "text": "制作仪表板，报告2024年第一季度至第二季度续订率相对增长10%。",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "40% to 50% is a 10-percentage-point increase, or (50−40)/40 = 25% relative increase, not 10% relative. Dashboard reporting does not itself claim causal credit."
+    }
+  ],
+  "issues": [
+    {
+      "issue_id": "n8c3.relative_change",
+      "severity": "factual_blocker",
+      "dimension": "factual_fidelity",
+      "status": "fail",
+      "locations": [
+        {
+          "claim_id": "n8c3.resume.en.line2",
+          "json_pointer": "/resume/en",
+          "line_1_based": 2,
+          "quote": "10% relative increase"
+        },
+        {
+          "claim_id": "n8c3.resume.zh.line2",
+          "json_pointer": "/resume/zh",
+          "line_1_based": 2,
+          "quote": "相对增长10%"
+        }
+      ],
+      "observed_issue": "40% to 50% is a 10-percentage-point increase, or (50−40)/40 = 25% relative increase, not 10% relative. Dashboard reporting does not itself claim causal credit.",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "source_evidence": [
+        {
+          "json_pointer": "/profile/facts/1",
+          "en": "Renewal rate rose from 40% of 100 eligible accounts in Q1 to 50% of 100 eligible accounts in Q2 of 2024.",
+          "zh": "2024年续订率从第一季度100个符合条件账户中的40%升至第二季度100个符合条件账户中的50%。"
+        },
+        {
+          "json_pointer": "/profile/facts/2",
+          "en": "Prepared the renewal dashboard; the rate change was not causally attributed to this work.",
+          "zh": "制作续订仪表板；未将续订率变化归因于这项工作。"
+        }
+      ],
+      "safe_rewrite_or_question": "Report renewal rate rising from 40% to 50% (10 percentage points; 25% relative) from Q1 to Q2 2024, without causal attribution. / 报告2024年第一季度至第二季度续订率从40%升至50%（提高10个百分点，相对增长25%），不归因于制作仪表板。",
+      "confidence": 0.99
+    }
+  ],
+  "confidence": {
+    "level": "high",
+    "value": 0.99,
+    "interpretation": "Subjective confidence in source-relative judgment, not calibrated accuracy or candidate truthfulness."
+  },
+  "limitations": [
+    "Only the supplied source facts, resume strings, job description and rubric were assessed. User-supplied facts were not independently verified.",
+    "Fact and claim IDs were not supplied; stable JSON pointers and language-specific 1-based resume line identifiers are used instead.",
+    "Native model identity is unknown; this is an unvalidated LLM judgment, not HR expert annotation.",
+    "No PDF/DOCX or rendered artifact was supplied or assessed. No extraction, ATS-compatibility, layout, hiring probability or candidate-quality claims are made."
+  ],
+  "format_readability": "not_assessed",
+  "overall_score": null,
+  "export_ready": false,
+  "export_ready_reason": "Factual fidelity gate is not pass; actual exported/rendered artifact checks are also absent."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "transferable",
+    "reason": "Repair booking changes transfer to coordination; no actual outpatient work documented."
+  },
+  {
+    "requirement_id": "R02",
+    "status": "scope_limit",
+    "reason": "Escalation behavior is evidenced in repair service, not clinical decision-making."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "Shared calendar and fictional checklist are not an electronic patient-booking system."
+  },
+  {
+    "fact_id": "F08",
+    "status": "scope_limit",
+    "reason": "No clinical qualification, patient-system access or healthcare employment; no such claims."
+  }
+]

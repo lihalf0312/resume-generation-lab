@@ -1,0 +1,28 @@
+{
+  "case_id": "q7m2",
+  "profile": {
+    "candidate_id": "q7m2",
+    "facts": [
+      {
+        "en": "Inventory assistant at Amber Basin Workshop, January 2022–December 2023.",
+        "zh": "2022年1月至2023年12月任琥珀盆地工坊库存助理。"
+      },
+      {
+        "en": "Reconciled 240 stock records monthly using spreadsheets.",
+        "zh": "每月使用电子表格核对240条库存记录。"
+      },
+      {
+        "en": "Completed a vocational certificate in logistics in June 2021; no university degree.",
+        "zh": "2021年6月完成物流职业证书；无大学学位。"
+      }
+    ]
+  },
+  "job_description": {
+    "en": "Inventory analyst: reconcile stock counts and explain discrepancies.",
+    "zh": "库存分析员：核对库存数量并解释差异。"
+  },
+  "resume": {
+    "en": "Inventory assistant | Amber Basin Workshop | January 2022–December 2023\nReconciled 240 stock records monthly using spreadsheets.\nEducation: Bachelor of Science in Logistics, 2021.",
+    "zh": "库存助理｜琥珀盆地工坊｜2022年1月—2023年12月\n每月使用电子表格核对240条库存记录。\n教育：物流学理学学士，2021年。"
+  }
+}

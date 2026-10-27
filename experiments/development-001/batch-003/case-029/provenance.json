@@ -1,0 +1,38 @@
+{
+  "case_id": "case-029",
+  "source_manifest_capture": {
+    "source_manifest_sha256": "ed32ac9fb2b916d3b11bbc433223c55f730c93c85bdd3f1950e3f63fc9c416bd",
+    "captured_at": "2026-10-27T18:22:56.000811+00:00",
+    "applies_before_generation_from": "case-021",
+    "already_frozen_without_snapshot_reference": [],
+    "note": "Capture and verification persisted before any batch003 generation."
+  },
+  "source_manifest_capture_sha256": "945e27e277c2c4fc5b5af0e862b6d7ec379732a1ad1597022045b9c04168c721",
+  "generated_at": "2026-10-27T18:28:08.171190+00:00",
+  "generation_method": "native_LLM_once",
+  "model_id": "native_model_unknown",
+  "attempt": 1,
+  "source_path": "experiments/development-001/batch-003/case-029/profile.json",
+  "source_sha256": {
+    "profile.json": "55dffa2908eb2b4c313d2dc93112fa5a1bf5ae2ef8ad26d63bb55f7c15cc81b5",
+    "job.json": "abf4c261a603806a5799eca64e759b9fb1d59f2a4d7ed254161209f09a8f1f98"
+  },
+  "prompt_sha256": "48473f32bd91e2d9a1c4f8a9b33718c79d3abe2b31dda57acbd41dd81608c286",
+  "skill_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "output_sha256": {
+    "resume.en.md": "36b5379c5a6d2b35709775ba1bbd1b29970d730946e07384e5be0049014f2c7a",
+    "resume.zh.md": "d72e88039cb693adf0bf15a9af77cbb6abc496dd0d6875fde5e7c67230018553",
+    "claims.json": "bbeed6383036ccf9f5a02daafda4bd1a0d15e1d77fabda7ffc4525abadc86f03",
+    "gaps.json": "fb1243cde9c2b548708b61356f413813b3cce69a303232527fa5323343e399eb"
+  },
+  "visual_checks": "not_assessed",
+  "docx_pdf_export": false,
+  "source_requirement_labels": "design aid only, not evaluator truth",
+  "frozen": true
+}

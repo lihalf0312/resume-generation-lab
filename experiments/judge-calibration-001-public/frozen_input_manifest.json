@@ -1,0 +1,67 @@
+{
+  "dataset": "judge-calibration-001",
+  "frozen_at_utc": "2026-10-27T18:21:55.776981+00:00",
+  "status": "frozen_before_any_judge_submission",
+  "inputs": [
+    {
+      "case_id": "q7m2",
+      "path": "blind_inputs/q7m2.json",
+      "sha256": "682e66fe5b90cd1f7b60c48c66332d7958a7d2daefafc12b786e01aa13a3fd0c"
+    },
+    {
+      "case_id": "b4t9",
+      "path": "blind_inputs/b4t9.json",
+      "sha256": "c40a2e0536aba6fa33d226deb1a59ce8df905fae0c73d19f65df03a727c26f02"
+    },
+    {
+      "case_id": "n8c3",
+      "path": "blind_inputs/n8c3.json",
+      "sha256": "4080c226f5f38a64ef59b6e705fd6c71c9d45903ef0b15d8b7d20f92b5e67005"
+    },
+    {
+      "case_id": "v2r6",
+      "path": "blind_inputs/v2r6.json",
+      "sha256": "1ef0453dc4ba9fed337b28b7291725a8dd54600992c0b95103a7a3dafc7aa71c"
+    },
+    {
+      "case_id": "h5p1",
+      "path": "blind_inputs/h5p1.json",
+      "sha256": "b0b6afb8b43dd4f019239277b5a906fd1e8814a9442eb9b62d7602565e910a65"
+    },
+    {
+      "case_id": "d9k4",
+      "path": "blind_inputs/d9k4.json",
+      "sha256": "754c21c707c925ebedfa4b536e57376a2350cbc2179488417229c290b7b5e78d"
+    },
+    {
+      "case_id": "s3w8",
+      "path": "blind_inputs/s3w8.json",
+      "sha256": "527e7274dcce95fb046c6829aa7425777e9cab6f8bd6e25227386a574836d1f3"
+    },
+    {
+      "case_id": "f6a2",
+      "path": "blind_inputs/f6a2.json",
+      "sha256": "47d847ad62dd18cde4042c14c584258b8f40de1031090a9ea2e0ff63564a0e66"
+    },
+    {
+      "case_id": "j1u7",
+      "path": "blind_inputs/j1u7.json",
+      "sha256": "483b61fbe479a9d28bb23d2e2cf4229e6c13181f55a491bd1c221c59c5fc2650"
+    },
+    {
+      "case_id": "m4e9",
+      "path": "blind_inputs/m4e9.json",
+      "sha256": "74fa6d504ec5ed6776e74e4a8805fb21a364aa9cf548bac4fc3d4a1eb8c6c8a8"
+    },
+    {
+      "case_id": "r8g5",
+      "path": "blind_inputs/r8g5.json",
+      "sha256": "71bac6390668dc5c0079eb2ff7a480dcdd9001de1a6a086209a4942ecbe76e86"
+    },
+    {
+      "case_id": "c2z6",
+      "path": "blind_inputs/c2z6.json",
+      "sha256": "532f8fc3fa54daeb82c05e1d69d36325a6e823a8755c7714205954d074851f8a"
+    }
+  ]
+}

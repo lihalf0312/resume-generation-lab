@@ -1,0 +1,27 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "transferable",
+    "reason": "Equipment pickup-window coordination is related, not delivery route ownership."
+  },
+  {
+    "requirement_id": "R02",
+    "status": "scope_limit",
+    "reason": "Recorded counts and escalated missing cases; full reconciliation closure not specified."
+  },
+  {
+    "requirement_id": "R03",
+    "status": "missing",
+    "reason": "No transport management system use; fictional board is not live vehicle assignment."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "transferable",
+    "reason": "Created practice board; ongoing operational status maintenance not documented."
+  },
+  {
+    "fact_id": "F09",
+    "status": "scope_limit",
+    "reason": "No customs documentation claimed."
+  }
+]

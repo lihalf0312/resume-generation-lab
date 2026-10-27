@@ -1,0 +1,16 @@
+{
+  "case_id": "n8c3",
+  "expected_factual_issue": true,
+  "issue_type": "percent_vs_percentage_point",
+  "injected_spans": [
+    {
+      "language": "en",
+      "text": "10% relative increase"
+    },
+    {
+      "language": "zh",
+      "text": "相对增长10%"
+    }
+  ],
+  "expectation": "Flag incorrect relative increase: 40% to 50% is 10 percentage points or 25% relative, not 10% relative."
+}

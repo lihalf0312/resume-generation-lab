@@ -1,0 +1,20 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "transferable",
+    "reason": "Operational evidence is delivery-note/PO matching; invoice matching appears only in fictional bookkeeping practice."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No live accounting invoice posting or payment-run execution."
+  },
+  {
+    "fact_ids": [
+      "F04",
+      "F07"
+    ],
+    "status": "scope_limit",
+    "reason": "Seven recovered documents, two still outstanding; no all-issues-closed or financial approval claim."
+  }
+]

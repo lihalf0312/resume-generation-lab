@@ -1,0 +1,194 @@
+{
+  "case_id": "case-013",
+  "evaluated_at": "2026-10-27T18:17:28.206537+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "64e0567cffddb96a852ffe663261fece0bcef3c18af03dab3eb34e6907b3691d",
+    "job.json": "306c9a12eeeb2ac8d3498135de0770c6b32224beae7ec0cf3b5d1e3ce2e19a7e",
+    "judge-visible-job.json": "c00e9497181c4283e73ea512e268dae86f865ce63e33c16e8e00a1db126f96b3",
+    "prompt.md": "d5be5e5d92606aab2077fb29a0ab42e478300c6c0a846d5cc53badafe6a5553e",
+    "provenance.json": "ae40fde6207bce32effd450a36ad9cac4486d4063a38c1e3b420ae04a46221b5",
+    "resume.en.md": "7c84987a57f599e1af63dd46f8b65470f0588fcefea8e31f4556592037c3e601",
+    "resume.zh.md": "5d8c343f56e921067c3b2de51b9d01129355a85867bd1b16b65022554e18979d",
+    "claims.json": "2af8e7b560b68e24d16b480861c028be4d18b4d08abe267ad823c114559a732a"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Repair Booking Clerk | Fictional Appliance Workshop B13 | **September 2021–June 2026**",
+        "zh": "预约文员｜虚构家电维修工坊B13｜**2021年9月—2026年6月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports repair-booking clerk, employer and September2021–June2026. Chinese shorter title matches supplied Chinese and employer clarifies repair context.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Scheduled repair appointments and recorded customer-requested changes in a shared calendar.",
+        "zh": "在共享日历中安排维修预约，并记录客户要求的变更。"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 supports repair scheduling and customer changes in shared calendar; not patient booking.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Escalated unclear service requests to the repair supervisor rather than offering technical diagnoses.",
+        "zh": "将不明确的服务请求转交维修主管，而非自行提供技术诊断。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 supports escalation to repair supervisor and not independently diagnosing; no clinical responsibility inferred.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Drafted a fictional clinic booking checklist in **May 2026** as a self-study exercise covering 6 appointment scenarios; it was not used in a real clinic.",
+        "zh": "**2026年5月**在自学练习中起草虚构诊所预约核对表，覆盖6种预约情境，未在真实诊所使用。"
+      },
+      "source_fact_ids": [
+        "F05",
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F05/F06 preserve May2026, self-study, fictional clinic, six scenarios and no real-clinic use.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Used spreadsheet filters and word-processing templates.",
+        "zh": "使用电子表格筛选和文字处理模板。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 supports spreadsheet filters and word-processing templates without brands or mastery.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Office Administration Certificate Course | Fictional Institute B13 | **Completed 2021**",
+        "zh": "办公室行政证书课程｜虚构学院B13｜**完成时间：2021年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports office-administration certificate course and2021, no clinical qualification.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Both actual resumes preserve six fictional scenarios, date boundaries, certificate level and repair-versus-healthcare distinction. No patient data access, healthcare employment, clinical qualification, language proficiency or measured operational outcome added. All header claims are target intent or accurate source grouping.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F03",
+        "F05",
+        "F06"
+      ],
+      "reason": "Real repair scheduling plus fictional clinic exercise, not actual outpatient coordination."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F04"
+      ],
+      "reason": "Escalation behavior demonstrated in repair service; healthcare coordinator remit not experienced."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "direct",
+      "source_fact_ids": [
+        "F07"
+      ],
+      "reason": "Spreadsheet filters and word-processing templates used."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F08"
+      ],
+      "reason": "No patient-system access or healthcare employment; shared calendar not patient booking system."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

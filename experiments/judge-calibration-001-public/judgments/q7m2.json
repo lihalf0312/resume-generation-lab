@@ -1,0 +1,118 @@
+{
+  "schema_version": "independent_blind_judgment_v1",
+  "case_id": "q7m2",
+  "input_path": "blind_inputs/q7m2.json",
+  "inputsha": "682e66fe5b90cd1f7b60c48c66332d7958a7d2daefafc12b786e01aa13a3fd0c",
+  "input_sha256": "682e66fe5b90cd1f7b60c48c66332d7958a7d2daefafc12b786e01aa13a3fd0c",
+  "judge_label": "llm_judge_unvalidated/native_model_unknown",
+  "rubric_version": "0.1.0",
+  "verdict": "fail",
+  "factual_fidelity": "fail",
+  "summary": "The resume turns a vocational logistics certificate into a bachelor degree, contradicting the explicit absence of a university degree.",
+  "claims": [
+    {
+      "claim_id": "q7m2.resume.en.line1",
+      "text": "Inventory assistant | Amber Basin Workshop | January 2022–December 2023",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "q7m2.resume.en.line2",
+      "text": "Reconciled 240 stock records monthly using spreadsheets.",
+      "source_fact_ids": [
+        "/profile/facts/1"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "q7m2.resume.en.line3",
+      "text": "Education: Bachelor of Science in Logistics, 2021.",
+      "source_fact_ids": [
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "The resume turns a vocational logistics certificate into a bachelor degree, contradicting the explicit absence of a university degree."
+    },
+    {
+      "claim_id": "q7m2.resume.zh.line1",
+      "text": "库存助理｜琥珀盆地工坊｜2022年1月—2023年12月",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "q7m2.resume.zh.line2",
+      "text": "每月使用电子表格核对240条库存记录。",
+      "source_fact_ids": [
+        "/profile/facts/1"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "q7m2.resume.zh.line3",
+      "text": "教育：物流学理学学士，2021年。",
+      "source_fact_ids": [
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "The resume turns a vocational logistics certificate into a bachelor degree, contradicting the explicit absence of a university degree."
+    }
+  ],
+  "issues": [
+    {
+      "issue_id": "q7m2.degree",
+      "severity": "factual_blocker",
+      "dimension": "factual_fidelity",
+      "status": "fail",
+      "locations": [
+        {
+          "claim_id": "q7m2.resume.en.line3",
+          "json_pointer": "/resume/en",
+          "line_1_based": 3,
+          "quote": "Bachelor of Science in Logistics, 2021."
+        },
+        {
+          "claim_id": "q7m2.resume.zh.line3",
+          "json_pointer": "/resume/zh",
+          "line_1_based": 3,
+          "quote": "物流学理学学士，2021年。"
+        }
+      ],
+      "observed_issue": "The resume turns a vocational logistics certificate into a bachelor degree, contradicting the explicit absence of a university degree.",
+      "source_fact_ids": [
+        "/profile/facts/2"
+      ],
+      "source_evidence": [
+        {
+          "json_pointer": "/profile/facts/2",
+          "en": "Completed a vocational certificate in logistics in June 2021; no university degree.",
+          "zh": "2021年6月完成物流职业证书；无大学学位。"
+        }
+      ],
+      "safe_rewrite_or_question": "Replace the bachelor degree with vocational certificate in logistics, completed June 2021. / 改为物流职业证书，2021年6月完成。",
+      "confidence": 0.99
+    }
+  ],
+  "confidence": {
+    "level": "high",
+    "value": 0.99,
+    "interpretation": "Subjective confidence in source-relative judgment, not calibrated accuracy or candidate truthfulness."
+  },
+  "limitations": [
+    "Only the supplied source facts, resume strings, job description and rubric were assessed. User-supplied facts were not independently verified.",
+    "Fact and claim IDs were not supplied; stable JSON pointers and language-specific 1-based resume line identifiers are used instead.",
+    "Native model identity is unknown; this is an unvalidated LLM judgment, not HR expert annotation.",
+    "No PDF/DOCX or rendered artifact was supplied or assessed. No extraction, ATS-compatibility, layout, hiring probability or candidate-quality claims are made."
+  ],
+  "format_readability": "not_assessed",
+  "overall_score": null,
+  "export_ready": false,
+  "export_ready_reason": "Factual fidelity gate is not pass; actual exported/rendered artifact checks are also absent."
+}

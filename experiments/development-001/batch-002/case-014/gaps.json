@@ -1,0 +1,27 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "transferable",
+    "reason": "Exhibit-caption proofreading is related to educational copy; not formal learning-material employment."
+  },
+  {
+    "requirement_id": "R02",
+    "status": "partial",
+    "reason": "Heading-style use documented; accessibility compliance or testing not established."
+  },
+  {
+    "requirement_id": "R03",
+    "status": "missing",
+    "reason": "No curriculum mapping."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No LMS module publication."
+  },
+  {
+    "fact_id": "F08",
+    "status": "scope_limit",
+    "reason": "No teaching qualification claimed."
+  }
+]

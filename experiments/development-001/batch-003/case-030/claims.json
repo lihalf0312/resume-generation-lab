@@ -1,0 +1,51 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Volunteer Programme Assistant | Fictional Association D030 | **September 2018–July 2026**",
+    "zh": "志愿者项目助理｜虚构协会D030｜**2018年9月—2026年7月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Maintained availability records and assembled weekly rotas for a pool of 35 volunteers.",
+    "zh": "维护可用时间记录，并为由35名志愿者组成的人员池编制每周轮值表。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04",
+      "F05"
+    ],
+    "en": "Introduced a reminder checklist and backup-contact field after reviewing missed community-session shifts with the programme lead. Unfilled shifts totaled 5 across the next 12 sessions, compared with 11 across the preceding 12; the programme team shared responsibility for the change.",
+    "zh": "与项目负责人复盘社区活动缺岗情况后，引入提醒清单和备用联系人字段。随后12场活动的空缺班次合计为5个，之前12场为11个，项目团队共同负责该变更。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Prepared monthly participation summaries and removed personal contact details from reports shared outside the team.",
+    "zh": "编制每月参与情况摘要，并从对外共享的报告中删除个人联系方式。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "Delivered induction briefings using approved materials and referred safeguarding concerns to the designated lead.",
+    "zh": "使用获批材料开展入职说明，并将安全保护疑虑转交指定负责人。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "BA in Community Development | Fictional Institute D030 | **Graduated 2017**",
+    "zh": "社区发展文学学士｜虚构院校D030｜**毕业时间：2017年**"
+  }
+]

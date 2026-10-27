@@ -1,0 +1,365 @@
+{
+  "dataset": "judge-calibration-001",
+  "assessed_at_utc": "2026-10-27T18:26:13.608715+00:00",
+  "purpose": "small independent synthetic evaluator diagnostic; excluded from main 30 pairs; no model-weight training",
+  "judge_label": "llm_judge_unvalidated/native_model_unknown",
+  "rubric_version": "0.1.0",
+  "confidence_calibration": "unknown; subjective confidence is not measured accuracy",
+  "integrity": {
+    "original_freeze_manifest_sha256": "98eff0c6674f90d60807889cd7a22268e5c178a640b88707614b10f63d5d62f6",
+    "freeze_manifest_unchanged": true,
+    "all_12_input_hashes_match_freeze_and_judgment": true,
+    "gold_matches_original_authoring_bytes": true,
+    "protected_files_unchanged_during_assessment": true
+  },
+  "actionable_issue_matrix_including_needs_review": {
+    "TP": 9,
+    "FN": 0,
+    "FP": 0,
+    "TN": 3
+  },
+  "specific_injected_issues_detected": {
+    "cases": 9,
+    "positive_cases": 9,
+    "gold_spans": 18,
+    "detected_gold_spans": 18
+  },
+  "observed_classes": {
+    "pass": 3,
+    "fail": 8,
+    "needs_review": 1
+  },
+  "three_class_comparison": {
+    "matches": 12,
+    "total": 12,
+    "caveat": "Frozen gold defined binary labels and prose expectations, not explicit three-class labels. Three-class expectations here are a transparent interpretation of that frozen prose, not a separately preregistered three-class benchmark."
+  },
+  "controls_false_positive_case_ids": [],
+  "additional_findings": [
+    {
+      "case_id": "c2z6",
+      "issue": "Role title is unconfirmed by source; valid extra needs-review concern, not an injected target or control false positive. Fixture is not a perfectly isolated single-defect case."
+    }
+  ],
+  "reviewer_access_scope": "Parent reports reviewer restricted to allowlisted blind inputs plus rubric; this assessment did not independently audit tool-access logs. Gold used only in this post-judgment comparison.",
+  "cases": [
+    {
+      "case_id": "q7m2",
+      "expected_actionable_issue": true,
+      "issue_type": "unsupported_degree",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "q7m2.degree"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "Bachelor of Science in Logistics, 2021",
+          "detected": true,
+          "judge_quotes": [
+            "Bachelor of Science in Logistics, 2021."
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "物流学理学学士，2021年",
+          "detected": true,
+          "judge_quotes": [
+            "物流学理学学士，2021年。"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "b4t9",
+      "expected_actionable_issue": false,
+      "issue_type": null,
+      "expected_class_derived_from_frozen_expectation": "pass",
+      "observed_class": "pass",
+      "specific_injected_issue_detected": null,
+      "matched_issue_ids": [],
+      "span_detection": [],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "n8c3",
+      "expected_actionable_issue": true,
+      "issue_type": "percent_vs_percentage_point",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "n8c3.relative_change"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "10% relative increase",
+          "detected": true,
+          "judge_quotes": [
+            "10% relative increase"
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "相对增长10%",
+          "detected": true,
+          "judge_quotes": [
+            "相对增长10%"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "v2r6",
+      "expected_actionable_issue": true,
+      "issue_type": "inflated_team_ownership",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "v2r6.leadership"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "Led a six-person QA team",
+          "detected": true,
+          "judge_quotes": [
+            "Led a six-person QA team"
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "领导六人质量测试团队",
+          "detected": true,
+          "judge_quotes": [
+            "领导六人质量测试团队"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "h5p1",
+      "expected_actionable_issue": true,
+      "issue_type": "bilingual_numbers_dates",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "h5p1.end_date",
+        "h5p1.registration_count"
+      ],
+      "span_detection": [
+        {
+          "language": "zh",
+          "text": "2024年6月",
+          "detected": true,
+          "judge_quotes": [
+            "2024年6月"
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "69人次",
+          "detected": true,
+          "judge_quotes": [
+            "69人次报名"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "d9k4",
+      "expected_actionable_issue": false,
+      "issue_type": null,
+      "expected_class_derived_from_frozen_expectation": "pass",
+      "observed_class": "pass",
+      "specific_injected_issue_detected": null,
+      "matched_issue_ids": [],
+      "span_detection": [],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "s3w8",
+      "expected_actionable_issue": true,
+      "issue_type": "inferred_language_proficiency",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "s3w8.english_proficiency"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "fluent English",
+          "detected": true,
+          "judge_quotes": [
+            "fluent English"
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "英语流利",
+          "detected": true,
+          "judge_quotes": [
+            "英语流利"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "f6a2",
+      "expected_actionable_issue": true,
+      "issue_type": "in_progress_as_awarded",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "f6a2.degree_status"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "awarded September 2025",
+          "detected": true,
+          "judge_quotes": [
+            "awarded September 2025"
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "2025年9月获学位",
+          "detected": true,
+          "judge_quotes": [
+            "2025年9月获学位"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "j1u7",
+      "expected_actionable_issue": true,
+      "issue_type": "historical_peak_as_current",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "j1u7.rating_timeframe"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "currently 2180 as of September 2025",
+          "detected": true,
+          "judge_quotes": [
+            "currently 2180 as of September 2025"
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "截至2025年9月当前为2180",
+          "detected": true,
+          "judge_quotes": [
+            "截至2025年9月当前为2180"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "m4e9",
+      "expected_actionable_issue": true,
+      "issue_type": "draft_as_executed",
+      "expected_class_derived_from_frozen_expectation": "fail",
+      "observed_class": "fail",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "m4e9.survey_status"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "Executed a follow-up survey of 200 customers.",
+          "detected": true,
+          "judge_quotes": [
+            "Executed a follow-up survey of 200 customers."
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "已执行面向200名客户的后续问卷调查。",
+          "detected": true,
+          "judge_quotes": [
+            "已执行面向200名客户的后续问卷调查。"
+          ]
+        }
+      ],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "r8g5",
+      "expected_actionable_issue": false,
+      "issue_type": null,
+      "expected_class_derived_from_frozen_expectation": "pass",
+      "observed_class": "pass",
+      "specific_injected_issue_detected": null,
+      "matched_issue_ids": [],
+      "span_detection": [],
+      "extra_issue_ids": [],
+      "exact_three_class_match": true
+    },
+    {
+      "case_id": "c2z6",
+      "expected_actionable_issue": true,
+      "issue_type": "unresolved_source_contradiction",
+      "expected_class_derived_from_frozen_expectation": "needs_review",
+      "observed_class": "needs_review",
+      "specific_injected_issue_detected": true,
+      "matched_issue_ids": [
+        "c2z6.end_date_conflict"
+      ],
+      "span_detection": [
+        {
+          "language": "en",
+          "text": "January 2022–December 2024",
+          "detected": true,
+          "judge_quotes": [
+            "December 2024"
+          ]
+        },
+        {
+          "language": "zh",
+          "text": "2022年1月—2024年12月",
+          "detected": true,
+          "judge_quotes": [
+            "2024年12月"
+          ]
+        }
+      ],
+      "extra_issue_ids": [
+        "c2z6.unconfirmed_role_title"
+      ],
+      "exact_three_class_match": true
+    }
+  ]
+}

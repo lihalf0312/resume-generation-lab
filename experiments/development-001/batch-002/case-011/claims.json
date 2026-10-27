@@ -1,0 +1,59 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Junior Quality Assistant | Fictional Studio B11 | **February 2025–September 2026**",
+    "zh": "初级质量助理｜虚构工作室B11｜**2025年2月—2026年9月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Test Intern | Fictional Studio B11 | **July 2024–January 2025**",
+    "zh": "测试实习生｜虚构工作室B11｜**2024年7月—2025年1月**"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04",
+      "F05"
+    ],
+    "en": "Maintained regression tests for an internal scheduling tool using Python and pytest; added 23 regression tests reviewed by the engineering lead.",
+    "zh": "使用Python和pytest维护内部排班工具的回归测试，新增23项经工程负责人审阅的回归测试。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F08"
+    ],
+    "en": "Documented reproduction steps for 17 reviewer-confirmed defects during **October 2025–February 2026**.",
+    "zh": "**2025年10月—2026年2月**，为审阅人员确认的17个缺陷记录复现步骤。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Built a local mock API in **March 2026** to return fixed booking responses for tests.",
+    "zh": "**2026年3月**搭建本地模拟API，为测试返回固定预订响应。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "Used Git branches and pull requests.",
+    "zh": "使用Git分支和拉取请求。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Diploma in Software Testing | Fictional Academy B11 | **Completed 2024**",
+    "zh": "软件测试文凭课程｜虚构学院B11｜**完成时间：2024年**"
+  }
+]

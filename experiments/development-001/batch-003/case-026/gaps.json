@@ -1,0 +1,21 @@
+[
+  {
+    "requirement_id": "R03",
+    "status": "scope_limit",
+    "reason": "Telephone escalation documented; response-time metric not recorded."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "Candidate explicitly holds no dangerous-goods certification; regulated shipment preparation is not established."
+  },
+  {
+    "fact_ids": [
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "status": "scope_limit",
+    "reason": "No carrier contract negotiation, quantified throughput improvement or forklift qualification claimed; forklift qualification explicitly not held."
+  }
+]

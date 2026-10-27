@@ -1,0 +1,118 @@
+{
+  "schema_version": "independent_blind_judgment_v1",
+  "case_id": "j1u7",
+  "input_path": "blind_inputs/j1u7.json",
+  "inputsha": "483b61fbe479a9d28bb23d2e2cf4229e6c13181f55a491bd1c221c59c5fc2650",
+  "input_sha256": "483b61fbe479a9d28bb23d2e2cf4229e6c13181f55a491bd1c221c59c5fc2650",
+  "judge_label": "llm_judge_unvalidated/native_model_unknown",
+  "rubric_version": "0.1.0",
+  "verdict": "fail",
+  "factual_fidelity": "fail",
+  "summary": "2180 is the historical peak in May 2023, not the current September 2025 rating of 1920. No interpretation of a real-world rating system is needed.",
+  "claims": [
+    {
+      "claim_id": "j1u7.resume.en.line1",
+      "text": "Event volunteer | Saffron Bridge Puzzle Club | 2024–2025",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "j1u7.resume.en.line2",
+      "text": "Organized check-in for four tournaments.",
+      "source_fact_ids": [
+        "/profile/facts/1"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "j1u7.resume.en.line3",
+      "text": "Rookleaf rating: currently 2180 as of September 2025.",
+      "source_fact_ids": [
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "2180 is the historical peak in May 2023, not the current September 2025 rating of 1920. No interpretation of a real-world rating system is needed."
+    },
+    {
+      "claim_id": "j1u7.resume.zh.line1",
+      "text": "赛事志愿者｜藏红花桥益智俱乐部｜2024—2025年",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "j1u7.resume.zh.line2",
+      "text": "为四场比赛组织签到。",
+      "source_fact_ids": [
+        "/profile/facts/1"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "j1u7.resume.zh.line3",
+      "text": "车叶积分：截至2025年9月当前为2180。",
+      "source_fact_ids": [
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "2180 is the historical peak in May 2023, not the current September 2025 rating of 1920. No interpretation of a real-world rating system is needed."
+    }
+  ],
+  "issues": [
+    {
+      "issue_id": "j1u7.rating_timeframe",
+      "severity": "factual_blocker",
+      "dimension": "factual_fidelity",
+      "status": "fail",
+      "locations": [
+        {
+          "claim_id": "j1u7.resume.en.line3",
+          "json_pointer": "/resume/en",
+          "line_1_based": 3,
+          "quote": "currently 2180 as of September 2025"
+        },
+        {
+          "claim_id": "j1u7.resume.zh.line3",
+          "json_pointer": "/resume/zh",
+          "line_1_based": 3,
+          "quote": "截至2025年9月当前为2180"
+        }
+      ],
+      "observed_issue": "2180 is the historical peak in May 2023, not the current September 2025 rating of 1920. No interpretation of a real-world rating system is needed.",
+      "source_fact_ids": [
+        "/profile/facts/2"
+      ],
+      "source_evidence": [
+        {
+          "json_pointer": "/profile/facts/2",
+          "en": "On the fictional Rookleaf puzzle ladder, historical peak rating was 2180 in May 2023; current rating as of September 2025 was 1920.",
+          "zh": "在虚构的车叶益智积分榜上，历史最高积分为2023年5月的2180；截至2025年9月当前积分为1920。"
+        }
+      ],
+      "safe_rewrite_or_question": "State historical peak 2180 (May 2023), or current rating 1920 as of September 2025, preserving the relevant date. / 改为历史最高积分2180（2023年5月），或截至2025年9月积分1920。",
+      "confidence": 0.99
+    }
+  ],
+  "confidence": {
+    "level": "high",
+    "value": 0.99,
+    "interpretation": "Subjective confidence in source-relative judgment, not calibrated accuracy or candidate truthfulness."
+  },
+  "limitations": [
+    "Only the supplied source facts, resume strings, job description and rubric were assessed. User-supplied facts were not independently verified.",
+    "Fact and claim IDs were not supplied; stable JSON pointers and language-specific 1-based resume line identifiers are used instead.",
+    "Native model identity is unknown; this is an unvalidated LLM judgment, not HR expert annotation.",
+    "No PDF/DOCX or rendered artifact was supplied or assessed. No extraction, ATS-compatibility, layout, hiring probability or candidate-quality claims are made."
+  ],
+  "format_readability": "not_assessed",
+  "overall_score": null,
+  "export_ready": false,
+  "export_ready_reason": "Factual fidelity gate is not pass; actual exported/rendered artifact checks are also absent."
+}

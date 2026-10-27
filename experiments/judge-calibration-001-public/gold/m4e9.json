@@ -1,0 +1,16 @@
+{
+  "case_id": "m4e9",
+  "expected_factual_issue": true,
+  "issue_type": "draft_as_executed",
+  "injected_spans": [
+    {
+      "language": "en",
+      "text": "Executed a follow-up survey of 200 customers."
+    },
+    {
+      "language": "zh",
+      "text": "已执行面向200名客户的后续问卷调查。"
+    }
+  ],
+  "expectation": "Flag executed survey: source establishes draft only, no launch or responses."
+}

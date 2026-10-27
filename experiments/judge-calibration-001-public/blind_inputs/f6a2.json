@@ -1,0 +1,28 @@
+{
+  "case_id": "f6a2",
+  "profile": {
+    "candidate_id": "f6a2",
+    "facts": [
+      {
+        "en": "Sensor data intern at Moss Harbor Observatory, June–August 2025.",
+        "zh": "2025年6月至8月任苔港观测站传感器数据实习生。"
+      },
+      {
+        "en": "Cleaned 800 sensor records using Python.",
+        "zh": "使用Python清洗800条传感器记录。"
+      },
+      {
+        "en": "As of September 2025, enrolled in an MSc in Environmental Informatics at Lantern Ridge Institute; expected completion June 2027; degree not awarded.",
+        "zh": "截至2025年9月，就读于灯岭学院环境信息学硕士项目；预计2027年6月完成；尚未获学位。"
+      }
+    ]
+  },
+  "job_description": {
+    "en": "Environmental data assistant: clean sensor records and document methodology.",
+    "zh": "环境数据助理：清洗传感器记录并记录方法。"
+  },
+  "resume": {
+    "en": "Sensor data intern | Moss Harbor Observatory | June–August 2025\nCleaned 800 sensor records using Python.\nEducation: MSc in Environmental Informatics, Lantern Ridge Institute, awarded September 2025.",
+    "zh": "传感器数据实习生｜苔港观测站｜2025年6月—8月\n使用Python清洗800条传感器记录。\n教育：灯岭学院环境信息学硕士，2025年9月获学位。"
+  }
+}

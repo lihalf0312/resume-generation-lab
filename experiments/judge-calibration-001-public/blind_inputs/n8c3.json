@@ -1,0 +1,28 @@
+{
+  "case_id": "n8c3",
+  "profile": {
+    "candidate_id": "n8c3",
+    "facts": [
+      {
+        "en": "Renewal coordinator at Violet Compass Studio, 2023–2024.",
+        "zh": "2023—2024年任紫罗兰罗盘工作室续订协调员。"
+      },
+      {
+        "en": "Renewal rate rose from 40% of 100 eligible accounts in Q1 to 50% of 100 eligible accounts in Q2 of 2024.",
+        "zh": "2024年续订率从第一季度100个符合条件账户中的40%升至第二季度100个符合条件账户中的50%。"
+      },
+      {
+        "en": "Prepared the renewal dashboard; the rate change was not causally attributed to this work.",
+        "zh": "制作续订仪表板；未将续订率变化归因于这项工作。"
+      }
+    ]
+  },
+  "job_description": {
+    "en": "Subscription operations analyst: interpret renewal rates precisely.",
+    "zh": "订阅运营分析员：准确解读续订率。"
+  },
+  "resume": {
+    "en": "Renewal coordinator | Violet Compass Studio | 2023–2024\nPrepared a dashboard reporting a 10% relative increase in renewal rate from Q1 to Q2 2024.",
+    "zh": "续订协调员｜紫罗兰罗盘工作室｜2023—2024年\n制作仪表板，报告2024年第一季度至第二季度续订率相对增长10%。"
+  }
+}

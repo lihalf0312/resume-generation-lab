@@ -1,0 +1,58 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Supervised Reception Placement | Fictional Clinic D023 | **September 2025–March 2026**",
+    "zh": "受监督的前台实习｜虚构诊所D023｜**2025年9月—2026年3月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Booked follow-up appointments through the clinic scheduling system under the supervisor’s access rules.",
+    "zh": "依照主管规定的访问规则，使用诊所预约系统安排复诊。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Checked two approved identifiers before updating appointment details and referred clinical questions to clinical staff.",
+    "zh": "更新预约详情前核对两项获批身份标识，并将临床问题转交临床人员。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Drafted a one-page checklist for rescheduling calls, reviewed by the reception supervisor before use.",
+    "zh": "起草一页改约电话清单，经前台主管审阅后使用。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Handled reminder calls during 2 supervised morning shifts each week.",
+    "zh": "每周在2个受监督的上午班次拨打提醒电话。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "Used word processing and basic spreadsheet filters during the placement.",
+    "zh": "实习期间使用文字处理软件及基础电子表格筛选功能。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Diploma in Office Administration | Fictional Institute D023 | **Completed 2025**",
+    "zh": "办公行政专科学历｜虚构院校D023｜**完成时间：2025年**"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No Kubernetes environment experience."
+  },
+  {
+    "fact_ids": [
+      "F05",
+      "F07",
+      "F09"
+    ],
+    "status": "scope_limit",
+    "reason": "23 is a test count, not coverage. Git use does not include repository-permission administration; no production deployment ownership claimed."
+  },
+  {
+    "status": "chronology_boundary",
+    "reason": "Undated testing facts are not assigned to an unsupported role period."
+  }
+]

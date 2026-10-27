@@ -1,0 +1,7 @@
+{
+  "version": 30,
+  "previous_case": "case-029",
+  "previous_evaluation_sha256": "79d8496091bf57353c702ab1962290090451b40dfe534242c5ef33ccc1c4a581",
+  "changes": [],
+  "reason": "Case029 reviewer found no new repair. Retain actual assistant title, volunteer-pool denominator, team comparison and safeguarding escalation scope."
+}

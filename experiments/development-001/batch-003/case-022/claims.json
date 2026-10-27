@@ -1,0 +1,51 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Parks Booking Coordinator | Fictional Employer D022 | **April 2019–June 2026**",
+    "zh": "公园预约协调员｜虚构雇主D022｜**2019年4月—2026年6月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Summarized venue usage by weekday and booking category using spreadsheet pivot tables.",
+    "zh": "使用电子表格数据透视表，按星期和预约类别汇总场地使用情况。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Reconciled 240 booking records for a quarterly review and flagged 17 duplicates; the supervisor approved the final corrections.",
+    "zh": "为季度复盘核对240条预约记录并标出17条重复记录，最终修正经主管批准。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "Explained quarterly usage tables to nontechnical venue managers and recorded their questions.",
+    "zh": "向非技术背景的场地经理解释季度使用情况表，并记录其问题。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F05",
+      "F06"
+    ],
+    "en": "Completed a project in **May 2026** using an explicitly fictional 800-row booking dataset. Wrote SQLite filtering, GROUP BY, and JOIN queries, with expected-result checks for 6 queries.",
+    "zh": "**2026年5月**完成项目，使用明确虚构的800行预约数据集；在SQLite中编写筛选、GROUP BY和JOIN查询，并为6条查询设置预期结果检查。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "BA in Geography | Fictional Institute D022 | **Graduated 2018**",
+    "zh": "地理学文学学士｜虚构院校D022｜**毕业时间：2018年**"
+  }
+]

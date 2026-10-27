@@ -1,0 +1,196 @@
+{
+  "case_id": "case-016",
+  "evaluated_at": "2026-10-27T18:19:32.575152+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "f4b52160f9da38e2e351ccf44227012fa13feebd3bd7d1c34ffbff2d556de5bb",
+    "job.json": "5ed6839986d449ce6355c30559fe9c53fa2bd33a46366c597b57b90fb3dc4793",
+    "judge-visible-job.json": "eeec2bcea23b84597ef7e95ceccc04e1571b692cd614ac7856ad584c6044dbab",
+    "prompt.md": "0f437a8cebdb385f8139211c4afc911fa73257930adf0b713596b5e9f0c3f13c",
+    "provenance.json": "67f5e008b5746a1456f07532c184f7041c88b064d6e7adb083ee86418225cd00",
+    "resume.en.md": "b634ab35d21a463492a95e4bb37733024f5e43377ed2e0f0bbada0a46f68b055",
+    "resume.zh.md": "e0fc14de6e970fbb63a38b75df9b4c6a0715bcfcddb599c81268c626da999181",
+    "claims.json": "cd6d701fa68bac9082875608ef12b26f425ab90d008a5894e1c55b8a216d22d1"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Equipment Booking Coordinator | Fictional Event Collective B16 | **October 2020–July 2026**",
+        "zh": "设备预订协调员｜虚构活动合作组织B16｜**2020年10月—2026年7月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports equipment-booking role, event collective and October2020–July2026.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Scheduled pickup windows for rented event equipment using a shared spreadsheet and emailed revised pickup times to customers.",
+        "zh": "使用共享电子表格安排租赁活动设备的取货时段，并通过电子邮件向客户传达更新后的取货时间。"
+      },
+      "source_fact_ids": [
+        "F03",
+        "F08"
+      ],
+      "status": "supported",
+      "reason": "F03/F08 support pickup windows, shared spreadsheet and revised-time customer emails, not delivery dispatch.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Coordinated 28 equipment handovers during an **April 2026** festival; drivers selected their own routes.",
+        "zh": "在**2026年4月**的一场节庆活动中协调28次设备交接，司机自行选择路线。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 preserves28 handovers, April2026 festival and driver-chosen routes.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Recorded item counts and reported missing cases to the equipment manager.",
+        "zh": "记录物品数量，并向设备经理报告缺失箱件。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 supports item counts and missing-case escalation to manager, not financial responsibility.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Built a practice dispatch board for a fictional fleet of 4 vans in **June 2026**, using invented orders; the board was not connected to live vehicles.",
+        "zh": "**2026年6月**为由4辆货车组成的虚构车队制作练习调度看板，使用虚构订单，未连接实际车辆。"
+      },
+      "source_fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F06/F07 preserve June2026,practice board,four fictional vans,invented orders and no live vehicles.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Event Administration Certificate Course | Fictional Institute B16 | **Completed 2020**",
+        "zh": "活动行政证书课程｜虚构学院B16｜**完成时间：2020年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports event-administration certificate course, institute and2020.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Actual EN/ZH preserve pickup versus delivery,28 handovers versus fleet4,dates,driver routing and fictional practice boundary. No live TMS/customs/route-optimization ownership, language proficiency or credential inflation. Coordinated English verbs clearly state actual supported actions, unlike preserved007 ambiguity.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F03",
+        "F08"
+      ],
+      "reason": "Pickup-window scheduling and customer updates transfer to delivery-window coordination; not actual delivery scheduling."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "direct",
+      "source_fact_ids": [
+        "F04",
+        "F05"
+      ],
+      "reason": "Handover coordination with item counts and missing-case reports; no inventory-system expertise inferred."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F09"
+      ],
+      "reason": "No TMS use; fictional board not operational system assignment."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "reason": "Built practice board; ongoing/live dispatch status maintenance not shown."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

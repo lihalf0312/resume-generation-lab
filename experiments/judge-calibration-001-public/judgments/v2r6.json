@@ -1,0 +1,108 @@
+{
+  "schema_version": "independent_blind_judgment_v1",
+  "case_id": "v2r6",
+  "input_path": "blind_inputs/v2r6.json",
+  "inputsha": "1ef0453dc4ba9fed337b28b7291725a8dd54600992c0b95103a7a3dafc7aa71c",
+  "input_sha256": "1ef0453dc4ba9fed337b28b7291725a8dd54600992c0b95103a7a3dafc7aa71c",
+  "judge_label": "llm_judge_unvalidated/native_model_unknown",
+  "rubric_version": "0.1.0",
+  "verdict": "fail",
+  "factual_fidelity": "fail",
+  "summary": "Leadership is explicitly excluded by the source; membership in a six-person team does not entail leading it. The 35 tests are supported.",
+  "claims": [
+    {
+      "claim_id": "v2r6.resume.en.line1",
+      "text": "QA contributor | Copper Kite Devices | February 2021–November 2022",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "v2r6.resume.en.line2",
+      "text": "Led a six-person QA team and authored 35 regression tests.",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "Leadership is explicitly excluded by the source; membership in a six-person team does not entail leading it. The 35 tests are supported."
+    },
+    {
+      "claim_id": "v2r6.resume.zh.line1",
+      "text": "质量测试成员｜铜风筝设备公司｜2021年2月—2022年11月",
+      "source_fact_ids": [
+        "/profile/facts/0"
+      ],
+      "status": "pass",
+      "reason": "Material claims in this line are supported by the cited source facts; no added date, metric, qualification, proficiency, or ownership claim identified."
+    },
+    {
+      "claim_id": "v2r6.resume.zh.line2",
+      "text": "领导六人质量测试团队，并编写35项回归测试。",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "status": "fail",
+      "reason": "Leadership is explicitly excluded by the source; membership in a six-person team does not entail leading it. The 35 tests are supported."
+    }
+  ],
+  "issues": [
+    {
+      "issue_id": "v2r6.leadership",
+      "severity": "factual_blocker",
+      "dimension": "factual_fidelity",
+      "status": "fail",
+      "locations": [
+        {
+          "claim_id": "v2r6.resume.en.line2",
+          "json_pointer": "/resume/en",
+          "line_1_based": 2,
+          "quote": "Led a six-person QA team"
+        },
+        {
+          "claim_id": "v2r6.resume.zh.line2",
+          "json_pointer": "/resume/zh",
+          "line_1_based": 2,
+          "quote": "领导六人质量测试团队"
+        }
+      ],
+      "observed_issue": "Leadership is explicitly excluded by the source; membership in a six-person team does not entail leading it. The 35 tests are supported.",
+      "source_fact_ids": [
+        "/profile/facts/1",
+        "/profile/facts/2"
+      ],
+      "source_evidence": [
+        {
+          "json_pointer": "/profile/facts/1",
+          "en": "One contributor on a six-person QA team; no direct reports or team leadership responsibilities.",
+          "zh": "六人质量测试团队中的一名成员；无直接下属或团队领导职责。"
+        },
+        {
+          "json_pointer": "/profile/facts/2",
+          "en": "Authored 35 regression tests for a desktop application.",
+          "zh": "为桌面应用编写35项回归测试。"
+        }
+      ],
+      "safe_rewrite_or_question": "Say contributed as a member of a six-person QA team and authored 35 regression tests. / 改为作为六人质量测试团队成员，为桌面应用编写35项回归测试。",
+      "confidence": 0.99
+    }
+  ],
+  "confidence": {
+    "level": "high",
+    "value": 0.99,
+    "interpretation": "Subjective confidence in source-relative judgment, not calibrated accuracy or candidate truthfulness."
+  },
+  "limitations": [
+    "Only the supplied source facts, resume strings, job description and rubric were assessed. User-supplied facts were not independently verified.",
+    "Fact and claim IDs were not supplied; stable JSON pointers and language-specific 1-based resume line identifiers are used instead.",
+    "Native model identity is unknown; this is an unvalidated LLM judgment, not HR expert annotation.",
+    "No PDF/DOCX or rendered artifact was supplied or assessed. No extraction, ATS-compatibility, layout, hiring probability or candidate-quality claims are made."
+  ],
+  "format_readability": "not_assessed",
+  "overall_score": null,
+  "export_ready": false,
+  "export_ready_reason": "Factual fidelity gate is not pass; actual exported/rendered artifact checks are also absent."
+}
