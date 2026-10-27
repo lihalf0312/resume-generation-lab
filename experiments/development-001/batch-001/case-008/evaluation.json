@@ -1,0 +1,185 @@
+{
+  "case_id": "case-008",
+  "evaluated_at": "2026-10-27T18:12:34.176280+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "be0d00c71da3dbe9e9ed466b6fb679c2b705c25cffe3eb8279c4d59d3b61d50e",
+    "job.json": "532cdf38d5d7e44721f8ccb52917c9744b0c9f795f7a38670b37c0b9675d0b87",
+    "judge-visible-job.json": "dacb526cb46481dc13b3884b2c9db8464ca132e14c4dc32d15938c6a090c02a2",
+    "prompt.md": "7799c17e5fbef1481a2525427122ea762beac4f830bcdbd62c10ede3aa40df9f",
+    "provenance.json": "68ec1e08f138c7c973f4eab3b180e48228c27cb66037f7d9638477c3f8d471b3",
+    "resume.en.md": "ca4e60f6ffe3c6de539971ecbb0e57eceb6ae372a6e2524887ea2c46fc64a157",
+    "resume.zh.md": "0df05d543dc8bb45f0c7d45a44310ce4c81f25446287e6d01e695197418c39a5",
+    "claims.json": "f7a32f8e4687e55c413540701c4c0b88145a63b9d0f842e8fb5166604d39b14a"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Reservations Trainee | Fictional Moonleaf Lodge | **September 2025–March 2026**",
+        "zh": "预订培训生｜虚构月叶旅舍｜**2025年9月—2026年3月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports trainee role, lodge and September 2025–March 2026 dates, no supervisory seniority added.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Entered bookings into an internal reservation form under supervisor review. Checked arrival dates, room types, and guest-request notes against email requests.",
+        "zh": "在主管审核下将预订录入内部预订表单，并依据邮件请求核对入住日期、房型及住客需求备注。"
+      },
+      "source_fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F03/F04 support reviewed form entry and all three checked fields against emails; no error-free performance claim.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Drafted English and Chinese booking confirmations using approved templates.",
+        "zh": "使用获批模板起草中英文预订确认。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 supports English/Chinese template-based drafting only; no fluency or unrestricted translation proficiency inferred.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Completed the placement and prepared a written handover guide.",
+        "zh": "完成实习并撰写交接指南。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 Chinese explicitly says wrote handover guide; English source is less explicit but bilingual inventory together supports prepared written guide and completed placement.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Guest journey mapping | **2025**: Mapped the guest journey from inquiry to check-out as coursework.",
+        "zh": "住客流程梳理｜**2025年**：在课程作业中梳理从咨询到退房的住客流程。"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 supports 2025 academic guest-journey map inquiry through checkout, not implemented service redesign.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Diploma in Tourism | Fictional Coral College | **Completed June 2025**",
+        "zh": "旅游文凭课程｜虚构珊瑚学院｜**完成时间：2025年6月**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports tourism diploma, fictional institution and June 2025 completion.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Actual EN/ZH outputs align on dates, trainee supervision, course scope, handover authorship and diploma. Bilingual drafting remains template-bound and not inflated into fluent/native proficiency. F07 reviewed across both supplied languages before accepting prepared guide. No revenue ownership, service-speed metric, Opera or contact claims added.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "direct",
+      "source_fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "reason": "Reviewed entry and checking date/room/request details; evidence of accuracy practices, not measured accuracy."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "direct",
+      "source_fact_ids": [
+        "F05"
+      ],
+      "reason": "Drafted bilingual confirmations using approved templates; no general language proficiency score implied."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F08"
+      ],
+      "reason": "Opera experience explicitly undocumented; internal form cannot be relabeled Opera."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Accounts Intern | Fictional Copper Loom | **August 2025–February 2026**",
+    "zh": "会计实习生｜虚构铜织机构｜**2025年8月—2026年2月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03",
+      "F04"
+    ],
+    "en": "Matched supplier invoices with purchase orders and delivery notes under review. Checked 160 invoice packets during the placement and escalated 19 mismatches; did not approve payments.",
+    "zh": "在审核下将供应商发票与采购订单及送货单匹配。实习期间检查160份发票资料并上报19处不匹配，未审批付款。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Maintained an invoice-status log using Excel SUMIFS and filters.",
+    "zh": "使用Excel SUMIFS和筛选维护发票状态日志。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F08"
+    ],
+    "en": "Drafted supplier-query emails for a supervisor to send.",
+    "zh": "起草供应商询问邮件，由主管发送。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F06",
+      "F07"
+    ],
+    "en": "Supplier aging workbook | **2025**: Built a workbook for a fictional supplier in a coursework exercise and documented rules for grouping unpaid balances by due date.",
+    "zh": "供应商账龄工作簿｜**2025年**：在课程练习中制作虚构供应商账龄工作簿，并记录按到期日对未付款余额分组的规则。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Diploma in Accounting | Fictional Silver Fern Institute | **Completed July 2025**",
+    "zh": "会计文凭课程｜虚构银蕨学院｜**完成时间：2025年7月**"
+  }
+]

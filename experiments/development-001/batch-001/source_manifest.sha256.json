@@ -1,0 +1,26 @@
+{
+  "frozen": true,
+  "creation_batch": "development-001",
+  "files": {
+    "case-001/job.json": "9f0c555ea9742499909bdbe56fd1329e4b5da25a6943e54121aa03afd088c35c",
+    "case-001/profile.json": "292fdf1d3260f5db2e4d087f284e4ffe6926da3f7e24926d8b4faddbed5562cd",
+    "case-002/job.json": "62f9406f4808d0fa21f86de94d527237d868b81bbe0a4df2859d38f7780d0af4",
+    "case-002/profile.json": "314e3895afba78cfbda57b022926e21ecd00c9fa83a711a29a067eec76871a2b",
+    "case-003/job.json": "d5bc81807f4ee3e5c8f2b48dd0087302f6a36959a8a5c897f26bff7af7814a93",
+    "case-003/profile.json": "dded301a6d6cf90756ddac5bd1d42e51f2038c42d8b45bafe5b31edcbe1b26d7",
+    "case-004/job.json": "6af0f3ea3ff44741b601af45b6ed9b3a014cc37fa020054b7e2ac2a8d66494b8",
+    "case-004/profile.json": "9747ebd482b44dce2ad7ceab75b0d841ed0081f430b653bf93d42ace9fd09eab",
+    "case-005/job.json": "20ab01b43cb54bd062fc17b4ea7ebe485bf246bf1cc230db3b3d61e6a66b72d4",
+    "case-005/profile.json": "977fcdba1c2d7436540750b9df6abe9d94081b186ca2d7991abd1d0e46fc5020",
+    "case-006/job.json": "a9ee49e55889b51385f2bb57ea8f975b49e5ba975a280737e019aa4fa7865d3b",
+    "case-006/profile.json": "266d49a9546a9fecf2612c9edfdc008a28288b0165fdc053dc8e8dfcb18e3c17",
+    "case-007/job.json": "f893970d14d84a5555a2e9cce1256fccb61ff0997c70f71a0e88c11e9aa88575",
+    "case-007/profile.json": "b746a1367d1e92b4adc0cbe32b50ae42ced06bdd677cab4aed02ac69609a1314",
+    "case-008/job.json": "532cdf38d5d7e44721f8ccb52917c9744b0c9f795f7a38670b37c0b9675d0b87",
+    "case-008/profile.json": "be0d00c71da3dbe9e9ed466b6fb679c2b705c25cffe3eb8279c4d59d3b61d50e",
+    "case-009/job.json": "df5f7223c7b51b662c07137183dd92a56e4e940ab1b964310d809b2434e67995",
+    "case-009/profile.json": "bffab3535e7b79509515d1998ed91267d8d51f9ec5f66598550bd2eed6d369b4",
+    "case-010/job.json": "d4d517d6d6f472e16bb004d95fdb8cc92b440ef9e3cb4cbfd0651eeab1545e29",
+    "case-010/profile.json": "c70eafb5bff86698f502b6d16747bf0738d3c481890ab99f11d7f68546b320de"
+  }
+}

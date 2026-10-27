@@ -1,0 +1,22 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "transferable",
+    "reason": "Customer setup explanations and guide writing are transferable; formal teaching not established."
+  },
+  {
+    "requirement_id": "R03",
+    "status": "missing",
+    "reason": "No Moodle or other LMS use documented."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "transferable",
+    "reason": "Reading club materials and sign-in support are related; participant counts/event ownership not specified."
+  },
+  {
+    "fact_id": "F08",
+    "status": "scope_limit",
+    "reason": "No teaching license or formal curriculum design; not claimed."
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "case_id": "case-019",
+  "identity_id": "synthetic-person-019",
+  "source_family": "original-lineage-019",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "retail",
+  "career_stage": "career-change",
+  "evidence_density": "sparse",
+  "fit_type": "transferable",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed a certificate in Library Support at Fictional Institute B19 in 2022.",
+      "zh": "2022 年在虚构学院 B19 完成图书馆支持证书课程。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Library circulation assistant at Fictional Reading Room B19, 2022-08 to 2026-05.",
+      "zh": "2022-08 至 2026-05，任虚构阅览室 B19 图书流通助理。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F03",
+      "kind": "skill",
+      "en": "Scanned returned items and updated shelf-location records in a library system.",
+      "zh": "扫描归还物品，并在图书馆系统中更新书架位置记录。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F04",
+      "kind": "outcome",
+      "en": "Reconciled a shelf audit of 460 books in 2026-03 and flagged 11 location mismatches for librarian review.",
+      "zh": "2026-03 核对 460 册图书的书架盘点，标出 11 处位置不匹配供馆员复核。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F05",
+      "kind": "skill",
+      "en": "Answered visitor questions and referred account disputes to the librarian.",
+      "zh": "回答访客问题，并将账户争议转交馆员。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F06",
+      "kind": "project",
+      "en": "In 2026-04, made a personal spreadsheet to track 35 fictional shop items and reorder thresholds.",
+      "zh": "2026-04，制作个人电子表格，跟踪 35 种虚构商店商品及补货阈值。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F07",
+      "kind": "other",
+      "en": "The shop spreadsheet was a practice exercise, not retail employment.",
+      "zh": "该商店电子表格为练习项目，并非零售任职经历。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F08",
+      "kind": "other",
+      "en": "No point-of-sale cash handling or supplier ordering experience is recorded.",
+      "zh": "未记录收银系统现金处理或供应商订货经验。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    }
+  ]
+}

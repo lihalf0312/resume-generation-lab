@@ -1,0 +1,46 @@
+{
+  "case_id": "case-013",
+  "synthetic": true,
+  "title": {
+    "en": "Outpatient booking coordinator",
+    "zh": "门诊预约协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Coordinate outpatient appointment changes.",
+      "zh": "协调门诊预约变更。",
+      "evidence_status": "transferable",
+      "supporting_fact_ids": [
+        "F03",
+        "F05"
+      ]
+    },
+    {
+      "id": "R02",
+      "en": "Escalate questions outside the coordinator remit.",
+      "zh": "将超出协调员职责范围的问题上报。",
+      "evidence_status": "transferable",
+      "supporting_fact_ids": [
+        "F04"
+      ]
+    },
+    {
+      "id": "R03",
+      "en": "Use spreadsheets and document templates.",
+      "zh": "使用电子表格及文档模板。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F07"
+      ]
+    },
+    {
+      "id": "R04",
+      "en": "Use an electronic patient booking system.",
+      "zh": "使用电子患者预约系统。",
+      "evidence_status": "missing",
+      "supporting_fact_ids": []
+    }
+  ]
+}

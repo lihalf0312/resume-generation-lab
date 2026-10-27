@@ -1,0 +1,46 @@
+{
+  "case_id": "case-005",
+  "synthetic": true,
+  "title": {
+    "en": "Accounts payable assistant",
+    "zh": "应付账款助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Perform invoice matching and escalate exceptions.",
+      "zh": "执行发票匹配并上报异常。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "id": "R02",
+      "en": "Maintain spreadsheet payment-status records.",
+      "zh": "维护电子表格付款状态记录。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F05"
+      ]
+    },
+    {
+      "id": "R03",
+      "en": "Communicate supplier queries in writing.",
+      "zh": "以书面方式沟通供应商问题。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F08"
+      ]
+    },
+    {
+      "id": "R04",
+      "en": "Post invoices independently in SAP.",
+      "zh": "在 SAP 中独立录入发票。",
+      "evidence_status": "missing",
+      "supporting_fact_ids": []
+    }
+  ]
+}

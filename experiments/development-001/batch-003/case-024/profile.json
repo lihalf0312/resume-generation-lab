@@ -1,0 +1,71 @@
+{
+  "case_id": "case-024",
+  "identity_id": "synthetic-person-024",
+  "source_family": "original-lineage-024",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "education",
+  "career_stage": "mid",
+  "evidence_density": "rich",
+  "fit_type": "direct",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed an MA in Education Studies at Fictional Institute D024 in 2019.",
+      "zh": "2019 年在虚构院校 D024 完成教育研究文学硕士学位。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Worked as a learning programme coordinator at Fictional Learning Centre D024 from 2020-01 to 2026-07.",
+      "zh": "2020-01 至 2026-07 在虚构学习中心 D024 担任学习项目协调员。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F03",
+      "kind": "employment",
+      "en": "Coordinated timetables for 8 tutors across 3 adult-learning courses each term.",
+      "zh": "每学期协调 3 门成人学习课程中 8 名导师的课表。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F04",
+      "kind": "project",
+      "en": "Moved attendance tracking from separate worksheets to a shared spreadsheet with protected input ranges.",
+      "zh": "将出勤记录从分散工作表迁移至设有受保护输入区域的共享电子表格。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F05",
+      "kind": "outcome",
+      "en": "In the following term, missing attendance entries fell from 46 to 14 across the same 3 courses; tutors and administration jointly implemented the change.",
+      "zh": "在随后的学期，同样 3 门课程的缺失出勤记录从 46 条降至 14 条；导师与行政团队共同实施该变更。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F06",
+      "kind": "employment",
+      "en": "Prepared learner feedback summaries and escalated accessibility requests to the designated support officer.",
+      "zh": "编制学员反馈摘要，并将无障碍支持请求转交指定支持专员。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F07",
+      "kind": "skill",
+      "en": "Maintained enrolment records with role-based access and documented correction requests.",
+      "zh": "依照角色访问权限维护报名记录，并记录更正请求。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F08",
+      "kind": "other",
+      "en": "Did not own an institutional budget or manage grant reporting.",
+      "zh": "未负责机构预算，也未管理资助报告。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    }
+  ]
+}

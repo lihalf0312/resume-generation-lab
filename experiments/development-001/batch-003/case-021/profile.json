@@ -1,0 +1,71 @@
+{
+  "case_id": "case-021",
+  "identity_id": "synthetic-person-021",
+  "source_family": "original-lineage-021",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "software",
+  "career_stage": "mid",
+  "evidence_density": "rich",
+  "fit_type": "direct",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed a BSc in Computing at Fictional Institute D021 in 2020.",
+      "zh": "2020 年在虚构院校 D021 完成计算机学理学学士学位。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Worked as an internal tools developer at Fictional Employer D021 from 2021-02 to 2026-08.",
+      "zh": "2021-02 至 2026-08 在虚构雇主 D021 担任内部工具开发工程师。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F03",
+      "kind": "project",
+      "en": "Built a Python service that validated incoming inventory CSV files before loading them into PostgreSQL.",
+      "zh": "开发 Python 服务，在库存 CSV 文件载入 PostgreSQL 前对其进行校验。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F04",
+      "kind": "skill",
+      "en": "Wrote SQL joins and reconciliation queries for that service; used Git pull requests for review.",
+      "zh": "为该服务编写 SQL 连接和核对查询，并通过 Git 拉取请求接受审查。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F05",
+      "kind": "outcome",
+      "en": "For 12 measured weekly imports, manual correction time fell from a median of 90 minutes to 35 minutes after validation was introduced; this was a team result.",
+      "zh": "引入校验后，在测量的 12 次每周导入中，人工修正时间中位数从 90 分钟降至 35 分钟；这是团队成果。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F06",
+      "kind": "project",
+      "en": "Added unit tests for 18 malformed-file cases and documented a local recovery procedure.",
+      "zh": "为 18 种格式错误文件情况添加单元测试，并记录本地恢复流程。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F07",
+      "kind": "employment",
+      "en": "Paired with an operations analyst to clarify field definitions and demonstrate each monthly release.",
+      "zh": "与运营分析师结对明确字段定义，并演示每月发布内容。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F08",
+      "kind": "other",
+      "en": "Deployment was handled by a separate platform team; the candidate has no recorded Kubernetes administration work.",
+      "zh": "部署由独立的平台团队负责；候选人没有已记录的 Kubernetes 管理工作。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    }
+  ]
+}

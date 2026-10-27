@@ -1,0 +1,87 @@
+{
+  "batch": "batch-003",
+  "status": "frozen_sources",
+  "source_case_count": 10,
+  "files": [
+    {
+      "path": "case-021/job.json",
+      "sha256": "c866a8e12aa0adf4c55efcd6910f2ebbed6dd937450f4fca86545ee08025507e"
+    },
+    {
+      "path": "case-021/profile.json",
+      "sha256": "ed22db87b39de3a3ccf85d495d269ba7eb78eb0a1c859af894f12c289858821e"
+    },
+    {
+      "path": "case-022/job.json",
+      "sha256": "13be277cb361ec5f82ba080a189dbeb99d14660d2a187bdb4eb93fc084617cca"
+    },
+    {
+      "path": "case-022/profile.json",
+      "sha256": "847df98c1504262ec20f3af60f7f0667d6c98ed2c0589b187cdbb6552cfa536a"
+    },
+    {
+      "path": "case-023/job.json",
+      "sha256": "9597d8036334e7c56a7068e27b48bcdb33a9bf8546c5e35cc63abebedc47ccce"
+    },
+    {
+      "path": "case-023/profile.json",
+      "sha256": "4d59d9896fc2b4827a4bce2f09b5e5fbd3954f0f2b66a569561fe033dc7d922a"
+    },
+    {
+      "path": "case-024/job.json",
+      "sha256": "2dde3fd0e499d5cf4e62c1b944226e100a81bdcb1cc50d6ae0f5d21dcb996f1c"
+    },
+    {
+      "path": "case-024/profile.json",
+      "sha256": "2da3d1e57999e76e9439c051dffe171dd297c16b60a01e2d6663f0b5c2828786"
+    },
+    {
+      "path": "case-025/job.json",
+      "sha256": "617b78523e427424ec82ae9dc55d27e7cfdcbed0ed3d9297b62e2d69c5355c89"
+    },
+    {
+      "path": "case-025/profile.json",
+      "sha256": "17db40f4653d8a963d872ccf98e2373ac64233518cd1194be5e54cfb73d18e08"
+    },
+    {
+      "path": "case-026/job.json",
+      "sha256": "db663c951a1b11020b67b084122297d660c874330a18b0384de680ed449ac54b"
+    },
+    {
+      "path": "case-026/profile.json",
+      "sha256": "154d73db38a4c021bd8e23756d44b53def71ed292418e311d8f4542368751e6c"
+    },
+    {
+      "path": "case-027/job.json",
+      "sha256": "64424979d21d66f314009318481250d944d9a7f9e0c8e83566cd434dd794f633"
+    },
+    {
+      "path": "case-027/profile.json",
+      "sha256": "292847798bc5592b061d3ddc679340e6f8ab55e583a3a2885752c84b2801269c"
+    },
+    {
+      "path": "case-028/job.json",
+      "sha256": "b199d6d3662fa10cdc25a4b5d43f09db6485adba1c12a330176ddad57daa7633"
+    },
+    {
+      "path": "case-028/profile.json",
+      "sha256": "7e7da2e1f7c8f6573519f508371bd92397e07dc75170f8de567ad3a31bd096e9"
+    },
+    {
+      "path": "case-029/job.json",
+      "sha256": "abf4c261a603806a5799eca64e759b9fb1d59f2a4d7ed254161209f09a8f1f98"
+    },
+    {
+      "path": "case-029/profile.json",
+      "sha256": "55dffa2908eb2b4c313d2dc93112fa5a1bf5ae2ef8ad26d63bb55f7c15cc81b5"
+    },
+    {
+      "path": "case-030/job.json",
+      "sha256": "c3c504e39bbc2c290b2f1f13067c4a7ce39a374bb6adcf6cb32d28445a33aaa7"
+    },
+    {
+      "path": "case-030/profile.json",
+      "sha256": "89bc31f962cf00137d4a4a9dac503a34fe647a5866ed82e8f350fa59f83e60dd"
+    }
+  ]
+}

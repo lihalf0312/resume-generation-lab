@@ -1,0 +1,226 @@
+{
+  "case_id": "case-006",
+  "evaluated_at": "2026-10-27T18:10:57.077870+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "266d49a9546a9fecf2612c9edfdc008a28288b0165fdc053dc8e8dfcb18e3c17",
+    "job.json": "a9ee49e55889b51385f2bb57ea8f975b49e5ba975a280737e019aa4fa7865d3b",
+    "judge-visible-job.json": "d65a8c1a0165d69702c3b03ffeba7be6cc4334991241ac0278cae33a94782635",
+    "prompt.md": "864b0dc04628399720b00fc6e4e6551fb817205fcf63368e50290524b94cb09a",
+    "provenance.json": "c6df9e2481a5d76ee6fad0c1057ed4015452630b404b5ac1d8c0b81fa680c6c4",
+    "resume.en.md": "14f692455b952a025e54fdb34a822c1bea079ce47766054b5073c7c1aa55122c",
+    "resume.zh.md": "bcd0aa30140d926059982658de043cc898f3ba47a340f0f7773658dff9746af8",
+    "claims.json": "79b0baa4fc8d4e8acb8bbbc72e57f19471cb713d2671b269abfecc71c8340670"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Dispatch Planner | Fictional Amber Routes | **September 2021–July 2026**",
+        "zh": "调度计划员｜虚构琥珀路线机构｜**2021年9月—2026年7月**"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 supports planner title, employer and September 2021–July 2026 chronology.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Dispatch Clerk | Fictional Amber Routes | **January 2018–August 2021**",
+        "zh": "调度文员｜虚构琥珀路线机构｜**2018年1月—2021年8月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports clerk title, same employer and January 2018–August 2021 chronology.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Allocated daily delivery runs across 14 vans using a shared planning board, checking driver availability and delivery windows. Escalated legal driving-hours questions to the transport manager.",
+        "zh": "使用共享计划板为14辆货车分配每日配送任务，检查驾驶员可用时间及配送时间窗口；将法定驾驶时长问题交由运输经理处理。"
+      },
+      "source_fact_ids": [
+        "F04",
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F04/F05 support 14 vans, daily allocation, shared board and availability/window checks; legal questions remain escalated rather than claiming compliance authority.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Called receiving sites during disruptions to renegotiate arrival windows.",
+        "zh": "发生中断时致电收货地点，协商到达时间窗口。"
+      },
+      "source_fact_ids": [
+        "F09"
+      ],
+      "status": "supported",
+      "reason": "F09 supports calls and renegotiated receiving windows during disruption, no quantified delivery outcome added.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Used spreadsheet route summaries and daily exception logs.",
+        "zh": "使用电子表格路线摘要及每日异常日志。"
+      },
+      "source_fact_ids": [
+        "F08"
+      ],
+      "status": "supported",
+      "reason": "F08 directly supports route-summary spreadsheets and daily exception logs; no programming or automation proficiency asserted.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Revised the handover checklist with warehouse and dispatch colleagues in **September 2025**.",
+        "zh": "**2025年9月**与仓库及调度同事修订交接核对表。"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 supports September 2025 revision with both colleague groups, not sole authorship.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "A 6-week internal comparison recorded a fall in missed handover fields from 31 to 12 per week; no causal attribution was established.",
+        "zh": "在6周内部比较中，交接字段遗漏从每周31项降至12项；未建立因果归因。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 preserves six-week comparison, weekly counts 31 to 12 and explicit absence of causal attribution; no percentage or personal impact inferred.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C08",
+      "text": {
+        "en": "Diploma in Supply Chain | Fictional Willow School | **Completed 2017**",
+        "zh": "供应链文凭课程｜虚构柳树学校｜**完成时间：2017年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports supply-chain diploma, fictional school and 2017 completion.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "EN/ZH actual outputs faithfully preserve employer chronology, all metrics and contribution boundaries. Observed comparison is separately phrased with no causal attribution; not presented as personal reduction. Degree level and dates align. No language proficiency, programming, customs or legal authority added.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "direct",
+      "source_fact_ids": [
+        "F04",
+        "F05"
+      ],
+      "reason": "Daily allocation for 14 vans and availability/window checks."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "direct",
+      "source_fact_ids": [
+        "F09"
+      ],
+      "reason": "Receiving-site calls renegotiated arrival windows; does not assert wider customer-account ownership."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "direct",
+      "source_fact_ids": [
+        "F08",
+        "F05"
+      ],
+      "reason": "Daily exception logs and operational checks, without invented quantified resolution."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F10"
+      ],
+      "reason": "No optimization programming or Python use documented."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

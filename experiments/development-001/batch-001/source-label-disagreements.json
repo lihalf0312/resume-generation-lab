@@ -1,0 +1,40 @@
+{
+  "notice": "Source labels are design aids, not gold truth; originals remain frozen.",
+  "disagreements": [
+    {
+      "case_id": "case-001",
+      "requirement_id": "R02",
+      "source_design_label": "direct",
+      "independent_judge_label": "transferable",
+      "judge_reason": "Python demo and authored pytest checks are related evidence; execution is not established."
+    },
+    {
+      "case_id": "case-004",
+      "requirement_id": "R02",
+      "source_design_label": "direct",
+      "independent_judge_label": "transferable",
+      "judge_reason": "Uses attendance spreadsheets and helps arrange materials/sign-in sheets; sustained ownership of session maintenance is not specified."
+    },
+    {
+      "case_id": "case-005",
+      "requirement_id": "R02",
+      "source_design_label": "direct",
+      "independent_judge_label": "transferable",
+      "judge_reason": "Maintained invoice-status Excel log and coursework unpaid-balance grouping; real payment-status fields not specified."
+    },
+    {
+      "case_id": "case-007",
+      "requirement_id": "R04",
+      "source_design_label": "transferable",
+      "independent_judge_label": "direct",
+      "judge_reason": "Escalates out-of-range refrigerator readings; direct behavior in bakery context, not industrial disposition authority."
+    },
+    {
+      "case_id": "case-010",
+      "requirement_id": "R01",
+      "source_design_label": "direct",
+      "independent_judge_label": "transferable",
+      "judge_reason": "Volunteer sign-up reminders directly support communications; availability rosters are for casual paid workers, not explicitly volunteers."
+    }
+  ]
+}

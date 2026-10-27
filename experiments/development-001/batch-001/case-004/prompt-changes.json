@@ -1,0 +1,8 @@
+{
+  "version": 4,
+  "previous_case": "case-003",
+  "changes": [
+    "Add Chinese collocation check: 具备/拥有权限; 承担职责. Avoid redundant boundary phrasing."
+  ],
+  "reason": "Case-003 clarity feedback applied as a general linguistic check; no authority phrase needed in this case. Keep necessary volunteer contribution boundary and date bolding."
+}

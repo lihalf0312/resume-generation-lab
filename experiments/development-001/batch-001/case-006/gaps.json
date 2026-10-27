@@ -1,0 +1,19 @@
+[
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No Python or route-optimization programming evidence."
+  },
+  {
+    "fact_ids": [
+      "F05",
+      "F07"
+    ],
+    "status": "scope_limit",
+    "reason": "Manager handles legal driving-hours questions. Handover comparison is observational, not proof of causation or personal impact."
+  },
+  {
+    "status": "date_attribution",
+    "reason": "Undated activities grouped separately from role chronology to avoid assigning them to an unsupported role period."
+  }
+]

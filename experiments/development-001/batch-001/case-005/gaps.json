@@ -1,0 +1,22 @@
+[
+  {
+    "requirement_id": "R02",
+    "status": "scope_limit",
+    "reason": "Invoice-status log is documented; specific payment-status fields are not supplied."
+  },
+  {
+    "requirement_id": "R03",
+    "status": "scope_limit",
+    "reason": "Evidence supports email drafting, not independently sending or owning supplier communications."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No SAP invoice posting evidence."
+  },
+  {
+    "fact_id": "F09",
+    "status": "scope_limit",
+    "reason": "No month-end ledger ownership or ERP implementation; neither claimed."
+  }
+]

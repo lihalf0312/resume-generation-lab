@@ -1,0 +1,71 @@
+{
+  "case_id": "case-025",
+  "identity_id": "synthetic-person-025",
+  "source_family": "original-lineage-025",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "finance operations",
+  "career_stage": "career-change",
+  "evidence_density": "rich",
+  "fit_type": "transferable",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed a diploma in Business Administration at Fictional Institute D025 in 2021.",
+      "zh": "2021 年在虚构院校 D025 完成工商管理专科学历。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Worked as a facilities purchasing assistant at Fictional Employer D025 from 2021-08 to 2026-05.",
+      "zh": "2021-08 至 2026-05 在虚构雇主 D025 担任设施采购助理。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F03",
+      "kind": "employment",
+      "en": "Compared delivery notes against purchase orders and sent mismatches to the purchasing officer.",
+      "zh": "核对送货单与采购订单，并将不匹配项目提交采购专员。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F04",
+      "kind": "outcome",
+      "en": "During a 3-month file review, identified 9 missing delivery notes among 130 orders and obtained 7 from suppliers; 2 remained with the officer for follow-up.",
+      "zh": "在为期 3 个月的档案复查中，从 130 笔订单发现 9 份缺失送货单，并向供应商取得 7 份；其余 2 份由采购专员继续跟进。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F05",
+      "kind": "skill",
+      "en": "Used spreadsheet lookups and filters to maintain a purchase-order status log.",
+      "zh": "使用电子表格查找和筛选功能维护采购订单状态记录。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F06",
+      "kind": "project",
+      "en": "Finished a 2026-04 bookkeeping practice module covering debits, credits and invoice matching on fictional transactions.",
+      "zh": "2026-04 完成记账练习模块，使用虚构交易练习借记、贷记和发票匹配。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F07",
+      "kind": "employment",
+      "en": "Wrote concise supplier emails requesting missing documents without approving purchases or payments.",
+      "zh": "撰写简明供应商邮件索取缺失文件，但不审批采购或付款。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F08",
+      "kind": "other",
+      "en": "Has not posted invoices in a live accounting system or executed payment runs.",
+      "zh": "未在真实业务会计系统录入发票，也未执行批量付款。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    }
+  ]
+}

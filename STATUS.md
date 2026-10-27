@@ -38,3 +38,7 @@ See [migration notes](docs/SKILL_MIGRATION.md) and [uploaded-source hashes](docs
 [Three-pair report](experiments/native-pilot-001/REPORT.md): 3 distinct fictional profile/JD pairs, 6 bilingual Markdown contents, 3 independent unvalidated LLM reviews, 70 supported material claim lines according to that judge, and 2 feedback updates applied to the next pair only. All 9 exact JD requirements remain unestablished; presentation scores are not suitability scores. No same-pair rewriting, paid API, weight training, document rendering or improvement claim. Full scores remain null. Source inputs, prompts, outputs, feedback and hashes are preserved.
 
 Current execution choice: existing product plan only; external paid providers remain disabled. Original visual templates are still missing.
+
+## Continuing development
+
+The separate [development tracker](DEVELOPMENT_PROGRESS.md) records the new 30-pair effort and subsequent batches. Initial reviewed publication:10 completed pairs,9 factual passes and1 needs_review; old pilot files remain unchanged.

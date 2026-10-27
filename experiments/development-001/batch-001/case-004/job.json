@@ -1,0 +1,48 @@
+{
+  "case_id": "case-004",
+  "synthetic": true,
+  "title": {
+    "en": "Learning programme assistant",
+    "zh": "学习项目助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Explain instructions clearly to learners.",
+      "zh": "向学习者清晰解释操作说明。",
+      "evidence_status": "transferable",
+      "supporting_fact_ids": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "id": "R02",
+      "en": "Maintain attendance and session materials.",
+      "zh": "维护出席记录和活动材料。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F05",
+        "F07"
+      ]
+    },
+    {
+      "id": "R03",
+      "en": "Administer courses in Moodle.",
+      "zh": "在 Moodle 中管理课程。",
+      "evidence_status": "missing",
+      "supporting_fact_ids": []
+    },
+    {
+      "id": "R04",
+      "en": "Support events with multiple participants.",
+      "zh": "支持多人活动。",
+      "evidence_status": "transferable",
+      "supporting_fact_ids": [
+        "F06",
+        "F07"
+      ]
+    }
+  ]
+}

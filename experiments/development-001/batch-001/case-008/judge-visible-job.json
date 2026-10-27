@@ -1,0 +1,26 @@
+{
+  "case_id": "case-008",
+  "synthetic": true,
+  "title": {
+    "en": "Reservations assistant",
+    "zh": "预订助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Accurately enter booking details.",
+      "zh": "准确录入预订详情。"
+    },
+    {
+      "id": "R02",
+      "en": "Write bilingual booking confirmations.",
+      "zh": "撰写双语预订确认。"
+    },
+    {
+      "id": "R03",
+      "en": "Use Opera property-management software.",
+      "zh": "使用 Opera 物业管理软件。"
+    }
+  ]
+}

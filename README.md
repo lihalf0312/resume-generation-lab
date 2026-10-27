@@ -50,3 +50,7 @@ See [STATUS.md](STATUS.md) for measured progress. No CI workflow is included yet
 ## Preference adapter API
 
 `OriginalSkillAdapter(confirmed_preferences=..., current_overrides=..., template_preferences=...).prepare(profile, job, policy, language="en")` reads and hashes required references and preferences. The resolved configuration controls page count/size, language, headings, final-line bounds, spacing and conditional punctuation handling. Default final-line acceptance is strictly **>0.5**, not >=0.5; explicit user overrides are recorded. Compatible export engines are allowed. Reports remain untrusted measurements: passing schema checks does not verify actual rendering or Word-specific properties. See migration notes for changed API/report keys and corrected historical Word-only claim.
+
+## Current development batches
+
+See [DEVELOPMENT_PROGRESS.md](DEVELOPMENT_PROGRESS.md) for completed generation/evaluation counts, retained defects and linked artifacts. These are additional to the initial pilot, not production training or rendered resumes.

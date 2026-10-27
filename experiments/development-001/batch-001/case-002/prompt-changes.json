@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "previous_case": "case-001",
+  "changes": [
+    "Bold all displayed dates including project dates, following independent case-001 feedback."
+  ],
+  "reason": "Applicable formatting feedback only; retain truthful contribution and project boundaries."
+}

@@ -1,0 +1,6 @@
+{
+  "version": 5,
+  "previous_case": "case-004",
+  "changes": [],
+  "reason": "Case-004 reviewer found no new wording repair. Preserve cumulative v2/v4 rules; its requirement-label disagreements reinforce checking scope independently, not a reason to inflate this case."
+}

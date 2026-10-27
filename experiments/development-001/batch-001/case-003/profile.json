@@ -1,0 +1,85 @@
+{
+  "case_id": "case-003",
+  "identity_id": "synthetic-person-003",
+  "source_family": "original-lineage-003",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "healthcare operations",
+  "career_stage": "mid-career",
+  "evidence_density": "rich",
+  "fit_type": "direct",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed an administration diploma at Fictional Lantern Institute in 2018.",
+      "zh": "2018 年在虚构灯笼学院完成行政管理文凭课程。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Scheduling assistant at Fictional Reed Clinic, 2019-03 to 2022-04.",
+      "zh": "2019-03 至 2022-04 在虚构芦苇诊所任排班助理。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F03",
+      "kind": "employment",
+      "en": "Scheduling coordinator at Fictional Reed Clinic, 2022-05 to 2026-06.",
+      "zh": "2022-05 至 2026-06 在虚构芦苇诊所任排班协调员。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F04",
+      "kind": "employment",
+      "en": "Coordinated appointment slots for 4 outpatient service teams without clinical triage authority.",
+      "zh": "为 4 个门诊服务团队协调预约时段，不具备临床分诊权限。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F05",
+      "kind": "skill",
+      "en": "Maintained access-restricted scheduling records and followed the internal confidentiality checklist.",
+      "zh": "维护限制访问的排班记录并遵循内部保密核对表。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F06",
+      "kind": "project",
+      "en": "Piloted a callback queue with a scheduling supervisor during 2025-02.",
+      "zh": "2025-02 与排班主管试行回电队列。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F07",
+      "kind": "outcome",
+      "en": "During that 4-week pilot, unresolved callbacks at daily close fell from 22 to 13 on average; this was a team result.",
+      "zh": "在该 4 周试点中，每日结束时未完成回电平均从 22 项降至 13 项；这是团队成果。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F08",
+      "kind": "employment",
+      "en": "Trained 3 new schedulers using a locally written desk guide.",
+      "zh": "使用本地编写的岗位指南培训 3 名新排班员。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F09",
+      "kind": "skill",
+      "en": "Uses Excel filters and lookup functions to reconcile rota changes.",
+      "zh": "使用 Excel 筛选和查找函数核对轮班变更。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F10",
+      "kind": "other",
+      "en": "No professional clinical license or medical billing certification is documented.",
+      "zh": "未记录临床执业许可或医疗账单认证。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    }
+  ]
+}

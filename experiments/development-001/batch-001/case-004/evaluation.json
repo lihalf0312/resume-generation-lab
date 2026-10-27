@@ -1,0 +1,210 @@
+{
+  "case_id": "case-004",
+  "evaluated_at": "2026-10-27T18:09:23.926066+00:00",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "source_type": "synthetic_not_user_verified",
+  "method": "Independent native LLM read actual bilingual outputs and fact inventory; serialized explicit judgments, not rule-engine quality labels.",
+  "blinding": {
+    "corpus_requirement_labels_viewed": false,
+    "generator_ledger_viewed": true,
+    "note": "Job projected to requirement text/IDs before reading; generation ledger checked against actual output, not treated as proof."
+  },
+  "hashes": {
+    "profile.json": "9747ebd482b44dce2ad7ceab75b0d841ed0081f430b653bf93d42ace9fd09eab",
+    "job.json": "6af0f3ea3ff44741b601af45b6ed9b3a014cc37fa020054b7e2ac2a8d66494b8",
+    "judge-visible-job.json": "f71e5b5190a14124b067487320e86892bc390a0625ab14a882983fcbd4bc782e",
+    "prompt.md": "5da3ee25aa01e90935f55ae1f36eec01c3ab4a77679a876cd1f377339880edcd",
+    "provenance.json": "dfdef393a541df8bd74b0625f71460ac23f2958f68e5793da628fd99bb71ecc1",
+    "resume.en.md": "fbc49d484d405d2f959591bc14aaceeb5ddb9da55a0d9f6e7b2638097f3828c2",
+    "resume.zh.md": "089b56ce08150ee84a74da86ec1d99459239a12f5d2b101faf9c8792eac201ac",
+    "claims.json": "ebbccbac65b6b9d8dda761d673281034933471bdc2a9ac40cb220aa6e0d3f0b5"
+  },
+  "rubric_sha256": "107ae6af3c8120f6ed155149c17893daaaad5b44542e44a25e1667f1806d37d6",
+  "skill_snapshot_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "factual_fidelity": "pass",
+  "claim_audit": [
+    {
+      "claim_id": "C01",
+      "text": {
+        "en": "Customer Onboarding Associate | Fictional Pebble Tools | **September 2020–November 2025**",
+        "zh": "客户入门支持专员｜虚构卵石工具机构｜**2020年9月—2025年11月**"
+      },
+      "source_fact_ids": [
+        "F02"
+      ],
+      "status": "supported",
+      "reason": "F02 supports onboarding associate title, fictional employer and September 2020–November 2025 dates.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C02",
+      "text": {
+        "en": "Explained setup instructions to new business customers in scheduled video sessions.",
+        "zh": "通过预约视频会议向新企业客户讲解设置步骤。"
+      },
+      "source_fact_ids": [
+        "F03"
+      ],
+      "status": "supported",
+      "reason": "F03 supports scheduled video explanation to new business customers, not formal classroom teaching.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C03",
+      "text": {
+        "en": "Prepared a plain-language setup guide reviewed by a product specialist.",
+        "zh": "编写易懂的设置指南，由产品专员审核。"
+      },
+      "source_fact_ids": [
+        "F04"
+      ],
+      "status": "supported",
+      "reason": "F04 supports guide preparation and product-specialist review; no curriculum authorship added.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C04",
+      "text": {
+        "en": "Used presentation slides and attendance spreadsheets.",
+        "zh": "使用演示幻灯片和出席记录表。"
+      },
+      "source_fact_ids": [
+        "F05"
+      ],
+      "status": "supported",
+      "reason": "F05 supports slides and attendance spreadsheets without inferred software brands or mastery.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C05",
+      "text": {
+        "en": "Volunteer | Fictional community reading club | **January–April 2026**",
+        "zh": "志愿者｜虚构社区阅读俱乐部｜**2026年1月—4月**"
+      },
+      "source_fact_ids": [
+        "F06"
+      ],
+      "status": "supported",
+      "reason": "F06 supports volunteer role, reading club and January–April 2026.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C06",
+      "text": {
+        "en": "Helped arrange materials and sign-in sheets in a support role, rather than independently teaching children.",
+        "zh": "协助整理材料和签到表，未独立教授儿童。"
+      },
+      "source_fact_ids": [
+        "F07"
+      ],
+      "status": "supported",
+      "reason": "F07 supports materials/sign-in assistance and explicit absence of independent child teaching. English elaborates support rather than elevating ownership.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    },
+    {
+      "claim_id": "C07",
+      "text": {
+        "en": "Bachelor’s Degree in Communications | Fictional Kite College | **Graduated 2020**",
+        "zh": "传播学学士｜虚构风筝学院｜**毕业时间：2020年**"
+      },
+      "source_fact_ids": [
+        "F01"
+      ],
+      "status": "supported",
+      "reason": "F01 supports communications bachelor degree, fictional college and 2020 completion.",
+      "languages_checked": [
+        "en",
+        "zh"
+      ]
+    }
+  ],
+  "bilingual_fidelity": "Actual English and Chinese resumes preserve dates, degree, customer context, reviewed guide and volunteer contribution boundaries. No teaching license, child-teaching ownership, Moodle proficiency or numerical impact claimed. Standalone guide/tools section avoids assigning undated facts to a specific employer without evidence. Sparse source does not establish all target-role duties despite clear presentation.",
+  "dimensions": {
+    "jd_relevance": {
+      "rating": 4,
+      "weight": 35
+    },
+    "clarity": {
+      "rating": 4,
+      "weight": 25
+    },
+    "supported_achievements": {
+      "rating": 4,
+      "weight": 25
+    },
+    "format_readability": {
+      "rating": null,
+      "status": "not_assessed",
+      "weight": 15
+    }
+  },
+  "overall_score": null,
+  "assessed_score": 100,
+  "assessed_weight": 85,
+  "score_notice": "Content presentation only; not comparable to full scores, candidate quality, HR truth, or hiring probability.",
+  "export_ready": false,
+  "requirement_coverage": [
+    {
+      "requirement_id": "R01",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F03",
+        "F04"
+      ],
+      "reason": "Customer instruction and accessible guide preparation transfer to learner explanation, but no formal learner delivery is documented."
+    },
+    {
+      "requirement_id": "R02",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F05",
+        "F07"
+      ],
+      "reason": "Uses attendance spreadsheets and helps arrange materials/sign-in sheets; sustained ownership of session maintenance is not specified."
+    },
+    {
+      "requirement_id": "R03",
+      "status": "not_shown",
+      "source_fact_ids": [
+        "F08"
+      ],
+      "reason": "No LMS/Moodle use documented."
+    },
+    {
+      "requirement_id": "R04",
+      "status": "transferable",
+      "source_fact_ids": [
+        "F06",
+        "F07"
+      ],
+      "reason": "Reading-club material/sign-in assistance is related support; number of participants and event-management scope absent."
+    }
+  ],
+  "feedback": [],
+  "artifact_limitation": "No actual DOCX/PDF; rendering, page count, extraction, glyphs, line ratios, links and real formatting not assessed."
+}

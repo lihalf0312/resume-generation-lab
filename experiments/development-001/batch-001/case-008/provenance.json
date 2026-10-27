@@ -1,0 +1,30 @@
+{
+  "case_id": "case-008",
+  "generated_at": "2026-10-27T18:12:11.558615+00:00",
+  "generation_method": "native_LLM_once",
+  "model_id": "native_model_unknown",
+  "attempt": 1,
+  "source_path": "experiments/development-001/batch-001/case-008/profile.json",
+  "source_sha256": {
+    "profile.json": "be0d00c71da3dbe9e9ed466b6fb679c2b705c25cffe3eb8279c4d59d3b61d50e",
+    "job.json": "532cdf38d5d7e44721f8ccb52917c9744b0c9f795f7a38670b37c0b9675d0b87"
+  },
+  "prompt_sha256": "7799c17e5fbef1481a2525427122ea762beac4f830bcdbd62c10ede3aa40df9f",
+  "skill_sha256": {
+    "SKILL.md": "1ddeb6a58bff22a96d650a174261e417c4118115a2ffa84a593aa76188ff0f7c",
+    "agents/openai.yaml": "1d99d1204472b04ec862b03b1d0575f9b9ee6e4f831bfe4ce712c199b5e36d75",
+    "assets/resume-preferences.json": "2f2c07ec7a6a00c0bd1a180884e3668e776eb664662db77efdaccabcd5d49a00",
+    "references/layout-and-qa.md": "0b88abfab77833bba603f626be4b2f646c11a6b2fd39ba9e487b70820a079ddc",
+    "references/workspace.md": "23b855dde3c57ba53682e6d3470ca99cce78cc8bac7c73ce435f196cb2dc91ec"
+  },
+  "output_sha256": {
+    "resume.en.md": "ca4e60f6ffe3c6de539971ecbb0e57eceb6ae372a6e2524887ea2c46fc64a157",
+    "resume.zh.md": "0df05d543dc8bb45f0c7d45a44310ce4c81f25446287e6d01e695197418c39a5",
+    "claims.json": "f7a32f8e4687e55c413540701c4c0b88145a63b9d0f842e8fb5166604d39b14a",
+    "gaps.json": "e6bd1186fc305fcaa67ff356a279a7ab162ae57da3f42be199fbfcd9fb67c507"
+  },
+  "visual_checks": "not_assessed",
+  "docx_pdf_export": false,
+  "source_requirement_labels": "design aid only, not evaluator truth",
+  "frozen": true
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "partial",
+    "reason": "Volunteer session communications shown; availability-roster evidence relates to paid event workers, not explicitly volunteers."
+  },
+  {
+    "requirement_id": "R03",
+    "status": "transferable",
+    "reason": "Maintained availability rosters for 24 casual workers, not proven ownership of large event staffing schedules or hiring."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No Salesforce donor records experience."
+  },
+  {
+    "fact_ids": [
+      "F07",
+      "F09",
+      "F10"
+    ],
+    "status": "scope_limit",
+    "reason": "32 attendances are not 32 unique people or a causal recruitment result. No screening, grant reporting or safeguarding training claimed."
+  }
+]

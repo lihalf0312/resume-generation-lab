@@ -1,0 +1,67 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Scheduling Coordinator | **May 2022–June 2026**",
+    "zh": "排班协调员｜**2022年5月—2026年6月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Scheduling Assistant | **March 2019–April 2022**",
+    "zh": "排班助理｜**2019年3月—2022年4月**"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Coordinated appointment slots for 4 outpatient service teams in a non-clinical scheduling capacity, without clinical triage authority.",
+    "zh": "以非临床排班职责为4个门诊服务团队协调预约时段，不承担临床分诊权限。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Maintained access-restricted scheduling records using the internal confidentiality checklist.",
+    "zh": "维护限制访问的排班记录，并遵循内部保密核对表。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F06",
+      "F07"
+    ],
+    "en": "Piloted a callback queue with the scheduling supervisor in **February 2025**. During the 4-week pilot, average unresolved callbacks at daily close fell from 22 to 13, a team result.",
+    "zh": "**2025年2月**与排班主管试行回电队列。在为期4周的试点中，每日结束时未完成回电平均从22项降至13项，为团队成果。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F08"
+    ],
+    "en": "Trained 3 new schedulers using a locally written desk guide.",
+    "zh": "使用本地编写的岗位指南培训3名新排班员。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F09"
+    ],
+    "en": "Used Excel filters and lookup functions to reconcile rota changes.",
+    "zh": "使用Excel筛选和查找函数核对轮班变更。"
+  },
+  {
+    "id": "C08",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Diploma in Administration | Fictional Lantern Institute | **Completed 2018**",
+    "zh": "行政管理文凭课程｜虚构灯笼学院｜**完成时间：2018年**"
+  }
+]

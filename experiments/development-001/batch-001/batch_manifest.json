@@ -1,0 +1,109 @@
+{
+  "batch_id": "batch-001",
+  "completed_pairs": 10,
+  "fidelity_passed_pairs": 9,
+  "fidelity_needs_review_pairs": 1,
+  "fidelity_failed_pairs": 0,
+  "case_artifacts": [
+    {
+      "case_id": "case-001",
+      "factual_fidelity": "pass",
+      "assessed_score": 100,
+      "overall_score": null,
+      "provenance_sha256": "ee77faec1a4a45184e94466435e23214dd861e4e6d778553cf4c60965b705011",
+      "evaluation_sha256": "d6f41aa867870d841adeb45b09a4c57959ed2c51417e6696d8c5289bde9ff164",
+      "prompt_changes_sha256": "df52b2090564786e4d6e6255f705e38950e138364c17f87d5e8ddc4d3ad31ca5"
+    },
+    {
+      "case_id": "case-002",
+      "factual_fidelity": "pass",
+      "assessed_score": 100,
+      "overall_score": null,
+      "provenance_sha256": "6f259190fdc415af71e22829f66e402c2304005ab7dc8f9aa745b201a4855db2",
+      "evaluation_sha256": "f0946f79f4c19fc3d65cdb2a04e0780b00052650d419e5feb079bcc37425c935",
+      "prompt_changes_sha256": "c3612a115a07df1f85ce5bbfcf452c9410e2abcd5ccab81e27e2477f4db8b963"
+    },
+    {
+      "case_id": "case-003",
+      "factual_fidelity": "pass",
+      "assessed_score": 93,
+      "overall_score": null,
+      "provenance_sha256": "eeacc4d4e0f8f2abaab509e990587b262b184abae8a30932f7fbe83279cebf5a",
+      "evaluation_sha256": "bddb91346a408d21b2da5f18b3ba9158d602dc7add6b19ddab7be5a188a4add5",
+      "prompt_changes_sha256": "667ac2a6c2e4d5af37e560b76cb9ae7f0f8081da7b4f8d83ad987f0267017a17"
+    },
+    {
+      "case_id": "case-004",
+      "factual_fidelity": "pass",
+      "assessed_score": 100,
+      "overall_score": null,
+      "provenance_sha256": "dfdef393a541df8bd74b0625f71460ac23f2958f68e5793da628fd99bb71ecc1",
+      "evaluation_sha256": "2fac54b0b8b6aee161088afddbac865258a4a674936dca19aa3a05f7c9bf2114",
+      "prompt_changes_sha256": "f7c439bc4d262a5edd93989d4ea7c2ea6d07147051876bc1f08bca0ff1595c20"
+    },
+    {
+      "case_id": "case-005",
+      "factual_fidelity": "pass",
+      "assessed_score": 100,
+      "overall_score": null,
+      "provenance_sha256": "5d23c91423037f1e920149d48819966d764d3bd14218004e18466fde492c383b",
+      "evaluation_sha256": "85e045aada5652864daa34d3d97ee3d52c7e3919b1a4c917a87788a54e71f176",
+      "prompt_changes_sha256": "e34668d711268637a0117c41434870ac4d70569b37de9ebc8300efc3282f3e9b"
+    },
+    {
+      "case_id": "case-006",
+      "factual_fidelity": "pass",
+      "assessed_score": 100,
+      "overall_score": null,
+      "provenance_sha256": "c6df9e2481a5d76ee6fad0c1057ed4015452630b404b5ac1d8c0b81fa680c6c4",
+      "evaluation_sha256": "ae904cefaafe91fb5de4dbc38a5129c0e7c934f92170007754b431fa028c4634",
+      "prompt_changes_sha256": "0c97a66ba1f8a759b9c2ac13c7d2a1f7c589e901a46b72b895af214696b8ba90"
+    },
+    {
+      "case_id": "case-007",
+      "factual_fidelity": "needs_review",
+      "assessed_score": 93,
+      "overall_score": null,
+      "provenance_sha256": "82237aae1f4d4a73cdbfe2cae0ecd41999ce5811cc96ffc5f2174f663a15147f",
+      "evaluation_sha256": "c9f006365038baa4808f4afe4aeff12dfe3b9b270663bc26326df31eb8cbc531",
+      "prompt_changes_sha256": "1d5190b5c9cb2c78eaa2b2b7e64f309a3d3512a5f34a293d80431a5b51d7bb36"
+    },
+    {
+      "case_id": "case-008",
+      "factual_fidelity": "pass",
+      "assessed_score": 100,
+      "overall_score": null,
+      "provenance_sha256": "68ec1e08f138c7c973f4eab3b180e48228c27cb66037f7d9638477c3f8d471b3",
+      "evaluation_sha256": "f8808c369695a78c25e18b2bd069f9e2f90f6023002e80453e47438f04464776",
+      "prompt_changes_sha256": "2b4526cffe19d3d6b3577a30cdd3b122c0ff5d345506bf8e30838833ce6056ee"
+    },
+    {
+      "case_id": "case-009",
+      "factual_fidelity": "pass",
+      "assessed_score": 100,
+      "overall_score": null,
+      "provenance_sha256": "a0dd08385068074c407dbfe43141aaf6a1bcec682d7acb47491d21542edbb27e",
+      "evaluation_sha256": "54f1e8424064232726cc85a9a21bd459d10f7f45932c0ee057c83b81b779eb52",
+      "prompt_changes_sha256": "77fb95db23bee3b7d93a67f0084b6471b4b4d7965a8f10570edac8317b4890a1"
+    },
+    {
+      "case_id": "case-010",
+      "factual_fidelity": "pass",
+      "assessed_score": 93,
+      "overall_score": null,
+      "provenance_sha256": "2043a1ad05509676cc92870982d907461a616b93404da0a564272ddf3754bb76",
+      "evaluation_sha256": "6db3cc4bbd3660bf556f7da9e0337a06ac352df0485e905ace2e443b31dca79b",
+      "prompt_changes_sha256": "7be9b8d2b06a0b6286e8f81c46f658cfb8fc3e4f30d07adb4f72acafd447ed83"
+    }
+  ],
+  "integrity_errors": [],
+  "generation_method": "native_LLM_once_per_distinct_case",
+  "evaluation_method": "independent_native_LLM_sequential_gate",
+  "judge_label": "llm_judge_unvalidated",
+  "model_id": "native_model_unknown",
+  "visual_checks": "not_assessed",
+  "export_ready": false,
+  "training_performed": false,
+  "paid_API_calls": 0,
+  "completed_at": "2026-10-27T18:14:10.373371+00:00"
+}

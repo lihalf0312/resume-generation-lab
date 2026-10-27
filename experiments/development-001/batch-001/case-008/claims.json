@@ -1,0 +1,51 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Reservations Trainee | Fictional Moonleaf Lodge | **September 2025–March 2026**",
+    "zh": "预订培训生｜虚构月叶旅舍｜**2025年9月—2026年3月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F03",
+      "F04"
+    ],
+    "en": "Entered bookings into an internal reservation form under supervisor review. Checked arrival dates, room types, and guest-request notes against email requests.",
+    "zh": "在主管审核下将预订录入内部预订表单，并依据邮件请求核对入住日期、房型及住客需求备注。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Drafted English and Chinese booking confirmations using approved templates.",
+    "zh": "使用获批模板起草中英文预订确认。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "Completed the placement and prepared a written handover guide.",
+    "zh": "完成实习并撰写交接指南。"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Guest journey mapping | **2025**: Mapped the guest journey from inquiry to check-out as coursework.",
+    "zh": "住客流程梳理｜**2025年**：在课程作业中梳理从咨询到退房的住客流程。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Diploma in Tourism | Fictional Coral College | **Completed June 2025**",
+    "zh": "旅游文凭课程｜虚构珊瑚学院｜**完成时间：2025年6月**"
+  }
+]

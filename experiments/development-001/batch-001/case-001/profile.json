@@ -1,0 +1,78 @@
+{
+  "case_id": "case-001",
+  "identity_id": "synthetic-person-001",
+  "source_family": "original-lineage-001",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "software",
+  "career_stage": "career-change",
+  "evidence_density": "rich",
+  "fit_type": "transferable",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed a diploma in library operations at Fictional Juniper Academy in 2019.",
+      "zh": "2019 年在虚构杜松学院完成图书馆运营文凭课程。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Catalog assistant at Fictional Paper Observatory, 2020-02 to 2025-08.",
+      "zh": "2020-02 至 2025-08 在虚构纸页观察所任编目助理。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F03",
+      "kind": "employment",
+      "en": "Checked import files against a written catalog specification before publication.",
+      "zh": "发布前按书面编目规范检查导入文件。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F04",
+      "kind": "outcome",
+      "en": "In a 2024 internal audit, found 37 duplicate records among 800 imports; a supervisor approved removals.",
+      "zh": "在 2024 年内部审计中，从 800 条导入记录中发现 37 条重复记录；删除由主管批准。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F05",
+      "kind": "project",
+      "en": "Built a local book-search demo in 2025-10 using Python and SQLite; it was not deployed for users.",
+      "zh": "2025-10 用 Python 和 SQLite 构建本地图书搜索演示，未面向用户部署。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F06",
+      "kind": "project",
+      "en": "Wrote 18 pytest checks for empty queries, duplicate titles, and missing authors in that demo.",
+      "zh": "为该演示编写 18 项 pytest 检查，覆盖空查询、重复书名和缺失作者。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F07",
+      "kind": "skill",
+      "en": "Uses Git branches and pull requests in a personal practice repository.",
+      "zh": "在个人练习代码库中使用 Git 分支和拉取请求。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F08",
+      "kind": "project",
+      "en": "Recorded 6 reproducible demo defects with steps, expected results, and actual results.",
+      "zh": "记录该演示的 6 个可复现缺陷，包括步骤、预期结果和实际结果。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    },
+    {
+      "id": "F09",
+      "kind": "other",
+      "en": "No commercial software-testing employment is documented.",
+      "zh": "未记录商业软件测试工作经历。",
+      "provenance": "Original synthetic authoring; no real person or employer. Public release permitted (CC0-1.0)."
+    }
+  ]
+}

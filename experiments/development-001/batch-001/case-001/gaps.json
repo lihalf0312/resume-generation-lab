@@ -1,0 +1,17 @@
+[
+  {
+    "requirement_id": "R02",
+    "status": "partial",
+    "reason": "Writing pytest checks is documented; actual execution and outcomes are not. Ask for execution evidence rather than infer it from the source direct label."
+  },
+  {
+    "requirement_id": "R03",
+    "status": "missing",
+    "reason": "No Playwright or production browser-automation evidence."
+  },
+  {
+    "fact_id": "F09",
+    "status": "scope_limit",
+    "reason": "No commercial testing employment; project and catalog experience kept distinct."
+  }
+]

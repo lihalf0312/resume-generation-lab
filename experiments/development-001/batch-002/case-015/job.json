@@ -1,0 +1,46 @@
+{
+  "case_id": "case-015",
+  "synthetic": true,
+  "title": {
+    "en": "Accounts payable specialist",
+    "zh": "应付账款专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Perform purchase-order, receipt, and invoice matching.",
+      "zh": "进行采购订单、收货记录及发票匹配。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F04"
+      ]
+    },
+    {
+      "id": "R02",
+      "en": "Resolve document exceptions with purchasing colleagues.",
+      "zh": "与采购同事处理文件异常。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F06"
+      ]
+    },
+    {
+      "id": "R03",
+      "en": "Use Excel lookup functions for reconciliation.",
+      "zh": "使用 Excel 查找函数进行核对。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F07",
+        "F08"
+      ]
+    },
+    {
+      "id": "R04",
+      "en": "Process monthly payroll independently.",
+      "zh": "独立处理每月薪资。",
+      "evidence_status": "missing",
+      "supporting_fact_ids": []
+    }
+  ]
+}

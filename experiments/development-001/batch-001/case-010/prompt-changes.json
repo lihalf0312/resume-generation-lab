@@ -1,0 +1,6 @@
+{
+  "version": 10,
+  "previous_case": "case-009",
+  "changes": [],
+  "reason": "Case-009 reviewer found no new repair. Retain cumulative rules; explicitly preserve attendance-unit ambiguity and distinct paid-worker versus volunteer scope."
+}

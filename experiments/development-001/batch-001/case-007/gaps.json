@@ -1,0 +1,25 @@
+[
+  {
+    "requirement_id": "R01",
+    "status": "transferable",
+    "reason": "Batch-sheet and lot-label records in bakery work do not establish factory inspection records."
+  },
+  {
+    "requirement_id": "R03",
+    "status": "missing",
+    "reason": "No digital caliper use or dimensional inspection documented."
+  },
+  {
+    "requirement_id": "R04",
+    "status": "transferable",
+    "reason": "Temperature escalation is relevant observation escalation, not manufacturing nonconformance authority."
+  },
+  {
+    "fact_ids": [
+      "F07",
+      "F08"
+    ],
+    "status": "scope_limit",
+    "reason": "Self-study is not quality certification. No factory inspection employment or SPC experience documented."
+  }
+]

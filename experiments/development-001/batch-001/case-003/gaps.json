@@ -1,0 +1,16 @@
+[
+  {
+    "requirement_id": "R04",
+    "status": "missing",
+    "reason": "No electronic insurance-claims submission system use documented; scheduling records are not claims submission."
+  },
+  {
+    "fact_id": "F10",
+    "status": "scope_limit",
+    "reason": "No clinical license or medical billing certification documented; no such qualifications claimed."
+  },
+  {
+    "status": "attribution_boundary",
+    "reason": "Undated employer activities grouped under employer history rather than assigned an unsupported assistant/coordinator date range."
+  }
+]

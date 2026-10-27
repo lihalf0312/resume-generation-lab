@@ -1,0 +1,74 @@
+[
+  {
+    "id": "C01",
+    "fact_ids": [
+      "F05"
+    ],
+    "en": "Volunteer | Fictional Seed Exchange | **February–June 2026**",
+    "zh": "志愿者｜虚构种子交换组织｜**2026年2月—6月**"
+  },
+  {
+    "id": "C02",
+    "fact_ids": [
+      "F06"
+    ],
+    "en": "Coordinated sign-up reminders for 4 seed-sorting sessions using an approved contact list.",
+    "zh": "使用获批联系人清单协调4次种子分拣活动的报名提醒。"
+  },
+  {
+    "id": "C03",
+    "fact_ids": [
+      "F07"
+    ],
+    "en": "The sessions recorded 32 volunteer attendances in total; repeat attendees may be counted more than once.",
+    "zh": "上述活动合计有32人次志愿者出席，重复出席者可能多次计入。"
+  },
+  {
+    "id": "C04",
+    "fact_ids": [
+      "F02"
+    ],
+    "en": "Event Operations Assistant | Fictional Folded Stage | **April 2019–December 2025**",
+    "zh": "活动运营助理｜虚构折叠舞台机构｜**2019年4月—2025年12月**"
+  },
+  {
+    "id": "C05",
+    "fact_ids": [
+      "F03"
+    ],
+    "en": "Maintained availability rosters for 24 casual event workers; employment decisions remained with the manager.",
+    "zh": "维护24名临时活动工作人员的可用时间表，雇佣决定由经理负责。"
+  },
+  {
+    "id": "C06",
+    "fact_ids": [
+      "F04"
+    ],
+    "en": "Prepared event briefing packs and answered arrival-logistics questions.",
+    "zh": "准备活动简报材料并回答到场安排问题。"
+  },
+  {
+    "id": "C07",
+    "fact_ids": [
+      "F09"
+    ],
+    "en": "Drafted a volunteer welcome checklist for review by the volunteer lead; did not run screening checks.",
+    "zh": "起草志愿者欢迎核对表，由志愿者负责人审核，未执行背景筛查。"
+  },
+  {
+    "id": "C08",
+    "fact_ids": [
+      "F08"
+    ],
+    "en": "Used shared calendars, spreadsheet rosters, and plain-language written instructions.",
+    "zh": "使用共享日历、电子表格排班表及易懂的书面说明。"
+  },
+  {
+    "id": "C09",
+    "fact_ids": [
+      "F01"
+    ],
+    "en": "Bachelor’s Degree in Media Studies | Fictional Horizon College | **Graduated 2018**",
+    "zh": "媒体研究学士｜虚构地平线学院｜**毕业时间：2018年**"
+  }
+]

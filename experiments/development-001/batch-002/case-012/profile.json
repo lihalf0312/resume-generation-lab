@@ -1,0 +1,78 @@
+{
+  "case_id": "case-012",
+  "identity_id": "synthetic-person-012",
+  "source_family": "original-lineage-012",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "data",
+  "career_stage": "mid",
+  "evidence_density": "rich",
+  "fit_type": "direct",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Earned a BSc in Applied Mathematics at Fictional College B12 in 2019.",
+      "zh": "2019 年获虚构学院 B12 应用数学理学学士学位。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Data operations associate at Fictional Research Service B12, 2019-09 to 2022-06.",
+      "zh": "2019-09 至 2022-06，任虚构研究服务机构 B12 数据运营专员。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F03",
+      "kind": "employment",
+      "en": "Data quality analyst at the same fictional service, 2022-07 to 2026-08.",
+      "zh": "2022-07 至 2026-08，在同一虚构服务机构任数据质量分析师。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F04",
+      "kind": "skill",
+      "en": "Used SQL joins and window functions to reconcile monthly survey extracts.",
+      "zh": "使用 SQL 连接和窗口函数核对每月调查数据导出文件。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F05",
+      "kind": "outcome",
+      "en": "Defined validation rules for 14 fields with domain reviewers; reviewers approved each rule.",
+      "zh": "与领域审阅人员制定 14 个字段的校验规则；每条规则均经其批准。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F06",
+      "kind": "outcome",
+      "en": "In a 2026-01 audit of 240 records, found 18 duplicate rows and logged their resolution; no enterprise-wide error reduction is claimed.",
+      "zh": "2026-01 审核 240 条记录，发现 18 条重复行并记录解决情况；不声称企业整体错误率下降。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F07",
+      "kind": "project",
+      "en": "Built a Power BI exception dashboard in 2025-11 for the internal quality team.",
+      "zh": "2025-11，为内部质量团队制作 Power BI 异常仪表板。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F08",
+      "kind": "skill",
+      "en": "Wrote field definitions and ownership notes with survey coordinators.",
+      "zh": "与调查协调人员编写字段定义及责任归属说明。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F09",
+      "kind": "other",
+      "en": "No streaming platform operations experience is recorded.",
+      "zh": "未记录流处理平台运维经验。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    }
+  ]
+}

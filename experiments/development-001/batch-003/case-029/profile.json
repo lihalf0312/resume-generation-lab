@@ -1,0 +1,71 @@
+{
+  "case_id": "case-029",
+  "identity_id": "synthetic-person-029",
+  "source_family": "original-lineage-029",
+  "creation_batch": "development-001",
+  "synthetic": true,
+  "publication": "public",
+  "license": "CC0-1.0",
+  "sector": "retail",
+  "career_stage": "early",
+  "evidence_density": "rich",
+  "fit_type": "direct",
+  "facts": [
+    {
+      "id": "F01",
+      "kind": "education",
+      "en": "Completed a certificate in Retail Operations at Fictional Institute D029 in 2025.",
+      "zh": "2025 年在虚构院校 D029 完成零售运营结业证书。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F02",
+      "kind": "employment",
+      "en": "Worked part-time as a stock assistant at Fictional Shop D029 from 2025-06 to 2026-08.",
+      "zh": "2025-06 至 2026-08 在虚构商店 D029 兼职担任库存助理。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F03",
+      "kind": "employment",
+      "en": "Checked inbound cartons against delivery notes and reported damaged packaging to the shift lead.",
+      "zh": "依据送货单检查入库纸箱，并向班次负责人报告包装损坏。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F04",
+      "kind": "skill",
+      "en": "Used a handheld scanner to record stock movements and followed assigned shelf-location codes.",
+      "zh": "使用手持扫描器记录库存移动，并遵循指定货架位置编码。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F05",
+      "kind": "project",
+      "en": "Helped relabel 60 shelf positions in one stockroom zone using an approved location map.",
+      "zh": "依据获批位置图，协助为一个库房区域的 60 个货架位置重新贴标。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F06",
+      "kind": "outcome",
+      "en": "In 20 sampled retrievals from that zone, median lookup time decreased from 4 minutes to 3 minutes after relabeling; the shift team performed the work.",
+      "zh": "重新贴标后，在该区域抽样的 20 次取货中，查找时间中位数从 4 分钟降至 3 分钟；工作由班次团队完成。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F07",
+      "kind": "employment",
+      "en": "Supported weekly cycle counts and passed variances to the stock controller rather than changing balances independently.",
+      "zh": "协助每周循环盘点，并将差异提交库存管理员，而非独立调整余额。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    },
+    {
+      "id": "F08",
+      "kind": "other",
+      "en": "Has not supervised staff or operated a forklift.",
+      "zh": "未监督员工，也未操作叉车。",
+      "provenance": "original synthetic authoring; no real person or employer"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "case_id": "case-021",
+  "synthetic": true,
+  "title": {
+    "en": "Internal Tools Developer",
+    "zh": "内部工具开发工程师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "publication": "public",
+  "license": "CC0-1.0",
+  "requirements": [
+    {
+      "id": "R01",
+      "en": "Develop Python and SQL data-processing tools.",
+      "zh": "开发 Python 和 SQL 数据处理工具。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F03",
+        "F04"
+      ]
+    },
+    {
+      "id": "R02",
+      "en": "Write automated tests and operational documentation.",
+      "zh": "编写自动化测试和运维文档。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F06"
+      ]
+    },
+    {
+      "id": "R03",
+      "en": "Gather requirements from operational users.",
+      "zh": "向运营用户收集需求。",
+      "evidence_status": "direct",
+      "supporting_fact_ids": [
+        "F07"
+      ]
+    },
+    {
+      "id": "R04",
+      "en": "Administer production Kubernetes clusters.",
+      "zh": "管理生产 Kubernetes 集群。",
+      "evidence_status": "missing",
+      "supporting_fact_ids": []
+    }
+  ]
+}

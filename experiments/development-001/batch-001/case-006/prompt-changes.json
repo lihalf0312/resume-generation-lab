@@ -1,0 +1,6 @@
+{
+  "version": 6,
+  "previous_case": "case-005",
+  "changes": [],
+  "reason": "Case-005 reviewer found no new repair. Retain existing rules; do not convert observed changes into causal personal achievements."
+}
