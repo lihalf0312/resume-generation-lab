@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-011",
+  "slug": "hospitality_supervisor",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Hospitality",
+    "zh": "酒店服务"
+  },
+  "seniority": "vocational",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-011-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 11",
+      "zh": "虚构候选人 11",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-011-F002",
+      "section": "target",
+      "en": "Front-desk shift supervisor",
+      "zh": "前台班组主管",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-011-F003",
+      "section": "education",
+      "en": "Vocational certificate in Hospitality Operations at Fictional Learning Institute 11",
+      "zh": "酒店运营职业证书，虚构学习学院 11",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2018-09",
+      "end_date": "2020-06"
+    },
+    {
+      "fact_id": "SYN-011-F004",
+      "section": "work",
+      "en": "Front-desk shift supervisor at Fictional Organization 11",
+      "zh": "前台班组主管，虚构机构 11",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2022-03",
+      "end_date": "2026-09"
+    },
+    {
+      "fact_id": "SYN-011-F005",
+      "section": "work_achievement",
+      "en": "Scheduled a team of 6 across rotating front-desk shifts.",
+      "zh": "为 6 人前台团队安排轮班。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-011-F006",
+      "section": "work_achievement",
+      "en": "Created a service recovery guide for 10 common booking issues.",
+      "zh": "为 10 类常见预订问题编写服务补救指南。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-011-F007",
+      "section": "work_achievement",
+      "en": "Median queue time fell from 11 to 8 minutes in a 2-week internal observation.",
+      "zh": "在 2 周内部观察中，排队时间中位数由 11 分钟降至 8 分钟。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-011-F008",
+      "section": "project",
+      "en": "Bilingual visitor guide",
+      "zh": "双语访客指南",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-011-F009",
+      "section": "project_achievement",
+      "en": "Drafted English and Chinese directions for a fictional property and tested with 8 colleagues.",
+      "zh": "为虚构酒店撰写中英文指引，并与 8 名同事测试。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-011-F010",
+      "section": "skills",
+      "en": "Scheduling;service recovery;front-office systems",
+      "zh": "排班；服务补救；前台系统",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-011-F011",
+      "section": "interests",
+      "en": "Home baking",
+      "zh": "家庭烘焙",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "vocational",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}

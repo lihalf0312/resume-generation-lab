@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-006",
+  "slug": "ux_freelancer",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Design",
+    "zh": "设计"
+  },
+  "seniority": "freelance",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-006-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 06",
+      "zh": "虚构候选人 06",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-006-F002",
+      "section": "target",
+      "en": "Independent UX designer",
+      "zh": "独立用户体验设计师",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-006-F003",
+      "section": "education",
+      "en": "BA Visual Communication at Fictional Learning Institute 6",
+      "zh": "视觉传达学士，虚构学习学院 6",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2013-09",
+      "end_date": "2017-06"
+    },
+    {
+      "fact_id": "SYN-006-F004",
+      "section": "work",
+      "en": "Independent UX designer at Fictional Organization 6",
+      "zh": "独立用户体验设计师，虚构机构 6",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2020-01",
+      "end_date": "2026-09"
+    },
+    {
+      "fact_id": "SYN-006-F005",
+      "section": "work_achievement",
+      "en": "Delivered 7 fictional client projects with separate discovery and handoff milestones.",
+      "zh": "交付 7 个虚构客户项目，分别设置调研和交付节点。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-006-F006",
+      "section": "work_achievement",
+      "en": "Ran moderated usability sessions with 15 consenting fictional participants.",
+      "zh": "与 15 名同意参与的虚构参与者开展主持式易用性测试。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-006-F007",
+      "section": "work_achievement",
+      "en": "Task completion in a prototype test improved from 9 of 15 to 13 of 15 participants.",
+      "zh": "原型测试任务完成人数由 15 人中的 9 人提升至 13 人。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-006-F008",
+      "section": "project",
+      "en": "Accessible booking prototype",
+      "zh": "无障碍预约原型",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-006-F009",
+      "section": "project_achievement",
+      "en": "Documented focus order and error text; no claim of certified accessibility compliance.",
+      "zh": "记录焦点顺序和错误提示文案；不声称通过无障碍合规认证。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-006-F010",
+      "section": "skills",
+      "en": "Figma;research synthesis;interaction design",
+      "zh": "Figma；研究综合；交互设计",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-006-F011",
+      "section": "interests",
+      "en": "Urban sketching",
+      "zh": "城市速写",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "freelance",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}

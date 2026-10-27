@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-002",
+  "slug": "operations_switcher",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Business operations",
+    "zh": "业务运营"
+  },
+  "seniority": "career_change",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-002-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 02",
+      "zh": "虚构候选人 02",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-002-F002",
+      "section": "target",
+      "en": "Retail operations coordinator",
+      "zh": "零售运营协调员",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-002-F003",
+      "section": "education",
+      "en": "Diploma in Business Administration at Fictional Learning Institute 2",
+      "zh": "工商管理专科，虚构学习学院 2",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2016-09",
+      "end_date": "2019-06"
+    },
+    {
+      "fact_id": "SYN-002-F004",
+      "section": "work",
+      "en": "Retail operations coordinator at Fictional Organization 2",
+      "zh": "零售运营协调员，虚构机构 2",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2019-07",
+      "end_date": "2025-12"
+    },
+    {
+      "fact_id": "SYN-002-F005",
+      "section": "work_achievement",
+      "en": "Coordinated stock transfers among 4 stores using weekly exception reports.",
+      "zh": "通过每周异常报告协调 4 家门店间的库存调拨。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-002-F006",
+      "section": "work_achievement",
+      "en": "Trained 9 colleagues to maintain a shared inventory workbook.",
+      "zh": "培训 9 名同事维护共享库存工作簿。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-002-F007",
+      "section": "work_achievement",
+      "en": "Reduced unresolved stock discrepancies from 35 to 19 per month during a 3-month pilot.",
+      "zh": "在 3 个月试点中，将每月未解决库存差异由 35 项降至 19 项。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-002-F008",
+      "section": "project",
+      "en": "SQL inventory analysis",
+      "zh": "SQL 库存分析",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-002-F009",
+      "section": "project_achievement",
+      "en": "Analyzed an original synthetic 5000-row dataset and documented reorder assumptions.",
+      "zh": "分析自行构造的 5000 行模拟数据集，并记录补货假设。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-002-F010",
+      "section": "skills",
+      "en": "Excel;SQL;process mapping",
+      "zh": "Excel；SQL；流程梳理",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-002-F011",
+      "section": "interests",
+      "en": "Community gardening",
+      "zh": "社区园艺",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "career_change",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}

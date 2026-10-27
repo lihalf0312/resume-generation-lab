@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-003",
+  "slug": "nurse_returner",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Healthcare",
+    "zh": "医疗"
+  },
+  "seniority": "return_to_work",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-003-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 03",
+      "zh": "虚构候选人 03",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F002",
+      "section": "target",
+      "en": "Ward nurse in a fictional training scenario",
+      "zh": "虚构训练场景中的病区护士",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F003",
+      "section": "education",
+      "en": "BSc Nursing at Fictional Learning Institute 3",
+      "zh": "护理学学士，虚构学习学院 3",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2011-09",
+      "end_date": "2015-06"
+    },
+    {
+      "fact_id": "SYN-003-F004",
+      "section": "work",
+      "en": "Ward nurse in a fictional training scenario at Fictional Organization 3",
+      "zh": "虚构训练场景中的病区护士，虚构机构 3",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2015-08",
+      "end_date": "2021-08"
+    },
+    {
+      "fact_id": "SYN-003-F005",
+      "section": "work_achievement",
+      "en": "Coordinated handover documentation for a 16-bed fictional ward.",
+      "zh": "协调一个虚构 16 床病区的交接文档。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F006",
+      "section": "work_achievement",
+      "en": "Supported orientation for 6 newly hired nurses under an educator’s supervision.",
+      "zh": "在护理教育人员监督下，协助 6 名新护士入职培训。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F007",
+      "section": "work_achievement",
+      "en": "A local audit found checklist completion increased from 81% to 94% across 100 simulated handovers.",
+      "zh": "对 100 次模拟交接的内部审核显示，清单完成率由 81% 升至 94%。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F008",
+      "section": "project",
+      "en": "Return-to-practice study portfolio",
+      "zh": "重返岗位学习档案",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-003-F009",
+      "section": "project_achievement",
+      "en": "Completed 40 hours of self-directed study; this is not a license or clinical authorization.",
+      "zh": "完成 40 小时自主学习；不代表取得执照或临床执业授权。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F010",
+      "section": "skills",
+      "en": "Documentation;handover;patient education",
+      "zh": "文档记录；交接；患者教育",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F011",
+      "section": "interests",
+      "en": "Watercolor painting",
+      "zh": "水彩画",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-003-F012",
+      "section": "career_gap",
+      "en": "Career break from September 2021 through December 2025; no reason disclosed.",
+      "zh": "2021 年 9 月至 2025 年 12 月职业间隔；未披露原因。",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2021-09",
+      "end_date": "2025-12"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "return_to_work",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}

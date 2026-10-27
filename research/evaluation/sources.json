@@ -1,0 +1,108 @@
+{
+  "scope": "Initial diverse primary-source set, not an exhaustive internet review.",
+  "sources": [
+    {
+      "id": "amazon_recruiters",
+      "category": "employer_recruiters",
+      "title": "Applying for a job at Amazon? Here are 4 ways to improve your resume.",
+      "url": "https://www.aboutamazon.com/news/workplace/amazon-job-application-resume-writing-tips",
+      "supported_principles": [
+        "simple readable presentation",
+        "role-aligned accomplishments",
+        "actions and outcomes",
+        "metrics when available, not mandatory in every bullet"
+      ],
+      "limits": "Amazon recruiter advice, not universal hiring policy or causal validation; no numerical rubric supplied.",
+      "checked_date": "2026-10-27",
+      "access": "read via web search/open",
+      "license_status": "No reuse/training license established; save original summaries and citations, not scraped article text."
+    },
+    {
+      "id": "robert_half",
+      "category": "recruitment_firm",
+      "title": "8 Tips for Writing a Resume",
+      "url": "https://www.roberthalf.com/us/en/insights/landing-job/8-tips-for-writing-a-resume",
+      "supported_principles": [
+        "maintain a master experience inventory",
+        "select relevant evidence for each role",
+        "plain specific language",
+        "do not change dates or invent skills and accomplishments",
+        "proofread"
+      ],
+      "limits": "General advice, US-oriented. Do not adopt its broad claim that all online resumes must pass software keyword screening: actual workflows vary. Page count and summary recommendations are contextual, not hard gates.",
+      "checked_date": "2026-10-27",
+      "access": "read via web search/open",
+      "license_status": "No reuse/training license established; save original summaries and citations, not scraped article text."
+    },
+    {
+      "id": "mit_skills",
+      "category": "university_career_office",
+      "title": "Resumes: Writing about your skills",
+      "url": "https://capd.mit.edu/resources/resumes-writing-about-your-skills/",
+      "supported_principles": [
+        "explain project, action and result",
+        "use concise bullet statements",
+        "make scope and impact concrete",
+        "use relevant role terminology"
+      ],
+      "limits": "Career guidance and examples, not measured validity of a scoring model; line counts depend on language and layout.",
+      "checked_date": "2026-10-27",
+      "access": "read via web search/open",
+      "license_status": "No reuse/training license established; save original summaries and citations, not scraped article text."
+    },
+    {
+      "id": "mit_toolkit",
+      "category": "university_career_office",
+      "title": "Career toolkit: Crafting an effective resume",
+      "url": "https://capd.mit.edu/resources/career-toolkit-crafting-an-effective-resume/",
+      "supported_principles": [
+        "paid and unpaid projects can demonstrate relevant skills",
+        "describe role and outcome clearly when exact metrics are unavailable"
+      ],
+      "limits": "US university context; qualitative accomplishment can be excellent without a number.",
+      "checked_date": "2026-10-27",
+      "access": "read via web search/open",
+      "license_status": "No reuse/training license established; save original summaries and citations, not scraped article text."
+    },
+    {
+      "id": "greenhouse_parse",
+      "category": "ats_official_documentation",
+      "title": "Unsuccessful resume parse",
+      "url": "https://support.greenhouse.io/hc/en-us/articles/200989175-Unsuccessful-resume-parse",
+      "supported_principles": [
+        "parsing auto-fills candidate fields",
+        "image resumes and complex layout can cause partial or failed extraction",
+        "verify extracted fields and reading order",
+        "Greenhouse documents a 2.5 MB parsing limit"
+      ],
+      "limits": "Greenhouse-specific, not all ATS. Parse failure leaves an attachment and can require manual entry; it does not establish automatic rejection. Do not fabricate legal suffixes or job titles to satisfy parser hints.",
+      "checked_date": "2026-10-27",
+      "access": "read via web search/open",
+      "license_status": "No reuse/training license established; save original summaries and citations, not scraped article text."
+    },
+    {
+      "id": "greenhouse_languages",
+      "category": "ats_official_documentation",
+      "title": "Resume parsing with non-English languages",
+      "url": "https://support.greenhouse.io/hc/en-us/articles/205019689-Resume-parsing-with-non-English-languages",
+      "supported_principles": [
+        "official supported-language list includes English and Simplified Chinese",
+        "regional language variations are supported for some languages"
+      ],
+      "limits": "Does not guarantee equivalent accuracy, Traditional Chinese support, or flawless mixed-language documents. Product capabilities may change.",
+      "checked_date": "2026-10-27",
+      "access": "read via web search/open",
+      "license_status": "No reuse/training license established; save original summaries and citations, not scraped article text."
+    }
+  ],
+  "access_notes": [
+    {
+      "url": "https://help.lever.co/s/article/Understanding-Resume-Parsing",
+      "outcome": "Direct page returned a CSS error; search snippet was available but excluded from rubric evidence."
+    },
+    {
+      "url": "https://capd.mit.edu/resources/using-ai-for-your-job-search/",
+      "outcome": "Guessed path inaccessible; excluded."
+    }
+  ]
+}

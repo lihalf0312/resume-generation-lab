@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-005",
+  "slug": "nonprofit_manager",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Nonprofit",
+    "zh": "非营利组织"
+  },
+  "seniority": "manager",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-005-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 05",
+      "zh": "虚构候选人 05",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-005-F002",
+      "section": "target",
+      "en": "Community program manager",
+      "zh": "社区项目经理",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-005-F003",
+      "section": "education",
+      "en": "BA Social Policy at Fictional Learning Institute 5",
+      "zh": "社会政策学士，虚构学习学院 5",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2008-09",
+      "end_date": "2012-06"
+    },
+    {
+      "fact_id": "SYN-005-F004",
+      "section": "work",
+      "en": "Community program manager at Fictional Organization 5",
+      "zh": "社区项目经理，虚构机构 5",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2018-01",
+      "end_date": "2026-09"
+    },
+    {
+      "fact_id": "SYN-005-F005",
+      "section": "work_achievement",
+      "en": "Managed a fictional annual program budget of 180000 budget units and a 5-person team.",
+      "zh": "管理虚构项目每年 180000 个预算单位及 5 人团队。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-005-F006",
+      "section": "work_achievement",
+      "en": "Coordinated 24 partner workshops without collecting beneficiary identities in reports.",
+      "zh": "协调 24 场合作伙伴工作坊，报告不收集受益人身份信息。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-005-F007",
+      "section": "work_achievement",
+      "en": "Workshop attendance reached 420 visits; repeat attendees were not deduplicated.",
+      "zh": "工作坊累计到场 420 人次；未对重复参与者去重。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-005-F008",
+      "section": "project",
+      "en": "Volunteer onboarding redesign",
+      "zh": "志愿者入职流程改进",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-005-F009",
+      "section": "project_achievement",
+      "en": "Piloted a task guide with 18 volunteers and collected anonymous usability feedback.",
+      "zh": "与 18 名志愿者试用任务指南，并收集匿名易用性反馈。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-005-F010",
+      "section": "skills",
+      "en": "Budgeting;facilitation;program evaluation",
+      "zh": "预算管理；引导讨论；项目评估",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-005-F011",
+      "section": "interests",
+      "en": "Choir singing",
+      "zh": "合唱",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "manager",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}

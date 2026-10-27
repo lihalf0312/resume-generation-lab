@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-012",
+  "slug": "construction_apprentice",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Construction",
+    "zh": "建筑"
+  },
+  "seniority": "apprentice",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-012-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 12",
+      "zh": "虚构候选人 12",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-012-F002",
+      "section": "target",
+      "en": "Building services apprentice",
+      "zh": "建筑设备学徒",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-012-F003",
+      "section": "education",
+      "en": "Technical college certificate in Building Services at Fictional Learning Institute 12",
+      "zh": "建筑设备技术学院证书，虚构学习学院 12",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2024-09",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-012-F004",
+      "section": "work",
+      "en": "Building services apprentice at Fictional Organization 12",
+      "zh": "建筑设备学徒，虚构机构 12",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2025-07",
+      "end_date": "2026-09"
+    },
+    {
+      "fact_id": "SYN-012-F005",
+      "section": "work_achievement",
+      "en": "Assisted qualified supervisors with equipment inventories on 2 fictional sites.",
+      "zh": "在 2 个虚构工地协助合格主管开展设备盘点。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-012-F006",
+      "section": "work_achievement",
+      "en": "Updated 30 inspection checklists under direct supervision.",
+      "zh": "在直接监督下更新 30 份检查清单。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-012-F007",
+      "section": "work_achievement",
+      "en": "Identified 6 mismatches between asset labels and drawings for supervisor review.",
+      "zh": "发现 6 处资产标签与图纸不一致并提交主管复核。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-012-F008",
+      "section": "project",
+      "en": "Workshop tool register",
+      "zh": "实训工具台账",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-012-F009",
+      "section": "project_achievement",
+      "en": "Built a 120-item tool register with checkout status; did not perform independent regulated work.",
+      "zh": "建立含 120 项工具的借还状态台账；未独立开展受监管作业。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-012-F010",
+      "section": "skills",
+      "en": "Technical drawings;inventory;safe work documentation",
+      "zh": "技术图纸；盘点；安全作业记录",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-012-F011",
+      "section": "interests",
+      "en": "Woodcraft",
+      "zh": "木工手作",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "apprentice",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}

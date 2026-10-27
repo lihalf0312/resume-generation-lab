@@ -1,0 +1,44 @@
+{
+  "notice": "Original fictional evaluation fixtures, not employer JDs or evidence of market demand. Not counted among the 12 sourced records.",
+  "scenarios": [
+    {
+      "id": "syn-001",
+      "synthetic": true,
+      "not_a_real_vacancy": true,
+      "title": "Junior accounting assistant",
+      "seniority": "early",
+      "requirements": [
+        "Reconcile invoices with ledger entries",
+        "Explain a discrepancy clearly",
+        "Use spreadsheet formulas without inventing credentials"
+      ],
+      "test_purpose": "Transferable experience and honest degree/credential gaps"
+    },
+    {
+      "id": "syn-002",
+      "synthetic": true,
+      "not_a_real_vacancy": true,
+      "title": "Mid-level production improvement engineer",
+      "seniority": "mid",
+      "requirements": [
+        "Diagnose a production bottleneck",
+        "Document corrective actions",
+        "Distinguish measured improvements from estimates"
+      ],
+      "test_purpose": "Metric provenance and manufacturing terminology"
+    },
+    {
+      "id": "syn-003",
+      "synthetic": true,
+      "not_a_real_vacancy": true,
+      "title": "Bilingual customer support specialist",
+      "seniority": "early",
+      "requirements": [
+        "Answer customer questions in both selected output languages",
+        "Record case notes accurately",
+        "Escalate unresolved issues"
+      ],
+      "test_purpose": "Language proficiency must be supplied by the candidate, not inferred from translated output"
+    }
+  ]
+}

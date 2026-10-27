@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-009",
+  "slug": "supply_chain_lead",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Logistics",
+    "zh": "物流"
+  },
+  "seniority": "senior",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-009-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 09",
+      "zh": "虚构候选人 09",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-009-F002",
+      "section": "target",
+      "en": "Supply planning lead",
+      "zh": "供应计划负责人",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-009-F003",
+      "section": "education",
+      "en": "BSc Industrial Engineering at Fictional Learning Institute 9",
+      "zh": "工业工程学士，虚构学习学院 9",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2003-09",
+      "end_date": "2007-06"
+    },
+    {
+      "fact_id": "SYN-009-F004",
+      "section": "work",
+      "en": "Supply planning lead at Fictional Organization 9",
+      "zh": "供应计划负责人，虚构机构 9",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2017-04",
+      "end_date": "2026-09"
+    },
+    {
+      "fact_id": "SYN-009-F005",
+      "section": "work_achievement",
+      "en": "Led 8 planners supporting 3 fictional distribution centers.",
+      "zh": "带领 8 名计划员支持 3 个虚构配送中心。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-009-F006",
+      "section": "work_achievement",
+      "en": "Introduced weekly capacity reviews and documented escalation thresholds.",
+      "zh": "引入每周产能复盘，并记录问题升级阈值。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-009-F007",
+      "section": "work_achievement",
+      "en": "On-time dispatch rose from 90% to 95% across 1200 monthly orders over 2 quarters.",
+      "zh": "连续 2 个季度，每月 1200 笔订单的准时发运率由 90% 升至 95%。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-009-F008",
+      "section": "project",
+      "en": "Supplier risk tabletop exercise",
+      "zh": "供应商风险桌面演练",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-009-F009",
+      "section": "project_achievement",
+      "en": "Designed 4 disruption scenarios and assigned recovery actions to named role owners, not real people.",
+      "zh": "设计 4 种中断情景，将恢复措施分配给明确的角色而非真实个人。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-009-F010",
+      "section": "skills",
+      "en": "S&OP;capacity planning;team coaching",
+      "zh": "销售与运营计划；产能计划；团队辅导",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-009-F011",
+      "section": "interests",
+      "en": "Long-distance cycling",
+      "zh": "长途骑行",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "senior",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}
