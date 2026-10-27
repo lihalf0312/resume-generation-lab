@@ -2,11 +2,11 @@
 
 | 项目 / Item | Verified state |
 |---|---|
-| Original skill imported | **1 uploaded skill, sanitized public edition linked** — real source/reference hashes; original templates/photos/private facts/render scripts not included |
+| Original skill imported | **New user-approved public skill adopted** — required workflow/layout/preferences read and hashed; original templates/photos/private facts/render scripts not included |
 | Production generator/evaluator models trained | **0** |
 | HR/expert labels collected or validated examples | **0** |
 | Real arithmetic regression fitting | Unit test fits synthetic numeric labels; no HR meaning, no persisted deployed model |
-| Local tests | **22 passed** (`python -m unittest discover -s tests -v`); hosted CI not configured/run |
+| Local tests | **27 passed** (`python -m unittest discover -s tests -v`); hosted CI not configured/run |
 | Fictional smoke corpus | 20 fictional profiles + 20 fictional jobs; schema + public synthetic gate checked |
 | Current deterministic optimization smoke | **10 processed, 10 exact-renderer fidelity passes, 0 expert validated**; private_runs/verified-v2 |
 | Research-input structural smoke | 12 original synthetic profiles + 8 real-source employer JD summaries loaded; **10 dev examples processed, 10 exact-renderer fidelity passes, 0 expert validated** |
@@ -19,17 +19,19 @@ Skill coverage is an exact-string inventory diagnostic. Research JD requirement 
 
 Real-source employer records, original inputs and private run artifacts are not included in the initial publication allowlist. Human review is required for personal data, copyright and secrets beyond pattern scanners.
 
-Pending: original skill text imported and content adapter implemented; obtain actual templates/assets and implement/verify Word rendering; normalize requirements; diversify consented source-family datasets; obtain reviewed labels; evaluate on held-out cases; implement/verify actual rendered resume exports. No quantitative quality improvement is claimed.
+Pending: original skill text imported and content adapter implemented; obtain requested templates or record generic fallback parameters and implement/verify compatible DOCX/PDF rendering; normalize requirements; diversify consented source-family datasets; obtain reviewed labels; evaluate on held-out cases; implement/verify actual rendered resume exports. No quantitative quality improvement is claimed.
 
 Automated training scope: synthetic/heuristic/LLM-judge feedback can support separately labelled experimental training; human labels are not required to start all ML. The linear baseline accepts any explicit label origin on train-only inputs. Weak-label SFT/DPO export is planned separately from the strict human-qualified exporter. Expert labels remain necessary for credible human-calibration/HR-validity claims. No paid calls have been made.
 
-## Original-skill integration / 原技能接入
+## Active skill migration / 新版技能迁移
 
-`OriginalSkillAdapter` reads `skills/resume-generation/SKILL.md` and hashes available references, carries the source format contract when present, and prepares grounded content plus explicit dependency/check requirements. Chinese drafts require aligned supplied Chinese facts; this adapter does not invent translations. Draft heading labels remain the deterministic English baseline, not a localized deliverable. The machine checks cover only a subset of full skill requirements.
+New public workflow adopted with defaults < measured template < confirmed preferences < current request. `OriginalSkillAdapter` requires actual workspace/layout references and a valid preference JSON; malformed/missing configuration fails closed. Explicit language selection, `zh`→`zh-CN` compatibility, configurable pages/headings, strict default final-line >0.5 with explicit override support, template-following spacing, conditional doNotCompress, and equivalent DOCX-to-PDF engine reports are tested.
 
-Format-report tests cover A4/portrait/separate one-page languages, no font shrinking/blank padding, paragraph last-line >50% (67–80% preferred), Chinese double/English lower heading rules, date/graduation bolding, effective spacing/punctuation, bullet alignment, Word export and selectable text. Reports are untrusted assertions: `reported_pass` is **not** rendered-artifact verification, and `export_ready` stays false. Native pilot artifacts are separately owned/reviewed; these counters do not claim their outputs were rendered or trained.
+No-template mode is explicitly `generic_single_column_unrendered`, not recovered original design. No uploaded code is executed; configured template paths are inert references, not opened by this adapter. All measurement reports retain `actual_style_verified=false`, `word_specific_properties_verified=false`, `export_ready=false` until a separate trusted artifact workflow verifies them.
 
-The stricter Microsoft Word export report gate is an added current-task constraint; the sanitized source itself permits equivalently verified DOCX export tools. No missing template dimensions or quantitative bottom-whitespace tolerance are invented.
+**Correction:** The earlier Word-only default was an assistant-introduced mistake, not a user requirement. Both skill sources permit equivalently verified tools. The active adapter removes that restriction. Historical pilot files, outputs and source snapshots remain byte-for-byte unchanged; their old assumptions are historical, not active defaults.
+
+See [migration notes](docs/SKILL_MIGRATION.md) and [uploaded-source hashes](docs/skill-migration-source-hashes.json). No template dimensions, fonts or bottom-whitespace numeric tolerances are fabricated.
 
 ## Native LLM pilot / 原生小批量试验
 

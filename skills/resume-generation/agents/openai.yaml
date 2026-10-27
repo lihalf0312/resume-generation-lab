@@ -1,4 +1,4 @@
 interface:
-  display_name: "简历生成 / Resume generation"
-  short_description: "Use authorized evidence and templates to produce and validate truthful bilingual DOCX and PDF resumes."
-  default_prompt: "Use $resume-generation with my supplied job description, authorized evidence and templates. Generate DOCX and PDF, validate formatting, and keep all personal data in my private workspace."
+  display_name: "简历生成"
+  short_description: "按岗位匹配真实经历与模板，生成双语Word和PDF简历，持续保存要求与反馈"
+  default_prompt: "使用 $resume-generation，根据我提供的岗位JD、真实经历与模板生成简历，并在独立工作目录保存确认的要求和反馈。"

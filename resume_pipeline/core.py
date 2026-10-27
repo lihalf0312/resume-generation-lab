@@ -123,18 +123,19 @@ def pair_stream(records, manifest, split="train"):
 
 class OriginalSkillAdapter:
     """Link to sanitized original skill; grounded content, NOT original rendering."""
-    version = "sanitized-skill-content-adapter-v1"
-    def __init__(self, skill_path=None):
+    version = "public-skill-preferences-adapter-v2"
+    def __init__(self, skill_path=None, confirmed_preferences=None, current_overrides=None, template_preferences=None):
+        self.preference_layers = dict(confirmed_preferences=confirmed_preferences, current_overrides=current_overrides, template_preferences=template_preferences)
         self.skill_path = Path(skill_path) if skill_path else Path(__file__).resolve().parents[1] / "skills" / "resume-generation" / "SKILL.md"
 
     def _adapter(self):
         from .skill_adapter import SanitizedSkillAdapter
-        return SanitizedSkillAdapter(self.skill_path)
+        return SanitizedSkillAdapter(self.skill_path, **self.preference_layers)
 
     def generate(self, profile, job, policy):
         return self._adapter().generate(profile, job, policy)
 
-    def prepare(self, profile, job, policy, language="en"):
+    def prepare(self, profile, job, policy, language=None):
         return self._adapter().prepare(profile, job, policy, language)
 
 

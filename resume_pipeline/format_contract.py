@@ -1,83 +1,68 @@
-"""Original-skill requirements and report checks, not a Word/PDF renderer.
-
-A measurement report is untrusted input. Passing these checks proves only that
-its fields satisfy the contract, never that a real artifact was visually checked.
-"""
+"""Configurable report consistency checks, never proof of rendered compliance."""
 import math
 from .core import digest
-
-CONTRACT = {
-    'version': 'original-skill-format-v1',
-    'scope': 'Partial machine-check report contract, not complete source requirements',
-    'word_export_gate_origin': 'Additional current-task constraint; sanitized source permits equivalent verified DOCX export tools',
-    'languages': ['zh', 'en'],
-    'separate_language_documents': True,
-    'pages_per_language': 1,
-    'paper': 'A4',
-    'orientation': 'portrait',
-    'blank_padding_allowed': False,
-    'font_shrink_allowed': False,
-    'paragraph_last_line_ratio_exclusive_minimum': 0.50,
-    'paragraph_last_line_preferred_range': [0.67, 0.80],
-    'zh_heading_lines': 'double',
-    'en_heading_lines': 'lower_only',
-    'dates_bold': True,
-    'zh_graduation_label_and_value_bold': True,
-    'autoSpaceDE': True,
-    'autoSpaceDN': True,
-    'doNotCompress_punctuation': True,
-    'bullet_alignment_verified': True,
-    'final_pdf_export_engine': 'Microsoft Word',
-    'pdf_selectable_text': True,
-}
+from .preferences import validate_preferences
 
 
-def assess_format_report(report):
-    """Validate completeness/consistency of supplied measurements; fail closed.
+def build_contract(preferences, language):
+    validate_preferences(preferences)
+    if language not in ('zh-CN','en'):raise ValueError('unsupported language')
+    selected=preferences['output_languages']
+    if selected is not None and language not in selected:raise ValueError('language excluded by resolved preferences')
+    layout=preferences['layout']
+    template=preferences['template_paths'].get(language)
+    return {'version':'configurable-format-v2','language':language,
+            'preferences':preferences,'preferences_hash':digest(preferences),
+            'layout_mode':'template_requested_unverified' if template else 'generic_single_column_unrendered',
+            'template_fidelity_verified':False,
+            'scope':'Partial measurement-report checks; source workflow and actual artifact QA still required.',
+            'export_engine_policy':'Any compatible DOCX-to-PDF engine with actual recorded checks; no Word-only default',
+            'word_specific_properties_verified':False}
 
-    Required measurements are artifact-specific, not inferred from Markdown.
-    A trusted Word/PDF inspector must independently produce and verify evidence.
-    """
-    failures, missing, warnings = [], [], []
-    if not isinstance(report, dict):
-        raise ValueError('report must be an object')
-    checks = {
-        'separate_language_documents': True, 'page_count': 1,
-        'paper': 'A4', 'orientation': 'portrait', 'blank_padding_used': False,
-        'font_shrink_used': False, 'dates_bold': True,
-        'autoSpaceDE': True, 'autoSpaceDN': True,
-        'doNotCompress_punctuation': True, 'bullet_alignment_verified': True,
-        'pdf_export_engine': 'Microsoft Word', 'pdf_selectable_text': True,
-    }
-    language = report.get('language')
-    if language not in CONTRACT['languages']:
-        failures.append('language must be zh or en')
-    checks['heading_lines'] = 'double' if language == 'zh' else 'lower_only'
-    if language == 'zh':
-        checks['graduation_label_and_value_bold'] = True
-    for key, expected in checks.items():
-        if key not in report:
-            missing.append(key)
-        elif type(report[key]) is not type(expected) or report[key] != expected:
-            failures.append(key)
-    ratios = report.get('paragraph_last_line_ratios')
-    if not isinstance(ratios, list) or not ratios:
-        missing.append('paragraph_last_line_ratios')
+
+def assess_format_report(report, contract):
+    if not isinstance(report,dict):raise ValueError('report must be an object')
+    p=contract['preferences'];validate_preferences(p);l=p['layout']
+    failures,missing,warnings=[],[],[]
+    checks={'language':contract['language'],'page_count':l['target_pages'],'paper':l['page_size'],
+            'blank_padding_used':False,'unauthorized_font_shrink_used':False,
+            'dates_bold':l['dates_bold'],'graduation_label_and_value_bold':l['graduation_label_and_date_bold'],
+            'bullet_alignment_verified':True,'same_final_docx_content':True,
+            'body_area_checked':True,'clipping_or_hidden_content':False,'all_final_pages_rendered':True}
+    rule=l['section_rules'].get(contract['language'],'follow_template')
+    if rule=='follow_template':checks['template_heading_rules_preserved']=True
+    else:checks['heading_lines']=rule
+    spacing=l['numeric_and_latin_auto_spacing']
+    if spacing=='follow_template':
+        checks['template_spacing_preserved' if contract['layout_mode'].startswith('template_') else 'generic_spacing_parameters_recorded']=True
     else:
-        for i, ratio in enumerate(ratios):
-            if type(ratio) not in (int, float) or not math.isfinite(ratio) or not 0.5 < ratio <= 1:
-                failures.append('paragraph_last_line_ratios[%s]' % i)
-            elif not .67 <= ratio <= .80:
-                warnings.append('paragraph %s outside preferred 67–80%% last-line width' % i)
-    # Evidence identity is necessary but cannot prove a report is truthful.
-    for key in ('docx_sha256', 'pdf_sha256', 'render_evidence_sha256', 'extractor_version', 'word_version'):
-        value = report.get(key)
-        if not isinstance(value, str) or not value:
-            missing.append(key)
-        elif key.endswith('sha256') and (len(value) != 64 or any(c not in '0123456789abcdef' for c in value)):
-            failures.append(key)
-    status = 'fail' if failures else 'not_assessed' if missing else 'reported_pass'
-    return {'status': status, 'failures': failures, 'missing_evidence': missing,
-            'warnings': warnings, 'contract_hash': digest(CONTRACT),
-            'actual_style_verified': False, 'export_ready': False,
-            'notice': 'Self-reported evidence checked for consistency only; independent artifact inspection still required.'}
+        checks.update(autoSpaceDE=spacing=='enabled',autoSpaceDN=spacing=='enabled')
+    compression=l['punctuation_compression']
+    if compression=='doNotCompress':checks['doNotCompress_punctuation']=True
+    elif compression=='when_visual_issue':
+        if type(report.get('punctuation_compression_issue_detected')) is not bool:missing.append('punctuation_compression_issue_detected')
+        elif report['punctuation_compression_issue_detected']:checks['doNotCompress_punctuation']=True
+    else:checks['template_compression_preserved']=True
+    if 'pdf' in p['formats']:
+        checks.update(pdf_selectable_text=True,docx_to_pdf_compatible=True)
+        if not isinstance(report.get('pdf_export_engine'),str) or not report['pdf_export_engine'].strip():missing.append('pdf_export_engine')
+    for k,expected in checks.items():
+        if k not in report:missing.append(k)
+        elif type(report[k]) is not type(expected) or report[k]!=expected:failures.append(k)
+    ratios=report.get('paragraph_last_line_ratios')
+    if not isinstance(ratios,list) or not ratios:missing.append('paragraph_last_line_ratios')
+    else:
+        low=l['body_last_line_min_ratio'];exclusive=l['body_last_line_min_exclusive'];a,b=l['body_last_line_preferred_ratio']
+        for i,x in enumerate(ratios):
+            if type(x) not in (int,float) or not math.isfinite(x) or x>1 or (x<=low if exclusive else x<low):failures.append('paragraph_last_line_ratios[%s]'%i)
+            elif not a<=x<=b:warnings.append('paragraph %s outside preferred band'%i)
+    evidence=['docx_sha256','render_evidence_sha256','renderer_version']+(['pdf_sha256','extractor_version'] if 'pdf' in p['formats'] else [])
+    for k in evidence:
+        v=report.get(k)
+        if not isinstance(v,str) or not v:missing.append(k)
+        elif k.endswith('sha256') and (len(v)!=64 or any(c not in '0123456789abcdef' for c in v)):failures.append(k)
+    return {'status':'fail' if failures else 'not_assessed' if missing else 'reported_pass',
+            'failures':failures,'missing_evidence':missing,'warnings':warnings,
+            'contract_hash':digest(contract),'actual_style_verified':False,
+            'word_specific_properties_verified':False,'export_ready':False,
+            'notice':'Report consistency only; engine identity and self-reported flags do not prove actual artifact compliance.'}

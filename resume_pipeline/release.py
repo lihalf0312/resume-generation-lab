@@ -12,6 +12,10 @@ REVIEWABLE_FILES = {
     "resume_pipeline/core.py", "resume_pipeline/evaluator.py", "resume_pipeline/release.py",
     "tests/test_pipeline.py", "fixtures/synthetic.jsonl",
     "resume_pipeline/skill_adapter.py", "resume_pipeline/format_contract.py", "tests/test_skill_adapter.py",
+    "resume_pipeline/preferences.py", "docs/SKILL_MIGRATION.md", "docs/skill-migration-source-hashes.json",
+    "skills/resume-generation/SKILL.md", "skills/resume-generation/references/workspace.md",
+    "skills/resume-generation/references/layout-and-qa.md", "skills/resume-generation/assets/resume-preferences.json",
+    "skills/resume-generation/agents/openai.yaml",
 }
 
 
