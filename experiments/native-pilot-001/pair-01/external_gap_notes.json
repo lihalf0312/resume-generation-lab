@@ -1,0 +1,40 @@
+{
+  "target": "Junior accounting assistant (synthetic scenario, not a vacancy)",
+  "requirements": [
+    {
+      "requirement": "Reconcile invoices with ledger entries",
+      "coverage": "transferable_only",
+      "evidence": [
+        "SYN-007-F006"
+      ],
+      "gap": "Source-extract reconciliation does not establish invoice-to-ledger reconciliation."
+    },
+    {
+      "requirement": "Explain a discrepancy clearly",
+      "coverage": "transferable_only",
+      "evidence": [
+        "SYN-007-F006"
+      ],
+      "gap": "Documented exception logs do not establish oral or written discrepancy explanations to others."
+    },
+    {
+      "requirement": "Use spreadsheet formulas without inventing credentials",
+      "coverage": "partial",
+      "evidence": [
+        "SYN-007-F003",
+        "SYN-007-F009",
+        "SYN-007-F010"
+      ],
+      "gap": "Excel and workbook scenarios are supplied; specific formula usage is not. No extra credentials inferred."
+    }
+  ],
+  "omissions": [
+    "Chess: not relevant to this scenario",
+    "No contact details, portrait, political content, department or courses supplied; omitted"
+  ],
+  "layout_limitations": [
+    "Markdown only; no actual templates. Section order is provisional, not template-verified.",
+    "Horizontal rules approximate heading intent only; font/margins/tab stops/Word settings/full page density/last-line width/ATS parsing/PDF text extraction not assessed.",
+    "Supported evidence is sparse; no filler or fabricated facts added to force full-page density."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "state": "frozen_generated_once",
+  "evaluation_reference": "evaluation.json (pending)",
+  "sha256": {
+    "claim_ledger.json": "2e581240a303ac463ae29c617348c87a6cf27cdffa598ac7452b2705df4549f1",
+    "decision_record.json": "02545068b84825cdec4f95cc3d26d9e3f3c67c480c86df93411917c950ac37c5",
+    "external_gap_notes.json": "a3a19c5c7a677b690bdd177939d3ac818dc607d99acaf5c6b671ef6c1f39ae71",
+    "job.json": "171fc5fbfb9e56b2acb90d9156cc3bff56f966930602110f34a679e5bb8d66f0",
+    "profile.json": "1f10d47ad68186ac6ec4fd7ec9199f0eaf7c15303c0060b5ffbf6c547deae7ab",
+    "resume.en.md": "4702188d4252394a8cf8d8f08a0809b169cd25a89a2af2327352e1d9795fed0c",
+    "resume.zh.md": "aea68babda119a728c51bf025d88eb5939cc8127e6377dd2f1d96bbf2507db03",
+    "rich_profile.json": "8e3556826cb59fbe248afacd2229de0d45290004c8cbcb0f0548d77357b06946"
+  }
+}

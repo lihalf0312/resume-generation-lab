@@ -122,10 +122,20 @@ def pair_stream(records, manifest, split="train"):
 
 
 class OriginalSkillAdapter:
-    """Deliberate placeholder: original Windows skill has NOT been read/migrated."""
-    version = "unavailable"
+    """Link to sanitized original skill; grounded content, NOT original rendering."""
+    version = "sanitized-skill-content-adapter-v1"
+    def __init__(self, skill_path=None):
+        self.skill_path = Path(skill_path) if skill_path else Path(__file__).resolve().parents[1] / "skills" / "resume-generation" / "SKILL.md"
+
+    def _adapter(self):
+        from .skill_adapter import SanitizedSkillAdapter
+        return SanitizedSkillAdapter(self.skill_path)
+
     def generate(self, profile, job, policy):
-        raise NotImplementedError("Supply and review original skill before implementing this adapter")
+        return self._adapter().generate(profile, job, policy)
+
+    def prepare(self, profile, job, policy, language="en"):
+        return self._adapter().prepare(profile, job, policy, language)
 
 
 class GroundedRenderer:

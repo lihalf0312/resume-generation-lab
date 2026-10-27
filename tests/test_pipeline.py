@@ -119,7 +119,7 @@ class PipelineTests(unittest.TestCase):
         for p in ('../secret','private_runs/a.json','research/raw.json','docs/private_resume.json'):
             with self.assertRaises(ValueError):audit_release(ROOT,[p],self.out/'manifest.json')
     def test_original_skill_unavailable(self):
-        with self.assertRaises(NotImplementedError):OriginalSkillAdapter().generate({}, {}, {})
+        with self.assertRaises(FileNotFoundError):OriginalSkillAdapter(self.out / "missing-SKILL.md").generate({}, {}, {})
     def test_actual_linear_fit_not_hr_claim(self):
         examples=[{'features':[x/10], 'score':2*x/10+1, 'split':'train','label_origin':'synthetic_unit_test'} for x in range(11)]
         model=fit(examples,epochs=2500)

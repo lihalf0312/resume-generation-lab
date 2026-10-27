@@ -1,0 +1,13 @@
+{
+  "id": "syn-001",
+  "synthetic": true,
+  "not_a_real_vacancy": true,
+  "title": "Junior accounting assistant",
+  "seniority": "early",
+  "requirements": [
+    "Reconcile invoices with ledger entries",
+    "Explain a discrepancy clearly",
+    "Use spreadsheet formulas without inventing credentials"
+  ],
+  "test_purpose": "Transferable experience and honest degree/credential gaps"
+}

@@ -1,0 +1,22 @@
+{
+  "generation_index": 2,
+  "generator": "native assistant; exact model unspecified",
+  "method": "Native LLM selected and authored bilingual content; shell serializes text only.",
+  "policy_version": "prompt-v2.txt",
+  "prompt_sha256": "330df1d83ecece45e0458db5260e8b230b951c77db1b745df5607d38b2f7ed4c",
+  "skill_sha256": "85ae63d9322566d1fe94065975dc6f548fb953b7e787c371fd589e0b526c2a87",
+  "feedback_input": {
+    "path": "../pair-01/evaluation.json",
+    "sha256": "16938fb7383f792da1db7d42cd134956eb5dba3596b931baeb47f3cd497e6ba4"
+  },
+  "feedback_applied": [
+    "Single Chinese education date field without duplicated graduation date",
+    "External precise evidence questions for all requirement gaps"
+  ],
+  "decisions": [
+    "Prioritized fault documentation, then trial outcome and maintenance scope.",
+    "Retained shift engineering lead collaboration and passive trial result; no sole ownership or causal claim.",
+    "Retained technician title/associate qualification, not engineer credential."
+  ],
+  "assessment_scope": "content only; not submission-ready DOCX/PDF"
+}

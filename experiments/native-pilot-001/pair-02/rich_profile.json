@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "SYN-004",
+  "slug": "manufacturing_technician",
+  "synthetic": true,
+  "real_person": false,
+  "identity_policy": "Placeholder identity; no contact details; all employers and institutions fictional.",
+  "industry": {
+    "en": "Manufacturing",
+    "zh": "制造业"
+  },
+  "seniority": "mid_level",
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "facts": [
+    {
+      "fact_id": "SYN-004-F001",
+      "section": "identity",
+      "en": "Fictional Candidate 04",
+      "zh": "虚构候选人 04",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-004-F002",
+      "section": "target",
+      "en": "Maintenance technician",
+      "zh": "设备维护技术员",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-004-F003",
+      "section": "education",
+      "en": "Associate qualification in Mechatronics at Fictional Learning Institute 4",
+      "zh": "机电一体化专科学历，虚构学习学院 4",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2017-09",
+      "end_date": "2020-06"
+    },
+    {
+      "fact_id": "SYN-004-F004",
+      "section": "work",
+      "en": "Maintenance technician at Fictional Organization 4",
+      "zh": "设备维护技术员，虚构机构 4",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2020-08",
+      "end_date": "2026-09"
+    },
+    {
+      "fact_id": "SYN-004-F005",
+      "section": "work_achievement",
+      "en": "Maintained preventive maintenance records for 12 packaging machines.",
+      "zh": "维护 12 台包装设备的预防性保养记录。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-004-F006",
+      "section": "work_achievement",
+      "en": "Created fault-isolation sheets with the shift engineering lead.",
+      "zh": "与班组工程负责人共同编制故障排查表。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-004-F007",
+      "section": "work_achievement",
+      "en": "Repeat sensor stoppages decreased from 14 to 8 per month over a 4-month trial.",
+      "zh": "在 4 个月试验期间，传感器重复停机由每月 14 次降至 8 次。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-004-F008",
+      "section": "project",
+      "en": "Spare-parts labeling pilot",
+      "zh": "备件标识试点",
+      "synthetic": true,
+      "provenance": "original_synthetic",
+      "start_date": "2026-01",
+      "end_date": "2026-06"
+    },
+    {
+      "fact_id": "SYN-004-F009",
+      "section": "project_achievement",
+      "en": "Reorganized 80 spare-part bins with bilingual labels and revision-controlled diagrams.",
+      "zh": "为 80 个备件箱重新制作双语标签和版本受控图纸。",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-004-F010",
+      "section": "skills",
+      "en": "Preventive maintenance;PLC diagnostics;5S",
+      "zh": "预防性维护；PLC 诊断；5S 管理",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    },
+    {
+      "fact_id": "SYN-004-F011",
+      "section": "interests",
+      "en": "Model building",
+      "zh": "模型制作",
+      "synthetic": true,
+      "provenance": "original_synthetic"
+    }
+  ],
+  "grounding": {
+    "person_source_ids": [],
+    "occupational_context_source_ids": [
+      "SRC-BLS-OOH"
+    ],
+    "scope": "Occupational context only; no source establishes any candidate claim. All case facts and metrics are invented."
+  },
+  "generation_policy": {
+    "allowed": "Select, reorder, compress or translate supplied facts without changing meaning.",
+    "forbidden": [
+      "Invent additional metrics, employers, degrees, licenses or dates.",
+      "Convert team results into personal sole ownership.",
+      "Present synthetic cases as genuine applicants."
+    ],
+    "missing_information": "Ask or omit; never fill from occupational statistics."
+  },
+  "evaluation": {
+    "must_preserve_fact_ids": true,
+    "must_preserve_numbers_and_units": true,
+    "must_preserve_qualifiers": true,
+    "test_focus": [
+      "mid_level",
+      "bilingual_consistency",
+      "claim_grounding",
+      "privacy"
+    ]
+  }
+}

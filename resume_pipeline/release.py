@@ -11,6 +11,7 @@ REVIEWABLE_FILES = {
     "resume_pipeline/__init__.py", "resume_pipeline/__main__.py",
     "resume_pipeline/core.py", "resume_pipeline/evaluator.py", "resume_pipeline/release.py",
     "tests/test_pipeline.py", "fixtures/synthetic.jsonl",
+    "resume_pipeline/skill_adapter.py", "resume_pipeline/format_contract.py", "tests/test_skill_adapter.py",
 }
 
 

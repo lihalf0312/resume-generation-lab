@@ -1,0 +1,45 @@
+{
+  "target": "Mid-level production improvement engineer (synthetic scenario, not a vacancy)",
+  "requirements": [
+    {
+      "requirement": "Diagnose a production bottleneck",
+      "coverage": "transferable_only",
+      "evidence": [
+        "SYN-004-F006",
+        "SYN-004-F010"
+      ],
+      "gap": "Fault-isolation sheets and PLC diagnostics do not establish ownership of bottleneck analysis.",
+      "evidence_question": "Which production bottleneck did you diagnose, what data or method did you use, and what was your individual contribution?"
+    },
+    {
+      "requirement": "Document corrective actions",
+      "coverage": "partial",
+      "evidence": [
+        "SYN-004-F005",
+        "SYN-004-F006",
+        "SYN-004-F009"
+      ],
+      "gap": "Maintenance records, fault sheets and controlled diagrams support documentation, but completed corrective-action records are not specified.",
+      "evidence_question": "Can you supply a corrective-action record showing the action, owner, date and verification, with your contribution identified?"
+    },
+    {
+      "requirement": "Distinguish measured improvements from estimates",
+      "coverage": "partial",
+      "evidence": [
+        "SYN-004-F007"
+      ],
+      "gap": "A four-month trial and monthly counts are supplied; measurement protocol and any estimated values are not.",
+      "evidence_question": "How were repeat stoppages counted during the four-month trial, and are the figures measured counts or estimates?"
+    }
+  ],
+  "omissions": [
+    "No engineer credential or engineer job title claimed; source has technician title and associate qualification only.",
+    "Model building omitted as less relevant.",
+    "No contact, department, portrait or political status supplied; omitted."
+  ],
+  "layout_limitations": [
+    "Markdown only, no templates or rendered checks; no page fullness, final-line width, tab alignment, Word settings, PDF or ATS pass claimed.",
+    "Provisional category order prioritizes work and project evidence; original template order unknown.",
+    "No unsupported filler added for one-page density."
+  ]
+}

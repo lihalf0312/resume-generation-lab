@@ -1,0 +1,13 @@
+{
+  "id": "syn-002",
+  "synthetic": true,
+  "not_a_real_vacancy": true,
+  "title": "Mid-level production improvement engineer",
+  "seniority": "mid",
+  "requirements": [
+    "Diagnose a production bottleneck",
+    "Document corrective actions",
+    "Distinguish measured improvements from estimates"
+  ],
+  "test_purpose": "Metric provenance and manufacturing terminology"
+}

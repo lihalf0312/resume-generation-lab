@@ -1,0 +1,14 @@
+{
+  "pair-01": {
+    "source": "research/profiles/synthetic/SYN-007_finance_analyst.json",
+    "sha256": "80401466482f8642d27f73465c2e6563460f0a1199adc4cd9d1a7ccc6827538b"
+  },
+  "pair-02": {
+    "source": "research/profiles/synthetic/SYN-004_manufacturing_technician.json",
+    "sha256": "a46d2161b7a5e47146d376537743ac52210e6b3fd82146a59690fbf347433bf8"
+  },
+  "pair-03": {
+    "source": "research/profiles/synthetic/SYN-011_hospitality_supervisor.json",
+    "sha256": "8e3556826cb59fbe248afacd2229de0d45290004c8cbcb0f0548d77357b06946"
+  }
+}

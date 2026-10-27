@@ -1,8 +1,8 @@
 # Resume Generation Lab / 简历生成研究台
 
-**可运行的离线研究基础设施，不是已优化的简历模型。** 原 Windows 技能尚未获得或迁移；没有恢复、模仿或验证用户原模板。`OriginalSkillAdapter` 明确报未实现。当前生成器只按原文渲染事实并调整已有技能顺序，不调用 LLM，不训练生成模型。
+**可运行的离线研究基础设施，不是已优化的简历模型。** 已收到用户上传技能，并接入去隐私公开版 `skills/resume-generation`；原模板、照片、私有事实库及渲染脚本未包含。`OriginalSkillAdapter` 读取真实技能及引用哈希，输出有事实依据的内容草稿和格式检查契约，**不声称已恢复模板或完成 Word/PDF 排版**。离线基线不调用 LLM、不训练生成模型。
 
-**Runnable offline infrastructure, not a trained resume product.** The original Windows skill remains unavailable. The baseline is deterministic and grounded in supplied facts; it is not a reconstruction of that skill. No paid calls, downloads, pushes, hiring predictions or background automation.
+**Runnable offline infrastructure, not a trained resume product.** The uploaded skill is imported as a sanitized public edition. `OriginalSkillAdapter` links its actual source and reference hashes, prepares grounded content and an explicit format-validation handoff. Original templates, private facts/photos and rendering scripts were not supplied. This adapter does not render Word/PDF or claim template fidelity. The offline baseline remains deterministic; no paid calls or automatic external pushes.
 
 ## Run / 运行
 Python 3.10+; standard library only, no installation required:
@@ -19,7 +19,7 @@ Default data: 40 explicitly fictional CC0 smoke records (20 profiles, 20 jobs). 
 ## Architecture / 设计
 
 - `core.py`: strict core schema, provenance, synthetic/publication flags; immutable corpus+split manifest; identity and profile-source connected components, and JD source families, and normalized exact content duplicates remain wholly in train/dev/test. Semantic near-duplicates still require human audit. Only within-split pairings are eligible. New corpus => new versioned experiment. Test/dev are never in optimization stream.
-- `GroundedRenderer`: copies profile facts verbatim; only existing skills can be reordered. Original adapter deliberately unavailable. Missing original style is not guessed.
+- `GroundedRenderer`: copies profile facts verbatim; only existing skills can be reordered. Original adapter now links the sanitized uploaded skill; missing templates are not guessed. `format_contract.py` checks supplied report completeness/consistency, not actual visual compliance; even a reported pass leaves `actual_style_verified=false` and `export_ready=false`. Native generation is a separate workflow, not an external paid API.
 - `runs.jsonl`: durable append-only, hash-chained ledger with pair/input/output hashes, scores, feedback, policy, prompt/model/rubric versions. Lock prevents simultaneous writers. Restart recovers from verified ledger, not potentially stale checkpoint. Invalid/torn ledgers stop for review rather than silently discarding examples. Hash chains detect edits but are not cryptographic authentication.
 - Feedback updates a versioned policy for the **next distinct example**, not repeated optimization on the same profile/JD. It is rule-based, not learned model improvement.
 - Counters distinguish processed examples, exact-renderer fidelity passes and expert-validated examples (zero). Every 10 examples: local state checkpoint. Every 100 or explicit milestone: **local publication-candidate manifest only**, not a GitHub push. No auto external publishing.
@@ -35,10 +35,14 @@ The framework accepts research-only real-source records locally; they do not pas
 
 ## Next / 待完成
 
-1. Obtain original skill folder and required templates/assets; review and implement its adapter without losing format.
+1. Original skill received/sanitized and content adapter linked. Obtain the still-missing original templates/assets, then implement actual Word export and independently verify rendered pages without losing format.
 2. Normalize real requirement ontology and validate human fact inventories; resolve data rights before any public corpus or model use.
 3. Run provenance-labelled automatic evaluator experiments using synthetic, heuristic or LLM-judge feedback, with frozen held-out evaluation and cross-language/artifact tests. No paid judge call is enabled here.
 4. Planned **separate weak-label SFT/DPO export**: record `label_origin` (`synthetic`, `heuristic`, `llm_judge`), evaluator/model/prompt/rubric versions and hashes, source permission/consent, train-only split, uncertainty, judge independence and artifact/fidelity gates. Keep these datasets distinct from human-qualified exports. Account for self-reinforcement, judge bias, reward hacking and train/test contamination; never call machine feedback HR ground truth.
 5. Human/expert labels are needed for human calibration and HR-validity claims, **not a blanket prerequisite for automated ML experiments**. Compare actual trained versions on held-out data before claiming improvement. Current code implements the linear fitting baseline and human-qualified exporter; weak-label exporter and generator SFT/DPO execution remain planned, not delivered.
 
 See [STATUS.md](STATUS.md) for measured progress. No CI workflow is included yet; local tests are the verified evidence, not an assertion that hosted CI passed.
+
+## Inspect the actual native-agent pilot
+
+[Report and saved examples](experiments/native-pilot-001/REPORT.md) demonstrate three sequential bilingual generations with independent judge feedback applied to the next distinct pair. This is prompt/workflow optimization, not model-weight training or demonstrated quality improvement. All content is explicitly fictional; no personal applicant record is bundled. The [sanitized skill](skills/resume-generation/SKILL.md) preserves the supplied general formatting rules; actual source templates and final rendered document validation remain unavailable.

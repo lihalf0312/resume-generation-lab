@@ -1,0 +1,59 @@
+{
+  "state": "completed_three_pair_pilot",
+  "planned_pairs": 3,
+  "generated_pairs": 3,
+  "bilingual_documents": 6,
+  "generations_per_pair": 1,
+  "independent_evaluations": 3,
+  "native_prompt_updates_applied_to_next_pair": 2,
+  "same_pair_revisions": 0,
+  "factual_gate_passes": 3,
+  "unsupported_material_claims_judge_found": 0,
+  "bilingual_material_claim_lines_reviewed": 70,
+  "docx_pdf_outputs": 0,
+  "rendered_artifact_checks": 0,
+  "paid_api_calls": 0,
+  "model_weight_training_runs": 0,
+  "benchmark_or_split_changes": 0,
+  "public_pushes": 0,
+  "immutable_generation_hashes_verified": true,
+  "rows": [
+    {
+      "pair": "pair-01",
+      "factual_gate": "pass",
+      "bilingual_material_claim_lines": 22,
+      "full_score": null,
+      "unvalidated_partial_diagnostic": 93,
+      "assessed_weight": 85,
+      "evaluation_reference": "pair-01/evaluation.json",
+      "evaluation_sha256": "16938fb7383f792da1db7d42cd134956eb5dba3596b931baeb47f3cd497e6ba4",
+      "generation_manifest_sha256": "225d2597200a46c790a19a68a8f6180aac7d08c020ec534fca452352faf5d34d",
+      "exact_jd_requirements_not_shown": 3
+    },
+    {
+      "pair": "pair-02",
+      "factual_gate": "pass",
+      "bilingual_material_claim_lines": 24,
+      "full_score": null,
+      "unvalidated_partial_diagnostic": 100,
+      "assessed_weight": 85,
+      "evaluation_reference": "pair-02/evaluation.json",
+      "evaluation_sha256": "f21b937f54a893ff12e8f8d73d08ed7d9f5d000b016ac99e24033a7f7d810027",
+      "generation_manifest_sha256": "ce367bf6cb7767cc4517fcfbb0fcf548c4c8d1fe3c4054d0659146ee54ee3a0d",
+      "exact_jd_requirements_not_shown": 3
+    },
+    {
+      "pair": "pair-03",
+      "factual_gate": "pass",
+      "bilingual_material_claim_lines": 24,
+      "full_score": null,
+      "unvalidated_partial_diagnostic": 100,
+      "assessed_weight": 85,
+      "evaluation_reference": "pair-03/evaluation.json",
+      "evaluation_sha256": "f7869493ecebe2aa15f8067c3e45cfc8fb8c5321cd9c1062c329f9999e59d274",
+      "generation_manifest_sha256": "9d2bd1d98dcab570b61f5f6cf00380577f63a224387a4fd5adac812424f1a958",
+      "exact_jd_requirements_not_shown": 3
+    }
+  ],
+  "interpretation": "Only a three-example synthetic content pilot. No improvement, reliability, model-training, hiring-fit or full-formatting claim."
+}
