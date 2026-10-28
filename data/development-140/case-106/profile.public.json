@@ -1,0 +1,131 @@
+{
+  "case_id": "case-106",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-106",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-106",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a building-services diploma at Fictional Copperleaf College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构铜叶学院完成建筑设备文凭课程。"
+    },
+    {
+      "en": "Paid facilities records assistant at Fictional Cedar Loom Hall from 2023-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构雪松织艺馆任有薪设施记录助理。"
+    },
+    {
+      "en": "Entered monthly electricity meter readings and linked them to invoices for the hall.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "录入该馆每月电表读数，并将其与发票关联。"
+    },
+    {
+      "en": "Checked meter identifiers and escalated unreadable readings to the facilities supervisor.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "检查电表编号，并将无法辨认的读数上报设施主管。"
+    },
+    {
+      "en": "Supported a lighting-timer trial in 2025-04; a qualified contractor changed the timer settings.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2025-04 协助照明定时器试用；定时器设置由合资格承包商修改。"
+    },
+    {
+      "en": "Personally assembled the before-and-after meter table and retained the original invoice copies.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "个人整理前后电表数据表，并保留原始发票副本。"
+    },
+    {
+      "en": "Recorded electricity use was 1100 kWh in 2025-03 and 900 kWh in 2025-04 for the same meter.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "同一电表记录的用电量为 2025-03 的 1100 千瓦时及 2025-04 的 900 千瓦时。"
+    },
+    {
+      "en": "At the unchanged energy rate of 0.15 fictional credits per kWh, the energy-only charge was 165 credits in 2025-03 and 135 credits in 2025-04.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "在每千瓦时 0.15 虚构货币单位的能源单价不变时，仅能源费用为 2025-03 的 165 单位及 2025-04 的 135 单位。"
+    },
+    {
+      "en": "The observed monthly energy-charge difference was 30 fictional credits; fixed fees were excluded.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "观察到的每月能源费用差额为 30 虚构货币单位；不含固定费用。"
+    },
+    {
+      "en": "Prepared a 360-credit annualized scenario by multiplying the 30-credit monthly difference by 12; the scenario assumes that difference recurs each month.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "将 30 单位月差额乘以 12，编制 360 单位的年化情景估算；该情景假设每月重复出现该差额。"
+    },
+    {
+      "en": "The records contain no full-year post-trial result, and the comparison was not adjusted for occupancy, weather or month length.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "记录中无试用后完整年度结果，且比较未按使用人数、天气或月份天数进行调整。"
+    },
+    {
+      "en": "Added assumptions and exclusions to the cost worksheet for supervisor review.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在成本工作表中加入假设及排除项，供主管审核。"
+    },
+    {
+      "en": "Uses spreadsheet formulas, filters and cell comments to maintain meter records.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用电子表格公式、筛选及单元格批注维护电表记录。"
+    },
+    {
+      "en": "Filed maintenance tickets after supervisor approval; did not select contractors or approve spending.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "经主管批准后归档维护工单；不选择承包商或批准支出。"
+    },
+    {
+      "en": "Completed an internal invoice-reading workshop in 2024; no energy-auditor credential was issued.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2024 年完成内部发票阅读培训；未获得能源审计员资格。"
+    },
+    {
+      "en": "Created a personal practice dashboard using invented water readings in 2025; it was not used at the hall.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2025 年使用虚构用水读数制作个人练习仪表板；该馆未使用。"
+    },
+    {
+      "en": "Volunteered to label tool drawers at Fictional Patch Shed in 2023-06, without carrying out electrical work.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2023-06 在虚构补缀工棚志愿标记工具抽屉，未进行电气作业。"
+    },
+    {
+      "en": "Wrote a handover note explaining missing-reading flags and where to find invoice copies.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "编写交接备注，说明缺失读数标记及发票副本存放位置。"
+    },
+    {
+      "en": "Enjoys building cardboard architectural models.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好制作纸板建筑模型。"
+    },
+    {
+      "en": "No independent energy-audit sign-off authority is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录独立签署能源审计结论的权限。"
+    }
+  ]
+}

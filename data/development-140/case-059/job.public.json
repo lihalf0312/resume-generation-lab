@@ -1,0 +1,33 @@
+{
+  "case_id": "case-059",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Event Logistics Assistant",
+    "zh": "活动后勤助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Track event equipment deliveries and returns.",
+      "id": "R01",
+      "zh": "跟踪活动设备交付及归还。"
+    },
+    {
+      "en": "Communicate delivery exceptions and maintain records.",
+      "id": "R02",
+      "zh": "沟通交付异常并维护记录。"
+    },
+    {
+      "en": "Protect confidential venue access information.",
+      "id": "R03",
+      "zh": "保护场地进入机密信息。"
+    },
+    {
+      "en": "Operate a forklift with a valid qualification.",
+      "id": "R04",
+      "zh": "持有效资格操作叉车。"
+    }
+  ]
+}

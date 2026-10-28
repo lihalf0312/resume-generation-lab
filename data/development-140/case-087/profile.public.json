@@ -1,0 +1,125 @@
+{
+  "case_id": "case-087",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-087",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-087",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Social Studies at Fictional Institute D087 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D087 完成社会研究文学学士学位。"
+    },
+    {
+      "en": "Worked as a service feedback coordinator at Fictional Advice Centre D087 from 2022-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-02 至 2026-08 在虚构咨询中心 D087 担任服务反馈协调员。"
+    },
+    {
+      "en": "Compiled voluntary feedback forms and removed contact details before producing team summaries.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "汇编自愿反馈表，并在制作团队摘要前删除联系方式。"
+    },
+    {
+      "en": "Used spreadsheet filters and counts to summarize response categories, retaining missing-response labels.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用电子表格筛选及计数汇总回应类别，并保留缺失回应标签。"
+    },
+    {
+      "en": "With a service manager, compared feedback from 2 reception periods around a 2025-04 signage change.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "与服务经理合作，比较 2025-04 标识变更前后 2 个接待期间的反馈。"
+    },
+    {
+      "en": "Positive navigation responses numbered 28 of 40 returned forms before the change and 35 of 44 afterward; only returned forms are counted.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "变更前收回的 40 份表格中有 28 份给予正面导航评价，变更后收回的 44 份中有 35 份；仅计收回表格。"
+    },
+    {
+      "en": "Visitors were not randomized, response rates are unavailable, and staffing changed; no causal or population-wide conclusion was drawn.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "访客未随机分组，回应率不可得，且人员配置变化；未得出因果或总体结论。"
+    },
+    {
+      "en": "No significance test, confidence interval or power analysis was performed for that comparison.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "该比较未执行显著性检验、置信区间或功效分析。"
+    },
+    {
+      "en": "Presented descriptive tables with caveats to the service manager, who decided whether to change service arrangements.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "向服务经理展示附局限说明的描述表格，由经理决定是否改变服务安排。"
+    },
+    {
+      "en": "Prepared a 2026-01 feedback-coding guide that the manager approved for routine use.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-01 准备反馈编码指南，由经理批准用于常规工作。"
+    },
+    {
+      "en": "Drafted a randomized-test proposal in 2026-05 as a learning exercise; it was neither approved nor conducted.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 以学习练习方式起草随机试验提案；未获批准或执行。"
+    },
+    {
+      "en": "Completed a 2024-11 introductory statistics module using fictional survey data, not a professional research credential.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2024-11 使用虚构调查数据完成入门统计模块，并非专业研究资格。"
+    },
+    {
+      "en": "At the 2025-09 peak, tracked feedback for 5 service desks; the regular 2026-08 scope was 3.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在 2025-09 高峰期跟踪 5 个服务台反馈；2026-08 常规范围为 3 个。"
+    },
+    {
+      "en": "Volunteered for Fictional Nature Drawing Circle V087 from 2023-03 to 2023-09 on weekends alongside paid work.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-03 至 2023-09 在有偿任职期间，周末为虚构自然绘画社团 V087 志愿服务。"
+    },
+    {
+      "en": "For the circle, counted art-material packs; it was not a participant-outcome study.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该社团清点美术材料包；并非参与者成果研究。"
+    },
+    {
+      "en": "Maintains a personal collection of imaginary railway timetables.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "保留个人虚构铁路时刻表收藏。"
+    },
+    {
+      "en": "A draft summary calls the navigation difference statistically significant and caused by signage, without analytical evidence for either assertion.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一份摘要草稿称导航差异具有统计显著性且由标识导致，但两种断言均无分析证据。"
+    },
+    {
+      "en": "Kept raw category definitions and calculation notes so a reviewer could reproduce descriptive counts.",
+      "id": "F18",
+      "kind": "skill",
+      "zh": "保留原始类别定义及计算备注，使审核者可复算描述性计数。"
+    },
+    {
+      "en": "Routed free-text complaints to the designated service lead instead of diagnosing individuals or resolving cases independently.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "将自由文本投诉转交指定服务负责人，而非诊断个人或独立解决个案。"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "case_id": "case-074",
+  "creation_batch": "development-001-extension-008",
+  "identity_id": "synthetic-person-074",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-074",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an office systems diploma at Fictional Bramble Moon College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构荆月学院完成办公系统文凭课程。"
+    },
+    {
+      "en": "Completed an introductory project scheduling course in 2024-05, without a professional project-management credential.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2024-05 完成项目排期入门课程，未获专业项目管理资格。"
+    },
+    {
+      "en": "Office assistant at Fictional Copper Kite, 2020-09 to 2022-12.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2020-09 至 2022-12 在虚构铜鸢机构任办公室助理。"
+    },
+    {
+      "en": "Project team assistant at Fictional Copper Kite, 2023-01 to 2025-03.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-01 至 2025-03 在虚构铜鸢机构任项目团队助理。"
+    },
+    {
+      "en": "Project administration coordinator at Fictional Copper Kite, 2025-04 to 2026-09; this was a promotion, not a new employer.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2025-04 至 2026-09 在虚构铜鸢机构任项目行政协调员；此为晋升，并非更换雇主。"
+    },
+    {
+      "en": "As office assistant, arranged stationery deliveries and meeting rooms, not project budgets.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "任办公室助理时安排文具配送及会议室，不负责项目预算。"
+    },
+    {
+      "en": "Maintains action logs, meeting notes, and owner-approved milestone dates for the project team.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "为项目团队维护行动日志、会议笔记及责任人批准的里程碑日期。"
+    },
+    {
+      "en": "Coordinates 3 active internal projects in 2026-09; the 2025-10 peak administrative workload covered 5 projects.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "2026-09 协调 3 个活跃内部项目；2025-10 行政工作高峰覆盖 5 个项目。"
+    },
+    {
+      "en": "Supported a workspace move during 2025-06 to 2025-08 with a project manager and facilities lead.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-06 至 2025-08 与项目经理及设施负责人共同支持办公区搬迁。"
+    },
+    {
+      "en": "Personally consolidated 21 action items and sent owner-approved reminders; the manager decided priorities.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人汇总 21 个行动项并发送责任人批准的提醒；优先级由经理决定。"
+    },
+    {
+      "en": "The team recorded 18 of 21 actions closed by the 2025-08 review date; no budget saving or causal productivity gain was measured.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "团队记录，截至 2025-08 审核日期，21 个行动项中有 18 个关闭；未测量预算节省或因果生产率提升。"
+    },
+    {
+      "en": "Published the approved move-day checklist to the internal team folder before the move.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "搬迁前将获批搬迁日核对表发布至内部团队文件夹。"
+    },
+    {
+      "en": "Drafted a dependency-risk diagram in 2026-02; the project manager had not adopted it by 2026-09.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2026-02 起草依赖风险图；截至 2026-09 项目经理尚未采用。"
+    },
+    {
+      "en": "Uses shared calendars, spreadsheet status filters, and document version history.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用共享日历、电子表格状态筛选及文档版本历史。"
+    },
+    {
+      "en": "Escalates overdue decisions to project owners without changing approved scope.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "将逾期决策上报项目责任人，不更改批准范围。"
+    },
+    {
+      "en": "A course exercise planned an imaginary 4-week exhibition; it did not represent a delivered client project.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "一项课程练习规划了假想的 4 周展览；并非已交付的客户项目。"
+    },
+    {
+      "en": "Volunteered for Fictional Night Garden on 2025-09 weekends alongside full-time paid work.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2025-09 周末为虚构夜花园活动做志愿者，与全职有薪工作同期。"
+    },
+    {
+      "en": "At the garden event, prepared sign-in sheets from organizer instructions; did not manage the event.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "在花园活动中依据组织方指示准备签到表；未管理活动。"
+    },
+    {
+      "en": "Made a personal archive of 23 fictional postcard designs in 2023-07.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2023-07 为 23 张虚构明信片设计制作个人档案。"
+    },
+    {
+      "en": "Enjoys birdwatching and miniature painting.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好观鸟及微缩模型绘画。"
+    },
+    {
+      "en": "An unsigned role summary says project manager; the employment record and approval log describe administrative coordination.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "一份未署名岗位总结称项目经理；任职记录及审批日志描述行政协调。"
+    },
+    {
+      "en": "No contract negotiation, budget approval, or independent project scope ownership is documented.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录合同谈判、预算审批或独立项目范围责任。"
+    }
+  ]
+}

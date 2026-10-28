@@ -1,0 +1,65 @@
+{
+  "case_id": "case-011",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-011",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-011",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Software Testing at Fictional Academy B11 in 2024.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024 年在虚构学院 B11 完成软件测试文凭课程。"
+    },
+    {
+      "en": "Test intern at Fictional Studio B11, 2024-07 to 2025-01.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-07 至 2025-01，任虚构工作室 B11 测试实习生。"
+    },
+    {
+      "en": "Junior quality assistant at Fictional Studio B11, 2025-02 to 2026-09.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2025-02 至 2026-09，任虚构工作室 B11 初级质量助理。"
+    },
+    {
+      "en": "Used Python and pytest to maintain regression tests for an internal scheduling tool.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用 Python 和 pytest 维护内部排班工具的回归测试。"
+    },
+    {
+      "en": "Added 23 regression tests reviewed by the engineering lead; this is a test count, not a coverage percentage.",
+      "id": "F05",
+      "kind": "outcome",
+      "zh": "新增 23 项经工程负责人审阅的回归测试；此数为测试数量，并非覆盖率。"
+    },
+    {
+      "en": "In 2026-03, built a local mock API that returns fixed booking responses for tests.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2026-03，搭建本地模拟 API，为测试返回固定预订响应。"
+    },
+    {
+      "en": "Used Git branches and pull requests; did not administer repository permissions.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "使用 Git 分支和拉取请求；未管理代码库权限。"
+    },
+    {
+      "en": "Documented reproduction steps for 17 defects that reviewers confirmed during 2025-10 to 2026-02.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2025-10 至 2026-02，为审阅人员确认的 17 个缺陷记录复现步骤。"
+    },
+    {
+      "en": "No production deployment ownership or Kubernetes experience is recorded.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "未记录生产部署责任或 Kubernetes 经验。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-085",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Audit Readiness Coordinator",
+    "zh": "审核准备协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Organize controlled evidence for internal reviews.",
+      "id": "R01",
+      "zh": "为内部审核整理受控证据。"
+    },
+    {
+      "en": "Track open items and coordinate owner responses.",
+      "id": "R02",
+      "zh": "跟踪未完成事项并协调负责人答复。"
+    },
+    {
+      "en": "Support corrective-action follow-up schedules.",
+      "id": "R03",
+      "zh": "支持纠正措施跟进计划。"
+    },
+    {
+      "en": "Independently approve audit findings and closures.",
+      "id": "R04",
+      "zh": "独立批准审核发现及关闭。"
+    }
+  ]
+}

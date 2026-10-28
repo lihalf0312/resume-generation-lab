@@ -1,0 +1,119 @@
+{
+  "case_id": "case-060",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-060",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-060",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Records Administration at Fictional Institute D060 in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构院校 D060 完成档案行政专科学历。"
+    },
+    {
+      "en": "Worked as a document services clerk at Fictional Design Office D060 from 2023-08 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-08 至 2026-08 在虚构设计办公室 D060 担任文件服务文员。"
+    },
+    {
+      "en": "Registered incoming documents with document number, revision, sender and receipt date in an approved register.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在获批登记表中录入收件的文件编号、修订版、发送者及收件日期。"
+    },
+    {
+      "en": "Checked required metadata fields and flagged duplicate numbers without changing technical content.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "检查必填元数据字段并标出重复编号，不修改技术内容。"
+    },
+    {
+      "en": "Distributed approved revisions to authorized recipients and archived superseded versions according to the office procedure.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依照办公室流程将获批修订版分发给授权接收者，并归档过期版本。"
+    },
+    {
+      "en": "With the records supervisor, reviewed 240 register entries during 2025-09.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "在 2025-09 与档案主管合作复查 240 条登记记录。"
+    },
+    {
+      "en": "The review identified 22 missing receipt dates; the team restored 19 from retained emails and marked 3 as unavailable rather than guessing.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "复查发现 22 条缺失收件日期；团队根据留存邮件恢复 19 条，将 3 条标为不可得而非猜测。"
+    },
+    {
+      "en": "Used spreadsheet filters, conditional formatting and controlled dropdowns for register checks.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "使用电子表格筛选、条件格式及受控下拉选项检查登记表。"
+    },
+    {
+      "en": "Prepared transmittal cover sheets and checked recipient lists before supervisor-authorized dispatch.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "准备文件传递封面，并在主管授权发送前检查接收者名单。"
+    },
+    {
+      "en": "Created and put into use a 2026-02 desk guide explaining revision-code conventions after supervisor approval.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "经主管批准后，于 2026-02 编制并投入使用说明修订编码规则的桌面指南。"
+    },
+    {
+      "en": "Drafted an optional folder-color scheme in 2026-05; it remained a proposal and was not implemented.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 起草可选文件夹配色方案；仍为提案，未实施。"
+    },
+    {
+      "en": "Processed a peak of 85 incoming documents in one week of 2025-10; the documented 2026-08 weekly average was 48.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-10 的一个高峰周处理 85 份来件；记录的 2026-08 每周平均值为 48 份。"
+    },
+    {
+      "en": "Volunteered at Fictional Craft Library V060 on Saturdays from 2024-02 to 2024-07 while employed, organizing pattern folders.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "2024-02 至 2024-07 任职期间，星期六在虚构手工资料馆 V060 志愿整理图样文件夹。"
+    },
+    {
+      "en": "Built a personal postcard index for a fictional landscape collection; it was a hobby project, not a corporate archive.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "为虚构风景收藏建立个人明信片索引；这是爱好项目，而非企业档案。"
+    },
+    {
+      "en": "Maintained access lists supplied by the supervisor and referred new access requests for approval.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "维护主管提供的访问清单，并将新访问请求提交审批。"
+    },
+    {
+      "en": "Answered internal retrieval requests by locating approved documents and recording the request reference.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "通过查找获批文件并记录请求编号，处理内部调阅请求。"
+    },
+    {
+      "en": "The role had no engineering sign-off, legal retention-policy ownership or staff-management responsibility; none is required by this vacancy.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "该岗位无工程签字、法律保留政策负责或员工管理职责；本空缺亦不要求这些职责。"
+    },
+    {
+      "en": "Separated confirmed record values from unavailable metadata and escalated unresolved fields to the records supervisor.",
+      "id": "F18",
+      "kind": "skill",
+      "zh": "区分已确认记录值与不可得元数据，并将未解决字段上报档案主管。"
+    }
+  ]
+}

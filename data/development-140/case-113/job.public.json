@@ -1,0 +1,33 @@
+{
+  "case_id": "case-113",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Textile Sample Room Coordinator",
+    "zh": "纺织样品室协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain traceable swatch labels, locations and lending records.",
+      "id": "R01",
+      "zh": "维护可追溯的布样标签、位置及借用记录。"
+    },
+    {
+      "en": "Compare samples with approved references and refer discrepancies to the responsible technologist.",
+      "id": "R02",
+      "zh": "将样品与获批参考样比较，并将差异转交负责技术员。"
+    },
+    {
+      "en": "Prepare approved sample dispatches and retain courier references.",
+      "id": "R03",
+      "zh": "准备获批样品发运，并保留快递编号。"
+    },
+    {
+      "en": "Independently approve textile colour and performance-test results.",
+      "id": "R04",
+      "zh": "独立批准纺织色彩及性能测试结果。"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "case_id": "case-068",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-068",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-068",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Cultural Administration at Fictional Institute D068 in 2020; only the completion year is recorded.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D068 完成文化行政专科学历；仅记录完成年份。"
+    },
+    {
+      "en": "Worked as a programme desk assistant at Fictional Memory Centre D068 from 2021 to 2025; start and end months are not recorded.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021 至 2025 年在虚构记忆中心 D068 担任项目服务台助理；未记录起止月份。"
+    },
+    {
+      "en": "Began an archives programme assistant role at Fictional Local Archive E068 in 2026; the start month is not recorded and the role was current at source preparation.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2026 年开始在虚构地方档案馆 E068 担任档案项目助理；未记录起始月份，来源准备时仍在任职。"
+    },
+    {
+      "en": "At the memory centre, maintained workshop booking lists and routed research access requests to the archivist.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在记忆中心维护工作坊预约名单，并将研究访问请求转交档案员。"
+    },
+    {
+      "en": "Used spreadsheet filters and a shared calendar to track room bookings and participant reminders.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "使用电子表格筛选及共享日历跟踪房间预约和参与者提醒。"
+    },
+    {
+      "en": "During 2024, helped the centre coordinator review 48 workshop booking records; only the project year is known.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "在 2024 年协助中心协调员复查 48 条工作坊预约记录；仅知项目年份。"
+    },
+    {
+      "en": "The team corrected 6 duplicated entries among those 48 records; this is a record-cleaning result, not increased attendance.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "团队修正该批 48 条记录中的 6 条重复项；这是记录清理成果，而非出席人数增长。"
+    },
+    {
+      "en": "In the current archive role, prepares approved public-session information and keeps venue confirmation files.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在现任档案馆岗位准备获批公众活动信息，并维护场地确认文件。"
+    },
+    {
+      "en": "Checks access notices against archivist-approved wording and does not make independent rights decisions.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "根据档案员批准的措辞检查访问通知，不独立作出权利决定。"
+    },
+    {
+      "en": "Prepared a draft traveling-display itinerary in 2026; venue approval was pending and no tour had occurred at source preparation.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在 2026 年准备巡回展示行程草稿；场地审批待定，来源准备时尚未巡展。"
+    },
+    {
+      "en": "Volunteered at Fictional Story Circle V068 during 2023 and 2024 alongside centre employment; no months or weekly schedule are recorded.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "在记忆中心任职期间，于 2023 及 2024 年在虚构故事社团 V068 志愿服务；未记录月份或每周安排。"
+    },
+    {
+      "en": "For that circle, sorted donated reading sheets by topic without cataloguing archival originals.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "为该社团按主题整理捐赠阅读材料，未编目档案原件。"
+    },
+    {
+      "en": "Maintains a personal collection of fictional postcard illustrations as a hobby.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "以爱好方式收藏虚构明信片插图。"
+    },
+    {
+      "en": "The confirmed 2024 annual peak was 5 concurrent workshop booking lists; the current 2026 assignment is 2 session lists.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "确认的 2024 年度高峰为同时处理 5 份工作坊预约名单；现任 2026 年分工为 2 份活动名单。"
+    },
+    {
+      "en": "Wrote plain-language handover notes identifying confirmed arrangements and pending approvals.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "撰写通俗交接记录，标明已确认安排及待审批事项。"
+    },
+    {
+      "en": "An undated draft biography inserts 2021-01 and 2025-12 as employment boundaries, but no source supports either month.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份未注明日期的简介草稿将任职边界补为 2021-01 及 2025-12，但没有来源支持这两个月份。"
+    },
+    {
+      "en": "No professional archivist credential, conservation treatment or independent acquisition authority is claimed.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "不声称拥有专业档案员资格、修复处理或独立馆藏征集权限。"
+    },
+    {
+      "en": "Current duties include logging approved purchases for session materials while the manager authorizes spending.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "现任职责包括记录活动材料获批采购，经理负责批准开支。"
+    }
+  ]
+}

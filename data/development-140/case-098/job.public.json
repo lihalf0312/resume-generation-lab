@@ -1,0 +1,33 @@
+{
+  "case_id": "case-098",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Warehouse Planning Assistant",
+    "zh": "仓库计划助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain dock schedules and follow up booking exceptions.",
+      "id": "R01",
+      "zh": "维护月台日程并跟进预约异常。"
+    },
+    {
+      "en": "Report scheduling measures with clear denominators and limitations.",
+      "id": "R02",
+      "zh": "报告具有清晰分母及局限说明的排期指标。"
+    },
+    {
+      "en": "Support supervised capacity-planning exercises.",
+      "id": "R03",
+      "zh": "支持受监督产能计划练习。"
+    },
+    {
+      "en": "Independently set warehouse staffing and capacity plans.",
+      "id": "R04",
+      "zh": "独立制定仓库人员配置及产能计划。"
+    }
+  ]
+}

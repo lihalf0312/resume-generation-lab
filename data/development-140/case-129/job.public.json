@@ -1,0 +1,38 @@
+{
+  "case_id": "case-129",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Greenhouse Plant Stock Assistant",
+    "zh": "温室植物库存助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate tray labels and live-plant stock counts.",
+      "id": "R01",
+      "zh": "维护准确的育苗盘标签及活植物库存数量。"
+    },
+    {
+      "en": "Prepare approved orders and manage stock-movement records.",
+      "id": "R02",
+      "zh": "准备获批订单并管理库存搬运记录。"
+    },
+    {
+      "en": "Follow supplied watering schedules and escalate plant-condition concerns.",
+      "id": "R03",
+      "zh": "遵循所提供浇水计划，并上报植物状况问题。"
+    },
+    {
+      "en": "Maintain pot-damage records and support small stock-area improvements.",
+      "id": "R04",
+      "zh": "维护花盆损坏记录，并支持小型库存区改进。"
+    },
+    {
+      "en": "Preferred: independently analyse germination and survival rates from complete sowing histories.",
+      "id": "R05",
+      "zh": "优先：依据完整播种历史独立分析发芽率及存活率。"
+    }
+  ]
+}

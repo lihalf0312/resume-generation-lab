@@ -1,0 +1,125 @@
+{
+  "case_id": "case-134",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-134",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-134",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a hospitality retail certificate at Fictional Meadowplate College in 2017.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2017 年在虚构草盘学院完成餐饮零售证书课程。"
+    },
+    {
+      "en": "Paid café counter assistant at Fictional Foxglove Cups from 2018-01 to 2022-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-01 至 2022-08 在虚构毛地黄杯咖啡馆任有薪柜台助理。"
+    },
+    {
+      "en": "Paid shop packing assistant at Fictional Bramblewheel Cheese Shop from 2022-10 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-10 至 2026-08 在虚构荆轮奶酪店任有薪门店包装助理。"
+    },
+    {
+      "en": "Assembled pre-portioned cheese gift boxes from the shop lead’s approved item list.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据门店负责人批准的物品清单组装预先分装的奶酪礼盒。"
+    },
+    {
+      "en": "Matched product labels and supplied allergen cards to the approved box contents.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将产品标签及提供的过敏原卡与获批礼盒内容匹配。"
+    },
+    {
+      "en": "Referred ingredient questions and requested substitutions to the shop lead rather than rewriting product information.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将配料问题及替换请求转交门店负责人，而非重写产品信息。"
+    },
+    {
+      "en": "Recorded box orders, collection dates and paid status in the shop’s order book.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在门店订单簿中记录礼盒订单、领取日期及付款状态。"
+    },
+    {
+      "en": "Prepared labeled collection shelves and checked order references when guests arrived.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "准备有标签的取货架，并在宾客到达时核对订单编号。"
+    },
+    {
+      "en": "A retained 2025-12 packing sheet lists 32 ordered gift boxes: 24 collected, 6 awaiting their scheduled collection date and 2 cancelled before packing.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "一张留存的 2025-12 包装单列有 32 盒预订礼盒：24 盒已领取，6 盒等待预定领取日，2 盒在包装前取消。"
+    },
+    {
+      "en": "The packing sheet does not state revenue or the weight of cheese per box.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "该包装单未说明收入或每盒奶酪重量。"
+    },
+    {
+      "en": "Uses order-book references, label templates and a basic till interface.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用订单簿编号、标签模板及基本收银界面。"
+    },
+    {
+      "en": "Completed internal chilled-product handling induction in 2022-10; product-release checks remained with the shop lead.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2022-10 完成内部冷藏产品处理入职培训；产品放行检查仍由门店负责人负责。"
+    },
+    {
+      "en": "Co-created a collection-shelf map with the shop lead in 2024-11; personally drew the shelf grid and order-number boxes.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-11 与门店负责人共同制作取货架示意图；个人绘制货架网格及订单编号栏。"
+    },
+    {
+      "en": "Volunteered at Fictional Threadapple Makers Market during 2023-06 to 2025-06 for occasional setup days.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-06 至 2025-06 在虚构线苹果手作市集偶尔参加布场志愿服务。"
+    },
+    {
+      "en": "For those setup days, counted borrowed tablecloths and attached stall-number tags selected by the organizer.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "在这些布场日清点借入桌布，并附上组织者选定的摊位编号标签。"
+    },
+    {
+      "en": "Designed a personal set of 12 imaginary menu illustrations in 2024; no client commissioned the work.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2024 年设计个人 12 幅想象菜单插画；该作品未受客户委托。"
+    },
+    {
+      "en": "Enjoys making folded paper food models and photographing them.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好制作折纸食物模型并为其拍照。"
+    },
+    {
+      "en": "At the earlier café, maintained the pickup queue and checked receipt numbers without preparing nutrition advice.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "在较早的咖啡馆岗位中维护取餐队列并核对收据编号，不提供营养建议。"
+    },
+    {
+      "en": "Handed pending collections and unresolved substitutions to the next shift in writing.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "以书面形式向下一班交接待领取订单及未解决的替换请求。"
+    }
+  ]
+}

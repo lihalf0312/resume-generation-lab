@@ -1,0 +1,119 @@
+{
+  "case_id": "case-058",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-058",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-058",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in IT Support at Fictional Institute D058 in 2025.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2025 年在虚构院校 D058 完成 IT 支持专科学历。"
+    },
+    {
+      "en": "Worked as a supervised service-desk intern at Fictional Technical Centre D058 from 2025-09 to 2026-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2025-09 至 2026-06 在虚构技术中心 D058 担任受监督的服务台实习生。"
+    },
+    {
+      "en": "Recorded user-reported symptoms, checked approved knowledge articles and escalated unresolved tickets.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "记录用户报告的症状，查阅获批知识文章，并上报未解决工单。"
+    },
+    {
+      "en": "Read application log excerpts supplied by a supervisor; did not access production hosts or change logging settings.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "阅读主管提供的应用日志摘录；未访问生产主机或更改日志设置。"
+    },
+    {
+      "en": "Observed a supervisor using a cloud console during 3 demonstrations; held no cloud account or administrator permissions.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "在 3 次演示中观察主管使用云控制台；未持有云账户或管理员权限。"
+    },
+    {
+      "en": "In a 2025-04 course lab, wrote SQLite SELECT and JOIN queries against a fictional 120-row equipment table.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "在 2025-04 课程实验中，针对虚构的 120 行设备表编写 SQLite SELECT 和 JOIN 查询。"
+    },
+    {
+      "en": "The SQL work was coursework only, not production database administration or operational query ownership.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "SQL 工作仅为课程作业，并非生产数据库管理或运营查询负责经历。"
+    },
+    {
+      "en": "Built a local practice virtual machine in 2026-01 and documented restarting a toy service; it was not a cloud deployment.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2026-01 建立本地练习虚拟机，并记录重启玩具服务的过程；这不是云部署。"
+    },
+    {
+      "en": "With another intern, reviewed 40 closed training tickets during 2026-03 and flagged 7 missing escalation reasons for the supervisor.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2026-03 与另一名实习生复查 40 个已关闭培训工单，向主管标出 7 个缺失上报理由。"
+    },
+    {
+      "en": "The supervisor added clarification to 5 of those 7 records; 2 remained unresolved at the end of the review.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "主管为其中 7 条记录中的 5 条补充说明；复查结束时仍有 2 条未解决。"
+    },
+    {
+      "en": "Handled a peak of 12 supervised ticket intakes in a 2026-02 week; the usual weekly allocation was 6.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2026-02 的一个高峰周处理 12 个受监督工单接收；通常每周分配 6 个。"
+    },
+    {
+      "en": "Drafted a password-reset knowledge article in 2026-05; it was not approved for users and no password resets were performed independently.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-05 起草密码重置知识文章；未获准向用户发布，也未独立执行密码重置。"
+    },
+    {
+      "en": "Volunteered at Fictional Coding Circle V058 on weekends from 2025-10 to 2026-02 during the internship, arranging chairs and sharing beginner worksheets.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "实习期间的 2025-10 至 2026-02，周末在虚构编程社团 V058 志愿摆放座椅及分发入门练习单。"
+    },
+    {
+      "en": "Enjoys assembling mechanical puzzles; no professional hardware-repair experience is claimed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "喜爱组装机械谜题；不声称具备专业硬件维修经验。"
+    },
+    {
+      "en": "Used clear handover notes to separate observed symptoms from suspected causes and untested fixes.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "使用清晰交接记录区分已观察症状、推测原因及未经测试的修复。"
+    },
+    {
+      "en": "A draft bio says cloud-certified, but the only attached evidence is a webinar attendance email with no certification exam record.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份简介草稿写为云认证，但唯一所附证据为网络讲座出席邮件，没有认证考试记录。"
+    },
+    {
+      "en": "A personal notebook labels a lab highly available, but the saved diagram shows one local virtual machine and no failover test.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "个人笔记将实验标为高可用，但保存的图示仅有一台本地虚拟机，没有故障转移测试。"
+    },
+    {
+      "en": "No production deployment, infrastructure-as-code authoring, independent incident command or cloud administration is evidenced.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "没有证据支持生产部署、基础设施即代码编写、独立事故指挥或云管理经历。"
+    }
+  ]
+}

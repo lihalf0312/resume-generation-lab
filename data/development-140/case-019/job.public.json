@@ -1,0 +1,31 @@
+{
+  "case_id": "case-019",
+  "synthetic": true,
+  "title": {
+    "en": "Retail inventory associate",
+    "zh": "零售库存专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Scan merchandise and maintain stock locations.",
+      "id": "R01",
+      "zh": "扫描商品并维护库存位置。"
+    },
+    {
+      "en": "Investigate inventory count discrepancies.",
+      "id": "R02",
+      "zh": "调查库存盘点差异。"
+    },
+    {
+      "en": "Operate a point-of-sale till and reconcile cash.",
+      "id": "R03",
+      "zh": "操作收银系统并核对现金。"
+    },
+    {
+      "en": "Use spreadsheet stock trackers.",
+      "id": "R04",
+      "zh": "使用电子表格库存跟踪表。"
+    }
+  ]
+}

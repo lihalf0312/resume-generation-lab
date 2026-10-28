@@ -1,0 +1,33 @@
+{
+  "case_id": "case-126",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Farm Dairy Route Support Assistant",
+    "zh": "农场乳品配送路线助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Reconcile packed orders, delivery receipts and container returns without mixing their units.",
+      "id": "R01",
+      "zh": "核对已装箱订单、配送签收及容器回收，不混淆其计量口径。"
+    },
+    {
+      "en": "Record dispatch-condition readings and escalate exceptions to the release decision-maker.",
+      "id": "R02",
+      "zh": "记录发运条件读数，并将异常上报放行决策负责人。"
+    },
+    {
+      "en": "Communicate delivery changes and support revisions to stop order.",
+      "id": "R03",
+      "zh": "沟通配送变更，并协助调整停靠顺序。"
+    },
+    {
+      "en": "Preferred: use commercial route-optimization software for delivery planning.",
+      "id": "R04",
+      "zh": "优先：使用商业路线优化软件规划配送。"
+    }
+  ]
+}

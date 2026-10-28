@@ -1,0 +1,28 @@
+{
+  "case_id": "case-068",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Archives Programme Assistant",
+    "zh": "档案项目助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate archive public-programme arrangements and booking records.",
+      "id": "R01",
+      "zh": "协调档案馆公众项目安排及预约记录。"
+    },
+    {
+      "en": "Use approved access wording and communicate pending decisions.",
+      "id": "R02",
+      "zh": "使用获批访问措辞并沟通待定决策。"
+    },
+    {
+      "en": "Maintain accurate session and purchasing documentation.",
+      "id": "R03",
+      "zh": "维护准确活动及采购文件。"
+    }
+  ]
+}

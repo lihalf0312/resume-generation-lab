@@ -1,0 +1,31 @@
+{
+  "case_id": "case-014",
+  "synthetic": true,
+  "title": {
+    "en": "Learning materials assistant",
+    "zh": "学习材料助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Proofread educational copy against source material.",
+      "id": "R01",
+      "zh": "对照来源材料校对教育文案。"
+    },
+    {
+      "en": "Format accessible document headings.",
+      "id": "R02",
+      "zh": "设置便于访问的文档标题格式。"
+    },
+    {
+      "en": "Map lessons to a prescribed curriculum.",
+      "id": "R03",
+      "zh": "将课程内容映射至规定的课程体系。"
+    },
+    {
+      "en": "Publish modules in a learning management system.",
+      "id": "R04",
+      "zh": "在学习管理系统中发布模块。"
+    }
+  ]
+}

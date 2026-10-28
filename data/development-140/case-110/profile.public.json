@@ -1,0 +1,131 @@
+{
+  "case_id": "case-110",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-110",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-110",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a media administration diploma at Fictional Pearlwick College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构珠芯学院完成媒体行政文凭课程。"
+    },
+    {
+      "en": "Paid caption production assistant at Fictional Cloverframe Studio from 2023-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构苜蓿帧工作室任有薪字幕制作助理。"
+    },
+    {
+      "en": "Maintained a delivery tracker for prerecorded training videos using approved production schedules.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据获批制作排期维护预录培训视频交付跟踪表。"
+    },
+    {
+      "en": "Checked supplied English captions against the English audio for spelling, omitted words and speaker-label consistency.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "对照英语音频检查所提供的英语字幕，核对拼写、漏词及说话人标签一致性。"
+    },
+    {
+      "en": "Flagged uncertain audio passages for the editor rather than guessing the words.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将不确定的音频片段标记给编辑，而非猜测文字。"
+    },
+    {
+      "en": "Checked caption timecodes against the studio’s supplied timing checklist.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据工作室提供的时间核对表检查字幕时间码。"
+    },
+    {
+      "en": "Applied the approved file-naming convention and kept superseded deliveries in a labeled archive.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "应用获批文件命名规则，并将已被替代的交付文件存入有标记的归档。"
+    },
+    {
+      "en": "Recorded revision requests, assigned due dates from the producer’s schedule and sent status updates.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "记录修订请求，依据制作人的排期分配截止日期，并发送状态更新。"
+    },
+    {
+      "en": "Created a caption-delivery checklist in 2024-09 with the studio editor.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2024-09 与工作室编辑共同制作字幕交付核对表。"
+    },
+    {
+      "en": "Personally drafted the filename and version fields; the editor defined the language-review criteria.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人起草文件名及版本字段；语言审核标准由编辑制定。"
+    },
+    {
+      "en": "During a 2025-02 internal check, all 18 sampled delivery folders contained the required caption file and revision log.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "2025-02 内部检查中，抽样的全部 18 个交付文件夹均包含所需字幕文件及修订日志。"
+    },
+    {
+      "en": "The folder check measured document presence, not caption accuracy, audience comprehension or revenue.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "文件夹检查衡量文件是否存在，而非字幕准确性、观众理解程度或收入。"
+    },
+    {
+      "en": "Uses caption-editor playback controls, spreadsheet filters and shared-folder permissions assigned by the producer.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用字幕编辑器播放控件、电子表格筛选及制作人分配的共享文件夹权限。"
+    },
+    {
+      "en": "Prepared editor handover notes identifying unresolved passages and the current approved version.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "准备编辑交接备注，列明未解决片段及当前获批版本。"
+    },
+    {
+      "en": "The producer approved final publication; the candidate prepared delivery packages after that approval.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "制作人批准最终发布；候选人在批准后准备交付包。"
+    },
+    {
+      "en": "Completed an internal caption-style orientation in 2023-01.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2023-01 完成内部字幕风格入门培训。"
+    },
+    {
+      "en": "Captioned a personal 4-minute craft demonstration in 2022 using the candidate’s own narration.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2022 年为个人 4 分钟手工演示制作字幕，使用候选人本人的旁白。"
+    },
+    {
+      "en": "Volunteered to label screening materials at Fictional Dawnpaper Film Club in 2021-10.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2021-10 在虚构晨纸电影社志愿标记放映材料。"
+    },
+    {
+      "en": "Enjoys recording miniature stop-motion scenes as a hobby.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好拍摄微型定格动画场景。"
+    },
+    {
+      "en": "The paid role covered English-language prerecorded material, not live captioning or translation.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "该有薪岗位涵盖英语预录材料，不涉及实时字幕或翻译。"
+    }
+  ]
+}

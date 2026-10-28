@@ -1,8 +1,0 @@
-{
-  "version": 8,
-  "previous_case": "case-007",
-  "changes": [
-    "Disambiguate English coordinated verbs and participles so using printed materials cannot become printing them; check EN/ZH action parity."
-  ],
-  "reason": "Case-007 needs_review preserved. Next distinct case uses explicit action verbs with unambiguous objects; no unsupported service metrics or language proficiency claims."
-}

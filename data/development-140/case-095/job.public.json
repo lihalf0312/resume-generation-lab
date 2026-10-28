@@ -1,0 +1,33 @@
+{
+  "case_id": "case-095",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Customer Workshop Support Assistant",
+    "zh": "客户工作坊支持助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Prepare workshop logistics and participant communications.",
+      "id": "R01",
+      "zh": "准备工作坊安排及参与者沟通。"
+    },
+    {
+      "en": "Summarize feedback with response counts and scope.",
+      "id": "R02",
+      "zh": "附答复数量及范围总结反馈。"
+    },
+    {
+      "en": "Coordinate issue follow-up with instructors.",
+      "id": "R03",
+      "zh": "与讲师协调问题跟进。"
+    },
+    {
+      "en": "Design representative statistical surveys independently.",
+      "id": "R04",
+      "zh": "独立设计有代表性的统计调查。"
+    }
+  ]
+}

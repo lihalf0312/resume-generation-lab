@@ -1,0 +1,33 @@
+{
+  "case_id": "case-084",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Research Editorial Assistant",
+    "zh": "研究编辑助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain manuscript references and editorial queries.",
+      "id": "R01",
+      "zh": "维护稿件参考文献及编辑询问。"
+    },
+    {
+      "en": "Track document revisions and review actions.",
+      "id": "R02",
+      "zh": "跟踪文档修订及审核行动。"
+    },
+    {
+      "en": "Support publication workflow documentation.",
+      "id": "R03",
+      "zh": "支持出版流程文档。"
+    },
+    {
+      "en": "Demonstrate a personally authored peer-reviewed publication.",
+      "id": "R04",
+      "zh": "展示个人署名的同行评审出版物。"
+    }
+  ]
+}

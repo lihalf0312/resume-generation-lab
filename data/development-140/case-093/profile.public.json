@@ -1,0 +1,131 @@
+{
+  "case_id": "case-093",
+  "creation_batch": "development-001-extension-010",
+  "identity_id": "synthetic-person-093",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-093",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a statistics diploma at Fictional Reed College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构芦苇学院完成统计文凭课程。"
+    },
+    {
+      "en": "Programme records assistant at Fictional Pebble Learning from 2023-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构卵石学习机构任项目记录助理。"
+    },
+    {
+      "en": "Maintained participant IDs, attendance sheets and session feedback logs.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "维护参与者编号、出席表及活动反馈日志。"
+    },
+    {
+      "en": "Supported a 2025 workshop series consisting of an introduction and a follow-up session.",
+      "id": "F04",
+      "kind": "project",
+      "zh": "支持 2025 年由入门场和跟进场组成的工作坊系列。"
+    },
+    {
+      "en": "The introduction had 18 attendees and the follow-up had 15 attendees; 12 people attended both.",
+      "id": "F05",
+      "kind": "outcome",
+      "zh": "入门场有 18 人出席，跟进场有 15 人出席；12 人两场均出席。"
+    },
+    {
+      "en": "The confirmed series total was 33 attendances across 21 distinct people, not 33 unique participants.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "该系列确认合计为 33 人次，涉及 21 名不同人士，并非 33 名独立参与者。"
+    },
+    {
+      "en": "Personally reconciled the shared participant IDs; the programme lead confirmed the matching rules.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "个人核对共享参与者编号；匹配规则由项目负责人确认。"
+    },
+    {
+      "en": "Prepared weekly summaries that separated attendances from unique participant counts.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "准备区分出席人次与独立参与者数量的每周摘要。"
+    },
+    {
+      "en": "Uses spreadsheet deduplication checks, filters and pivot tables.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "使用电子表格去重检查、筛选及数据透视表。"
+    },
+    {
+      "en": "Co-created a feedback export checklist with a trainer in 2025-10.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-10 与培训师共同制作反馈导出核对表。"
+    },
+    {
+      "en": "Checked 26 feedback rows and flagged 3 duplicated submissions for review; did not infer learning effectiveness.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "检查 26 条反馈记录并标记 3 条重复提交供审核；未推断学习效果。"
+    },
+    {
+      "en": "Drafted an automated registration dashboard in 2026-02; only a static mockup was produced.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-02 起草自动报名仪表板；仅制作静态模型。"
+    },
+    {
+      "en": "A 2022 class project summarized a fictional attendance dataset; it was not paid work.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2022 年课堂项目总结虚构出席数据集；非有薪工作。"
+    },
+    {
+      "en": "Volunteered at Fictional Seed Club during 2024-03 to 2024-07 alongside employment.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2024-03 至 2024-07 工作同期在虚构种子社做志愿者。"
+    },
+    {
+      "en": "Labelled seed packets for that club; these were unrelated to the learning cohort.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该社团标注种子袋；与学习参与者群体无关。"
+    },
+    {
+      "en": "Recorded corrections in a dated change log.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "在带日期的变更日志中记录修正。"
+    },
+    {
+      "en": "Enjoys making miniature gardens.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好制作微型花园。"
+    },
+    {
+      "en": "Created a personal reading tracker in 2023 with no claimed programme effect.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2023 年制作个人阅读跟踪表，不声称有项目影响。"
+    },
+    {
+      "en": "A draft summary describes 33 people served; the deduplicated record establishes 21 distinct people.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "摘要草稿写服务 33 人；去重记录确认是 21 名不同人士。"
+    },
+    {
+      "en": "No SQL database administration or causal evaluation work is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录 SQL 数据库管理或因果评估工作。"
+    }
+  ]
+}

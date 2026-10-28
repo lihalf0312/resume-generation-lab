@@ -1,0 +1,33 @@
+{
+  "case_id": "case-104",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community Collections Records Assistant",
+    "zh": "社区藏品记录助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain clear collection intake records; supervised volunteer experience is acceptable.",
+      "id": "R01",
+      "zh": "维护清晰的藏品入库记录；接受受监督的志愿经历。"
+    },
+    {
+      "en": "Check image links and escalate uncertain labels.",
+      "id": "R02",
+      "zh": "检查图像链接并上报不确定标签。"
+    },
+    {
+      "en": "Use spreadsheets to organize collection records.",
+      "id": "R03",
+      "zh": "使用电子表格整理藏品记录。"
+    },
+    {
+      "en": "Preferred: formal conservation treatment training.",
+      "id": "R04",
+      "zh": "优先：正式文物保护处理培训。"
+    }
+  ]
+}

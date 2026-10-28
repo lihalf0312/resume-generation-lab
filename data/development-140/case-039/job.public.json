@@ -1,0 +1,33 @@
+{
+  "case_id": "case-039",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Travel Customer Support Lead",
+    "zh": "旅行客户支持组长"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate support coverage during travel disruptions.",
+      "id": "R01",
+      "zh": "在行程中断期间协调支持值守。"
+    },
+    {
+      "en": "Coach advisers and maintain quality-response guidance.",
+      "id": "R02",
+      "zh": "辅导顾问并维护高质量响应指引。"
+    },
+    {
+      "en": "Handle escalations within delegated authority.",
+      "id": "R03",
+      "zh": "在授权范围内处理上报个案。"
+    },
+    {
+      "en": "Own permanent staff performance reviews and workforce forecasting.",
+      "id": "R04",
+      "zh": "负责正式员工绩效评审及劳动力预测。"
+    }
+  ]
+}

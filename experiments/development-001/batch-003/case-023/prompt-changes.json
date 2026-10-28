@@ -1,7 +1,0 @@
-{
-  "version": 23,
-  "previous_case": "case-022",
-  "previous_evaluation_sha256": "c063ba05488e75b928a3323adad0a6409f40a62d814f597ced3171ea1f7f8be7",
-  "changes": [],
-  "reason": "Case022 reviewer found no new repair. Preserve supervised administrative scope, exact shift frequency and review-before-use status."
-}

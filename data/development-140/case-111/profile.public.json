@@ -1,0 +1,131 @@
+{
+  "case_id": "case-111",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-111",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-111",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a business administration diploma at Fictional Larchwell College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构落叶松井学院完成工商行政文凭课程。"
+    },
+    {
+      "en": "Paid intake clerk at Fictional Peartree Mutual from 2024-02 to 2026-05.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-02 至 2026-05 在虚构梨树互助公司任有薪受理文员。"
+    },
+    {
+      "en": "Opened intake records for household-item claims and attached documents supplied by applicants.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为家居物品理赔建立受理记录，并附上申请人提供的文件。"
+    },
+    {
+      "en": "Compared submitted document lists with the company’s intake checklist and requested missing pages.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "将提交的文件清单与公司受理核对表比较，并请求补交缺失页。"
+    },
+    {
+      "en": "Used approved wording to acknowledge receipt without promising a claim decision or payment.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用获批措辞确认收到材料，不承诺理赔决定或付款。"
+    },
+    {
+      "en": "Sent coverage and valuation questions to assigned claims handlers.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将保障范围及估值问题转交指定理赔经办人。"
+    },
+    {
+      "en": "Maintained file names, received dates and handler assignments in a shared register.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在共享登记表中维护文件名、收件日期及经办人分配信息。"
+    },
+    {
+      "en": "A 2026-03 supervisor check found all mandatory intake fields present in 42 of 45 sampled files prepared by the candidate.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2026-03 的主管检查发现，候选人准备的 45 份抽样档案中有 42 份包含全部受理必填字段。"
+    },
+    {
+      "en": "The check covered intake completeness; claim outcomes and settlement amounts were outside its scope.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "该检查涵盖受理材料完整性；不涉及理赔结果及赔付金额。"
+    },
+    {
+      "en": "Helped test a revised missing-page email template in 2025-04 using 12 invented cases.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-04 使用 12 个虚构案例协助测试修订后的缺页邮件模板。"
+    },
+    {
+      "en": "Personally recorded unclear wording; a claims handler approved the final template.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人记录不清晰措辞；最终模板由一名理赔经办人批准。"
+    },
+    {
+      "en": "Uses spreadsheet filters, document indexes and standard email templates.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用电子表格筛选、文件索引及标准邮件模板。"
+    },
+    {
+      "en": "Handled records in a restricted internal folder and followed the employer’s access instructions.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在受限内部文件夹中处理记录，并遵循雇主的访问权限说明。"
+    },
+    {
+      "en": "Completed an internal confidentiality induction in 2024-02; it did not confer an external compliance qualification.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2024-02 完成内部保密入职培训；未授予外部合规资格。"
+    },
+    {
+      "en": "A team dashboard counted 210 closed intake tasks in 2026-03, but the export did not identify how many belonged to the candidate.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "团队仪表板统计 2026-03 有 210 项已关闭受理任务，但导出文件未标明其中多少属于候选人。"
+    },
+    {
+      "en": "The supplied records do not define whether a closed intake task means a complete file, a withdrawn request or another administrative status.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "所提供记录未定义已关闭受理任务是指完整档案、已撤回请求还是其他行政状态。"
+    },
+    {
+      "en": "As coursework in 2023, made a fictional stationery-order tracker with no insurance data.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年作为课程作业制作虚构文具订单跟踪表，不含保险数据。"
+    },
+    {
+      "en": "Volunteered to sort event badges at Fictional Paperboat Fair in 2022-10.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2022-10 志愿为虚构纸船集市整理活动胸牌。"
+    },
+    {
+      "en": "Enjoys photographing handmade paper textures.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好拍摄手工纸纹理。"
+    },
+    {
+      "en": "No claim-adjudication authority or independent coverage assessment is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录理赔裁定权限或独立保障范围评估经历。"
+    }
+  ]
+}

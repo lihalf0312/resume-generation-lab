@@ -1,0 +1,33 @@
+{
+  "case_id": "case-062",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Training Operations Assistant",
+    "zh": "培训运营助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate training schedules and joining instructions.",
+      "id": "R01",
+      "zh": "协调培训排期及参训指引。"
+    },
+    {
+      "en": "Maintain attendance and material-version records.",
+      "id": "R02",
+      "zh": "维护出席及材料版本记录。"
+    },
+    {
+      "en": "Use spreadsheets and shared document folders.",
+      "id": "R03",
+      "zh": "使用电子表格及共享文档文件夹。"
+    },
+    {
+      "en": "Design instructional curricula independently.",
+      "id": "R04",
+      "zh": "独立设计教学课程体系。"
+    }
+  ]
+}

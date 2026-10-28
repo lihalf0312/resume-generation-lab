@@ -1,0 +1,28 @@
+{
+  "case_id": "case-066",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Sales Reporting Assistant",
+    "zh": "销售报告助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Compile accurate sales reports and reconcile invoice records.",
+      "id": "R01",
+      "zh": "编制准确销售报告并核对发票记录。"
+    },
+    {
+      "en": "Distinguish invoiced revenue, adjustments and profit measures.",
+      "id": "R02",
+      "zh": "区分开票收入、调整项及利润指标。"
+    },
+    {
+      "en": "Document reporting logic and explain approved variances.",
+      "id": "R03",
+      "zh": "记录报告逻辑并解释获批差异。"
+    }
+  ]
+}

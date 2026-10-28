@@ -1,0 +1,125 @@
+{
+  "case_id": "case-127",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-127",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-127",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a visitor-services diploma at Fictional Pinecup Institute in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构松杯学院完成游客服务文凭课程。"
+    },
+    {
+      "en": "Held a paid seasonal reception role at Fictional Starling Hollow Campground from 2024-05 to 2024-09.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-05 至 2024-09 在虚构椋鸟谷露营地担任有薪季节性接待员。"
+    },
+    {
+      "en": "Returned to the same seasonal role from 2025-05 to 2025-09; no employment at the campground is recorded between the seasons.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2025-05 至 2025-09 返回同一季节性岗位；未记录两个季节之间在该露营地的雇佣经历。"
+    },
+    {
+      "en": "Checked arrivals against the warden’s pitch list and recorded tent size and booked nights.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据管理员的营位清单核对抵达情况，并记录帐篷尺寸及预订晚数。"
+    },
+    {
+      "en": "Assigned guests only to pitches marked available under the warden’s allocation rules.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "仅按管理员的分配规则，将宾客安排至标为可用的营位。"
+    },
+    {
+      "en": "Explained quiet hours, waste points and walking routes using the campground’s visitor map.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "使用露营地游客地图说明安静时段、废弃物投放点及步行路线。"
+    },
+    {
+      "en": "Logged complaints and contacted the on-duty warden for safety concerns or rule disputes.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "记录投诉，并就安全问题或规则争议联系当班管理员。"
+    },
+    {
+      "en": "Passed maintenance reports to the grounds team with pitch numbers and the time the issue was reported.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "向场地维护团队转交维修报告，附上营位编号及问题报告时间。"
+    },
+    {
+      "en": "Helped rewrite the arrival information card before the 2025 season.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2025 年旺季开始前协助重写到场须知卡。"
+    },
+    {
+      "en": "Personally added a map key and a list of reception opening times; the warden checked site-rule wording.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人添加地图图例及接待处开放时间表；场地规则措辞由管理员核对。"
+    },
+    {
+      "en": "During a 2025-07 check, 17 of 20 sampled arrival envelopes contained the revised information card.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "2025-07 检查中，20 个抽样到场资料袋有 17 个包含修订版须知卡。"
+    },
+    {
+      "en": "Uses a paper pitch board, spreadsheet booking exports and a handheld payment terminal under the reception procedure.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "依据接待流程使用纸质营位板、电子表格预订导出文件及手持支付终端。"
+    },
+    {
+      "en": "Counted the reception float with the senior receptionist at shift handover; refunds required warden approval.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "轮班交接时与高级接待员共同清点备用金；退款须由管理员批准。"
+    },
+    {
+      "en": "Completed the campground’s internal evacuation-route orientation in 2024-05; it did not designate the candidate as an incident commander.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2024-05 完成露营地内部疏散路线入门培训；该培训未指定候选人为事件指挥员。"
+    },
+    {
+      "en": "Volunteered on a weekend welcome table for Fictional Birchfeather Walking Club from 2022-06 to 2022-08.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2022-06 至 2022-08 在虚构桦羽步行社的周末接待台做志愿者。"
+    },
+    {
+      "en": "At that club, counted returned route cards and checked whether participants had signed back in; walk leaders handled route decisions.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "在该社团清点交回路线卡，并检查参与者是否签回；路线决定由步行领队负责。"
+    },
+    {
+      "en": "Made a personal illustrated packing guide for a 2-night camping trip in 2023.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年为一次 2 晚露营制作个人图解打包指南。"
+    },
+    {
+      "en": "Enjoys observing cloud shapes and sketching them in a notebook.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好观察云的形状并在笔记本中素描。"
+    },
+    {
+      "en": "Worked both Saturday and Sunday daytime reception shifts during the recorded seasons.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "在记录中的营业季节轮值过星期六及星期日的日间接待班。"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "case_id": "case-104",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-104",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-104",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a retail administration certificate at Fictional Fernway College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构蕨径学院完成零售行政证书课程。"
+    },
+    {
+      "en": "Paid counter assistant at Fictional Apricot Bakery from 2019-02 to 2024-11.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-02 至 2024-11 在虚构杏子烘焙店任有薪柜台助理。"
+    },
+    {
+      "en": "Maintained daily stock counts and checked supplier delivery notes at the bakery.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在烘焙店维护每日库存盘点，并核对供应商送货单。"
+    },
+    {
+      "en": "Referred invoice discrepancies to the shop manager; did not approve supplier payments.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "将发票差异转交门店经理；不审批供应商付款。"
+    },
+    {
+      "en": "Served as an unpaid collections volunteer at Fictional Hearth Museum from 2023-06 to 2026-06.",
+      "id": "F05",
+      "kind": "other",
+      "zh": "2023-06 至 2026-06 在虚构炉边博物馆担任无薪藏品志愿者。"
+    },
+    {
+      "en": "Attended that volunteer role for about 4 hours on alternate Saturdays; no employment contract or wages were involved.",
+      "id": "F06",
+      "kind": "other",
+      "zh": "大约隔周星期六参加该志愿岗位，每次约 4 小时；不涉及雇佣合同或工资。"
+    },
+    {
+      "en": "Copied item labels and accession numbers into the museum’s supervised intake register.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "将物品标签及入藏编号录入博物馆的受监督入库登记表。"
+    },
+    {
+      "en": "Photographed object labels using museum instructions; a staff registrar approved the records.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "依据博物馆说明拍摄物品标签；记录由正式登记员批准。"
+    },
+    {
+      "en": "Flagged illegible or unmatched labels for staff review instead of assigning new accession numbers.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "将字迹不清或不匹配的标签标记后交工作人员审核，而非自行分配新入藏编号。"
+    },
+    {
+      "en": "Helped reorganize a volunteer image-folder index in 2025-02.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-02 协助重整志愿者图像文件夹索引。"
+    },
+    {
+      "en": "Personally checked links for 74 register entries; a staff member decided the folder naming scheme.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人核对了 74 条登记记录的链接；文件夹命名方案由一名正式工作人员决定。"
+    },
+    {
+      "en": "The check located 9 broken links among those 74 entries; the record does not show all 9 were repaired.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "该检查在上述 74 条记录中发现 9 个失效链接；记录未表明这 9 个链接均已修复。"
+    },
+    {
+      "en": "Uses spreadsheet sorting, simple lookup formulas and an approved image-filename template.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用电子表格排序、简单查找公式及获批图像文件命名模板。"
+    },
+    {
+      "en": "Completed the museum’s volunteer handling induction in 2023-06; it was not a conservation qualification.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2023-06 完成博物馆志愿者物品搬运入门培训；该培训不是文物保护资格。"
+    },
+    {
+      "en": "A staff conservator handled treatment decisions and fragile objects.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "处理方案及易损物品由正式文物保护员负责。"
+    },
+    {
+      "en": "Created a personal postcard catalogue in 2024 using descriptions of the candidate’s own collection.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2024 年使用本人收藏的描述制作个人明信片目录。"
+    },
+    {
+      "en": "That postcard catalogue contains no museum records and has not been used by the museum.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "该明信片目录不含博物馆记录，亦未被博物馆使用。"
+    },
+    {
+      "en": "Enjoys sketching imaginary pottery shapes.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好素描想象中的陶器形状。"
+    },
+    {
+      "en": "At the bakery, trained a new counter colleague on the stock-count sheet under manager supervision.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "在烘焙店经理监督下，培训一名新柜台同事使用库存盘点表。"
+    },
+    {
+      "en": "Museum participation is documented as volunteering only; no paid museum or archive role is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "博物馆参与经历仅记录为志愿服务；未记录有薪博物馆或档案岗位。"
+    },
+    {
+      "en": "No conservation treatment qualification is recorded.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录文物保护处理资格。"
+    }
+  ]
+}

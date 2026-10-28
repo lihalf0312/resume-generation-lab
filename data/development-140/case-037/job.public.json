@@ -1,0 +1,33 @@
+{
+  "case_id": "case-037",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Museum Digital Archivist",
+    "zh": "博物馆数字档案员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Describe digital objects using structured metadata.",
+      "id": "R01",
+      "zh": "使用结构化元数据描述数字藏品。"
+    },
+    {
+      "en": "Perform ingest quality checks and document exceptions.",
+      "id": "R02",
+      "zh": "执行入库质量检查并记录异常。"
+    },
+    {
+      "en": "Apply access restrictions when supporting researchers.",
+      "id": "R03",
+      "zh": "支持研究者时执行访问限制。"
+    },
+    {
+      "en": "Administer a preservation repository and run recovery exercises.",
+      "id": "R04",
+      "zh": "管理数字保存库并开展恢复演练。"
+    }
+  ]
+}

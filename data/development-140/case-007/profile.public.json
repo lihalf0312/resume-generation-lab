@@ -1,0 +1,59 @@
+{
+  "case_id": "case-007",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-007",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-007",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a food-service operations certificate at Fictional Maple Studio in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构枫叶学堂完成餐饮运营证书课程。"
+    },
+    {
+      "en": "Bakery preparation assistant at Fictional Quiet Oven, 2021-11 to 2026-03.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-11 至 2026-03 在虚构静炉机构任烘焙准备助理。"
+    },
+    {
+      "en": "Weighed ingredients against batch sheets and recorded lot labels.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据批次表称量原料并记录批号标签。"
+    },
+    {
+      "en": "Logged refrigerator readings and escalated out-of-range readings to the shift lead.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "记录冷藏温度读数并向班组负责人上报超范围读数。"
+    },
+    {
+      "en": "Created a practice defect-classification sheet for fictional molded parts in 2026-05.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2026-05 为虚构模制零件制作练习用缺陷分类表。"
+    },
+    {
+      "en": "Uses spreadsheet data entry and printed work instructions.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "使用电子表格录入和纸质作业指导书。"
+    },
+    {
+      "en": "Completed an introductory self-study module on sampling; no formal quality certification is claimed.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "完成抽样入门自学模块；不声称具有正式质量认证。"
+    },
+    {
+      "en": "No caliper use, factory inspection job, or statistical process control experience is documented.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未记录卡尺使用、工厂检验岗位或统计过程控制经验。"
+    }
+  ]
+}

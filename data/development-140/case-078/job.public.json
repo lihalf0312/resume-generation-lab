@@ -1,0 +1,33 @@
+{
+  "case_id": "case-078",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community Operations Coordinator",
+    "zh": "社区运营协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate shared spaces, schedules and community-session logistics.",
+      "id": "R01",
+      "zh": "协调共享空间、日程及社区活动后勤。"
+    },
+    {
+      "en": "Route concerns appropriately and protect participant information.",
+      "id": "R02",
+      "zh": "适当转交疑虑并保护参与者信息。"
+    },
+    {
+      "en": "Summarize operational feedback with appropriate limitations.",
+      "id": "R03",
+      "zh": "以适当局限说明汇总运营反馈。"
+    },
+    {
+      "en": "Support participatory discussions under an experienced facilitator.",
+      "id": "R04",
+      "zh": "在有经验引导师指导下支持参与式讨论。"
+    }
+  ]
+}

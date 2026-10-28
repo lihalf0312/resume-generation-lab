@@ -1,0 +1,65 @@
+{
+  "case_id": "case-015",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-015",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-015",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Accounting Operations at Fictional Academy B15 in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构学院 B15 完成会计运营文凭课程。"
+    },
+    {
+      "en": "Invoice clerk at Fictional Supply Cooperative B15, 2018-08 to 2021-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-08 至 2021-12，任虚构供应合作社 B15 发票文员。"
+    },
+    {
+      "en": "Accounts payable associate at the same fictional cooperative, 2022-01 to 2026-09.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-01 至 2026-09，在同一虚构合作社任应付账款专员。"
+    },
+    {
+      "en": "Matched supplier invoices to purchase orders and receipt records before approval routing.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "在提交审批前，将供应商发票与采购订单及收货记录匹配。"
+    },
+    {
+      "en": "Processed a median of 85 invoices per month during 2026-01 to 2026-06, measured from an internal register.",
+      "id": "F05",
+      "kind": "outcome",
+      "zh": "2026-01 至 2026-06，每月处理发票数量的中位数为 85 张，依据内部登记表统计。"
+    },
+    {
+      "en": "Maintained an exception queue and requested missing receipt documents from buyers.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "维护异常处理队列，并向采购人员索取缺失收货文件。"
+    },
+    {
+      "en": "In 2025-09, built an Excel lookup sheet for invoice reference checks.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-09，制作 Excel 查找表，用于核对发票参考编号。"
+    },
+    {
+      "en": "During a 40-invoice trial, the sheet flagged 3 repeated reference numbers for review; no fraud conclusion was made.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "在 40 张发票试用中，该表标出 3 个重复参考编号供复核；未作出欺诈结论。"
+    },
+    {
+      "en": "Payment release remained with the finance manager; no payroll processing is recorded.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "付款放行由财务经理负责；未记录薪资处理经历。"
+    }
+  ]
+}

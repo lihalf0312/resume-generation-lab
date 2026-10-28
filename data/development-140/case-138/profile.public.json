@@ -1,0 +1,131 @@
+{
+  "case_id": "case-138",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-138",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-138",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a workplace numeracy course at Fictional Cottonreef Adult Centre in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构棉礁成人中心完成职场计算课程。"
+    },
+    {
+      "en": "Paid linen sorting assistant at Fictional Linenlark Laundry from 2021-06 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-06 至 2026-08 在虚构亚麻云雀洗衣厂任有薪床品分拣助理。"
+    },
+    {
+      "en": "Matched incoming customer-bag tags to route sheets and counted towels and sheets separately.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "将客户送洗袋标签与路线单匹配，并分别清点毛巾及床单。"
+    },
+    {
+      "en": "Sorted tagged linen using the shift lead’s supplied categories and set aside unidentified items for review.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "按班次负责人提供的类别分拣有标签床品，并将无法识别物品留待审核。"
+    },
+    {
+      "en": "Recorded visible damage before processing, using the customer code rather than guessing which room an item came from.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在处理前记录可见损坏，使用客户代码，而非猜测物品来自哪个房间。"
+    },
+    {
+      "en": "Weighed incoming bags and recorded the supplied bag-tare value separately from linen mass.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "称量送洗袋，并将所提供的袋重扣除值与床品质量分开记录。"
+    },
+    {
+      "en": "A 2025-10-07 intake record showed 82 kg gross bagged mass and 4 kg total bag tare, giving 78 kg recorded linen mass for that intake.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "2025-10-07 的接收记录显示含袋毛质量为 82 千克，袋重扣除值合计 4 千克，该次接收记录的床品质量为 78 千克。"
+    },
+    {
+      "en": "That mass was recorded before washing; no clean-output mass or water-removal amount is included in the record.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "该质量记录于洗涤前；记录不含清洁后产出质量或除水量。"
+    },
+    {
+      "en": "Packed finished towels against customer-specific count sheets after the finishing team released them.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "在整理团队放行后，按客户专属计数表包装已整理毛巾。"
+    },
+    {
+      "en": "Compared packed counts with the route sheet and reported shortages before dispatch loading.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "将包装数量与路线单比较，并在装车发运前报告短缺。"
+    },
+    {
+      "en": "Helped trial larger customer-code tags on 3 collection routes in 2024-09.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2024-09 协助在 3 条收取路线试用更大的客户代码标签。"
+    },
+    {
+      "en": "Personally checked tag readability at the sorting table; a route supervisor chose the final tag stock.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人在分拣台检查标签可读性；最终标签材料由路线主管选择。"
+    },
+    {
+      "en": "Uses tagged carts, platform scales, barcode scans and printed count sheets.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用带标签的推车、台秤、条码扫描及纸质计数表。"
+    },
+    {
+      "en": "Completed internal bag-handling and workflow induction in 2021-06.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2021-06 完成内部洗衣袋搬运及工作流程入职培训。"
+    },
+    {
+      "en": "Attended a supervised flatwork-finisher familiarization session in 2025-02; the record contains no independent machine assignment afterward.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2025-02 参加受监督的平烫机熟悉培训；记录中无此后独立操作该机器的任务。"
+    },
+    {
+      "en": "Volunteered at Fictional Threadbasket Reuse Club from 2022-03 to 2023-12, sorting donated fabric by size for craft activities.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2022-03 至 2023-12 在虚构线篮再利用社做志愿者，为手工活动按尺寸分拣捐赠布料。"
+    },
+    {
+      "en": "At that club, hand-sewed labels onto 16 reusable fabric storage bags designed by another volunteer.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "在该社为另一名志愿者设计的 16 个可重复使用布收纳袋手缝标签。"
+    },
+    {
+      "en": "Keeps a personal notebook of patchwork colour combinations with no commercial textile-treatment claims.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "保留个人拼布配色笔记，不涉及商业纺织处理声称。"
+    },
+    {
+      "en": "Enjoys taking close-up photographs of woven textures.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好拍摄编织纹理特写。"
+    },
+    {
+      "en": "Provided an end-of-shift cart-location list to the incoming sorting team.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "向接班分拣团队提供班末推车位置清单。"
+    }
+  ]
+}

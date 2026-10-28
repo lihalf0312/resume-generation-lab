@@ -1,0 +1,33 @@
+{
+  "case_id": "case-053",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Facilities Planning Administrator",
+    "zh": "设施规划行政专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate maintenance windows and contractor access.",
+      "id": "R01",
+      "zh": "协调维护时间窗口及承包商访问。"
+    },
+    {
+      "en": "Maintain facilities planning records.",
+      "id": "R02",
+      "zh": "维护设施规划记录。"
+    },
+    {
+      "en": "Route technical documents to qualified reviewers.",
+      "id": "R03",
+      "zh": "将技术文件转交合格审阅人员。"
+    },
+    {
+      "en": "Sign off technical engineering inspections.",
+      "id": "R04",
+      "zh": "签署技术工程检查验收。"
+    }
+  ]
+}

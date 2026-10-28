@@ -1,0 +1,38 @@
+{
+  "case_id": "case-122",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Bakery Packing and Dispatch Assistant",
+    "zh": "烘焙包装与发货助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Pack baked products against supplied product and container instructions.",
+      "id": "R01",
+      "zh": "依据提供的产品及容器说明包装烘焙产品。"
+    },
+    {
+      "en": "Check supplied labels and escalate mismatches without changing approved ingredient wording.",
+      "id": "R02",
+      "zh": "检查提供的标签并上报不匹配问题，不修改获批配料措辞。"
+    },
+    {
+      "en": "Maintain route-level dispatch counts and distinguish dispatched items from remaining stock.",
+      "id": "R03",
+      "zh": "维护路线层面的发货数量，并区分已发出物品与剩余库存。"
+    },
+    {
+      "en": "Complete specified weight checks and maintain clear packing records.",
+      "id": "R04",
+      "zh": "完成指定重量抽查，并维护清晰包装记录。"
+    },
+    {
+      "en": "Preferred, not required: a current external food-handler credential.",
+      "id": "R05",
+      "zh": "优先但非必需：当前有效的外部食品操作人员证书。"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "case_id": "case-089",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-089",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-089",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Creative Project Administration at Fictional Institute D089 in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构院校 D089 完成创意项目行政专科学历。"
+    },
+    {
+      "en": "Worked as a studio project assistant at Fictional Design Cooperative D089 from 2023-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构设计合作社 D089 担任工作室项目助理。"
+    },
+    {
+      "en": "Maintained briefing folders, revision logs and review invitations for small visual-design assignments.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为小型视觉设计任务维护简报文件夹、修订记录及审查邀请。"
+    },
+    {
+      "en": "Checked client-supplied dimensions and copy against the approved brief before routing inconsistencies to designers.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "根据获批简报检查客户提供的尺寸及文案，再将不一致处转交设计师。"
+    },
+    {
+      "en": "Coordinated review records for a team submission to Fictional Community Design Showcase S089 in 2025-05.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-05 为团队提交至虚构社区设计展示 S089 的作品协调审查记录。"
+    },
+    {
+      "en": "The submission was displayed in the general participation area; no shortlist, judging score or prize is recorded.",
+      "id": "F06",
+      "kind": "other",
+      "zh": "该作品在一般参与区域展示；未记录入围名单、评审分数或奖项。"
+    },
+    {
+      "en": "Designers created the displayed visuals; the candidate assembled required files and checked submission metadata.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "设计师创作展示视觉作品；候选人整理所需文件并检查提交元数据。"
+    },
+    {
+      "en": "With the project lead, checked 65 deliverable filenames during a 2025-09 client handover.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "在 2025-09 客户交接期间，与项目负责人合作检查 65 个交付文件名。"
+    },
+    {
+      "en": "The team corrected 9 mismatched revision suffixes among those 65 files before handover; no client revenue effect was measured.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队在交接前修正该批 65 个文件中的 9 个修订后缀不匹配；未测量客户收入影响。"
+    },
+    {
+      "en": "Prepared a 2026-01 file-naming guide adopted by the project lead.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-01 准备文件命名指南，由项目负责人采纳。"
+    },
+    {
+      "en": "Drafted a new studio portfolio layout in 2026-06; it was a proposal and was not published.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-06 起草工作室作品集新布局；仅为提案，未发布。"
+    },
+    {
+      "en": "At the 2025-10 peak, tracked 7 client review folders; the normal 2026-08 assignment was 3.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-10 高峰期跟踪 7 个客户审查文件夹；2026-08 常规分工为 3 个。"
+    },
+    {
+      "en": "Completed a 2024-04 typography exercise course using fictional poster briefs; it was not paid client design work.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-04 使用虚构海报简报完成字体排印练习课程；并非有偿客户设计工作。"
+    },
+    {
+      "en": "Volunteered for Fictional Makers Display V089 on Saturdays from 2024-07 to 2024-11 while employed, labeling exhibition stands.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2024-07 至 2024-11 任职期间，星期六在虚构创客展示 V089 志愿标记展台。"
+    },
+    {
+      "en": "Made a personal collage series of imaginary storefronts in 2021, outside the studio role.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2021 年在工作室岗位之外制作个人虚构店面拼贴系列。"
+    },
+    {
+      "en": "Keeps a hobby notebook of paper-folding mechanisms.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "保留记录纸折结构的爱好笔记。"
+    },
+    {
+      "en": "A portfolio caption calls the showcase entry award-winning, but the retained evidence is only a participation acknowledgment.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "作品集图注称展示参赛作品获奖，但留存证据仅为参与确认。"
+    },
+    {
+      "en": "Recorded client feedback without accepting scope changes or approving design fees.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "记录客户反馈，不接受范围变更或批准设计费用。"
+    },
+    {
+      "en": "Separated approved finals from working drafts and maintained an archive index for internal retrieval.",
+      "id": "F19",
+      "kind": "skill",
+      "zh": "将获批最终版与工作草稿分开，并维护内部调阅档案索引。"
+    }
+  ]
+}

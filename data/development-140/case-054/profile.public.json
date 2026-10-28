@@ -1,0 +1,107 @@
+{
+  "case_id": "case-054",
+  "creation_batch": "development-001-extension-006",
+  "identity_id": "synthetic-person-054",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-054",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a hospitality service certificate at Fictional Marshkite Institute in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构沼鸢学院完成酒店餐饮服务证书课程。"
+    },
+    {
+      "en": "Started an introductory computer-support course in 2026-07; it was still in progress in 2026-09.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2026-07 开始计算机支持入门课程；2026-09 仍在读。"
+    },
+    {
+      "en": "Dining-room service assistant at Fictional Clover Table, 2021-10 to 2026-06.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2021-10 至 2026-06 在虚构三叶餐桌机构任餐厅服务助理。"
+    },
+    {
+      "en": "Recorded customer requests and escalated billing disagreements to the shift lead.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "记录客户请求，并将账单争议上报值班负责人。"
+    },
+    {
+      "en": "Used an approved handover notebook to communicate unfinished requests between restaurant shifts.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用经批准的交接笔记本，在餐厅班次间传达未完成请求。"
+    },
+    {
+      "en": "Assisted 6 tables during a typical 2026-05 shift; a single 2025-12 peak shift covered 9 tables.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-05 典型班次协助服务 6 桌；2025-12 单个高峰班次覆盖 9 桌。"
+    },
+    {
+      "en": "In a 2026-08 class exercise, drafted a troubleshooting checklist for a fictional printer fault.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在 2026-08 课堂练习中，为虚构打印机故障起草排查核对表。"
+    },
+    {
+      "en": "Tested the checklist against 3 instructor-provided paper scenarios, not actual workplace devices.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "用教师提供的 3 个书面情境测试核对表，而非真实工作场所设备。"
+    },
+    {
+      "en": "Uses email folders and basic spreadsheet sorting; no production ticketing-system access is recorded.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "使用邮件文件夹及基础电子表格排序；未记录生产工单系统访问权限。"
+    },
+    {
+      "en": "Kept a personal household-expense sheet for 2026-01 to 2026-06; it contains no IT support results.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-01 至 2026-06 维护个人家庭开支表；不包含 IT 支持成果。"
+    },
+    {
+      "en": "Enjoys baking bread and photographing clouds.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "爱好烘焙面包及拍摄云朵。"
+    },
+    {
+      "en": "Helped arrange tables at Fictional Boardgame Afternoon in 2025-09 outside paid shifts.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "2025-09 在带薪班次外，为虚构桌游午后活动协助摆放桌子。"
+    },
+    {
+      "en": "An undated note lists help-desk certified, contradicting the course record that shows only ongoing study; no certification is verified.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "一条未注明日期的备注列为服务台已认证，与仅显示在读的课程记录矛盾；无已核实认证。"
+    },
+    {
+      "en": "A draft CV says repaired routers but gives no device, task, or record; this experience is unconfirmed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "一份简历草稿称维修路由器，但无设备、任务或记录；该经验未经确认。"
+    },
+    {
+      "en": "No password-reset authority, network administration, or paid IT employment is documented.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "未记录密码重置权限、网络管理或有薪 IT 任职经历。"
+    },
+    {
+      "en": "Restaurant duties did not include repairing the point-of-sale system.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "餐厅职责不包括维修收银系统。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-029",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Stockroom Assistant",
+    "zh": "库房助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Receive stock and check delivery discrepancies.",
+      "id": "R01",
+      "zh": "接收库存并检查交货差异。"
+    },
+    {
+      "en": "Use scanning devices and location codes.",
+      "id": "R02",
+      "zh": "使用扫描设备和位置编码。"
+    },
+    {
+      "en": "Assist cycle counts and investigate discrepancies with a controller.",
+      "id": "R03",
+      "zh": "协助循环盘点，并与库存管理员核查差异。"
+    },
+    {
+      "en": "Hold a current forklift operating qualification.",
+      "id": "R04",
+      "zh": "持有有效叉车操作资格。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "case-134",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Specialty Food Counter and Packing Assistant",
+    "zh": "特色食品柜台与包装助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Assemble approved gift-box orders and verify supplied product and allergen information.",
+      "id": "R01",
+      "zh": "组装获批礼盒订单，并核对提供的产品及过敏原信息。"
+    },
+    {
+      "en": "Maintain order, payment-status and collection records while separating cancellations from completed collections.",
+      "id": "R02",
+      "zh": "维护订单、付款状态及领取记录，并区分取消订单与已完成领取。"
+    },
+    {
+      "en": "Maintain clear collection shelves and shift handovers, referring substitutions to the responsible lead.",
+      "id": "R03",
+      "zh": "维护清晰取货架及轮班交接，并将替换事项转交负责主管。"
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "version": 20,
-  "previous_case": "case-019",
-  "previous_evaluation_sha256": "6c77262ddd5bd1725ed78668c74442bfd4c02e4f4ddfb5c3683bf46355de0f14",
-  "changes": [],
-  "reason": "Case019 reviewer found no new repair. Preserve coursework-versus-deployment and mandatory training gaps; no invented programme results."
-}

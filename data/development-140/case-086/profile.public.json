@@ -1,0 +1,125 @@
+{
+  "case_id": "case-086",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-086",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-086",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Software Support at Fictional Institute D086 in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构院校 D086 完成软件支持专科学历。"
+    },
+    {
+      "en": "Worked as a supervised test assistant at Fictional App Workshop D086 from 2024-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 在虚构应用工作室 D086 担任受监督测试助理。"
+    },
+    {
+      "en": "Executed approved manual test scripts in a nonproduction training environment and recorded observed results.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在非生产培训环境执行获批手工测试脚本，并记录观察结果。"
+    },
+    {
+      "en": "Wrote issue summaries with expected and actual behavior; engineers diagnosed causes and implemented fixes.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "撰写包含预期及实际行为的问题摘要；工程师诊断原因并实施修复。"
+    },
+    {
+      "en": "With a test analyst, checked a defined set of 48 manual cases for a fictional appointment application during 2025-05.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-05 与测试分析师合作，为虚构预约应用检查一组明确的 48 个手工用例。"
+    },
+    {
+      "en": "On the final recorded run, 45 of those 48 cases passed and 3 remained blocked by missing sample data; blocked cases were not passes.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "最终记录的一轮中，该组 48 个用例有 45 个通过，3 个因缺少示例数据受阻；受阻用例并非通过。"
+    },
+    {
+      "en": "The count describes only those executed scripts; no code-coverage percentage, exhaustive testing or defect-free product claim is supported.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "该计数仅描述这些执行脚本；不支持代码覆盖率、穷尽测试或产品无缺陷说法。"
+    },
+    {
+      "en": "Drafted 9 additional edge-case suggestions in 2025-06; the analyst accepted 4 for later planning, and none was executed in the reported run.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-06 起草 9 个额外边界用例建议；分析师接受 4 个用于后续规划，均未在所报告轮次执行。"
+    },
+    {
+      "en": "Retested assigned issue fixes against analyst-approved steps without authorizing release.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "按分析师批准步骤复测分配的问题修复，不授权发布。"
+    },
+    {
+      "en": "Maintained version labels and screenshots so reviewers could identify the tested build.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "维护版本标签及截图，使审核者能够识别受测构建版本。"
+    },
+    {
+      "en": "Prepared a 2026-02 issue-template revision used by the small test team after analyst approval.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-02 准备问题模板修订，经分析师批准后由小型测试团队使用。"
+    },
+    {
+      "en": "At the 2025-11 peak, supported 3 test queues; the regular 2026-08 allocation was 1.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-11 高峰期支持 3 个测试队列；2026-08 常规分工为 1 个。"
+    },
+    {
+      "en": "Completed a 2024-09 course exercise reading simple unit-test examples; did not maintain an employer automation suite.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-09 完成阅读简单单元测试示例的课程练习；未维护雇主自动化测试套件。"
+    },
+    {
+      "en": "Volunteered for Fictional Puzzle Fair V086 on weekends from 2024-03 to 2024-08 while employed, arranging display labels.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2024-03 至 2024-08 任职期间，周末在虚构谜题集市 V086 志愿布置展示标签。"
+    },
+    {
+      "en": "Created a personal paper maze collection in 2022 unrelated to software test design.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2022 年制作个人纸面迷宫集，与软件测试设计无关。"
+    },
+    {
+      "en": "Enjoys sketching imaginary bridges as a hobby.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "以描绘想象中的桥梁为爱好。"
+    },
+    {
+      "en": "A draft biography says 100% coverage and zero defects, but the source records only the bounded 48-case run with 3 blocked cases.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一份简介草稿称覆盖率 100% 且零缺陷，但来源仅记录范围有限的 48 用例轮次，其中 3 个受阻。"
+    },
+    {
+      "en": "Escalated ambiguous expected results to the test analyst rather than assigning a pass by assumption.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "将含糊预期结果上报测试分析师，而非凭假设判定通过。"
+    },
+    {
+      "en": "No production deployment, release sign-off or independently designed automated test framework is recorded.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "未记录生产部署、发布签字或独立设计自动化测试框架经历。"
+    }
+  ]
+}

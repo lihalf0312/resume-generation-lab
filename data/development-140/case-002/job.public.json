@@ -1,0 +1,26 @@
+{
+  "case_id": "case-002",
+  "synthetic": true,
+  "title": {
+    "en": "Junior reporting assistant",
+    "zh": "初级报表助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain spreadsheet reports.",
+      "id": "R01",
+      "zh": "维护电子表格报表。"
+    },
+    {
+      "en": "Use basic SQL joins and aggregations.",
+      "id": "R02",
+      "zh": "使用基础 SQL 连接及聚合。"
+    },
+    {
+      "en": "Publish reports through Power BI Service.",
+      "id": "R03",
+      "zh": "通过 Power BI Service 发布报表。"
+    }
+  ]
+}

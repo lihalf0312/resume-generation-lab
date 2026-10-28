@@ -1,0 +1,31 @@
+{
+  "case_id": "case-007",
+  "synthetic": true,
+  "title": {
+    "en": "Production quality assistant",
+    "zh": "生产质量助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain traceable batch inspection records.",
+      "id": "R01",
+      "zh": "维护可追溯的批次检验记录。"
+    },
+    {
+      "en": "Follow documented work instructions.",
+      "id": "R02",
+      "zh": "遵循有记录的作业指导。"
+    },
+    {
+      "en": "Measure dimensions with digital calipers.",
+      "id": "R03",
+      "zh": "使用数显卡尺测量尺寸。"
+    },
+    {
+      "en": "Escalate nonconforming observations.",
+      "id": "R04",
+      "zh": "上报不合格观察结果。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "case-131",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Print Finishing and Dispatch Assistant",
+    "zh": "印后加工与发货助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Collate printed sections and verify booklet covers and counts against job tickets.",
+      "id": "R01",
+      "zh": "依据工单整理印张，并核对小册子封面及数量。"
+    },
+    {
+      "en": "Carry out routine tabletop stapling after induction and escalate equipment faults.",
+      "id": "R02",
+      "zh": "在入门培训后进行日常台式装订，并上报设备故障。"
+    },
+    {
+      "en": "Label dispatch bundles and maintain accurate unfinished-job handovers.",
+      "id": "R03",
+      "zh": "为发货捆包贴标签，并维护准确的未完工交接。"
+    }
+  ]
+}

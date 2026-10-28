@@ -1,0 +1,33 @@
+{
+  "case_id": "case-043",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Customer Success Operations Associate",
+    "zh": "客户成功运营专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain onboarding CRM data quality.",
+      "id": "R01",
+      "zh": "维护入门流程 CRM 数据质量。"
+    },
+    {
+      "en": "Build operational spreadsheet dashboards.",
+      "id": "R02",
+      "zh": "制作运营电子表格仪表板。"
+    },
+    {
+      "en": "Coordinate support-to-success handoffs.",
+      "id": "R03",
+      "zh": "协调支持团队向客户成功团队的交接。"
+    },
+    {
+      "en": "Query production datasets using SQL.",
+      "id": "R04",
+      "zh": "使用 SQL 查询生产数据集。"
+    }
+  ]
+}

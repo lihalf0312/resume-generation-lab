@@ -1,8 +1,0 @@
-{
-  "previous_case": "case-039",
-  "previous_evaluation_sha256": "b4286afa6a90c56f5e4380878c1c95f6aee673913db911427b4c80b8bd4eb8aa",
-  "changes": [
-    "Review039 suggested splitting multi-timeline/authority bullets. Use separate volume, checklist and outcome bullets here while retaining all evidence limits; no retrospective repair."
-  ],
-  "application": "Only this new distinct source; prior output immutable"
-}

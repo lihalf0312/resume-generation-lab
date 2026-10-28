@@ -1,0 +1,137 @@
+{
+  "case_id": "case-125",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-125",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-125",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a craft-studio support certificate at Fictional Claywillow Centre in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构陶柳中心完成手工工作室支持证书课程。"
+    },
+    {
+      "en": "Paid studio assistant at Fictional Kilnpetal Workshop from 2024-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-02 至 2026-08 在虚构窑瓣工坊任有薪工作室助理。"
+    },
+    {
+      "en": "Prepared labeled work shelves and matched learner pieces to collection tickets.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "准备有标签的作品货架，并将学员作品与领取票据匹配。"
+    },
+    {
+      "en": "Recorded receipt dates and the firing-stage status supplied by the studio technician.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "记录收件日期及工作室技术员提供的烧制阶段状态。"
+    },
+    {
+      "en": "Grouped unfired pieces for technician review according to the studio’s supplied handling instructions.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据工作室提供的搬运说明，将未烧制作品分组供技术员审核。"
+    },
+    {
+      "en": "The technician selected firing schedules, loaded the kiln and authorized unloading; the candidate maintained the collection records.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "技术员选择烧制程序、装窑并授权出窑；候选人维护领取记录。"
+    },
+    {
+      "en": "Sent collection messages only after the technician marked pieces as ready for release.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "仅在技术员将作品标记为可交付后发送领取信息。"
+    },
+    {
+      "en": "Revised a collection-ticket layout with the studio manager in 2025-03.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-03 与工作室经理共同修订领取票据版式。"
+    },
+    {
+      "en": "Personally added shelf-location and notification-date boxes; the manager set the retention policy.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人添加货架位置及通知日期栏；保管政策由经理制定。"
+    },
+    {
+      "en": "In a 2025-04 shelf audit, 57 of 60 sampled pieces had a matching collection ticket; 3 needed staff follow-up.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "2025-04 货架审核中，60 件抽样作品有 57 件具备匹配领取票据；3 件需要工作人员跟进。"
+    },
+    {
+      "en": "The audit did not assess the pieces’ artistic quality or firing-defect rate.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该审核未评估作品艺术质量或烧制缺陷率。"
+    },
+    {
+      "en": "Checked clay-bag and packaging stock against reorder levels supplied by the manager.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "依据经理提供的补货水平检查陶泥袋及包装材料库存。"
+    },
+    {
+      "en": "Uses spreadsheet location filters, printed shelf labels and approved collection-message templates.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用电子表格位置筛选、纸质货架标签及获批领取信息模板。"
+    },
+    {
+      "en": "Attended an internal studio-access induction in 2024-02; no independent kiln-operation authorization was granted.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2024-02 参加内部工作室访问入职培训；未获独立操作陶窑授权。"
+    },
+    {
+      "en": "Volunteered at Fictional Acorn Craft Weekend in 2023-06, helping set up display tables and pack exhibitors’ unsold work.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-06 在虚构橡果手工周末做志愿者，协助布置展台并包装参展者未售作品。"
+    },
+    {
+      "en": "Co-created a tabletop display for that volunteer event with 2 friends; the candidate made the paper labels.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "与 2 名朋友共同为该志愿活动制作桌面展示；候选人制作纸质标签。"
+    },
+    {
+      "en": "Takes recreational wheel-throwing classes and keeps personal practice bowls; no commercial ceramics sales are recorded.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "参加休闲拉坯课程并保留个人练习碗；未记录商业陶艺销售。"
+    },
+    {
+      "en": "Photographed personal practice pieces for a dated sketch-and-photo notebook in 2025.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2025 年为个人练习作品拍照，制作带日期的素描与照片笔记。"
+    },
+    {
+      "en": "Enjoys carving soft-stamp patterns for paper craft projects.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好为纸艺项目雕刻软质印章图案。"
+    },
+    {
+      "en": "Prepared end-of-day handovers listing uncollected work and pieces awaiting technician review.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "准备日终交接，列明未领取作品及等待技术员审核的作品。"
+    },
+    {
+      "en": "The supplied records do not establish teaching responsibility or independent glaze formulation.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "所提供记录未确立教学职责或独立配制釉料的经历。"
+    }
+  ]
+}

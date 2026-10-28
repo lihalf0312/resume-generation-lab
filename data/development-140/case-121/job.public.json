@@ -1,0 +1,33 @@
+{
+  "case_id": "case-121",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Wardrobe Maintenance Assistant",
+    "zh": "演出服装维护助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Check costume rails and prepare assigned quick-change sets for evening performances.",
+      "id": "R01",
+      "zh": "为晚间演出核对服装衣架，并准备指定快速换装套件。"
+    },
+    {
+      "en": "Carry out minor hand and domestic-machine repairs, escalating specialist work.",
+      "id": "R02",
+      "zh": "完成小型手工及家用缝纫机修补，并上报需专业处理的工作。"
+    },
+    {
+      "en": "Maintain care records and communicate unfinished repairs between calls.",
+      "id": "R03",
+      "zh": "维护护理记录，并在演出值班之间交接未完成修补事项。"
+    },
+    {
+      "en": "Preferred: routine use of industrial overlock machines.",
+      "id": "R04",
+      "zh": "优先：日常使用工业包缝机的经验。"
+    }
+  ]
+}

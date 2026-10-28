@@ -1,0 +1,33 @@
+{
+  "case_id": "case-045",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Laboratory Operations Assistant",
+    "zh": "实验室运营助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain consumable receipt and lot records.",
+      "id": "R01",
+      "zh": "维护耗材收货及批次记录。"
+    },
+    {
+      "en": "Track expiry dates with controlled inventory forms.",
+      "id": "R02",
+      "zh": "通过受控库存表跟踪到期日期。"
+    },
+    {
+      "en": "Escalate damaged laboratory deliveries safely.",
+      "id": "R03",
+      "zh": "安全上报实验室到货破损问题。"
+    },
+    {
+      "en": "Independently validate analytical methods.",
+      "id": "R04",
+      "zh": "独立验证分析方法。"
+    }
+  ]
+}

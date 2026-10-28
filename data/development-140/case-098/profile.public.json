@@ -1,0 +1,131 @@
+{
+  "case_id": "case-098",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-098",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-098",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Logistics Administration at Fictional Institute D098 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D098 完成物流行政专科学历。"
+    },
+    {
+      "en": "Worked as a warehouse scheduling clerk at Fictional Distribution Hub D098 from 2022-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-03 至 2026-08 在虚构配送中心 D098 担任仓库排期文员。"
+    },
+    {
+      "en": "Updated dock-booking lists and shift handover sheets using schedules approved by the planning lead.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "使用计划负责人批准的日程更新月台预约清单及班次交接表。"
+    },
+    {
+      "en": "Used spreadsheet filters to flag overlapping arrivals and missing carrier references.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用电子表格筛选标出到货重叠及缺失承运商编号。"
+    },
+    {
+      "en": "With a planner, introduced a revised arrival-status sheet in 2025-12.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-12 与计划员合作引入修订到货状态表。"
+    },
+    {
+      "en": "Reported late-arrival counts of 36 among 200 bookings in 2025-12 and 18 among 120 bookings in 2026-02.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "报告 2025-12 的 200 个预约中有 36 个延迟到货，2026-02 的 120 个预约中有 18 个。"
+    },
+    {
+      "en": "The periods differed in seasonal volume, carrier mix and staffing; the comparison does not establish that the sheet caused fewer delays.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "两个期间的季节量、承运商构成及人员配置不同；该比较不证明状态表导致延误减少。"
+    },
+    {
+      "en": "No controlled analysis, throughput improvement or warehouse-wide productivity gain was measured.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未测量受控分析、吞吐量改善或全仓生产率增益。"
+    },
+    {
+      "en": "During 2026-03, checked 72 booking records with the planner and corrected 11 missing carrier references from approved confirmations.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2026-03 与计划员检查 72 条预约记录，并根据获批确认更正 11 个缺失承运商编号。"
+    },
+    {
+      "en": "Called carriers to confirm agreed slots and escalated requested changes for planner approval.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "致电承运商确认商定时段，并将请求变更上报计划员审批。"
+    },
+    {
+      "en": "Drafted a peak-season staffing worksheet in 2026-06 using fictional assumptions; it was not adopted as a workforce plan.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-06 使用虚构假设起草旺季人员配置工作表；未被采纳为劳动力计划。"
+    },
+    {
+      "en": "Completed a 2024-08 capacity-planning course exercise with fictional arrival data, separate from operational scheduling decisions.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2024-08 使用虚构到货数据完成产能计划课程练习，与运营排期决策分开。"
+    },
+    {
+      "en": "At the 2025-12 peak, tracked 10 dock schedules daily; the normal 2026-08 allocation was 6.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在 2025-12 高峰期每天跟踪 10 份月台日程；2026-08 常规分工为 6 份。"
+    },
+    {
+      "en": "Volunteered for Fictional Sports Equipment Library V098 on Saturdays from 2023-06 to 2023-11 while employed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-06 至 2023-11 任职期间，星期六在虚构运动器材资料馆 V098 志愿服务。"
+    },
+    {
+      "en": "For that library, labeled return shelves rather than planning a commercial warehouse.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该资料馆标记归还货架，而非规划商业仓库。"
+    },
+    {
+      "en": "Made a personal cardboard railway station model in 2020, unrelated to operational layout design.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2020 年制作个人纸板火车站模型，与运营布局设计无关。"
+    },
+    {
+      "en": "Keeps a recreational cloud-sketch notebook.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "保留休闲云朵素描笔记。"
+    },
+    {
+      "en": "A draft appraisal says the sheet cut delays by 50%, comparing raw counts while ignoring the different booking denominators and seasons.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "一份考评草稿称状态表使延误减少 50%，仅比较原始计数，忽略不同预约分母及季节。"
+    },
+    {
+      "en": "Labeled booking counts and late counts separately in handover summaries instead of treating them as equivalent rates.",
+      "id": "F19",
+      "kind": "skill",
+      "zh": "在交接摘要中将预约计数及延迟计数分开标记，而非视为等价比率。"
+    },
+    {
+      "en": "No authority to approve overtime, redesign dock capacity or make independent safety decisions is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录批准加班、重新设计月台容量或独立作出安全决策的权限。"
+    }
+  ]
+}

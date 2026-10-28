@@ -1,0 +1,33 @@
+{
+  "case_id": "case-040",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Research Programme Coordinator",
+    "zh": "研究项目协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate research deliverables and reporting schedules.",
+      "id": "R01",
+      "zh": "协调研究交付物及报告时间表。"
+    },
+    {
+      "en": "Maintain budget documentation and restricted project records.",
+      "id": "R02",
+      "zh": "维护预算文件及受限项目记录。"
+    },
+    {
+      "en": "Support ethics-compliant participant communications.",
+      "id": "R03",
+      "zh": "支持符合伦理要求的参与者沟通。"
+    },
+    {
+      "en": "Lead grant proposals and negotiate funder contracts.",
+      "id": "R04",
+      "zh": "主导资助提案并谈判资助方合同。"
+    }
+  ]
+}

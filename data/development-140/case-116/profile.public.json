@@ -1,0 +1,131 @@
+{
+  "case_id": "case-116",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-116",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-116",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a community administration diploma at Fictional Dewfern College in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构露蕨学院完成社区行政文凭课程。"
+    },
+    {
+      "en": "Paid reception assistant at Fictional Amberbowl Shelter from 2023-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-08 在虚构琥珀碗动物收容所任有薪接待助理。"
+    },
+    {
+      "en": "Recorded reported animal names, finder statements and arrival times on intake forms.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在接收表中记录报称的动物名字、发现者陈述及到达时间。"
+    },
+    {
+      "en": "Kept finder-reported ownership information separate from staff-verified identity checks.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "将发现者所述的归属信息与工作人员核实的身份查验分开记录。"
+    },
+    {
+      "en": "Booked intake appointments within capacity limits supplied by the shelter manager.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在收容所经理提供的容量限制内安排接收预约。"
+    },
+    {
+      "en": "Arranged collection windows for approved foster placements after the foster coordinator confirmed the placement.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "在寄养协调员确认获批寄养安排后，安排接走动物的时间窗口。"
+    },
+    {
+      "en": "Sent foster handover packs containing the care notes approved by shelter staff.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "发送寄养交接资料包，其中包含收容所工作人员批准的照护备注。"
+    },
+    {
+      "en": "Passed health concerns raised during calls to the shelter veterinary team without giving treatment advice.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "将来电提出的健康问题转交收容所兽医团队，不提供治疗建议。"
+    },
+    {
+      "en": "Used role-limited folders for finder contact forms and removed contact details from public adoption summaries.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "将发现者联系表存于按岗位限制访问的文件夹，并从公开领养简介中移除联系方式。"
+    },
+    {
+      "en": "Helped revise the foster handover form in 2025-03 with the foster coordinator.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-03 与寄养协调员共同协助修订寄养交接表。"
+    },
+    {
+      "en": "Personally added a received-by field and an unchecked-items list; the coordinator wrote the care-content sections.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人添加接收人字段及未核对事项清单；照护内容部分由协调员撰写。"
+    },
+    {
+      "en": "In a 2025-04 filing check, 22 of 24 sampled handover packs contained a signed receipt.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "2025-04 归档检查中，24 份抽样交接资料包有 22 份包含已签收凭证。"
+    },
+    {
+      "en": "Uses appointment calendars, spreadsheet filters and approved plain-language message templates.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用预约日历、电子表格筛选及获批的简明文字消息模板。"
+    },
+    {
+      "en": "Completed the shelter’s internal data-handling induction in 2023-02.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2023-02 完成收容所内部数据处理入职培训。"
+    },
+    {
+      "en": "Before the paid role, volunteered at Fictional Basketcloud Reuse Shop from 2022-04 to 2022-10, sorting donated towels.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "在有薪岗位之前，2022-04 至 2022-10 在虚构篮云再利用商店做志愿者，整理捐赠毛巾。"
+    },
+    {
+      "en": "Prepared sign-in sheets and answered routine paperwork questions at foster orientations led by the coordinator.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "在协调员主持的寄养说明会上准备签到表，并回答常规资料填写问题。"
+    },
+    {
+      "en": "Created a personal illustrated pet-supply packing list in 2024 using invented examples.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年使用虚构示例制作个人图解宠物用品打包清单。"
+    },
+    {
+      "en": "Enjoys sewing small fabric storage pouches.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好缝制小布收纳袋。"
+    },
+    {
+      "en": "The recorded shelter rota covered Tuesday through Saturday daytime shifts.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "记录中的收容所排班涵盖星期二至星期六的日间班次。"
+    },
+    {
+      "en": "Future Sunday-shift availability is not stated in the supplied records.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "所提供记录未说明未来星期日班次的可工作情况。"
+    }
+  ]
+}

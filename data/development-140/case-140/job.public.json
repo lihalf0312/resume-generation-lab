@@ -1,0 +1,28 @@
+{
+  "case_id": "case-140",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Historic Garden Visitor Host",
+    "zh": "历史花园访客接待员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Welcome timed-entry visitors and explain current open routes using approved access information.",
+      "id": "R01",
+      "zh": "接待定时入场访客，并使用获批通行信息说明当前开放路线。"
+    },
+    {
+      "en": "Deliver short garden-history walks from approved notes and refer questions outside their scope.",
+      "id": "R02",
+      "zh": "依据获批备注开展简短花园历史导览，并转交超出范围的问题。"
+    },
+    {
+      "en": "Coordinate booked groups and maintain clear visitor-service handovers.",
+      "id": "R03",
+      "zh": "协调已预订团队，并维护清晰的访客服务交接。"
+    }
+  ]
+}

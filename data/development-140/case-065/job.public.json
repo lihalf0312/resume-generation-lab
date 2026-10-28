@@ -1,0 +1,33 @@
+{
+  "case_id": "case-065",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Process Support Associate",
+    "zh": "流程支持专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain process handoff and approval records.",
+      "id": "R01",
+      "zh": "维护流程交接及审批记录。"
+    },
+    {
+      "en": "Summarize observed operational timing data.",
+      "id": "R02",
+      "zh": "汇总观察到的运营时长数据。"
+    },
+    {
+      "en": "Track assigned process action items.",
+      "id": "R03",
+      "zh": "跟踪分配的流程行动项。"
+    },
+    {
+      "en": "Design controlled experiments to establish process causality.",
+      "id": "R04",
+      "zh": "设计对照实验以确定流程因果关系。"
+    }
+  ]
+}

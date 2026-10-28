@@ -1,0 +1,33 @@
+{
+  "case_id": "case-034",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Event Vendor Operations Coordinator",
+    "zh": "活动供应商运营协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate vendor delivery windows and resolve scheduling issues.",
+      "id": "R01",
+      "zh": "协调供应商送货窗口及排期问题。"
+    },
+    {
+      "en": "Track supplier costs and event records.",
+      "id": "R02",
+      "zh": "跟踪供应商费用及活动记录。"
+    },
+    {
+      "en": "Evaluate vendor service performance.",
+      "id": "R03",
+      "zh": "评估供应商服务表现。"
+    },
+    {
+      "en": "Negotiate and sign supplier contracts independently.",
+      "id": "R04",
+      "zh": "独立谈判并签署供应商合同。"
+    }
+  ]
+}

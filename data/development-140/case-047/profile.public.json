@@ -1,0 +1,119 @@
+{
+  "case_id": "case-047",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-047",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-047",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Library Services at Fictional Institute D047 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D047 完成图书馆服务专科学历。"
+    },
+    {
+      "en": "Worked as a public-programmes assistant at Fictional Reading Centre D047 from 2021-09 to 2026-07.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-09 至 2026-07 在虚构阅读中心 D047 担任公共项目助理。"
+    },
+    {
+      "en": "Booked rooms and maintained registration lists for reading groups and practical workshops.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为阅读小组和实践工作坊预订房间并维护报名名单。"
+    },
+    {
+      "en": "Used shared calendars, spreadsheet validation and approved email templates for participant reminders.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用共享日历、电子表格验证及获批邮件模板发送参与者提醒。"
+    },
+    {
+      "en": "With the centre coordinator, trialed a check-in desk layout across 6 workshops in 2025-05.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-05 与中心协调员合作，在 6 场工作坊试行签到台布局。"
+    },
+    {
+      "en": "Across 90 timed check-ins in those workshops, median waiting time was 3 minutes versus 5 minutes in 90 observations from the preceding 6 workshops; staffing also changed.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在这些工作坊计时的 90 次签到中，等待时间中位数为 3 分钟，之前 6 场工作坊的 90 次观察为 5 分钟；人员配置亦有变化。"
+    },
+    {
+      "en": "Requested accessibility preferences on approved forms and referred accommodation decisions to the coordinator.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "通过获批表格收集无障碍需求，并将便利措施决定转交协调员。"
+    },
+    {
+      "en": "Prepared an event-day run sheet for a 2026-03 fictional local history afternoon that was held as scheduled.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "为 2026-03 一场虚构地方历史主题下午活动准备当天流程表；活动如期举行。"
+    },
+    {
+      "en": "Drafted an outdoor storytelling-festival concept in 2026-06; no venue permit or supplier booking was obtained.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-06 起草户外故事节构想；未取得场地许可或预订供应商。"
+    },
+    {
+      "en": "Coordinated task assignments for 9 volunteers at the 2026-03 event; regular weekly sessions used 2 volunteers in 2026-07.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "在 2026-03 活动中协调 9 名志愿者的任务；2026-07 常规每周活动使用 2 名志愿者。"
+    },
+    {
+      "en": "Separately volunteered at Fictional Garden Group V047 on alternate Sundays from 2023-04 to 2024-10 while retaining the centre job.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "2023-04 至 2024-10 保留中心岗位期间，隔周星期日在虚构园艺团体 V047 志愿服务。"
+    },
+    {
+      "en": "For the garden group, maintained seed-swap inventory rather than managing a public event budget.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "为园艺团体维护种子交换库存，并非管理公共活动预算。"
+    },
+    {
+      "en": "Makes paper-cut decorations as a hobby; no paid design work is claimed.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "以剪纸装饰为爱好；不声称从事有偿设计工作。"
+    },
+    {
+      "en": "Collected supplier quotes and purchase requests; the centre manager approved spending.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "收集供应商报价和采购请求；中心经理审批开支。"
+    },
+    {
+      "en": "Prepared post-event feedback summaries without retaining participant contact details in shared reports.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "编制活动后反馈摘要，共享报告不保留参与者联系方式。"
+    },
+    {
+      "en": "A planning note lists 120 visitors at the history event, but the retained sign-in sheet contains 93 entries and walk-in counting is unclear.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份规划备注列出历史主题活动有 120 名访客，但留存签到表有 93 条记录，未预约来访者的计数方式不明。"
+    },
+    {
+      "en": "A draft profile calls the candidate certified in event safety; the only source is an attendance email for a briefing with no certificate attached.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一份简介草稿称候选人持有活动安全认证；唯一来源为说明会出席邮件，未附证书。"
+    },
+    {
+      "en": "No direct authority for permits, security deployment or emergency planning is recorded.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录对许可、安全人员部署或应急规划的直接权限。"
+    }
+  ]
+}

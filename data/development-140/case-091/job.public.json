@@ -1,0 +1,33 @@
+{
+  "case_id": "case-091",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Programme Scheduling Coordinator",
+    "zh": "项目排期协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate room and facilitator schedules.",
+      "id": "R01",
+      "zh": "协调活动室及主持人排期。"
+    },
+    {
+      "en": "Maintain clear handover records.",
+      "id": "R02",
+      "zh": "维护清晰的交接记录。"
+    },
+    {
+      "en": "Prepare participant change notices.",
+      "id": "R03",
+      "zh": "准备参与者变更通知。"
+    },
+    {
+      "en": "Own programme budgets.",
+      "id": "R04",
+      "zh": "负责项目预算。"
+    }
+  ]
+}

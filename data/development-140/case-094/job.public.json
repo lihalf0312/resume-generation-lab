@@ -1,0 +1,33 @@
+{
+  "case_id": "case-094",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Operations Improvement Assistant",
+    "zh": "运营改善助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Collect operational observations and draft process aids.",
+      "id": "R01",
+      "zh": "收集运营观察并起草流程辅助材料。"
+    },
+    {
+      "en": "Track review actions and approved versions.",
+      "id": "R02",
+      "zh": "跟踪审核行动及获批版本。"
+    },
+    {
+      "en": "Support collaborative improvement projects.",
+      "id": "R03",
+      "zh": "支持协作改善项目。"
+    },
+    {
+      "en": "Independently authorize department process changes.",
+      "id": "R04",
+      "zh": "独立授权部门流程变更。"
+    }
+  ]
+}

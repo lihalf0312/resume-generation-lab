@@ -1,0 +1,33 @@
+{
+  "case_id": "case-130",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Carpentry Workshop Scheduling and Materials Assistant",
+    "zh": "木工工坊排期与材料助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain a workshop schedule from approved build sequences and communicate collection changes.",
+      "id": "R01",
+      "zh": "依据获批制作顺序维护工坊排期，并沟通取件变更。"
+    },
+    {
+      "en": "Check deliveries, reserve specified materials and follow up on missing fittings.",
+      "id": "R02",
+      "zh": "核对到货、预留指定材料，并跟进缺失五金配件。"
+    },
+    {
+      "en": "Keep job packets linked to current drawing revisions and purchase-order references.",
+      "id": "R03",
+      "zh": "将工单资料包与当前图纸修订版及采购订单编号关联。"
+    },
+    {
+      "en": "Prepare useful shift handovers and maintain customer collection records.",
+      "id": "R04",
+      "zh": "准备实用的轮班交接，并维护客户取件记录。"
+    }
+  ]
+}

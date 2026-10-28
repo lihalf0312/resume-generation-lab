@@ -1,0 +1,143 @@
+{
+  "case_id": "case-105",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-105",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-105",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a statistics diploma at Fictional Saffron Institute in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构藏红花学院完成统计文凭课程。"
+    },
+    {
+      "en": "Paid research support assistant at Fictional Loom Mobility Lab from 2024-01 to 2026-07.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-07 在虚构织路出行实验室任有薪研究支持助理。"
+    },
+    {
+      "en": "Checked survey-file formats and logged data-cleaning decisions for supervisor review.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "检查调查文件格式，并记录数据清理决定供主管审核。"
+    },
+    {
+      "en": "Uses Python for CSV validation and spreadsheet pivot tables for descriptive summaries.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用 Python 验证 CSV，并使用电子表格数据透视表制作描述性摘要。"
+    },
+    {
+      "en": "Was listed as 1 of 4 coauthors of a 2025-06 internal report on a fictional travel-diary pilot.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-06 关于虚构出行日记试点的内部报告中，列为 4 名共同作者中的 1 名。"
+    },
+    {
+      "en": "The report was an internal working report, not a peer-reviewed journal publication.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "该报告是内部工作报告，并非经同行评审的期刊论文。"
+    },
+    {
+      "en": "Personally standardized date fields and prepared the descriptive tables for that report.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "个人为该报告规范日期字段并制作描述性表格。"
+    },
+    {
+      "en": "The lead researcher designed the sampling plan and fitted the report’s statistical model.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "研究负责人设计抽样方案，并拟合报告中的统计模型。"
+    },
+    {
+      "en": "Another coauthor ran participant interviews; the remaining coauthor drafted recommendations.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "另一名共同作者开展参与者访谈；余下的一名共同作者起草建议。"
+    },
+    {
+      "en": "The candidate reviewed table labels and coauthor comments but did not draft the recommendations.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "候选人审阅表格标签及共同作者意见，但未起草建议。"
+    },
+    {
+      "en": "The pilot team received 112 completed travel diaries from 160 invited fictional participants.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "试点团队从 160 名受邀虚构参与者中收到 112 份完整出行日记。"
+    },
+    {
+      "en": "That completion count is a team pilot result; individual recruitment totals were not recorded.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "该完成数量是团队试点结果；未记录个人招募总数。"
+    },
+    {
+      "en": "Recorded missing-value rules supplied by the lead researcher and escalated ambiguous entries.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "记录研究负责人提供的缺失值规则，并上报含义不明确的条目。"
+    },
+    {
+      "en": "Wrote 14 format-validation checks for the pilot dataset in 2025-04.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2025-04 为试点数据集编写 14 项格式验证检查。"
+    },
+    {
+      "en": "The supervisor reviewed those checks before they were used on the internal dataset.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "这些检查在用于内部数据集前经主管审核。"
+    },
+    {
+      "en": "Completed an introductory regression course in 2022; the course alone did not involve the pilot model.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2022 年完成回归入门课程；该课程本身未涉及试点模型。"
+    },
+    {
+      "en": "Built a personal bus-frequency chart using entirely invented timetable data in 2023.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年使用完全虚构的时刻表数据制作个人公交班次频率图。"
+    },
+    {
+      "en": "Volunteered to take meeting notes for Fictional Mapmakers Circle during 2024-03 to 2024-06.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2024-03 至 2024-06 志愿为虚构绘图者社团记录会议纪要。"
+    },
+    {
+      "en": "Enjoys designing imaginary transit symbols.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好设计想象中的公共交通符号。"
+    },
+    {
+      "en": "Prepared versioned table folders and maintained the report’s change log.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "准备带版本号的表格文件夹，并维护报告变更日志。"
+    },
+    {
+      "en": "No first-author designation or independently led research design is recorded.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录第一作者身份或独立主导研究设计的经历。"
+    },
+    {
+      "en": "The supplied records contain no external citation count or award for the internal report.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "所提供记录没有该内部报告的外部引用次数或获奖信息。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-058",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Cloud Support Trainee",
+    "zh": "云支持培训生"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Record support symptoms and escalate using documented procedures.",
+      "id": "R01",
+      "zh": "记录支持症状并按文件流程上报。"
+    },
+    {
+      "en": "Demonstrate foundational SQL and operating-system practice.",
+      "id": "R02",
+      "zh": "展示基础 SQL 及操作系统练习。"
+    },
+    {
+      "en": "Read diagnostic evidence under supervision.",
+      "id": "R03",
+      "zh": "在监督下阅读诊断证据。"
+    },
+    {
+      "en": "Independently deploy infrastructure to a production cloud account.",
+      "id": "R04",
+      "zh": "独立向生产云账户部署基础设施。"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "case-008",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-008",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-008",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a tourism diploma at Fictional Coral College in 2025-06.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2025-06 在虚构珊瑚学院完成旅游文凭课程。"
+    },
+    {
+      "en": "Reservations trainee at Fictional Moonleaf Lodge, 2025-09 to 2026-03.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2025-09 至 2026-03 在虚构月叶旅舍任预订培训生。"
+    },
+    {
+      "en": "Entered bookings into an internal reservation form under supervisor review.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在主管审核下将预订录入内部预订表单。"
+    },
+    {
+      "en": "Checked arrival dates, room types, and guest-request notes against email requests.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据邮件请求核对入住日期、房型及住客需求备注。"
+    },
+    {
+      "en": "Drafted English and Chinese booking confirmations using approved templates.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "使用获批模板起草中英文预订确认。"
+    },
+    {
+      "en": "Coursework in 2025 mapped a guest journey from inquiry to check-out.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2025 年课程作业梳理从咨询到退房的住客流程。"
+    },
+    {
+      "en": "Completed the placement with a written handover guide; no service-speed metric is recorded.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "完成实习并撰写交接指南；未记录服务速度指标。"
+    },
+    {
+      "en": "No revenue-management, supervisory, or Opera system experience is documented.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未记录收益管理、管理人员或 Opera 系统经验。"
+    }
+  ]
+}

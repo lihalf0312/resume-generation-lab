@@ -1,0 +1,33 @@
+{
+  "case_id": "case-048",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Professional Services Procurement Coordinator",
+    "zh": "专业服务采购协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate supplier onboarding and completeness checks.",
+      "id": "R01",
+      "zh": "协调供应商准入及完整性检查。"
+    },
+    {
+      "en": "Compare professional-service proposals using transparent assumptions.",
+      "id": "R02",
+      "zh": "以透明假设比较专业服务提案。"
+    },
+    {
+      "en": "Track renewals and report blocked procurement work.",
+      "id": "R03",
+      "zh": "跟踪续期并报告受阻采购事项。"
+    },
+    {
+      "en": "Independently negotiate and execute complex service contracts.",
+      "id": "R04",
+      "zh": "独立谈判并签署复杂服务合同。"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "case_id": "case-082",
+  "creation_batch": "development-001-extension-009",
+  "identity_id": "synthetic-person-082",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-082",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an information systems diploma at Fictional Sandpiper Institute in 2024.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024 年在虚构矶鹬学院完成信息系统文凭课程。"
+    },
+    {
+      "en": "A 2024 classroom module included a fictional incident tabletop exercise; completion was assessed internally, not by a certification body.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2024 年课堂模块包含虚构事件桌面演练；完成情况由内部评估，非认证机构评估。"
+    },
+    {
+      "en": "In that exercise, sorted 28 instructor-provided incident cards into a draft escalation sheet.",
+      "id": "F03",
+      "kind": "project",
+      "zh": "在该演练中，将教师提供的 28 张事件卡整理到草拟的上报表中。"
+    },
+    {
+      "en": "Presented the sheet with 3 classmates; the instructor decided whether the proposed escalation was appropriate.",
+      "id": "F04",
+      "kind": "project",
+      "zh": "与 3 名同学共同展示该表；上报建议是否恰当由教师判断。"
+    },
+    {
+      "en": "The exercise involved no real systems, live investigation or professional security certification.",
+      "id": "F05",
+      "kind": "other",
+      "zh": "该演练不涉及真实系统、实际调查或专业安全认证。"
+    },
+    {
+      "en": "Training administration assistant at Fictional Copper Kite Services, 2024-09 to 2026-08.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2024-09 至 2026-08 在虚构铜风筝服务机构任培训行政助理。"
+    },
+    {
+      "en": "Scheduled internal training sessions and maintained attendance and reminder logs.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "安排内部培训场次并维护出席及提醒日志。"
+    },
+    {
+      "en": "Sent approved course instructions and directed technical questions to trainers.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "发送获批课程说明，并将技术问题转交培训师。"
+    },
+    {
+      "en": "Worked with a training coordinator to consolidate attendance logs for 9 sessions during 2025-05 to 2025-07.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-05 至 2025-07 与培训协调员合作汇总 9 场培训的出席日志。"
+    },
+    {
+      "en": "Reconciled 112 attendance entries against sign-in sheets, identifying 7 duplicate entries for coordinator approval.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "依据签到表核对 112 条出席记录，识别 7 条重复记录供协调员审批。"
+    },
+    {
+      "en": "Uses spreadsheet lookup formulas, calendar invitations and document revision tracking.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格查找公式、日历邀请及文档修订跟踪。"
+    },
+    {
+      "en": "Drafted a quiz reminder template in 2026-01; no evidence of organization-wide adoption is supplied.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-01 起草测验提醒模板；未提供组织范围内采用的证据。"
+    },
+    {
+      "en": "A short first-aid awareness session in 2025 was attendance-only and is not a claimed qualification.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "2025 年一次简短急救意识活动仅记录出席，不作为资格声明。"
+    },
+    {
+      "en": "Volunteered for Fictional Board Game Circle during 2023-06 to 2023-11 on evenings while studying.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-06 至 2023-11 学习期间晚间在虚构桌游社做志愿者。"
+    },
+    {
+      "en": "Prepared printed game rules for that club, separate from paid training work.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该社团准备纸质游戏规则，与有薪培训工作分开。"
+    },
+    {
+      "en": "Enjoys assembling wooden puzzles.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "爱好拼装木制益智玩具。"
+    },
+    {
+      "en": "A draft profile calls the classroom exercise a security certification; no issued credential supports that phrase.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "档案草稿将课堂演练称为安全认证；无颁发的资格证明支持该表述。"
+    },
+    {
+      "en": "No professional incident-response employment or security approval authority is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录专业事件响应工作或安全审批权限。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-082",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Security Training Operations Assistant",
+    "zh": "安全培训运营助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Organize training sessions and attendance records.",
+      "id": "R01",
+      "zh": "组织培训场次及出席记录。"
+    },
+    {
+      "en": "Route technical questions to appropriate trainers.",
+      "id": "R02",
+      "zh": "将技术问题转交合适的培训师。"
+    },
+    {
+      "en": "Understand basic incident-escalation documentation.",
+      "id": "R03",
+      "zh": "理解基础事件上报文档。"
+    },
+    {
+      "en": "Hold an externally issued professional security certification.",
+      "id": "R04",
+      "zh": "持有外部机构颁发的专业安全认证。"
+    }
+  ]
+}

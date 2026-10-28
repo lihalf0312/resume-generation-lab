@@ -1,7 +1,0 @@
-{
-  "version": 22,
-  "previous_case": "case-021",
-  "previous_evaluation_sha256": "5e7e932525a06a9873d7fed8f4aa07486a4399057b39918d85f9e0915392b7a7",
-  "changes": [],
-  "reason": "Case021 reviewer found no new repair. Keep operations and fictional SQL project distinct; preserve completed supervisor approval and exact check scope."
-}

@@ -1,0 +1,119 @@
+{
+  "case_id": "case-042",
+  "creation_batch": "development-001-extension-005",
+  "identity_id": "synthetic-person-042",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-042",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Language Studies at Fictional Thistlebell College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年获虚构蓟铃学院语言研究文学学士学位。"
+    },
+    {
+      "en": "Started a part-time translation diploma in 2025-09 at Fictional Reednote Institute; studies remain in progress in 2026-09.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2025-09 在虚构芦音学院开始非全日制翻译文凭课程；2026-09 仍在读。"
+    },
+    {
+      "en": "Editorial assistant at Fictional Pocket Almanac, 2020-10 to 2023-05.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2020-10 至 2023-05 在虚构口袋年鉴机构任编辑助理。"
+    },
+    {
+      "en": "Bilingual content coordinator at Fictional Pocket Almanac, 2023-06 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-06 至 2026-09 在虚构口袋年鉴机构任双语内容协调员。"
+    },
+    {
+      "en": "Maintains English and Chinese help-article versions; product owners approve technical meaning.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "维护英文及中文帮助文章版本；技术含义由产品负责人批准。"
+    },
+    {
+      "en": "The active article set contained 36 items in 2026-09, compared with 52 at the 2024-12 catalogue peak.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-09 活跃文章集有 36 篇；2024-12 目录高峰期为 52 篇。"
+    },
+    {
+      "en": "Co-created a terminology sheet with an editor during 2025-03 to 2025-04.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-03 至 2025-04 与编辑共同制作术语表。"
+    },
+    {
+      "en": "Personally logged 64 term pairs and marked usage examples; the editor settled disputed translations.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人登记 64 对术语并标注用例；有争议的翻译由编辑裁定。"
+    },
+    {
+      "en": "A team review found terminology mismatches in 3 of 24 checked articles in 2025-06 versus 7 of 20 in 2025-02; article sets differed.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队检查发现，2025-06 受检 24 篇文章中有 3 篇术语不一致，2025-02 受检 20 篇中有 7 篇；文章集合不同。"
+    },
+    {
+      "en": "Drafted a subtitle style guide in 2026-02; no video team had adopted it by 2026-08.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-02 起草字幕风格指南；截至 2026-08 尚无视频团队采用。"
+    },
+    {
+      "en": "Uses a translation-memory editor to suggest matches and performs manual final checks.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用翻译记忆编辑器获取匹配建议，并进行人工最终检查。"
+    },
+    {
+      "en": "Checks placeholders and hyperlinks in bilingual article previews before requesting publication.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "申请发布前，在双语文章预览中检查占位符及超链接。"
+    },
+    {
+      "en": "Created a personal zine about imaginary train stations in 2024, using 10 original drawings.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024 年制作关于假想火车站的个人小志，使用 10 幅原创画作。"
+    },
+    {
+      "en": "Enjoys collecting leaf shapes; the collection is not a translation project.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好收集树叶形状；该收藏不是翻译项目。"
+    },
+    {
+      "en": "Helped arrange chairs for Fictional Poetry Circle in 2025-07 outside working hours.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2025-07 在工作时间外为虚构诗歌社协助摆放座椅。"
+    },
+    {
+      "en": "A draft bio calls the diploma completed, contradicting the enrolment record that says in progress.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份简介草稿称文凭已完成，与显示在读的入学记录矛盾。"
+    },
+    {
+      "en": "A handwritten note says advanced Japanese but provides no assessment or work sample; proficiency is unconfirmed.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一条手写备注称日语高级，但无评估或作品样本；熟练程度未经确认。"
+    },
+    {
+      "en": "No localization scripting or legal translation certification is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录本地化脚本编写或法律翻译认证。"
+    }
+  ]
+}

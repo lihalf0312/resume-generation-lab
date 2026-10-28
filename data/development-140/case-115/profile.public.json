@@ -1,0 +1,131 @@
+{
+  "case_id": "case-115",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-115",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-115",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a nonprofit administration diploma at Fictional Wrenpath College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构鹪鹩径学院完成非营利行政文凭课程。"
+    },
+    {
+      "en": "Paid grants records assistant at Fictional Lanternseed Fund from 2021-04 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-04 至 2026-08 在虚构灯籽基金任有薪资助记录助理。"
+    },
+    {
+      "en": "Maintained award letters, payment schedules and recipient-submitted receipt folders.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "维护资助授予函、付款计划及受助方提交的收据文件夹。"
+    },
+    {
+      "en": "Matched payment references against schedules supplied by the finance officer.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据财务专员提供的计划核对付款编号。"
+    },
+    {
+      "en": "Flagged missing receipts and mismatched references for the programme officer’s review.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "标记缺失收据及不匹配的编号，供项目专员审核。"
+    },
+    {
+      "en": "The grants panel approved awards, and finance staff authorized payment release.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "资助评审组批准资助授予，财务人员授权付款。"
+    },
+    {
+      "en": "Prepared a reconciliation worksheet for the 2025 small-arts award cycle.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "为 2025 年小型艺术资助周期准备核对工作表。"
+    },
+    {
+      "en": "That cycle contained 12 approved awards totaling 48000 fictional credits.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "该周期有 12 项获批资助，合计 48000 虚构货币单位。"
+    },
+    {
+      "en": "By 2025-12-31, finance records showed 36000 fictional credits paid across those awards.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "截至 2025-12-31，财务记录显示这些资助已支付 36000 虚构货币单位。"
+    },
+    {
+      "en": "The unpaid 12000 fictional credits were scheduled for later milestones; the records do not describe them as overdue.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "尚未支付的 12000 虚构货币单位计划在后续里程碑支付；记录未将其描述为逾期。"
+    },
+    {
+      "en": "Personally linked each recorded payment to an award reference; the finance officer checked the totals.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人将每笔已记录付款关联到资助编号；财务专员核查总额。"
+    },
+    {
+      "en": "The award amounts were programme funds, not the candidate’s discretionary budget or personal fundraising total.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "这些资助金额是项目资金，并非候选人的自主支配预算或个人筹款总额。"
+    },
+    {
+      "en": "Uses spreadsheet sum formulas, date filters and linked-document indexes.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用电子表格求和公式、日期筛选及关联文件索引。"
+    },
+    {
+      "en": "Prepared monthly exception lists showing missing documentation and upcoming payment milestones.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "准备月度异常清单，列明缺失文档及即将到来的付款里程碑。"
+    },
+    {
+      "en": "Completed an internal payment-records induction in 2021-04; no accounting designation was awarded.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2021-04 完成内部付款记录入职培训；未授予会计专业资格。"
+    },
+    {
+      "en": "Co-created a receipt-folder guide in 2024-09 with the programme officer.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2024-09 与项目专员共同编写收据文件夹指南。"
+    },
+    {
+      "en": "Personally wrote the filename examples; the officer defined acceptable supporting documents.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "个人编写文件名示例；可接受的支持文件由专员定义。"
+    },
+    {
+      "en": "Volunteered to prepare seating cards for Fictional Starling Story Night in 2023-05.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2023-05 志愿为虚构椋鸟故事夜准备座位卡。"
+    },
+    {
+      "en": "Built a personal theatre-ticket spending log in 2022; it was unrelated to grant funds.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2022 年制作个人剧院门票支出记录，与资助资金无关。"
+    },
+    {
+      "en": "Enjoys drawing small stage-set designs.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好绘制小型舞台布景设计。"
+    }
+  ]
+}

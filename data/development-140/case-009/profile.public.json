@@ -1,0 +1,71 @@
+{
+  "case_id": "case-009",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-009",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-009",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a business administration diploma at Fictional Moss College in 2016.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2016 年在虚构苔藓学院完成工商管理文凭课程。"
+    },
+    {
+      "en": "Stockroom associate at Fictional Ribbon Market, 2017-02 to 2020-10.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2017-02 至 2020-10 在虚构缎带商店任仓储专员。"
+    },
+    {
+      "en": "Inventory coordinator at Fictional Ribbon Market, 2020-11 to 2026-05.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2020-11 至 2026-05 在虚构缎带商店任库存协调员。"
+    },
+    {
+      "en": "Organized cycle counts for 3 shop locations and reconciled discrepancies with store leads.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "组织 3 个门店的循环盘点并与门店负责人核对差异。"
+    },
+    {
+      "en": "Used barcode scanners and spreadsheet reconciliation logs.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "使用条码扫描器及电子表格核对日志。"
+    },
+    {
+      "en": "Introduced a second-check routine for receiving exceptions in 2024-10 with store-manager approval.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2024-10 经店长批准，为收货异常引入复核流程。"
+    },
+    {
+      "en": "A 5-week observation showed unresolved receiving exceptions decreasing from 17 to 9 per week across those stores; sales effects were not measured.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "5 周观察显示这些门店未解决收货异常从每周 17 项降至 9 项；未测量销售影响。"
+    },
+    {
+      "en": "Briefed 5 stockroom colleagues on count-sheet procedures without line-management responsibility.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "向 5 名仓储同事讲解盘点表流程，无直线管理职责。"
+    },
+    {
+      "en": "Prepared write-off recommendations for manager approval, without financial approval authority.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "准备报损建议供经理批准，无财务审批权限。"
+    },
+    {
+      "en": "No demand-forecast model development or warehouse robotics experience is documented.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "未记录需求预测模型开发或仓库机器人经验。"
+    }
+  ]
+}

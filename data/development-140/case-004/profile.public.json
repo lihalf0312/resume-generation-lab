@@ -1,0 +1,59 @@
+{
+  "case_id": "case-004",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-004",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-004",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a communications bachelor degree at Fictional Kite College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构风筝学院取得传播学学士学位。"
+    },
+    {
+      "en": "Customer onboarding associate at Fictional Pebble Tools, 2020-09 to 2025-11.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-09 至 2025-11 在虚构卵石工具机构任客户入门支持专员。"
+    },
+    {
+      "en": "Explained setup instructions to new business customers in scheduled video sessions.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "通过预约视频会议向新企业客户讲解设置步骤。"
+    },
+    {
+      "en": "Prepared a plain-language setup guide reviewed by a product specialist.",
+      "id": "F04",
+      "kind": "project",
+      "zh": "编写易懂的设置指南，由产品专员审核。"
+    },
+    {
+      "en": "Uses presentation slides and attendance spreadsheets.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "使用演示幻灯片和出席记录表。"
+    },
+    {
+      "en": "Volunteered at a fictional community reading club from 2026-01 to 2026-04.",
+      "id": "F06",
+      "kind": "other",
+      "zh": "2026-01 至 2026-04 在虚构社区阅读俱乐部做志愿者。"
+    },
+    {
+      "en": "Helped arrange materials and sign-in sheets; did not independently teach children.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "协助整理材料和签到表；未独立教授儿童。"
+    },
+    {
+      "en": "No teaching license, formal curriculum design, or learning-management-system use is documented.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未记录教师资格、正式课程设计或学习管理系统使用经历。"
+    }
+  ]
+}

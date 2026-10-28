@@ -1,0 +1,65 @@
+{
+  "case_id": "case-001",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-001",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-001",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in library operations at Fictional Juniper Academy in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构杜松学院完成图书馆运营文凭课程。"
+    },
+    {
+      "en": "Catalog assistant at Fictional Paper Observatory, 2020-02 to 2025-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-02 至 2025-08 在虚构纸页观察所任编目助理。"
+    },
+    {
+      "en": "Checked import files against a written catalog specification before publication.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "发布前按书面编目规范检查导入文件。"
+    },
+    {
+      "en": "In a 2024 internal audit, found 37 duplicate records among 800 imports; a supervisor approved removals.",
+      "id": "F04",
+      "kind": "outcome",
+      "zh": "在 2024 年内部审计中，从 800 条导入记录中发现 37 条重复记录；删除由主管批准。"
+    },
+    {
+      "en": "Built a local book-search demo in 2025-10 using Python and SQLite; it was not deployed for users.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2025-10 用 Python 和 SQLite 构建本地图书搜索演示，未面向用户部署。"
+    },
+    {
+      "en": "Wrote 18 pytest checks for empty queries, duplicate titles, and missing authors in that demo.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "为该演示编写 18 项 pytest 检查，覆盖空查询、重复书名和缺失作者。"
+    },
+    {
+      "en": "Uses Git branches and pull requests in a personal practice repository.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "在个人练习代码库中使用 Git 分支和拉取请求。"
+    },
+    {
+      "en": "Recorded 6 reproducible demo defects with steps, expected results, and actual results.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "记录该演示的 6 个可复现缺陷，包括步骤、预期结果和实际结果。"
+    },
+    {
+      "en": "No commercial software-testing employment is documented.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "未记录商业软件测试工作经历。"
+    }
+  ]
+}

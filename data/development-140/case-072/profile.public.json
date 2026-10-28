@@ -1,0 +1,143 @@
+{
+  "case_id": "case-072",
+  "creation_batch": "development-001-extension-008",
+  "identity_id": "synthetic-person-072",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-072",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a business statistics diploma at Fictional Larkstone College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构云雀石学院完成商业统计文凭课程。"
+    },
+    {
+      "en": "Attended an introductory Python course in 2025-04; completion covered classroom exercises, not production systems.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "参加 2025-04 Python 入门课程；完成范围为课堂练习，并非生产系统。"
+    },
+    {
+      "en": "Data entry intern at Fictional Metric Meadow, 2023-07 to 2023-12.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-07 至 2023-12 在虚构指标草甸机构任数据录入实习生。"
+    },
+    {
+      "en": "Reporting assistant at Fictional Metric Meadow, 2024-01 to 2025-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2024-01 至 2025-08 在虚构指标草甸机构任报表助理。"
+    },
+    {
+      "en": "Junior reporting analyst at Fictional Metric Meadow, 2025-09 to 2026-09; there was no employer change between these roles.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2025-09 至 2026-09 在虚构指标草甸机构任初级报表分析师；上述岗位之间未更换雇主。"
+    },
+    {
+      "en": "During the internship, transcribed survey counts into an approved spreadsheet without designing the survey.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "实习期间将调查计数录入经批准的电子表格，未设计调查。"
+    },
+    {
+      "en": "In the analyst role, refreshes monthly service-volume reports from approved database views.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "任分析师期间，根据经批准的数据库视图刷新每月服务量报告。"
+    },
+    {
+      "en": "Uses SQL SELECT queries, joins, and grouping on read-only reporting views.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "对只读报表视图使用 SQL SELECT 查询、连接及分组。"
+    },
+    {
+      "en": "Builds spreadsheet pivot summaries and labels charts with reporting periods.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "制作电子表格数据透视汇总，并为图表标注报告期间。"
+    },
+    {
+      "en": "Worked with a senior analyst on a missing-category check during 2025-10 to 2025-11.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-10 至 2025-11 与高级分析师共同开展类别缺失检查。"
+    },
+    {
+      "en": "Personally wrote the grouping query and logged exceptions; the senior analyst defined valid category values.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人编写分组查询并记录异常；有效类别值由高级分析师定义。"
+    },
+    {
+      "en": "The team found blank categories in 8 of 400 checked records in 2025-12 versus 15 of 350 in 2025-09; populations differed.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "团队发现，2025-12 检查的 400 条记录中有 8 条类别为空，2025-09 检查的 350 条中为 15 条；记录群体不同。"
+    },
+    {
+      "en": "Drafted a forecasting notebook in 2026-03 using invented weekly counts; it was not used for business decisions.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2026-03 使用虚构周计数起草预测笔记本；未用于业务决策。"
+    },
+    {
+      "en": "The Python course exercise read a local CSV and calculated totals; it was not a deployed data pipeline.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "Python 课程练习读取本地 CSV 并计算总数；并非已部署的数据管道。"
+    },
+    {
+      "en": "Maintains definitions for 6 recurring report fields and asks owners to approve definition changes.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "维护 6 个定期报告字段的定义，并请责任人批准定义变更。"
+    },
+    {
+      "en": "Provides report refresh status to the operations lead without setting operational targets.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "向运营负责人提供报告刷新状态，不制定运营目标。"
+    },
+    {
+      "en": "Volunteered at Fictional Kite Archive during 2026-02 weekends alongside full-time employment.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2026-02 周末在虚构风筝档案馆做志愿者，与全职任职同期。"
+    },
+    {
+      "en": "Counted display labels at the archive using an organizer checklist; no visitor analytics were performed.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "使用组织方核对表清点档案馆展示标签；未进行访客分析。"
+    },
+    {
+      "en": "Created a personal comparison table for 12 invented board games in 2024-05.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2024-05 为 12 款虚构桌游制作个人比较表。"
+    },
+    {
+      "en": "Enjoys indoor climbing and drawing geometric patterns.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好室内攀岩及绘制几何图案。"
+    },
+    {
+      "en": "A draft skill list says machine learning expert without supporting projects or assessment; the rating is unverified.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "一份技能表草稿称机器学习专家，但无支持项目或评估；评级未经核实。"
+    },
+    {
+      "en": "No production pipeline ownership, model deployment, or database write authority is documented.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录生产管道责任、模型部署或数据库写入权限。"
+    }
+  ]
+}

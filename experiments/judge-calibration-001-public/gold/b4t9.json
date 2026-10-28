@@ -1,7 +1,0 @@
-{
-  "case_id": "b4t9",
-  "expected_factual_issue": false,
-  "issue_type": null,
-  "injected_spans": [],
-  "expectation": "No unsupported or contradictory factual claim is intentionally present; supported selection and translation are acceptable."
-}

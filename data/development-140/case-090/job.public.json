@@ -1,0 +1,33 @@
+{
+  "case_id": "case-090",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Supplier Records Specialist",
+    "zh": "供应商记录专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate supplier registers and required-document status.",
+      "id": "R01",
+      "zh": "维护准确供应商登记表及必需文件状态。"
+    },
+    {
+      "en": "Follow up renewals and clearly flag missing evidence.",
+      "id": "R02",
+      "zh": "跟进续期并清晰标记缺失证据。"
+    },
+    {
+      "en": "Preserve approved changes, source versions and access controls.",
+      "id": "R03",
+      "zh": "保留获批变更、源版本及访问控制。"
+    },
+    {
+      "en": "Produce privacy-conscious exception reports and filing guidance.",
+      "id": "R04",
+      "zh": "制作注重隐私的异常报告及归档指引。"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "case_id": "case-078",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-078",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-078",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Community Studies at Fictional Institute D078 in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构院校 D078 完成社区研究文学学士学位。"
+    },
+    {
+      "en": "Worked as a reception coordinator at Fictional Community Hub D078 from 2020-02 to 2022-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-02 至 2022-08 在虚构社区中心 D078 担任前台协调员。"
+    },
+    {
+      "en": "Moved to programme operations assistant at the same hub from 2022-09 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-09 至 2026-08 在同一中心转任项目运营助理。"
+    },
+    {
+      "en": "Reception duties included room enquiries and directing visitors to the relevant programme staff.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "前台职责包括房间咨询及引导来访者联系相关项目人员。"
+    },
+    {
+      "en": "The operations role maintained session calendars, room allocations and approved participation lists.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "运营岗位维护活动日历、房间分配及获批参与名单。"
+    },
+    {
+      "en": "Used shared calendars and spreadsheet checks to flag overlapping room requests.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "使用共享日历及电子表格检查，标出时间重叠的房间请求。"
+    },
+    {
+      "en": "With 2 programme leads, introduced a room-handover checklist during 2025-03.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在 2025-03 与 2 名项目负责人合作引入房间交接清单。"
+    },
+    {
+      "en": "Across 30 sessions in 2025-Q2, 4 had unresolved setup issues at opening compared with 9 of 30 in 2025-Q1; session mix and staffing also changed.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2025-Q2 的 30 场活动中，4 场在开始时有未解决布置问题；2025-Q1 的 30 场中为 9 场；活动构成及人员配置亦有变化。"
+    },
+    {
+      "en": "The comparison is a team observation and does not isolate the checklist’s causal effect.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "该比较是团队观察，并未分离清单的因果作用。"
+    },
+    {
+      "en": "Recorded resident suggestions and sent safeguarding concerns to the designated officer rather than investigating independently.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "记录居民建议，并将安全保护疑虑转交指定专员，而非独立调查。"
+    },
+    {
+      "en": "Executed scheduling and sign-in support for a 2026-02 neighborhood skills day approved by the hub manager.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "为中心经理批准的 2026-02 邻里技能日执行排期及签到支持。"
+    },
+    {
+      "en": "Drafted a resident ambassador scheme in 2026-06; recruitment and public launch had not occurred.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-06 起草居民大使计划；尚未招募或公开启动。"
+    },
+    {
+      "en": "At the 2025-10 peak, coordinated space for 12 weekly groups; the 2026-08 regular allocation was 7.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在 2025-10 高峰期为每周 12 个小组协调空间；2026-08 常规分工为 7 个。"
+    },
+    {
+      "en": "Completed a 2024-11 short course in facilitation using role-play exercises, not a mediation licence.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2024-11 完成使用角色扮演练习的引导技巧短课，并非调解执照。"
+    },
+    {
+      "en": "Volunteered for Fictional Community Radio V078 from 2023-05 to 2024-01 on Sunday evenings while retaining the paid hub role.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-05 至 2024-01 保留中心有偿岗位期间，星期日晚间在虚构社区电台 V078 志愿服务。"
+    },
+    {
+      "en": "At the radio group, assembled a schedule of preapproved recordings rather than conducting interviews or managing broadcasts.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "在电台团体整理预先获批录音的时间表，而非开展访谈或管理广播。"
+    },
+    {
+      "en": "Made a personal photo essay about imaginary shopfronts in 2021; no public consultation was involved.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2021 年制作关于虚构店面的个人摄影随笔；不涉及公众咨询。"
+    },
+    {
+      "en": "Enjoys hand-binding notebooks and does not sell them commercially.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "喜爱手工装订笔记本，不作商业销售。"
+    },
+    {
+      "en": "Removed personal contact details from participation summaries distributed beyond the operations team.",
+      "id": "F19",
+      "kind": "skill",
+      "zh": "从分发至运营团队以外的参与摘要中删除个人联系方式。"
+    },
+    {
+      "en": "Prepared small purchase requests for session materials; the manager held spending authority.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "为活动材料准备小额采购请求；经理拥有开支权限。"
+    },
+    {
+      "en": "A draft profile says 500 active members, but the source is 500 historical mailing-list entries with no current participation check.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "一份简介草稿称有 500 名活跃成员，但来源是 500 条历史邮件名单记录，没有当前参与核查。"
+    },
+    {
+      "en": "No independent mediation, safeguarding-investigation authority or line-management responsibility is recorded.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录独立调解、安全保护调查权限或直属管理职责。"
+    }
+  ]
+}

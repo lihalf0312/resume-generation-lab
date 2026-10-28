@@ -1,0 +1,107 @@
+{
+  "case_id": "case-065",
+  "creation_batch": "development-001-extension-007",
+  "identity_id": "synthetic-person-065",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-065",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an operations support diploma at Fictional Dawnmoss College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构晨苔学院完成运营支持文凭课程。"
+    },
+    {
+      "en": "Attended an internal process-mapping workshop in 2022-05 without receiving an external certification.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2022-05 参加内部流程梳理工作坊，未获外部认证。"
+    },
+    {
+      "en": "Records assistant at Fictional Oak Current, 2020-09 to 2023-03.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2020-09 至 2023-03 在虚构橡流机构任记录助理。"
+    },
+    {
+      "en": "Process support associate at Fictional Oak Current, 2023-04 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-04 至 2026-09 在虚构橡流机构任流程支持专员。"
+    },
+    {
+      "en": "Records request handoffs and highlights incomplete approval fields for team leads.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "记录请求交接，并向团队负责人标出不完整的审批字段。"
+    },
+    {
+      "en": "Helped introduce an approval checklist with a process manager in 2025-03.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2025-03 与流程经理共同引入审批核对表。"
+    },
+    {
+      "en": "Personally maintained the checklist spreadsheet and collated weekly observations; the manager approved the process change.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "个人维护核对表电子表格并汇总每周观察；流程变更由经理批准。"
+    },
+    {
+      "en": "In 2025-02, median elapsed processing time was 5 days among 24 completed requests observed by the team.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2025-02，团队观察的 24 个已完成请求的处理历时中位数为 5 天。"
+    },
+    {
+      "en": "In 2025-05, median elapsed processing time was 4 days among 28 completed requests observed by the team.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "2025-05，团队观察的 28 个已完成请求的处理历时中位数为 4 天。"
+    },
+    {
+      "en": "Staffing levels and request complexity changed between the observation periods, so the checklist effect was not isolated.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "观察期间之间人员配置及请求复杂度发生变化，因此未单独识别核对表的效果。"
+    },
+    {
+      "en": "Uses spreadsheet timestamps, median calculations, and meeting action logs.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格时间戳、中位数计算及会议行动日志。"
+    },
+    {
+      "en": "Drafted a handoff escalation diagram in 2026-02; it was reviewed but not rolled out by 2026-09.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-02 起草交接升级处理图；截至 2026-09 已审阅但未推广。"
+    },
+    {
+      "en": "Follows up assigned action items without setting departmental targets or approving staffing.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "跟进分配的行动项，不制定部门目标或批准人员配置。"
+    },
+    {
+      "en": "Built a personal catalogue of 34 imaginary board-game cards in 2024-06.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2024-06 为 34 张假想桌游卡牌制作个人目录。"
+    },
+    {
+      "en": "Enjoys cycling and repairing paper book covers.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "爱好骑行及修补纸质书封面。"
+    },
+    {
+      "en": "No controlled experiment, causal productivity estimate, or cost-savings calculation is documented.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录对照实验、因果生产率估计或成本节省计算。"
+    }
+  ]
+}

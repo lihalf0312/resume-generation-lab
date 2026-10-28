@@ -1,0 +1,33 @@
+{
+  "case_id": "case-073",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Quality Records Coordinator",
+    "zh": "质量记录协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain controlled inspection records and revision checks.",
+      "id": "R01",
+      "zh": "维护受控检验记录并检查版本。"
+    },
+    {
+      "en": "Follow up missing inspection signatures.",
+      "id": "R02",
+      "zh": "跟进缺失的检验签名。"
+    },
+    {
+      "en": "Prepare review document bundles and use spreadsheet lookups.",
+      "id": "R03",
+      "zh": "准备审核文档包并使用电子表格查找。"
+    },
+    {
+      "en": "Authorize product batch release.",
+      "id": "R04",
+      "zh": "批准产品批次放行。"
+    }
+  ]
+}

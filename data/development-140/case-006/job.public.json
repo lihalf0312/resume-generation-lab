@@ -1,0 +1,31 @@
+{
+  "case_id": "case-006",
+  "synthetic": true,
+  "title": {
+    "en": "Dispatch planner",
+    "zh": "配送调度计划员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Plan multi-vehicle dispatch schedules.",
+      "id": "R01",
+      "zh": "制定多车配送调度计划。"
+    },
+    {
+      "en": "Resolve delivery-window changes with customers.",
+      "id": "R02",
+      "zh": "与客户协调配送时间窗口变更。"
+    },
+    {
+      "en": "Monitor operational exceptions.",
+      "id": "R03",
+      "zh": "监测运营异常。"
+    },
+    {
+      "en": "Use Python for route optimization.",
+      "id": "R04",
+      "zh": "使用 Python 进行路线优化。"
+    }
+  ]
+}

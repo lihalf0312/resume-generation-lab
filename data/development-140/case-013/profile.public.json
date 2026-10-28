@@ -1,0 +1,59 @@
+{
+  "case_id": "case-013",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-013",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-013",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a certificate in Office Administration at Fictional Institute B13 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构学院 B13 完成办公室行政证书课程。"
+    },
+    {
+      "en": "Repair booking clerk at Fictional Appliance Workshop B13, 2021-09 to 2026-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-09 至 2026-06，任虚构家电维修工坊 B13 预约文员。"
+    },
+    {
+      "en": "Scheduled repair appointments and recorded customer-requested changes in a shared calendar.",
+      "id": "F03",
+      "kind": "skill",
+      "zh": "在共享日历中安排维修预约并记录客户要求的变更。"
+    },
+    {
+      "en": "Escalated unclear service requests to the repair supervisor rather than offering technical diagnoses.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "将不明确的服务请求转交维修主管，而非自行提供技术诊断。"
+    },
+    {
+      "en": "In 2026-05, drafted a fictional clinic booking checklist during a self-study exercise.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2026-05，在自学练习中起草虚构诊所预约核对表。"
+    },
+    {
+      "en": "The exercise covered 6 appointment scenarios; it was not used in a real clinic.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "该练习覆盖 6 种预约情境；未在真实诊所使用。"
+    },
+    {
+      "en": "Used spreadsheet filters and word-processing templates.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "使用电子表格筛选和文字处理模板。"
+    },
+    {
+      "en": "No clinical qualification, patient-system access, or healthcare employment is recorded.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未记录临床资格、患者系统访问权限或医疗行业任职经历。"
+    }
+  ]
+}

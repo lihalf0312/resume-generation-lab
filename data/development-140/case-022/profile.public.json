@@ -1,0 +1,59 @@
+{
+  "case_id": "case-022",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-022",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-022",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a BA in Geography at Fictional Institute D022 in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构院校 D022 获得地理学文学学士学位。"
+    },
+    {
+      "en": "Worked as a parks booking coordinator at Fictional Employer D022 from 2019-04 to 2026-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-04 至 2026-06 在虚构雇主 D022 担任公园预约协调员。"
+    },
+    {
+      "en": "Used spreadsheet pivot tables to summarize venue usage by weekday and booking category.",
+      "id": "F03",
+      "kind": "skill",
+      "zh": "使用电子表格数据透视表，按星期和预约类别汇总场地使用情况。"
+    },
+    {
+      "en": "Reconciled 240 booking records for a quarterly review and flagged 17 duplicates; the supervisor approved the final corrections.",
+      "id": "F04",
+      "kind": "outcome",
+      "zh": "为季度复盘核对 240 条预约记录并标出 17 条重复记录；主管批准最终修正。"
+    },
+    {
+      "en": "Completed a self-directed SQL project in 2026-05 using an expressly fictional 800-row booking dataset.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2026-05 完成自主 SQL 项目，使用明确虚构的 800 行预约数据集。"
+    },
+    {
+      "en": "In the project, wrote filtering, GROUP BY and JOIN queries in SQLite, with expected-result checks for 6 queries.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "在该项目中使用 SQLite 编写筛选、GROUP BY 和 JOIN 查询，并为 6 条查询设置预期结果检查。"
+    },
+    {
+      "en": "Explained quarterly usage tables to nontechnical venue managers and recorded their questions.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "向非技术背景的场地经理解释季度使用情况表，并记录其问题。"
+    },
+    {
+      "en": "Has not used a production business-intelligence platform; the portfolio contains spreadsheets and SQL only.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未使用过生产环境商业智能平台；作品集仅包含电子表格和 SQL。"
+    }
+  ]
+}

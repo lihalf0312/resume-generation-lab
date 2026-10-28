@@ -1,7 +1,0 @@
-{
-  "version": 17,
-  "previous_case": "case-016",
-  "previous_evaluation_sha256": "65245664daf82edb5a0c13019fb9207df230bb40cbb73a39bbda14bdc123b78b",
-  "changes": [],
-  "reason": "Case016 reviewer found no new repair. Retain exact units, supervision, approval status and authority boundaries."
-}

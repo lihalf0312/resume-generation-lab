@@ -1,0 +1,119 @@
+{
+  "case_id": "case-048",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-048",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-048",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BBA at Fictional Institute D048 in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构院校 D048 完成工商管理学士学位。"
+    },
+    {
+      "en": "Worked as a supplier onboarding administrator at Fictional Services Group D048 from 2020-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-02 至 2026-08 在虚构服务集团 D048 担任供应商准入行政员。"
+    },
+    {
+      "en": "Collected tax, insurance and banking forms from professional-services suppliers through an approved portal.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "通过获批门户收集专业服务供应商的税务、保险及银行表格。"
+    },
+    {
+      "en": "Checked submission completeness against a checklist and routed banking changes to an independent verification team.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "按清单检查提交材料完整性，并将银行信息变更转交独立核验团队。"
+    },
+    {
+      "en": "Co-redesigned the incomplete-document reminder sequence with procurement and compliance colleagues in 2025-02.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-02 与采购及合规同事共同重新设计缺失文件提醒流程。"
+    },
+    {
+      "en": "Among 70 onboarding files received in 2025-Q2, 18 needed a second completeness reminder versus 29 of 70 in 2025-Q1; supplier mix was not controlled.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在 2025-Q2 收到的 70 份准入档案中，18 份需要第二次完整性提醒；2025-Q1 的 70 份中为 29 份；未控制供应商构成。"
+    },
+    {
+      "en": "Maintained renewal-date trackers for service agreements; legal counsel interpreted clauses and approved contract wording.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "维护服务协议续期日期跟踪表；法律顾问解释条款并批准合同措辞。"
+    },
+    {
+      "en": "Prepared a comparison matrix for 4 fictional translation-service proposals in 2026-01; the category manager selected the supplier.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "在 2026-01 为 4 份虚构翻译服务提案准备比较矩阵；品类经理选择供应商。"
+    },
+    {
+      "en": "Normalized hourly and per-page prices using documented assumptions rather than claiming they were identical services.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "依据记录的假设将小时价与页价标准化，而不声称服务完全相同。"
+    },
+    {
+      "en": "Drafted a supplier-portal automation brief in 2026-06; implementation was not funded.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-06 起草供应商门户自动化需求简报；实施未获资金支持。"
+    },
+    {
+      "en": "Tracked 43 open onboarding files at the 2025-09 peak; the 2026-08 open queue contained 21 files.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2025-09 高峰期跟踪 43 份未完成准入档案；2026-08 未完成队列有 21 份。"
+    },
+    {
+      "en": "Volunteered as treasurer’s assistant at Fictional Chess Club V048 from 2023-01 to 2023-12 on weekends while employed.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "2023-01 至 2023-12 任职期间，周末在虚构棋类社团 V048 志愿担任财务助理。"
+    },
+    {
+      "en": "For the club, reconciled membership receipts; did not submit statutory accounts or authorize bank transfers.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "为该社团核对会员费收据；未提交法定账目或批准银行转账。"
+    },
+    {
+      "en": "Maintains an amateur astronomy observation log unrelated to supplier administration.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "保留与供应商行政无关的业余天文观测记录。"
+    },
+    {
+      "en": "Wrote weekly queue updates highlighting blocked files and responsible reviewers.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "撰写每周队列更新，突出受阻档案及负责审核者。"
+    },
+    {
+      "en": "A draft award nomination credits 40,000 currency units of savings to the comparison matrix, but the final award decision and cost baseline are absent.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份奖项提名草稿将 40,000 货币单位节省归于比较矩阵，但缺少最终授标决定及成本基线。"
+    },
+    {
+      "en": "A training list states advanced contract certification, while the attached completion message names only a contract-awareness workshop.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "培训清单写为高级合同认证，而所附结业通知仅列合同意识工作坊。"
+    },
+    {
+      "en": "No independent contract-signing authority, anti-fraud clearance authority or strategic sourcing ownership is recorded.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录独立签约权限、反欺诈审核放行权限或战略寻源负责经历。"
+    }
+  ]
+}

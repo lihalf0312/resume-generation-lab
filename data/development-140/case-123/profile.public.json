@@ -1,0 +1,131 @@
+{
+  "case_id": "case-123",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-123",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-123",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a rural stores operations diploma at Fictional Alderfurrow Centre in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构桤木垄中心完成乡村物料库运营文凭课程。"
+    },
+    {
+      "en": "Paid stores assistant at Fictional Oatbridge Growers from 2020-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-03 至 2026-08 在虚构燕麦桥种植合作社任有薪物料库助理。"
+    },
+    {
+      "en": "Issued hose sections, fittings and nonpowered hand tools against field supervisors’ approved request slips.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据田间主管批准的申请单发放软管段、接头及非动力手工具。"
+    },
+    {
+      "en": "Matched supplier part codes and quantities with delivery notes and assigned shelf bins.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "核对供应商零件代码及数量与送货单是否一致，并分配货架储物格。"
+    },
+    {
+      "en": "Kept used returns separate from new stock and recorded items awaiting the supervisor’s inspection.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将使用后归还物与新库存分开，并记录等待主管检查的物品。"
+    },
+    {
+      "en": "Field technicians specified fitting compatibility and irrigation layouts; the candidate selected items only from approved codes.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "田间技术员确定接头兼容性及灌溉布局；候选人仅按获批代码选取物品。"
+    },
+    {
+      "en": "Prepared labeled issue bundles for early field departures and noted unfilled requests.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "为清晨田间出工准备贴有标签的领料包，并记录未满足的申请。"
+    },
+    {
+      "en": "Uses bin cards, barcode scans and spreadsheet stock filters.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "使用储物格卡片、条码扫描及电子表格库存筛选。"
+    },
+    {
+      "en": "Helped recount hose-fitting stock before the 2025 planting season.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2025 年种植季前协助重新清点软管接头库存。"
+    },
+    {
+      "en": "Personally counted 62 bins; a colleague counted 38 other bins, with no overlap in assigned bins.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人清点 62 个储物格；一名同事清点另外 38 个储物格，分配的储物格没有重叠。"
+    },
+    {
+      "en": "Across the 100-bin team count, 7 bin cards differed from the physical quantities and were sent for supervisor review.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "团队清点的 100 个储物格中，7 张储物格卡与实物数量不同，已送交主管审核。"
+    },
+    {
+      "en": "The recount log gives no total stock value and no confirmed financial loss for those differences.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "重新盘点日志未给出库存总价值，亦未确认这些差异造成的财务损失。"
+    },
+    {
+      "en": "Sent a weekly list of low-stock approved parts to the purchasing clerk.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "每周向采购文员发送获批零件的低库存清单。"
+    },
+    {
+      "en": "Completed internal manual-handling and stores-access induction in 2020-03.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2020-03 完成内部人工搬运及物料库访问入职培训。"
+    },
+    {
+      "en": "The supplied records contain no equipment-driving licence or irrigation-system design qualification.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "所提供记录不含设备驾驶执照或灌溉系统设计资格。"
+    },
+    {
+      "en": "Volunteered at Fictional Sunbutton Community Garden from 2022-05 to 2025-10.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2022-05 至 2025-10 在虚构太阳纽扣社区花园做志愿者。"
+    },
+    {
+      "en": "At that garden, organized a shared hand-tool sign-out sheet and labeled 23 tool hooks.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "在该花园整理共享手工具借用表，并为 23 个工具挂钩贴标签。"
+    },
+    {
+      "en": "Helped plant donated seedlings during supervised weekend sessions; no crop-yield study was conducted.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "在受监督的周末活动中协助种植捐赠幼苗；未开展作物产量研究。"
+    },
+    {
+      "en": "Keeps a personal notebook of invented allotment layouts drawn for enjoyment.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "保留个人笔记，绘制虚构菜园布局作为消遣。"
+    },
+    {
+      "en": "Enjoys collecting and sketching unusually shaped seed pods.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好收集并素描形状独特的种荚。"
+    }
+  ]
+}

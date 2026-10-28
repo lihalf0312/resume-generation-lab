@@ -1,0 +1,33 @@
+{
+  "case_id": "case-075",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Research Administration Assistant",
+    "zh": "研究行政助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Track proposal deadlines and schedule research meetings.",
+      "id": "R01",
+      "zh": "跟踪提案截止日期并安排研究会议。"
+    },
+    {
+      "en": "Assemble version-controlled submission documents.",
+      "id": "R02",
+      "zh": "整理版本受控的提交文档。"
+    },
+    {
+      "en": "Maintain administrative trackers and controlled folders.",
+      "id": "R03",
+      "zh": "维护行政跟踪表及受控文件夹。"
+    },
+    {
+      "en": "Route scientific questions to investigators.",
+      "id": "R04",
+      "zh": "将科学问题转交研究负责人。"
+    }
+  ]
+}

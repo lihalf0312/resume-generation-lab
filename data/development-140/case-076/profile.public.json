@@ -1,0 +1,143 @@
+{
+  "case_id": "case-076",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-076",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-076",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Language Studies at Fictional Institute D076 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D076 完成语言研究文学学士学位。"
+    },
+    {
+      "en": "Worked as a customer onboarding assistant at Fictional Learning Software D076 from 2021-02 to 2023-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-02 至 2023-06 在虚构学习软件企业 D076 担任客户入门助理。"
+    },
+    {
+      "en": "Moved to customer education assistant at the same employer from 2023-07 to 2026-08; this was a role change, not a second concurrent paid job.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-07 至 2026-08 在同一雇主转任客户教育助理；这是岗位变更，而非第二份并行有偿工作。"
+    },
+    {
+      "en": "In the earlier role, scheduled onboarding calls and distributed approved setup instructions.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在早期岗位安排入门电话，并分发获批设置说明。"
+    },
+    {
+      "en": "In the education role, coordinated webinar calendars and maintained attendee-registration records.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在教育岗位协调网络研讨会日历，并维护参与者报名记录。"
+    },
+    {
+      "en": "Used spreadsheet filters and the webinar platform to check registrations and send approved reminders.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "使用电子表格筛选及网络研讨会平台检查报名并发送获批提醒。"
+    },
+    {
+      "en": "Worked with a trainer to revise a beginner workbook during 2024-10 to 2025-01.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在 2024-10 至 2025-01 与培训师合作修订初学者工作手册。"
+    },
+    {
+      "en": "The candidate edited navigation instructions and checked screenshots; the trainer authored learning objectives and approved teaching content.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "候选人编辑导航说明并检查截图；培训师撰写学习目标并批准教学内容。"
+    },
+    {
+      "en": "Across 8 sessions in 2025-Q1, 11 of 96 returned forms flagged unclear navigation, compared with 20 of 90 forms in the preceding 8 sessions; session audiences differed.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "在 2025-Q1 的 8 场课程中，收回的 96 份表格有 11 份指出导航不清，之前 8 场的 90 份表格中有 20 份；课程受众不同。"
+    },
+    {
+      "en": "The form comparison is a descriptive team observation, not proof that the workbook caused learning gains.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "表格比较是团队描述性观察，不证明工作手册导致学习进步。"
+    },
+    {
+      "en": "Coordinated delivery of 4 approved refresher webinars in 2026-02, handling invitations and attendance rather than teaching.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "在 2026-02 协调交付 4 场获批复习网络研讨会，负责邀请及出勤，而非授课。"
+    },
+    {
+      "en": "Drafted a self-paced course storyboard in 2026-05; it was reviewed but never published or recorded.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-05 起草自主学习课程分镜；经审阅但从未发布或录制。"
+    },
+    {
+      "en": "Prepared accessible text summaries of video instructions for trainer review.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "准备视频说明的易读文本摘要，供培训师审阅。"
+    },
+    {
+      "en": "At the 2025-09 launch peak, coordinated 7 webinar sessions monthly; the normal 2026-08 schedule was 3.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "在 2025-09 发布高峰期，每月协调 7 场网络研讨会；2026-08 常规安排为 3 场。"
+    },
+    {
+      "en": "Completed a 2025-11 short course on learning objectives using fictional lesson examples; it was not employment or a teaching licence.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2025-11 完成使用虚构课程示例的学习目标短课；并非任职或教学执照。"
+    },
+    {
+      "en": "Volunteered for Fictional Language Circle V076 on Saturdays from 2024-03 to 2024-12 while retaining the paid education role.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2024-03 至 2024-12 保留有偿教育岗位期间，星期六在虚构语言社团 V076 志愿服务。"
+    },
+    {
+      "en": "At the circle, arranged room bookings and shared conversation prompts; no formal learner assessment was performed.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "在该社团安排房间预约并分享对话提示；未执行正式学员评估。"
+    },
+    {
+      "en": "Created a personal illustrated guide to imaginary train stations in 2022; it was unrelated to customer training.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2022 年制作个人虚构车站插画指南；与客户培训无关。"
+    },
+    {
+      "en": "Keeps a home herb-drying notebook as a hobby, without selling products.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "以爱好方式保留家庭香草干燥笔记，不销售产品。"
+    },
+    {
+      "en": "Logged unanswered attendee questions and routed product questions to support specialists.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "记录未回答的参与者问题，并将产品问题转交支持专家。"
+    },
+    {
+      "en": "A draft biography calls the candidate a certified instructional designer, but the retained evidence is only the short-course completion notice.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "一份简介草稿称候选人为认证教学设计师，但留存证据仅为短课结业通知。"
+    },
+    {
+      "en": "No independent course assessment design, video production ownership or trainer-management authority is recorded.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录独立课程评估设计、视频制作负责或培训师管理权限。"
+    }
+  ]
+}

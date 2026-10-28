@@ -1,0 +1,33 @@
+{
+  "case_id": "case-074",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Project Administration Coordinator",
+    "zh": "项目行政协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain project action logs and milestone records.",
+      "id": "R01",
+      "zh": "维护项目行动日志及里程碑记录。"
+    },
+    {
+      "en": "Coordinate meetings, reminders, and shared project documents.",
+      "id": "R02",
+      "zh": "协调会议、提醒及共享项目文档。"
+    },
+    {
+      "en": "Escalate overdue decisions to project owners.",
+      "id": "R03",
+      "zh": "将逾期决策上报项目责任人。"
+    },
+    {
+      "en": "Approve project budgets and negotiate contracts.",
+      "id": "R04",
+      "zh": "批准项目预算并协商合同。"
+    }
+  ]
+}

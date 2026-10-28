@@ -1,7 +1,0 @@
-{
-  "version": 13,
-  "previous_case": "case-012",
-  "previous_evaluation_sha256": "713a3265f1c69562e8e6066c76910b7032ee437febc6002ca8aa84cb1b23f06f",
-  "changes": [],
-  "reason": "Case012 reviewer found no new repair. Continue evidence boundaries and completed-action checks; source-manifest capture now referenced prospectively, not backdated for011/012."
-}

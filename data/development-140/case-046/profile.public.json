@@ -1,0 +1,119 @@
+{
+  "case_id": "case-046",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-046",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-046",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Communication at Fictional Institute D046 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D046 完成传播学文学学士学位。"
+    },
+    {
+      "en": "Worked as a product support analyst at Fictional Software Cooperative D046 from 2021-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-02 至 2026-08 在虚构软件合作社 D046 担任产品支持分析师。"
+    },
+    {
+      "en": "Tagged customer feedback from support tickets and prepared a weekly issue digest for the product manager.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为支持工单中的客户反馈添加标签，并为产品经理准备每周问题摘要。"
+    },
+    {
+      "en": "Used spreadsheet pivots and a shared issue tracker to separate feature requests from defects; engineers confirmed defect classifications.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用电子表格数据透视表和共享问题跟踪系统区分功能请求与缺陷；工程师确认缺陷分类。"
+    },
+    {
+      "en": "Co-designed a feedback taxonomy with a support lead and tested it on 160 tickets from 2025-04.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "与支持负责人共同设计反馈分类法，并在 2025-04 的 160 个工单上测试。"
+    },
+    {
+      "en": "In the same 160-ticket review, uncategorized tickets fell from 38 before retagging to 11 afterward; this measures backlog classification, not product satisfaction.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在同一批 160 个工单复查中，未分类工单从重新标记前的 38 个降至之后的 11 个；该指标衡量积压分类情况，而非产品满意度。"
+    },
+    {
+      "en": "Assembled release-readiness checklists and collected approvals; the product manager made release decisions.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "整理发布准备清单并收集审批；产品经理作出发布决定。"
+    },
+    {
+      "en": "Coordinated a 2026-02 internal trial of revised release notes with 8 support colleagues and recorded their comments.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "在 2026-02 协调新版发布说明内部试用，8 名支持同事参与，并记录其意见。"
+    },
+    {
+      "en": "Drafted an automated feedback-routing proposal in 2026-05; no production automation was deployed.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-05 起草反馈自动分流提案；未部署生产自动化。"
+    },
+    {
+      "en": "Read SQL query outputs provided by an analyst but did not independently author production SQL.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "阅读分析师提供的 SQL 查询输出，但未独立编写生产 SQL。"
+    },
+    {
+      "en": "At the 2025-11 launch peak, tracked 5 release checklists concurrently; the normal 2026-08 allocation was 2.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2025-11 发布高峰期同时跟踪 5 份发布清单；2026-08 的常规分工为 2 份。"
+    },
+    {
+      "en": "Volunteered as a puzzle-club session organizer at Fictional Club V046 from 2024-03 to 2024-11 on weekends while employed.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "2024-03 至 2024-11 任职期间，周末在虚构社团 V046 志愿组织解谜活动。"
+    },
+    {
+      "en": "Built a personal spreadsheet catalog of board-game rules; it was not a customer product.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "建立个人桌游规则电子表格目录；该目录不是面向客户的产品。"
+    },
+    {
+      "en": "Wrote concise handover notes and maintained a glossary of product terminology for new support colleagues.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "撰写简明交接记录，并为新支持同事维护产品术语表。"
+    },
+    {
+      "en": "Did not own a product roadmap, pricing decisions or engineering headcount.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "未负责产品路线图、定价决策或工程人员编制。"
+    },
+    {
+      "en": "A draft self-review says launch delays fell by 20%, but no comparable launch baseline is attached.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份自评草稿称发布延误减少 20%，但未附可比发布基线。"
+    },
+    {
+      "en": "A portfolio heading says Product Operations Manager, while the appointment record says product support analyst.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "作品集标题写为产品运营经理，而聘任记录写为产品支持分析师。"
+    },
+    {
+      "en": "The confirmed reporting line was to the support lead, with no hiring or performance-review authority.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "经确认的汇报对象为支持负责人，无招聘或绩效评审权限。"
+    }
+  ]
+}

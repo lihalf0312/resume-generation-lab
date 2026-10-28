@@ -1,0 +1,59 @@
+{
+  "case_id": "case-028",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-028",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-028",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Event Administration at Fictional Institute D028 in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构院校 D028 完成活动行政专科学历。"
+    },
+    {
+      "en": "Worked as a community venue bookings assistant at Fictional Venue D028 from 2022-10 to 2026-04.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-10 至 2026-04 在虚构场地 D028 担任社区场地预约助理。"
+    },
+    {
+      "en": "Confirmed room bookings by email and recorded equipment requests in a shared calendar.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "通过电子邮件确认房间预约，并在共享日历记录设备需求。"
+    },
+    {
+      "en": "Explained published cancellation terms and escalated refund exceptions to the venue manager.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "解释已公布的取消条款，并将退款例外情况转交场地经理。"
+    },
+    {
+      "en": "Created a confirmation-email checklist covering dates, room setup and contact instructions.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "创建确认邮件清单，涵盖日期、房间布置及联系说明。"
+    },
+    {
+      "en": "Used calendar software and spreadsheet filters; the source records no hotel property-management system experience.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "使用日历软件和电子表格筛选功能；来源未记录酒店物业管理系统经验。"
+    },
+    {
+      "en": "Volunteered at 4 fictional local arts events in 2025, greeting attendees and directing them to rooms.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "2025 年在 4 场虚构本地艺术活动中担任志愿者，迎接参与者并指引其前往房间。"
+    },
+    {
+      "en": "No occupancy, sales-conversion or guest-satisfaction improvement metric is available.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未提供入住率、销售转化率或宾客满意度改善指标。"
+    }
+  ]
+}

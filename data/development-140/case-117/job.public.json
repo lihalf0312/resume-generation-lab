@@ -1,0 +1,28 @@
+{
+  "case_id": "case-117",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community League Fixtures Coordinator",
+    "zh": "社区联赛赛程协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate fixture and venue notices, including postponements and cancellations.",
+      "id": "R01",
+      "zh": "维护准确的赛程及场地通知，包括延期与取消。"
+    },
+    {
+      "en": "Coordinate availability and follow up on communication with teams and match officials.",
+      "id": "R02",
+      "zh": "协调可用时间，并跟进与球队及赛事裁判人员的沟通。"
+    },
+    {
+      "en": "Independently construct and approve a full-season pitch allocation that resolves team and venue constraints.",
+      "id": "R03",
+      "zh": "独立编制并批准解决球队与场地限制的完整赛季球场安排。"
+    }
+  ]
+}

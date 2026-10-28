@@ -1,0 +1,119 @@
+{
+  "case_id": "case-045",
+  "creation_batch": "development-001-extension-005",
+  "identity_id": "synthetic-person-045",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-045",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a laboratory support diploma at Fictional Pebblewave College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构砾浪学院完成实验室支持文凭课程。"
+    },
+    {
+      "en": "Attended internal chemical-label awareness training in 2024-03; it was not a laboratory analyst licence.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "参加 2024-03 内部化学品标签意识培训；不是实验室分析员执照。"
+    },
+    {
+      "en": "Stockroom trainee at Fictional Material Bench, 2023-08 to 2024-06.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-08 至 2024-06 在虚构材料工作台机构任库房见习员。"
+    },
+    {
+      "en": "Laboratory logistics assistant at Fictional Material Bench, 2024-07 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2024-07 至 2026-09 在虚构材料工作台机构任实验室物流助理。"
+    },
+    {
+      "en": "Logs receipt dates and supplier lot numbers for sealed consumables; scientists decide suitability for experiments.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "登记密封耗材的收货日期及供应商批号；是否适用于实验由科学人员决定。"
+    },
+    {
+      "en": "Tracked 73 active consumable lines in 2026-09; the 2025-10 project peak was 108 lines.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-09 跟踪 73 条活跃耗材品目；2025-10 项目高峰为 108 条。"
+    },
+    {
+      "en": "Worked with a laboratory technician on a stock-expiry register during 2025-01 to 2025-02.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-01 至 2025-02 与实验室技术员共同制作库存到期登记表。"
+    },
+    {
+      "en": "Personally entered date rules and item identifiers; the technician approved storage categories.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人录入日期规则及物品标识；储存类别由技术员批准。"
+    },
+    {
+      "en": "The team found expired labels on 2 of 80 checked items in 2025-04 versus 6 of 75 in 2024-12; different item sets prevent a causal conclusion.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队发现，2025-04 检查的 80 件物品中有 2 件标签过期，2024-12 检查的 75 件中为 6 件；物品集合不同，不能得出因果结论。"
+    },
+    {
+      "en": "Drafted a barcode check-in proposal in 2026-03; no scanner purchase or deployment had occurred by 2026-09.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-03 起草条码登记提案；截至 2026-09 未采购扫描器或部署。"
+    },
+    {
+      "en": "Uses spreadsheets, supplier packing lists, and revision-controlled inventory forms.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格、供应商装箱单及版本受控库存表。"
+    },
+    {
+      "en": "Reports damaged packaging to the laboratory technician without opening unknown containers or performing tests.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "向实验室技术员报告包装破损，不打开未知容器或执行检测。"
+    },
+    {
+      "en": "In 2025-07, built a personal index of 19 fictional model-kit parts unrelated to laboratory stock.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2025-07 制作包含 19 件虚构模型零件的个人索引，与实验室库存无关。"
+    },
+    {
+      "en": "Enjoys assembling paper models and tending balcony plants.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好组装纸模型及照料阳台植物。"
+    },
+    {
+      "en": "Volunteered at Fictional Puzzle Evening in 2024-11 outside scheduled working hours.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2024-11 在排定工作时间以外，为虚构拼图之夜活动做志愿者。"
+    },
+    {
+      "en": "A draft recommendation says performed assays; task logs record consumable receipt only, leaving assay experience unconfirmed.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份推荐草稿称执行测定；任务日志仅记录耗材收货，因此测定经验未经确认。"
+    },
+    {
+      "en": "A copied spreadsheet header says inventory accuracy 99% without a count or date; the percentage is unverified.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "复制的电子表格表头称库存准确率 99%，但无数量或日期；该百分比未经核实。"
+    },
+    {
+      "en": "No analytical method validation, equipment calibration authority, or independent hazardous-material handling is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录分析方法验证、设备校准权限或独立危险物料处理经历。"
+    }
+  ]
+}

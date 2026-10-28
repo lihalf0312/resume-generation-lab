@@ -1,0 +1,33 @@
+{
+  "case_id": "case-064",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Email Campaign Coordinator",
+    "zh": "电子邮件营销活动协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Build and quality-check approved email campaigns.",
+      "id": "R01",
+      "zh": "制作并质量检查经批准的邮件活动。"
+    },
+    {
+      "en": "Report click rates with clear denominators.",
+      "id": "R02",
+      "zh": "以明确分母报告点击率。"
+    },
+    {
+      "en": "Apply approved suppression lists.",
+      "id": "R03",
+      "zh": "应用经批准的抑制名单。"
+    },
+    {
+      "en": "Execute randomized campaign experiments.",
+      "id": "R04",
+      "zh": "执行随机营销活动实验。"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "case_id": "case-052",
+  "creation_batch": "development-001-extension-006",
+  "identity_id": "synthetic-person-052",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-052",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an operations administration diploma at Fictional Fernsignal Institute in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构蕨讯学院完成运营行政文凭课程。"
+    },
+    {
+      "en": "Completed a spreadsheet workshop in 2023-11; no external certification was issued.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2023-11 完成电子表格工作坊；未颁发外部认证。"
+    },
+    {
+      "en": "Service intake assistant at Fictional Parcel Lantern, 2020-09 to 2023-06.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2020-09 至 2023-06 在虚构包裹灯笼机构任服务受理助理。"
+    },
+    {
+      "en": "Service operations coordinator at Fictional Parcel Lantern, 2023-07 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-07 至 2026-09 在虚构包裹灯笼机构任服务运营协调员。"
+    },
+    {
+      "en": "Maintains request status and routes exceptions to service leads using an approved routing sheet.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用经批准的分派表维护请求状态，并将异常转交服务负责人。"
+    },
+    {
+      "en": "The active queue held 43 requests in 2026-09; the 2025-12 peak snapshot held 76, not an annual total.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-09 活跃队列有 43 个请求；2025-12 高峰快照为 76 个，并非全年总量。"
+    },
+    {
+      "en": "Co-designed a request-completeness check with a service lead in 2025-02.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-02 与服务负责人共同设计请求完整度检查。"
+    },
+    {
+      "en": "Personally built spreadsheet dropdowns and reminder flags; the lead approved routing categories.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人制作电子表格下拉列表及提醒标记；分派类别由负责人批准。"
+    },
+    {
+      "en": "A 2025-04 check found complete owner fields in 27 of 32 sampled requests, compared with 18 of 30 in 2025-01; samples differed.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "2025-04 检查发现，抽样 32 个请求中有 27 个责任人字段完整；2025-01 抽样 30 个中为 18 个；样本不同。"
+    },
+    {
+      "en": "Drafted a self-service intake form in 2026-05; it was not released by 2026-09.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草自助受理表；截至 2026-09 未发布。"
+    },
+    {
+      "en": "Uses spreadsheet filters, shared inbox tags, and documented escalation notes.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格筛选、共享收件箱标签及有记录的升级处理笔记。"
+    },
+    {
+      "en": "Communicates status updates without promising resolution dates beyond the lead-approved schedule.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "传达状态更新，不承诺超出负责人批准排期的解决日期。"
+    },
+    {
+      "en": "Built a personal aquarium feeding log in 2024-08; it was unrelated to service queues.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-08 制作个人水族箱喂养日志；与服务队列无关。"
+    },
+    {
+      "en": "Enjoys origami and evening walks.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好折纸和晚间散步。"
+    },
+    {
+      "en": "An unsigned handover says queue owner, but the approved role record describes coordinator support; final ownership is unclear.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "一份未署名交接称队列负责人，但批准的岗位记录为协调支持；最终责任不明确。"
+    },
+    {
+      "en": "A course reminder mentions SQL training but has no attendance record; completion is unconfirmed.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一条课程提醒提及 SQL 培训，但无出勤记录；完成情况未经确认。"
+    },
+    {
+      "en": "No resolution-time reduction, cost savings, or revenue effect was measured for the completeness check.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "完整度检查未测量解决时间缩短、成本节省或收入影响。"
+    }
+  ]
+}

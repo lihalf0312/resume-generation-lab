@@ -1,0 +1,28 @@
+{
+  "case_id": "case-115",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Microgrant Payments Records Coordinator",
+    "zh": "小额资助付款记录协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain award and payment records with clear links to supporting documentation.",
+      "id": "R01",
+      "zh": "维护资助及付款记录，并清晰关联支持文档。"
+    },
+    {
+      "en": "Reconcile paid amounts against approved awards and identify scheduled future instalments separately.",
+      "id": "R02",
+      "zh": "将已付金额与获批资助核对，并单独识别计划中的未来分期款。"
+    },
+    {
+      "en": "Report missing documents and upcoming payment milestones without making award or payment-approval decisions.",
+      "id": "R03",
+      "zh": "报告缺失文件及即将到来的付款里程碑，不作出资助授予或付款批准决定。"
+    }
+  ]
+}

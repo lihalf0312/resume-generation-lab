@@ -1,0 +1,33 @@
+{
+  "case_id": "case-061",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Junior Business Analyst",
+    "zh": "初级业务分析师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Document business processes and stakeholder questions.",
+      "id": "R01",
+      "zh": "记录业务流程及利益相关者问题。"
+    },
+    {
+      "en": "Maintain traceability and change-request records.",
+      "id": "R02",
+      "zh": "维护可追溯性及变更请求记录。"
+    },
+    {
+      "en": "Use spreadsheets and process diagrams.",
+      "id": "R03",
+      "zh": "使用电子表格及流程图。"
+    },
+    {
+      "en": "Query production data using SQL.",
+      "id": "R04",
+      "zh": "使用 SQL 查询生产数据。"
+    }
+  ]
+}

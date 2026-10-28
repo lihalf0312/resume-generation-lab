@@ -1,0 +1,33 @@
+{
+  "case_id": "case-076",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Customer Education Coordinator",
+    "zh": "客户教育协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate customer learning sessions and participant communications.",
+      "id": "R01",
+      "zh": "协调客户学习课程及参与者沟通。"
+    },
+    {
+      "en": "Maintain clear learning-support materials with expert review.",
+      "id": "R02",
+      "zh": "在专家审阅下维护清晰学习支持材料。"
+    },
+    {
+      "en": "Summarize feedback without overstating learning impact.",
+      "id": "R03",
+      "zh": "汇总反馈，不夸大学习影响。"
+    },
+    {
+      "en": "Independently design and validate learning assessments.",
+      "id": "R04",
+      "zh": "独立设计并验证学习评估。"
+    }
+  ]
+}

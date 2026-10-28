@@ -1,0 +1,143 @@
+{
+  "case_id": "case-071",
+  "creation_batch": "development-001-extension-008",
+  "identity_id": "synthetic-person-071",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-071",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a publishing diploma at Fictional Quartzleaf Academy in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构石英叶学院完成出版文凭课程。"
+    },
+    {
+      "en": "Attended a 2024-03 introductory structured-authoring course; attendance did not confer an advanced qualification.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "参加 2024-03 结构化写作入门课程；出勤不授予高级资格。"
+    },
+    {
+      "en": "Records clerk at Fictional Ink Orchard, 2019-09 to 2021-12.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2019-09 至 2021-12 在虚构墨果园机构任记录文员。"
+    },
+    {
+      "en": "Documentation assistant at Fictional Ink Orchard, 2022-01 to 2024-06.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2022-01 至 2024-06 在虚构墨果园机构任文档助理。"
+    },
+    {
+      "en": "Documentation coordinator at Fictional Ink Orchard, 2024-07 to 2026-09; these roles form continuous employment at the same fictional employer.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2024-07 至 2026-09 在虚构墨果园机构任文档协调员；上述岗位构成在同一虚构雇主的连续任职。"
+    },
+    {
+      "en": "As a records clerk, filed purchase receipts rather than writing technical instructions.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "任记录文员时归档采购收据，并非撰写技术说明。"
+    },
+    {
+      "en": "In the coordinator role, maintains release-note drafts and routes technical statements to engineers.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "任协调员期间维护发布说明草稿，并将技术表述转交工程师。"
+    },
+    {
+      "en": "Tracks reviewer responses for 19 active guides in 2026-09; a migration peak involved 31 guides in 2025-02.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "2026-09 跟踪 19 份活跃指南的审阅回复；2025-02 迁移高峰涉及 31 份指南。"
+    },
+    {
+      "en": "Joined an installation-guide revision with an engineer and editor during 2025-05 to 2025-07.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-05 至 2025-07 与工程师及编辑共同参与安装指南修订。"
+    },
+    {
+      "en": "Personally reorganized headings and wrote screenshot captions for 14 sections; the engineer approved procedural accuracy.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人为 14 个章节重组标题并撰写截图说明；操作准确性由工程师批准。"
+    },
+    {
+      "en": "Reviewers accepted 11 of 14 sections on the first review in 2025-08; no support-ticket reduction was measured.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "审阅人员在 2025-08 首次审核中接受 14 个章节中的 11 个；未测量支持工单减少。"
+    },
+    {
+      "en": "Published the approved guide revision to the internal documentation site in 2025-09 after editor authorization.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "经编辑授权后，于 2025-09 将获批指南修订发布至内部文档网站。"
+    },
+    {
+      "en": "Drafted a public API quick-start outline in 2026-02; no engineer had validated or published it by 2026-09.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2026-02 起草公开 API 快速入门大纲；截至 2026-09 尚无工程师验证或发布。"
+    },
+    {
+      "en": "Uses Markdown, Git-based document changes, and issue links.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用 Markdown、基于 Git 的文档变更及问题链接。"
+    },
+    {
+      "en": "Checks broken links and heading hierarchy before technical review.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "技术审核前检查失效链接及标题层级。"
+    },
+    {
+      "en": "In the structured-authoring course, tagged a fictional appliance instruction sample; this was coursework, not employer delivery.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "在结构化写作课程中为虚构家电说明样本添加标记；此为课程作业，并非雇主交付。"
+    },
+    {
+      "en": "Volunteered for Fictional Paper Lantern Festival on 2025-10 weekends while retaining the paid coordinator role.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2025-10 周末为虚构纸灯节做志愿者，同时保持有薪协调员岗位。"
+    },
+    {
+      "en": "At the festival, arranged printed signs from organizer-provided text; this was not software documentation.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "在节庆活动中根据组织方提供的文字布置印刷指示牌；此非软件文档工作。"
+    },
+    {
+      "en": "Created a personal illustrated atlas of 16 imaginary islands in 2023-11.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2023-11 制作包含 16 座假想岛屿的个人插画地图集。"
+    },
+    {
+      "en": "Enjoys folding paper boats and studying cloud shapes.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好折纸船及观察云形。"
+    },
+    {
+      "en": "An unsigned summary calls the guide independently authored; the approved project log names shared engineering and editorial work.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "一份未署名总结称指南为独立撰写；批准项目日志记载共同的工程及编辑工作。"
+    },
+    {
+      "en": "No independent API verification or software release authority is documented.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录独立 API 验证或软件发布权限。"
+    }
+  ]
+}

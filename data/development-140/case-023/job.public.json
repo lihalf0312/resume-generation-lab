@@ -1,0 +1,33 @@
+{
+  "case_id": "case-023",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Patient Scheduling Assistant",
+    "zh": "患者预约助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Schedule and reschedule patient appointments.",
+      "id": "R01",
+      "zh": "安排及调整患者预约。"
+    },
+    {
+      "en": "Follow privacy-conscious identity checks.",
+      "id": "R02",
+      "zh": "遵循注重隐私的身份核对流程。"
+    },
+    {
+      "en": "Communicate appointment reminders by telephone.",
+      "id": "R03",
+      "zh": "通过电话传达预约提醒。"
+    },
+    {
+      "en": "Process insurance claim submissions independently.",
+      "id": "R04",
+      "zh": "独立处理保险理赔申报。"
+    }
+  ]
+}

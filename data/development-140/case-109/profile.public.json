@@ -1,0 +1,131 @@
+{
+  "case_id": "case-109",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-109",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-109",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a logistics administration diploma at Fictional Silvermoss College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构银苔学院完成物流行政文凭课程。"
+    },
+    {
+      "en": "Worked as a paid dispatch assistant at Fictional Lanternwheel Hire, starting in 2021 and ending in 2024-02; the start month is not recorded.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "在虚构灯轮租赁公司任有薪调度助理，2021 年开始，2024-02 结束；开始月份未记录。"
+    },
+    {
+      "en": "The retained employment letter confirms the start year and the end month but gives no exact start date.",
+      "id": "F03",
+      "kind": "other",
+      "zh": "留存的雇佣证明信确认开始年份及结束月份，但未给出准确开始日期。"
+    },
+    {
+      "en": "Maintained equipment booking sheets and matched collection windows to customer requests.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "维护设备预订表，并将取货窗口与客户请求匹配。"
+    },
+    {
+      "en": "Checked returned-item identifiers and escalated condition discrepancies to the depot supervisor.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "检查归还设备编号，并将状况差异上报库场主管。"
+    },
+    {
+      "en": "Helped test a dispatch checklist during spring 2023; the source note does not identify a month.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2023 年春季协助测试调度核对表；来源备注未指明月份。"
+    },
+    {
+      "en": "Personally tested booking-reference and return-date fields using 18 invented examples.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "个人使用 18 个虚构示例测试预订编号及归还日期字段。"
+    },
+    {
+      "en": "The depot supervisor approved the checklist; the candidate did not design equipment-safety procedures.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "库场主管批准该核对表；候选人未设计设备安全流程。"
+    },
+    {
+      "en": "A review note dated 2023-07 records 24 of 26 sampled bookings with complete collection-window fields; it does not give the checklist launch date.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "日期为 2023-07 的审核备注记录：26 份抽样预订中有 24 份取货窗口字段完整；未给出核对表启用日期。"
+    },
+    {
+      "en": "Paid booking administrator at Fictional Cloudspindle Rentals from 2024-04 to 2026-08.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "2024-04 至 2026-08 在虚构云纺租赁公司任有薪预订管理员。"
+    },
+    {
+      "en": "At Cloudspindle, prepared daily dispatch lists and updated changed collection windows.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在云纺公司准备每日调度清单，并更新变更的取货窗口。"
+    },
+    {
+      "en": "Sent booking confirmations from approved templates and recorded unresolved questions.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "依据获批模板发送预订确认，并记录待解决问题。"
+    },
+    {
+      "en": "Uses shared calendars, spreadsheet validation lists and booking-system exports.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用共享日历、电子表格验证列表及预订系统导出文件。"
+    },
+    {
+      "en": "Created an internal export-format checklist in 2025-03, covering duplicate booking references and blank return dates.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2025-03 制作内部导出格式核对表，涵盖重复预订编号及空白归还日期。"
+    },
+    {
+      "en": "Provided handover notes to the evening booking clerk without supervising that clerk.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "向晚班预订文员提供交接备注，不负责管理该文员。"
+    },
+    {
+      "en": "Completed an internal customer-message workshop in 2025; no external service qualification was issued.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2025 年完成内部客户信息培训；未颁发外部服务资格。"
+    },
+    {
+      "en": "Volunteered at Fictional Buttonbridge Toy Exchange in 2020-11, checking board-game component lists.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2020-11 在虚构纽扣桥玩具交换活动中做志愿者，核对桌游组件清单。"
+    },
+    {
+      "en": "Built a personal board-game lending spreadsheet in 2022; it was separate from either employer.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2022 年制作个人桌游借用电子表格；与两家雇主均无关。"
+    },
+    {
+      "en": "Enjoys repairing cardboard game boxes.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好修补纸板游戏盒。"
+    },
+    {
+      "en": "No equipment-safety certification or depot staff-management responsibility is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录设备安全认证或库场人员管理职责。"
+    }
+  ]
+}

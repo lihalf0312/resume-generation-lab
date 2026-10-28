@@ -4,15 +4,18 @@ import re
 from pathlib import Path
 from .core import SECRET_PATTERNS, load_records, public_gate, write_json
 
-# Only these code/docs directories may be proposed. Research is manually reviewed
-# separately; raw downloads, private runs, arbitrary files are never swept in.
+# Only these explicit generic code/docs assets may be proposed. Dataset and research
+# publication require separate explicit review; this allowlist never sweeps them in.
+# Raw downloads, private runs and arbitrary files are excluded.
 REVIEWABLE_FILES = {
-    "README.md", "STATUS.md", ".gitignore", "docs/SCHEMA.md",
+    "README.md", "STATUS.md", "DEVELOPMENT_PROGRESS.md", ".gitignore",
+    "docs/PUBLIC_DATASET.md",
     "resume_pipeline/__init__.py", "resume_pipeline/__main__.py",
     "resume_pipeline/core.py", "resume_pipeline/evaluator.py", "resume_pipeline/release.py",
-    "tests/test_pipeline.py", "fixtures/synthetic.jsonl",
-    "resume_pipeline/skill_adapter.py", "resume_pipeline/format_contract.py", "tests/test_skill_adapter.py",
-    "resume_pipeline/preferences.py", "docs/SKILL_MIGRATION.md", "docs/skill-migration-source-hashes.json",
+    "resume_pipeline/skill_adapter.py", "resume_pipeline/format_contract.py",
+    "resume_pipeline/preferences.py", "resume_pipeline/judge_view.py", "resume_pipeline/public_dataset.py",
+    "tests/test_pipeline.py", "tests/test_public_skill_adapter.py",
+    "tests/test_judge_view.py", "tests/test_public_dataset.py", "fixtures/synthetic.jsonl",
     "skills/resume-generation/SKILL.md", "skills/resume-generation/references/workspace.md",
     "skills/resume-generation/references/layout-and-qa.md", "skills/resume-generation/assets/resume-preferences.json",
     "skills/resume-generation/agents/openai.yaml",

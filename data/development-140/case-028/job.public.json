@@ -1,0 +1,33 @@
+{
+  "case_id": "case-028",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Guest Reservations Coordinator",
+    "zh": "宾客预订协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Confirm guest reservations accurately in writing.",
+      "id": "R01",
+      "zh": "以书面形式准确确认宾客预订。"
+    },
+    {
+      "en": "Explain cancellation policies and escalate exceptions.",
+      "id": "R02",
+      "zh": "解释取消政策并上报例外情况。"
+    },
+    {
+      "en": "Provide a welcoming service to visitors.",
+      "id": "R03",
+      "zh": "为来访者提供友善服务。"
+    },
+    {
+      "en": "Use a hotel property-management system for room inventory.",
+      "id": "R04",
+      "zh": "使用酒店物业管理系统管理客房库存。"
+    }
+  ]
+}

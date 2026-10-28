@@ -1,0 +1,33 @@
+{
+  "case_id": "case-102",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Outdoor Learning Operations Assistant",
+    "zh": "户外学习运营助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain participant, transport and equipment records for day programmes.",
+      "id": "R01",
+      "zh": "维护日间项目的参与者、交通及器材记录。"
+    },
+    {
+      "en": "Communicate schedule changes using approved wording.",
+      "id": "R02",
+      "zh": "使用获批措辞沟通排期变更。"
+    },
+    {
+      "en": "Use spreadsheets and maintain equipment-return documentation.",
+      "id": "R03",
+      "zh": "使用电子表格并维护器材归还文档。"
+    },
+    {
+      "en": "Preferred, not required: a currently valid fictional Trail Response Awareness certificate.",
+      "id": "R04",
+      "zh": "优先但非必需：当前有效的虚构“步道应急意识”证书。"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "case-005",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-005",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-005",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an accounting diploma at Fictional Silver Fern Institute in 2025-07.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2025-07 在虚构银蕨学院完成会计文凭课程。"
+    },
+    {
+      "en": "Accounts intern at Fictional Copper Loom, 2025-08 to 2026-02.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2025-08 至 2026-02 在虚构铜织机构任会计实习生。"
+    },
+    {
+      "en": "Matched supplier invoices to purchase orders and delivery notes under review.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在审核下将供应商发票与采购订单及送货单匹配。"
+    },
+    {
+      "en": "Checked 160 invoice packets during the placement and escalated 19 mismatches; did not approve payments.",
+      "id": "F04",
+      "kind": "outcome",
+      "zh": "实习期间检查 160 份发票资料并上报 19 处不匹配；未审批付款。"
+    },
+    {
+      "en": "Used Excel SUMIFS and filters to maintain an invoice-status log.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "使用 Excel SUMIFS 和筛选维护发票状态日志。"
+    },
+    {
+      "en": "Built a fictional supplier aging workbook for a 2025 coursework exercise.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "为 2025 年课程练习制作虚构供应商账龄工作簿。"
+    },
+    {
+      "en": "Documented rules for grouping unpaid balances by due date in that exercise.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在该练习中记录按到期日对未付款余额分组的规则。"
+    },
+    {
+      "en": "Prepared draft supplier-query emails for a supervisor to send.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "起草供应商询问邮件，由主管发送。"
+    },
+    {
+      "en": "No month-end ledger ownership or ERP implementation experience is documented.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "未记录月末总账负责经历或 ERP 实施经验。"
+    }
+  ]
+}

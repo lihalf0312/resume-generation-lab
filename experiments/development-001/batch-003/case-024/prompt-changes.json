@@ -1,7 +1,0 @@
-{
-  "version": 24,
-  "previous_case": "case-023",
-  "previous_evaluation_sha256": "189ae39dbe88c57c89f50eebd14777f65965bb7bc03935c5b3203c4532233100",
-  "changes": [],
-  "reason": "Case023 reviewer found no new repair. Keep term/course denominators, team attribution and support-request routing boundaries."
-}

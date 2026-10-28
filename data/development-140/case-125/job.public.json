@@ -1,0 +1,28 @@
+{
+  "case_id": "case-125",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Ceramics Studio Operations Assistant",
+    "zh": "陶艺工作室运营助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain traceable learner-piece locations, collection tickets and release notifications.",
+      "id": "R01",
+      "zh": "维护可追溯的学员作品位置、领取票据及交付通知。"
+    },
+    {
+      "en": "Check studio-material stock and maintain clear work-status handovers.",
+      "id": "R02",
+      "zh": "检查工作室材料库存，并维护清晰的作品状态交接记录。"
+    },
+    {
+      "en": "Independently set firing schedules and operate the kiln without technician supervision.",
+      "id": "R03",
+      "zh": "在无技术员监督下独立设置烧制程序并操作陶窑。"
+    }
+  ]
+}

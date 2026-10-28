@@ -1,0 +1,125 @@
+{
+  "case_id": "case-140",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-140",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-140",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a heritage visitor-services diploma at Fictional Fernarch College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构蕨拱学院完成文化遗产游客服务文凭课程。"
+    },
+    {
+      "en": "Paid visitor host at Fictional Rosequill Historic Garden from 2020-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-03 至 2026-08 在虚构玫羽历史花园任有薪访客接待员。"
+    },
+    {
+      "en": "Welcomed visitors at the gate, checked timed-entry tickets and explained the day’s open routes.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在入口欢迎访客、检查定时入场票，并说明当天开放路线。"
+    },
+    {
+      "en": "Used the gardener-approved daily route board to explain closures and step-free options without promising access to closed paths.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据园艺负责人批准的每日路线板，说明封闭路段及无台阶路线，不承诺可进入封闭路径。"
+    },
+    {
+      "en": "Led short garden-history walks using the curator’s approved interpretation notes.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用策展人批准的解说备注，带领简短花园历史导览。"
+    },
+    {
+      "en": "Directed questions outside the approved notes to the curator and logged requested follow-up information.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将超出获批备注范围的问题转交策展人，并记录请求跟进的信息。"
+    },
+    {
+      "en": "Helped refresh the visitor welcome sheet in 2024-04 after a path junction changed.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2024-04 在一个路径交叉口变更后，协助更新访客欢迎页。"
+    },
+    {
+      "en": "Personally checked printed direction arrows against the approved route board; the gardener confirmed path access conditions.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人依据获批路线板核对印刷方向箭头；路径通行状况由园艺负责人确认。"
+    },
+    {
+      "en": "The 2025-06 host rota assigned 18 scheduled history walks to the candidate; it does not record completion or complete visitor headcounts.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "2025-06 的接待排班为候选人安排了 18 次计划历史导览；未记录完成情况或完整访客人数。"
+    },
+    {
+      "en": "Recorded group-arrival times and contacted booked groups when weather-related closures were confirmed by the duty manager.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "记录团队抵达时间，并在值班经理确认天气相关封闭后联系已预订团队。"
+    },
+    {
+      "en": "Kept a daily handover of unresolved visitor questions, borrowed umbrella returns and changed meeting points.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "维护每日交接，记录未解决访客问题、借出雨伞归还及集合点变更。"
+    },
+    {
+      "en": "Uses a ticket scanner, group-booking calendar and printed interpretation prompts.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用验票扫描器、团队预订日历及纸质解说提示。"
+    },
+    {
+      "en": "Completed the garden’s internal visitor-access orientation in 2020-03.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2020-03 完成花园内部访客通行入门培训。"
+    },
+    {
+      "en": "Worked with a colleague to test a revised welcome sheet using 6 fictional visitor questions in 2024-05.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2024-05 与一名同事使用 6 个虚构访客问题，测试修订后的欢迎页。"
+    },
+    {
+      "en": "Personally noted unclear meeting-point wording; the colleague checked the opening-time table.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "个人记录不清晰的集合点措辞；同事检查开放时间表。"
+    },
+    {
+      "en": "Volunteered at Fictional Hazelpage Local History Circle from 2017-09 to 2019-06, arranging photo-display labels supplied by the organizer.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2017-09 至 2019-06 在虚构榛页地方历史社做志愿者，整理组织者提供的照片展示标签。"
+    },
+    {
+      "en": "Created a personal notebook of imagined garden stories and original sketches in 2023; it was fiction, not historical research.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年制作个人笔记，包含想象中的花园故事及原创素描；内容为虚构创作，而非历史研究。"
+    },
+    {
+      "en": "Participates in an amateur shadow-puppet group and helps make paper scenery for informal performances.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "参加业余皮影小组，并协助为非正式表演制作纸质布景。"
+    },
+    {
+      "en": "Enjoys collecting fallen leaves for shape sketches where collection is permitted.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好在允许采集的地点收集落叶，进行形状素描。"
+    }
+  ]
+}

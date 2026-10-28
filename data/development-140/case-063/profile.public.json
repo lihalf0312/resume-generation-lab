@@ -1,0 +1,107 @@
+{
+  "case_id": "case-063",
+  "creation_batch": "development-001-extension-007",
+  "identity_id": "synthetic-person-063",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-063",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a trade administration diploma at Fictional Silverfen Academy in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构银沼学院完成贸易行政文凭课程。"
+    },
+    {
+      "en": "Attended 18 sessions of an introductory Spanish evening course during 2025-02 to 2025-06.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2025-02 至 2025-06 参加西班牙语夜间入门课程 18 次。"
+    },
+    {
+      "en": "Course attendance was recorded, but no language test, proficiency level, or fluency certificate was issued.",
+      "id": "F03",
+      "kind": "education",
+      "zh": "记录了课程出勤，但未提供语言考试、熟练程度等级或流利度证书。"
+    },
+    {
+      "en": "Order filing clerk at Fictional Seaglass Parcel, 2021-09 to 2023-10.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2021-09 至 2023-10 在虚构海玻包裹机构任订单归档文员。"
+    },
+    {
+      "en": "Shipping documentation assistant at Fictional Seaglass Parcel, 2023-11 to 2026-09.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2023-11 至 2026-09 在虚构海玻包裹机构任运输文档助理。"
+    },
+    {
+      "en": "Checks shipment references and item counts across packing lists and approved commercial invoices.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "核对装箱单及已批准商业发票之间的货运参考编号及物品数量。"
+    },
+    {
+      "en": "Requests corrections from the sales coordinator; licensed external agents handle customs filings.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "向销售协调员请求更正；报关由持牌外部代理处理。"
+    },
+    {
+      "en": "Reorganized shipment document folders with a logistics colleague in 2025-04.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-04 与物流同事共同重新整理货运文档文件夹。"
+    },
+    {
+      "en": "Personally standardized file names and added a missing-document flag for 32 active folders.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人统一文件命名，并为 32 个活跃文件夹添加缺失文档标记。"
+    },
+    {
+      "en": "During the 2025-05 check, 28 of 32 folders contained the approved packing list; this is document completeness, not customs-clearance success.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "2025-05 检查时，32 个文件夹中有 28 个包含已批准装箱单；此为文档完整度，而非通关成功率。"
+    },
+    {
+      "en": "Uses spreadsheet comparisons and approved English email templates; technical translation is referred to a reviewer.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格比对及经批准的英文邮件模板；技术翻译转交审阅人员。"
+    },
+    {
+      "en": "Drafted a shipment milestone tracker in 2026-03; it remained a local demonstration rather than a live carrier integration.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-03 起草货运里程碑跟踪表；仍为本地演示，并非实际承运商集成。"
+    },
+    {
+      "en": "Created a personal photo index of 21 imaginary lighthouses in 2024-09.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-09 制作含 21 座假想灯塔的个人照片索引。"
+    },
+    {
+      "en": "Enjoys cooking and assembling wooden puzzles.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好烹饪及拼装木制拼图。"
+    },
+    {
+      "en": "A draft bio describes Spanish fluency solely from course attendance; the proficiency label is unsupported.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "一份简介草稿仅依据课程出勤称西班牙语流利；熟练程度标签缺乏支持。"
+    },
+    {
+      "en": "No customs-broker licence, independent tariff classification, or certified language proficiency is documented.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录报关代理执照、独立关税分类或经认证语言水平。"
+    }
+  ]
+}

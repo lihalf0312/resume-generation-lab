@@ -1,0 +1,131 @@
+{
+  "case_id": "case-136",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-136",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-136",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a retail numeracy and stock-records course at Fictional Bayquill Learning Centre in 2022; the course issued an attendance record, not a trade qualification.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构湾羽学习中心完成零售计算与库存记录课程；课程颁发出勤记录，而非行业资格。"
+    },
+    {
+      "en": "Paid market-stall setup assistant at Fictional Reedlight Produce Market from 2018-04 to 2022-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-04 至 2022-12 在虚构苇光农产市场任有薪摊位布置助理。"
+    },
+    {
+      "en": "In that role, set out empty crates, posted supplier-prepared price cards and cleared the stall after trading.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该岗位摆放空筐、张贴供应商准备的价格卡，并在营业结束后清理摊位。"
+    },
+    {
+      "en": "Paid order-packing assistant at Fictional Silvergill Fish Market from 2023-02 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-08 在虚构银鳃鱼市场任有薪订单包装助理。"
+    },
+    {
+      "en": "Matched prepared fish packs to customer order numbers and the counter supervisor’s product labels.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将已准备的鱼货包装与客户订单编号及柜台主管的产品标签匹配。"
+    },
+    {
+      "en": "Used a bench scale to record packed-order weights according to the supplied packing sheet.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据所提供包装单，使用台秤记录包装订单重量。"
+    },
+    {
+      "en": "Added the ice packs specified on the packing sheet and kept their count separate from fish product weight.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "加入包装单指定的冰袋，并将冰袋数量与鱼货产品重量分开记录。"
+    },
+    {
+      "en": "Helped reconcile dispatch records for a single wholesale order on 2025-11-14.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-11-14 协助核对一笔批发订单的发货记录。"
+    },
+    {
+      "en": "That order contained 48 kg of prepared fish product and 12 reusable ice packs; the ice packs were not included in the 48 kg product figure.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "该订单包含 48 千克已准备鱼货及 12 个可重复使用冰袋；48 千克产品数值不含冰袋。"
+    },
+    {
+      "en": "Personally matched the order labels and recorded the ice-pack count; the supervisor verified the product identity and approved dispatch.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人匹配订单标签并记录冰袋数量；主管核实产品身份并批准发货。"
+    },
+    {
+      "en": "Recorded customer collection times and passed late-collection queries to the counter supervisor.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "记录客户取货时间，并将延迟取货咨询转交柜台主管。"
+    },
+    {
+      "en": "Set aside packages with missing or unreadable labels pending the supervisor’s review.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "将标签缺失或无法辨认的包装留置，等待主管审核。"
+    },
+    {
+      "en": "Uses printed order tickets, a label printer and spreadsheet totals for end-of-shift order reconciliation.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用纸质订单票据、标签打印机及电子表格汇总进行班末订单核对。"
+    },
+    {
+      "en": "Completed the fish market’s internal packing-area hygiene induction in 2023-02.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2023-02 完成鱼市场内部包装区卫生入职培训。"
+    },
+    {
+      "en": "Restocked clean outer boxes and washed reusable crates under the market’s written cleaning routine.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "按照市场书面清洁流程补充干净外箱，并清洗可重复使用的周转箱。"
+    },
+    {
+      "en": "Volunteered at Fictional Moonbarrow Food-Box Club from 2021-03 to 2021-11, assembling empty donation cartons and checking collection lists.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2021-03 至 2021-11 在虚构月车食品箱社做志愿者，组装空捐赠纸箱并核对领取清单。"
+    },
+    {
+      "en": "Co-organized a second-hand cookbook table at that club with 2 other volunteers; personally made the category signs.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "与另外 2 名志愿者共同组织该社的二手食谱书摊；个人制作分类标牌。"
+    },
+    {
+      "en": "Keeps a personal illustrated notebook of invented market-stall layouts, separate from employer plans.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "保留个人图解笔记，描绘虚构市场摊位布局，与雇主方案分开。"
+    },
+    {
+      "en": "Enjoys weaving small baskets from paper strips.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好用纸条编织小篮子。"
+    },
+    {
+      "en": "The market role was order packing and collection support, not fish preparation, product inspection or health-and-safety sign-off.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "该市场岗位负责订单包装及取货支持，不涉及鱼货加工、产品检验或健康安全签署批准。"
+    }
+  ]
+}

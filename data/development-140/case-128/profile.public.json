@@ -1,0 +1,131 @@
+{
+  "case_id": "case-128",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-128",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-128",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a library services certificate at Fictional Robinglass College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构知更玻璃学院完成图书馆服务证书课程。"
+    },
+    {
+      "en": "Paid part-time library desk assistant at Fictional Duskbrook Library from 2021-01 to 2026-08, contracted for 20 hours per week.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-01 至 2026-08 在虚构暮溪图书馆任有薪兼职柜台助理，合同为每周 20 小时。"
+    },
+    {
+      "en": "At the library, maintained room-booking requests and helped visitors locate reserved materials.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在图书馆维护房间预订请求，并协助访客查找预留资料。"
+    },
+    {
+      "en": "Unpaid rehearsal organizer for Fictional Meadowbell Community Choir from 2023-09 to 2026-06.",
+      "id": "F04",
+      "kind": "other",
+      "zh": "2023-09 至 2026-06 为虚构草铃社区合唱团担任无薪排练组织员。"
+    },
+    {
+      "en": "The choir activity normally occupied one evening each week and was separate from the paid library contract.",
+      "id": "F05",
+      "kind": "other",
+      "zh": "合唱团活动通常每周占用一个晚间，与有薪图书馆合同分开。"
+    },
+    {
+      "en": "Confirmed rehearsal-room bookings and checked the conductor’s and accompanist’s availability.",
+      "id": "F06",
+      "kind": "other",
+      "zh": "确认排练室预订，并核对指挥及伴奏者的可用时间。"
+    },
+    {
+      "en": "Sent rehearsal reminders, recorded absences and relayed schedule changes approved by the conductor.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "发送排练提醒、记录缺席，并转达指挥批准的排期变更。"
+    },
+    {
+      "en": "Distributed conductor-approved score copies supplied by the choir committee and collected them after term.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "分发合唱团委员会提供、经指挥批准的乐谱副本，并在学期结束后收回。"
+    },
+    {
+      "en": "The committee handled copying permissions; the candidate did not obtain or grant music rights.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "复制许可由委员会处理；候选人不取得或授予音乐权利。"
+    },
+    {
+      "en": "Prepared a rehearsal attendance workbook for the 2025 spring term.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "为 2025 年春季学期准备排练出席工作簿。"
+    },
+    {
+      "en": "The workbook recorded 26 registered singers and 174 singer-attendances across 8 rehearsals, including repeat attendance by the same singers.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "该工作簿记录 26 名注册歌手，以及 8 次排练中的 174 人次出席，其中包含同一歌手重复出席。"
+    },
+    {
+      "en": "Personally designed the absence-note and borrowed-score columns; the conductor set rehearsal priorities.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人设计缺席备注及借用乐谱列；排练优先事项由指挥设定。"
+    },
+    {
+      "en": "Uses shared calendars, spreadsheet counts and email lists for choir administration.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用共享日历、电子表格计数及邮件名单处理合唱团行政事务。"
+    },
+    {
+      "en": "Played conductor-supplied backing tracks through a portable speaker during 3 section rehearsals; no mixing desk was used.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "在 3 次声部分组排练中，通过便携音箱播放指挥提供的伴奏音轨；未使用调音台。"
+    },
+    {
+      "en": "Attended a non-award beginner singing workshop in 2022.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2022 年参加不授予资格的初学者歌唱工作坊。"
+    },
+    {
+      "en": "Created illustrated labels for score folders in 2024 as a voluntary choir project.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2024 年作为合唱团志愿项目，为乐谱文件夹制作图解标签。"
+    },
+    {
+      "en": "Helped arrange chairs and the refreshment table at the choir’s informal sharing evening in 2025-06.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2025-06 在合唱团非正式分享晚会上协助摆放座椅及茶点桌。"
+    },
+    {
+      "en": "Made a personal playlist of invented practice-song titles in 2023, with no public release or commercial audience.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2023 年制作个人虚构练习曲目名称播放清单，未公开发行，亦无商业受众。"
+    },
+    {
+      "en": "Enjoys making hand-bound notebooks.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好制作手工装订笔记本。"
+    },
+    {
+      "en": "No paid choral-management role, conducting appointment or live sound-mixing experience is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录有薪合唱团管理岗位、指挥任命或现场调音经历。"
+    }
+  ]
+}

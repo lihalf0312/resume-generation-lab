@@ -1,0 +1,33 @@
+{
+  "case_id": "case-100",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Project Records Administrator",
+    "zh": "项目记录管理员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate project registers and check required metadata.",
+      "id": "R01",
+      "zh": "维护准确项目登记表并检查必填元数据。"
+    },
+    {
+      "en": "Control revisions and preserve approved correction histories.",
+      "id": "R02",
+      "zh": "控制修订版并保留获批更正历史。"
+    },
+    {
+      "en": "Support retrieval requests and weekly status reporting.",
+      "id": "R03",
+      "zh": "支持调阅请求及每周状态报告。"
+    },
+    {
+      "en": "Maintain handover guidance and observe access approval rules.",
+      "id": "R04",
+      "zh": "维护交接指引并遵循访问审批规则。"
+    }
+  ]
+}

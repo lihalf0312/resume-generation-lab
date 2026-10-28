@@ -1,0 +1,131 @@
+{
+  "case_id": "case-132",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-132",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-132",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a digital-image handling certificate at Fictional Irisframe Centre in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构鸢尾帧中心完成数字图像处理证书课程。"
+    },
+    {
+      "en": "Paid scanning assistant at Fictional Copperlight Photo Lab from 2024-02 to 2026-08 on a 3-day weekly contract.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-02 至 2026-08 在虚构铜光照片冲印室任有薪扫描助理，合同为每周 3 天。"
+    },
+    {
+      "en": "Logged supplied print originals by order number and kept them in individually labeled sleeves.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "按订单号登记提供的纸质照片原件，并存入分别标记的保护套。"
+    },
+    {
+      "en": "Scanned prints using resolution and file-format settings specified on the lab’s job sheet.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "使用冲印室工单指定的分辨率及文件格式设置扫描照片。"
+    },
+    {
+      "en": "Checked exported files for missing edges, rotation and filename consistency.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "检查导出文件是否缺边、旋转方向是否正确，以及文件名是否一致。"
+    },
+    {
+      "en": "Flagged torn or heavily faded originals for the senior retoucher rather than promising restoration.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将撕裂或严重褪色的原件标记给高级修图师，而非承诺修复。"
+    },
+    {
+      "en": "Returned originals only after the desk lead confirmed the order’s collection record.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "仅在柜台负责人确认订单领取记录后归还原件。"
+    },
+    {
+      "en": "Uses a flatbed scanner, batch-filename templates and basic image rotation and cropping controls.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "使用平板扫描仪、批量文件名模板及基本图像旋转和裁剪控件。"
+    },
+    {
+      "en": "Prepared a file-count checklist for double-sided postcard scans in 2025-05.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-05 为双面明信片扫描准备文件数量核对表。"
+    },
+    {
+      "en": "A retained practice order used 48 invented postcards and produced 96 image files because both sides were scanned.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "一份留存的练习订单使用 48 张虚构明信片，并因扫描双面而生成 96 个图像文件。"
+    },
+    {
+      "en": "That practice order was not a paid customer batch; the 96 files represent sides rather than 96 distinct physical originals.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该练习订单并非付费客户批次；96 个文件代表各面，而非 96 份不同实物原件。"
+    },
+    {
+      "en": "Attended an internal colour-profile demonstration in 2025; the senior retoucher configured the lab’s colour profiles.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2025 年参加内部色彩配置文件演示；冲印室色彩配置文件由高级修图师配置。"
+    },
+    {
+      "en": "No independent display calibration or advanced image-restoration work is recorded.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "未记录独立显示器校准或高级图像修复工作。"
+    },
+    {
+      "en": "Volunteered with Fictional Paperfern History Circle during 2022-09 to 2023-05.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2022-09 至 2023-05 在虚构纸蕨历史社做志愿者。"
+    },
+    {
+      "en": "For that group, entered captions supplied by contributors into a small display index; contributors retained their originals.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该团体将贡献者提供的图片说明录入小型展示索引；原件由贡献者保留。"
+    },
+    {
+      "en": "The volunteer group’s coordinator selected display material and handled permission questions.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "志愿团体协调员选择展示材料，并处理授权问题。"
+    },
+    {
+      "en": "Created a personal photo study of miniature cardboard houses in 2024 using the candidate’s own models and images.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年使用候选人自制模型及自拍图像，制作微型纸板房屋个人摄影习作。"
+    },
+    {
+      "en": "Showed 4 of those prints at an informal community display; there was no judging panel or recorded award.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "在非正式社区展示中展出其中 4 张照片；没有评审团，亦未记录奖项。"
+    },
+    {
+      "en": "Enjoys designing layered paper frames.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好设计多层纸相框。"
+    },
+    {
+      "en": "Prepared a daily handover list identifying files awaiting retoucher review and originals awaiting collection.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "每日准备交接清单，列明等待修图师审核的文件及等待领取的原件。"
+    }
+  ]
+}

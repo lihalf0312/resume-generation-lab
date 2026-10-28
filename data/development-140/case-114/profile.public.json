@@ -1,0 +1,137 @@
+{
+  "case_id": "case-114",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-114",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-114",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a digital media diploma at Fictional Amberchord College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构琥珀和弦学院完成数字媒体文凭课程。"
+    },
+    {
+      "en": "Provided paid freelance metadata-entry services to Fictional Ribbonnote Distribution under individual project agreements during 2024-03 to 2025-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-03 至 2025-12 按单独项目协议，为虚构丝音发行公司提供有偿自由职业元数据录入服务。"
+    },
+    {
+      "en": "Those agreements describe independent project services, not employee status or continuous monthly work.",
+      "id": "F03",
+      "kind": "other",
+      "zh": "这些协议描述独立项目服务，而非员工身份或每月连续工作。"
+    },
+    {
+      "en": "Entered track titles, artist display names and supplied contributor credits into delivery spreadsheets.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "将曲目名称、艺人显示名称及所提供的贡献者署名录入交付电子表格。"
+    },
+    {
+      "en": "Compared track order and audio filenames with label-approved release sheets.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据唱片公司获批发行表核对曲目顺序及音频文件名。"
+    },
+    {
+      "en": "Flagged missing contributor fields and asked the distributor’s coordinator for clarification.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "标记缺失的贡献者字段，并向发行商协调员请求澄清。"
+    },
+    {
+      "en": "The distributor’s coordinator approved final metadata and authorized submissions to platforms.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "发行商协调员批准最终元数据，并授权向平台提交。"
+    },
+    {
+      "en": "Retained invoices cover metadata delivery for 8 releases involving 6 fictional artists during those agreements.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "留存发票涵盖这些协议期间为 6 名虚构艺人的 8 次发行提供的元数据交付。"
+    },
+    {
+      "en": "A release may contain several tracks; the source records provide no complete total track count.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "一次发行可能包含多首曲目；来源记录未提供完整曲目总数。"
+    },
+    {
+      "en": "Uses spreadsheet validation rules, controlled name lists and file-comparison checklists.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用电子表格验证规则、受控姓名列表及文件比较核对表。"
+    },
+    {
+      "en": "Drafted a contributor-name consistency checklist in 2025-02.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2025-02 起草贡献者姓名一致性核对表。"
+    },
+    {
+      "en": "Used 10 invented examples to test punctuation and spacing rules; the coordinator reviewed the checklist.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "使用 10 个虚构示例测试标点及空格规则；协调员审阅该核对表。"
+    },
+    {
+      "en": "Stored dated delivery versions and itemized correction requests.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "保存带日期的交付版本，并逐项记录更正请求。"
+    },
+    {
+      "en": "The source records do not show access to royalty statements, revenue dashboards or rights contracts.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "来源记录未显示可访问版税报表、收入仪表板或权利合同。"
+    },
+    {
+      "en": "Completed a non-award audio-file formats workshop in 2023.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2023 年完成不授予资格的音频文件格式工作坊。"
+    },
+    {
+      "en": "Created a personal catalogue of imaginary album covers in 2023, with original artwork and invented titles.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2023 年使用原创美术及虚构名称制作个人想象专辑封面目录。"
+    },
+    {
+      "en": "Volunteered to check microphone checkout lists at Fictional Pinebeat Community Radio in 2022-08.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2022-08 志愿为虚构松拍社区电台核对麦克风借出清单。"
+    },
+    {
+      "en": "Enjoys making short recordings of household percussion sounds.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好录制短段家居打击声音。"
+    },
+    {
+      "en": "No songwriting, sound-mastering or royalty-accounting service is documented.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "未记录词曲创作、母带制作或版税核算服务。"
+    },
+    {
+      "en": "Used supplied English titles verbatim and entered supplied Chinese title text without providing translation.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "原样使用所提供的英文名称，并录入所提供的中文名称文字，不提供翻译。"
+    },
+    {
+      "en": "Some project invoices omit a delivery day, although the corresponding delivery email supplies the month.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "部分项目发票省略交付日，但相应交付邮件提供月份。"
+    }
+  ]
+}

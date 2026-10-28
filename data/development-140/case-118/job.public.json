@@ -1,0 +1,38 @@
+{
+  "case_id": "case-118",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Performance Permissions Records Coordinator",
+    "zh": "演出许可记录协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain permission requests and distinguish pending requests from signed permissions.",
+      "id": "R01",
+      "zh": "维护许可申请，并区分待处理申请与已签署许可。"
+    },
+    {
+      "en": "Accurately record contractual territories, dates and performance-count limits.",
+      "id": "R02",
+      "zh": "准确记录合同中的适用地区、日期及演出场次限制。"
+    },
+    {
+      "en": "Track expiries and raise discrepancies in planned performance scope.",
+      "id": "R03",
+      "zh": "跟踪到期事项，并上报计划演出范围中的差异。"
+    },
+    {
+      "en": "Maintain controlled document access and a traceable permissions index.",
+      "id": "R04",
+      "zh": "维护受控文档访问及可追溯许可索引。"
+    },
+    {
+      "en": "Preferred: independently negotiate performance-license commercial terms.",
+      "id": "R05",
+      "zh": "优先：能够独立协商演出许可的商业条款。"
+    }
+  ]
+}

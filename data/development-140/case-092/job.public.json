@@ -1,0 +1,33 @@
+{
+  "case_id": "case-092",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Client Service Delivery Assistant",
+    "zh": "客户服务交付助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain service appointment and exception records.",
+      "id": "R01",
+      "zh": "维护服务预约及异常记录。"
+    },
+    {
+      "en": "Test operational forms and escalate missing data.",
+      "id": "R02",
+      "zh": "测试运营表单并上报缺失数据。"
+    },
+    {
+      "en": "Provide status communications using approved templates.",
+      "id": "R03",
+      "zh": "使用获批模板提供状态沟通。"
+    },
+    {
+      "en": "Negotiate client service contracts.",
+      "id": "R04",
+      "zh": "谈判客户服务合同。"
+    }
+  ]
+}

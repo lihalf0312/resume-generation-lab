@@ -1,0 +1,119 @@
+{
+  "case_id": "case-085",
+  "creation_batch": "development-001-extension-009",
+  "identity_id": "synthetic-person-085",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-085",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an operations management diploma at Fictional Heron Academy in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构苍鹭学院完成运营管理文凭课程。"
+    },
+    {
+      "en": "Records clerk at Fictional Fern Assembly, 2020-02 to 2023-05.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-02 至 2023-05 在虚构蕨叶装配机构任记录文员。"
+    },
+    {
+      "en": "Quality documentation coordinator at the same organization, 2023-06 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-06 至 2026-08 在同一机构任质量文档协调员。"
+    },
+    {
+      "en": "Collected process records and checked document revisions against the approved register.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "收集流程记录并依据获批登记表检查文档修订。"
+    },
+    {
+      "en": "Assembled evidence folders for an internal readiness review in 2025-09 with 2 process owners.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2025-09 与 2 名流程负责人共同为内部准备情况审核整理证据文件夹。"
+    },
+    {
+      "en": "Personally indexed 58 records and listed missing attachments; process owners confirmed record accuracy.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "个人负责为 58 份记录编制索引并列出缺失附件；记录准确性由流程负责人确认。"
+    },
+    {
+      "en": "By the review date, owners supplied 10 of 13 missing attachments; 3 remained in the open-items log.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "截至审核日期，负责人补充了 13 项缺失附件中的 10 项；3 项仍列在未完成事项日志中。"
+    },
+    {
+      "en": "The quality manager determined findings and signed the review; the candidate did not issue an audit opinion.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "质量经理确定发现事项并签署审核；候选人未出具审核意见。"
+    },
+    {
+      "en": "Sent reminders and recorded owner responses without approving corrective-action closure.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "发送提醒并记录负责人答复，不批准纠正措施关闭。"
+    },
+    {
+      "en": "Uses revision-controlled registers, spreadsheet filters and document checklists.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用版本受控登记表、电子表格筛选及文档核对表。"
+    },
+    {
+      "en": "Drafted a corrective-action reminder schedule in 2026-03; only a small internal trial was approved.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-03 起草纠正措施提醒计划；仅获批开展小规模内部试点。"
+    },
+    {
+      "en": "The trial covered 6 open items in 2026-04; no organization-wide rollout or compliance improvement was measured.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "试点于 2026-04 覆盖 6 个未完成事项；未测量组织范围内推广或合规改善。"
+    },
+    {
+      "en": "Attended an internal audit-awareness briefing in 2024; it did not confer auditor certification.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024 年参加内部审核意识简报培训；未因此获得审核员认证。"
+    },
+    {
+      "en": "Volunteered at Fictional Repair Circle from 2024-05 to 2024-09 on weekends alongside the paid role.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2024-05 至 2024-09 周末在虚构修理社做志愿者，与有薪岗位同期。"
+    },
+    {
+      "en": "Kept a volunteer tool-loan list; no safety inspection authority came with this activity.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "维护志愿活动工具借用清单；该活动不赋予安全检查权限。"
+    },
+    {
+      "en": "A personal 2022 shelving plan remained a sketch and was never installed.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "个人于 2022 年绘制的置物架计划停留在草图阶段，从未安装。"
+    },
+    {
+      "en": "Enjoys building paper animal models.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好制作纸动物模型。"
+    },
+    {
+      "en": "A draft appraisal calls the candidate the audit signatory; this contradicts the signed manager review record.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "考评草稿称候选人为审核签署人；这与经理签署的审核记录矛盾。"
+    }
+  ]
+}

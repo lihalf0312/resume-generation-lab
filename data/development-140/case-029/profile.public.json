@@ -1,0 +1,59 @@
+{
+  "case_id": "case-029",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-029",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-029",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a certificate in Retail Operations at Fictional Institute D029 in 2025.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2025 年在虚构院校 D029 完成零售运营结业证书。"
+    },
+    {
+      "en": "Worked part-time as a stock assistant at Fictional Shop D029 from 2025-06 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2025-06 至 2026-08 在虚构商店 D029 兼职担任库存助理。"
+    },
+    {
+      "en": "Checked inbound cartons against delivery notes and reported damaged packaging to the shift lead.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据送货单检查入库纸箱，并向班次负责人报告包装损坏。"
+    },
+    {
+      "en": "Used a handheld scanner to record stock movements and followed assigned shelf-location codes.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用手持扫描器记录库存移动，并遵循指定货架位置编码。"
+    },
+    {
+      "en": "Helped relabel 60 shelf positions in one stockroom zone using an approved location map.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "依据获批位置图，协助为一个库房区域的 60 个货架位置重新贴标。"
+    },
+    {
+      "en": "In 20 sampled retrievals from that zone, median lookup time decreased from 4 minutes to 3 minutes after relabeling; the shift team performed the work.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "重新贴标后，在该区域抽样的 20 次取货中，查找时间中位数从 4 分钟降至 3 分钟；工作由班次团队完成。"
+    },
+    {
+      "en": "Supported weekly cycle counts and passed variances to the stock controller rather than changing balances independently.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "协助每周循环盘点，并将差异提交库存管理员，而非独立调整余额。"
+    },
+    {
+      "en": "Has not supervised staff or operated a forklift.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未监督员工，也未操作叉车。"
+    }
+  ]
+}

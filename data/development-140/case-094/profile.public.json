@@ -1,0 +1,131 @@
+{
+  "case_id": "case-094",
+  "creation_batch": "development-001-extension-010",
+  "identity_id": "synthetic-person-094",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-094",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a business diploma at Fictional Sparrow Institute in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构麻雀学院完成商科文凭课程。"
+    },
+    {
+      "en": "Operations clerk at Fictional Copper Grove from 2021-02 to 2023-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-02 至 2023-08 在虚构铜树林机构任运营文员。"
+    },
+    {
+      "en": "Improvement support assistant at the same employer from 2023-09 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-09 至 2026-08 在同一雇主任改善支持助理。"
+    },
+    {
+      "en": "Maintained action logs and documented handover problems for team review.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "维护行动日志并记录交接问题供团队审核。"
+    },
+    {
+      "en": "Participated in a 2025 handover project with a team of 6 including the candidate.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "参与 2025 年交接项目，团队共 6 人，包含候选人。"
+    },
+    {
+      "en": "Personally interviewed 4 shift colleagues and drafted a handover checklist; the team lead approved the final process.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "个人访谈 4 名轮班同事并起草交接核对表；最终流程由团队负责人批准。"
+    },
+    {
+      "en": "The whole 6-person team received an internal collaboration award in 2025-12.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "整个 6 人团队于 2025-12 获得内部协作奖。"
+    },
+    {
+      "en": "The candidate was a team member, not a separately selected individual award winner.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "候选人为团队成员，并非单独评选的个人获奖者。"
+    },
+    {
+      "en": "For 3 observed weeks in 2025-09, 19 of 24 sampled handovers had owner names; no causal or long-term effect was established.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "2025-09 观察的 3 周中，24 份抽样交接记录有 19 份注明负责人；未建立因果或长期影响。"
+    },
+    {
+      "en": "Uses meeting notes, spreadsheet trackers and simple process diagrams.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用会议记录、电子表格跟踪表及简单流程图。"
+    },
+    {
+      "en": "Drafted a quarterly review agenda in 2026-01; only the first meeting used it.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-01 起草季度审核议程；仅首次会议使用。"
+    },
+    {
+      "en": "Followed up action dates without authority to discipline or supervise staff.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "跟进行动日期，无纪律处分或人员管理权限。"
+    },
+    {
+      "en": "Attended an internal problem-solving workshop in 2024 without an external credential.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024 年参加内部问题解决工作坊，无外部资格。"
+    },
+    {
+      "en": "Volunteered with Fictional Lantern Crafts during 2022-04 to 2022-09 on weekends.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2022-04 至 2022-09 周末在虚构灯笼手工组织做志愿者。"
+    },
+    {
+      "en": "Prepared material lists for 5 volunteer craft sessions unrelated to the employer project.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为 5 场志愿手工活动准备材料清单，与雇主项目无关。"
+    },
+    {
+      "en": "A 2020 coursework simulation compared fictional queue layouts; no physical process was changed.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2020 年课程模拟比较虚构排队布局；未改变实际流程。"
+    },
+    {
+      "en": "Enjoys painting small cardboard scenery.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好为小型纸板布景上色。"
+    },
+    {
+      "en": "Archived approved process versions with revision dates.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "归档获批流程版本及修订日期。"
+    },
+    {
+      "en": "A biography draft calls the candidate an individual award winner, inconsistent with the team award record.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "简介草稿称候选人为个人奖得主，与团队获奖记录不一致。"
+    },
+    {
+      "en": "No independent process-engineering certification or budget authority is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录独立流程工程认证或预算权限。"
+    }
+  ]
+}

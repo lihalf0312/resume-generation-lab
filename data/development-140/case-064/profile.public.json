@@ -1,0 +1,107 @@
+{
+  "case_id": "case-064",
+  "creation_batch": "development-001-extension-007",
+  "identity_id": "synthetic-person-064",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-064",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a digital communication diploma at Fictional Pineorbit Institute in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构松轨学院完成数字传播文凭课程。"
+    },
+    {
+      "en": "Completed an internal mailing-platform orientation in 2023-03; it was not a vendor certification.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2023-03 完成内部邮件平台入门培训；并非厂商认证。"
+    },
+    {
+      "en": "Content scheduling assistant at Fictional Ribbon Bulletin, 2021-10 to 2023-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2021-10 至 2023-08 在虚构缎带简报机构任内容排期助理。"
+    },
+    {
+      "en": "Email operations coordinator at Fictional Ribbon Bulletin, 2023-09 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-09 至 2026-09 在虚构缎带简报机构任电子邮件运营协调员。"
+    },
+    {
+      "en": "Builds approved newsletter layouts and checks links before the marketing lead authorizes sending.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "制作经批准的简报版式，并在营销负责人授权发送前检查链接。"
+    },
+    {
+      "en": "Supported two separate newsletter sends in 2025-06 and 2025-07; the team changed both content and audience selection.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "支持 2025-06 及 2025-07 两次独立简报发送；团队同时调整了内容及受众选择。"
+    },
+    {
+      "en": "The 2025-06 send recorded 40 unique clicking recipients among 1000 delivered emails, a 4% unique-recipient click rate.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "2025-06 发送在 1000 封已投递邮件中记录 40 名独立点击收件人，独立收件人点击率为 4%。"
+    },
+    {
+      "en": "The 2025-07 send recorded 60 unique clicking recipients among 1000 delivered emails, a 6% unique-recipient click rate.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2025-07 发送在 1000 封已投递邮件中记录 60 名独立点击收件人，独立收件人点击率为 6%。"
+    },
+    {
+      "en": "The observed difference is 2 percentage points, or 50% relative to the earlier rate; the sends were not a randomized test.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "观察到的差值为 2 个百分点，或相对于先前点击率的 50%；两次发送不是随机试验。"
+    },
+    {
+      "en": "Personally checked destination links and exported the campaign report; the lead selected copy and audience criteria.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人检查目标链接并导出活动报告；文案及受众标准由负责人选择。"
+    },
+    {
+      "en": "Uses mailing-platform previews, campaign tags, and spreadsheet rate calculations.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用邮件平台预览、活动标签及电子表格比率计算。"
+    },
+    {
+      "en": "Drafted a subject-line experiment plan in 2026-04; it had not been executed by 2026-09.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-04 起草主题行实验计划；截至 2026-09 尚未执行。"
+    },
+    {
+      "en": "Applies approved suppression lists before requesting send approval; does not set consent policy.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在申请发送批准前应用经批准的抑制名单；不制定同意政策。"
+    },
+    {
+      "en": "Created a personal illustrated calendar with 12 invented festival scenes in 2024.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2024 年制作含 12 个虚构节庆场景的个人插画日历。"
+    },
+    {
+      "en": "Enjoys sketching and playing a small hand drum.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "爱好素描及演奏小手鼓。"
+    },
+    {
+      "en": "No campaign-attributed revenue measurement or randomized-test result is documented.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录归因于活动的收入测量或随机试验结果。"
+    }
+  ]
+}

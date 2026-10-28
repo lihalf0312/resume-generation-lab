@@ -1,0 +1,33 @@
+{
+  "case_id": "case-054",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "IT Service Desk Trainee",
+    "zh": "IT 服务台见习员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Listen to user requests and communicate clear handovers.",
+      "id": "R01",
+      "zh": "倾听用户请求并清晰交接。"
+    },
+    {
+      "en": "Follow basic troubleshooting checklists.",
+      "id": "R02",
+      "zh": "遵循基础故障排查核对表。"
+    },
+    {
+      "en": "Use email and basic spreadsheets.",
+      "id": "R03",
+      "zh": "使用电子邮件及基础电子表格。"
+    },
+    {
+      "en": "Reset user passwords in an identity management system.",
+      "id": "R04",
+      "zh": "在身份管理系统中重置用户密码。"
+    }
+  ]
+}

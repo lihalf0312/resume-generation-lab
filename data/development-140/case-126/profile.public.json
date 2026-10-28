@@ -1,0 +1,131 @@
+{
+  "case_id": "case-126",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-126",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-126",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a food-retail operations certificate at Fictional Cloverbank College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构三叶草岸学院完成食品零售运营证书课程。"
+    },
+    {
+      "en": "Paid route support assistant at Fictional Butterfern Dairy from 2023-05 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-05 至 2026-08 在虚构奶油蕨乳品农场任有薪路线支持助理。"
+    },
+    {
+      "en": "Matched packed bottle counts to the morning order sheet before the driver loaded the van.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在司机装车前，将已装箱瓶数与晨间订单表核对。"
+    },
+    {
+      "en": "Separated new deliveries from empty-bottle returns on the route sheet.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在路线表上将新配送与空瓶回收分开记录。"
+    },
+    {
+      "en": "Rode as the driver’s assistant on local rounds, checked delivery labels and collected receipt signatures.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在本地配送中随车担任司机助理，核对配送标签并收集签收。"
+    },
+    {
+      "en": "The driver operated the van; the candidate’s recorded duties did not include driving.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "车辆由司机驾驶；候选人记录中的职责不包括驾驶。"
+    },
+    {
+      "en": "Copied logger readings onto dispatch forms and reported readings outside the farm’s supplied limits to the dispatch lead.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "将记录仪读数抄录至发运表，并将超出农场所给限值的读数报告给发运负责人。"
+    },
+    {
+      "en": "The dispatch lead decided whether a load could leave; the candidate did not authorize product release.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "发运负责人决定货物能否出发；候选人不授权产品放行。"
+    },
+    {
+      "en": "Tested a revised returns column during 5 morning rounds in 2025-06.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-06 在 5 次晨间配送中测试修订后的回收栏。"
+    },
+    {
+      "en": "Across those rounds, the shared route sheet recorded 286 full bottles delivered and 241 empty bottles collected.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "这些配送的共同路线表记录送出 286 瓶乳品（满瓶），并收回 241 个空瓶。"
+    },
+    {
+      "en": "The full and empty bottles came from different purchase cycles; the figures are not a loss or spoilage count.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "满瓶与空瓶来自不同购买周期；这些数值不是遗失或变质数量。"
+    },
+    {
+      "en": "Recorded customer requests for the next delivery and passed quantity changes to the order clerk before the cutoff.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "记录客户下次配送请求，并在截止时间前将数量变更转交订单文员。"
+    },
+    {
+      "en": "Uses printed stop lists, handheld barcode scanning and spreadsheet totals.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用纸质停靠点清单、手持条码扫描及电子表格汇总。"
+    },
+    {
+      "en": "Suggested moving 2 stops earlier after collecting customer time preferences in 2026-02; the route lead approved the revised order.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2026-02 收集客户时间偏好后建议将 2 个停靠点提前；路线负责人批准修订顺序。"
+    },
+    {
+      "en": "Completed an internal load-handling and cleaning induction in 2023-05; the records name no external food-safety qualification.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2023-05 完成内部货物搬运及清洁入职培训；记录未列出外部食品安全资格。"
+    },
+    {
+      "en": "Volunteered at Fictional Cobblepea Market on 3 Saturdays in 2024, setting up stalls and directing visitors to vendors.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2024 年在 3 个星期六为虚构卵豆集市做志愿者，布置摊位并指引访客前往商户。"
+    },
+    {
+      "en": "Planned a personal bicycle picnic route in 2025 using a consumer map application; it did not include commercial deliveries.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2025 年使用消费级地图应用规划个人骑行野餐路线；不涉及商业配送。"
+    },
+    {
+      "en": "Enjoys carving decorative soap shapes at home.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好在家雕刻装饰性肥皂造型。"
+    },
+    {
+      "en": "The regular work pattern was morning rounds from Monday through Friday.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "常规工作模式为星期一至星期五的晨间配送。"
+    },
+    {
+      "en": "No commercial route-optimization software use is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录使用商业路线优化软件的经历。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-106",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Facilities Energy Records Assistant",
+    "zh": "设施能源记录助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain meter and invoice records and investigate missing entries.",
+      "id": "R01",
+      "zh": "维护电表及发票记录，并检查缺失条目。"
+    },
+    {
+      "en": "Prepare transparent cost scenarios with stated assumptions and exclusions.",
+      "id": "R02",
+      "zh": "编制明确说明假设及排除项的透明成本情景估算。"
+    },
+    {
+      "en": "Document maintenance-record handovers using spreadsheets.",
+      "id": "R03",
+      "zh": "使用电子表格记录维护资料交接。"
+    },
+    {
+      "en": "Independently sign off formal energy audits.",
+      "id": "R04",
+      "zh": "独立签署正式能源审计结论。"
+    }
+  ]
+}

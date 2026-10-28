@@ -1,0 +1,131 @@
+{
+  "case_id": "case-124",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-124",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-124",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a hospitality services certificate at Fictional Coastpetal College in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构海瓣学院完成酒店接待服务证书课程。"
+    },
+    {
+      "en": "Paid seasonal equipment-hire assistant at Fictional Shellpath Beach Lodge during 2023-05 to 2023-09, 2024-05 to 2024-09 and 2025-05 to 2025-09.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "在虚构贝径海滩旅舍任有薪季节性用品租赁助理，任职期间为 2023-05 至 2023-09、2024-05 至 2024-09 及 2025-05 至 2025-09。"
+    },
+    {
+      "en": "Issued deck chairs, beach mats and shade umbrellas against numbered hire slips.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据编号租赁单发放躺椅、沙滩垫及遮阳伞。"
+    },
+    {
+      "en": "Recorded collection and return times and checked item tags against the hire slip.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "记录领取及归还时间，并依据租赁单核对物品标签。"
+    },
+    {
+      "en": "Set aside visibly damaged returned items for the lodge supervisor rather than placing them back in the hire rack.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将归还时可见损坏的物品留给旅舍主管，而非放回租赁架。"
+    },
+    {
+      "en": "Followed the lodge’s approved issue restrictions and relayed supervisor-confirmed closures to guests.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "遵循旅舍获批的发放限制，并向宾客转达主管确认的暂停开放信息。"
+    },
+    {
+      "en": "The role covered shore-based guest equipment, not boats, rescue services or lifeguard duties.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "该岗位涵盖岸上宾客用品，不涉及船艇、救援服务或救生员职责。"
+    },
+    {
+      "en": "Logged cash and card receipts in the hire till and passed deposit-refund decisions to the supervisor.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在租赁收银记录中登记现金及刷卡收款，并将押金退款决定交给主管。"
+    },
+    {
+      "en": "A 2025-08 closing sheet lists 54 item loans and 49 returns during one shift; 5 loans were still within their agreed return times.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "2025-08 的一份交班表列明单个班次借出 54 件物品、归还 49 件；5 件借出物品仍在约定归还时间内。"
+    },
+    {
+      "en": "The closing sheet does not describe those 5 items as lost or overdue.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "该交班表未将这 5 件物品描述为遗失或逾期。"
+    },
+    {
+      "en": "Uses numbered receipt books, a till interface and a daily stock-count sheet.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用编号收据簿、收银界面及每日库存盘点表。"
+    },
+    {
+      "en": "Helped arrange a clearer item-tag rack in 2024-06; the supervisor approved the final layout.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2024-06 协助布置更清晰的物品标签架；最终布局由主管批准。"
+    },
+    {
+      "en": "Explained hire periods in English and used approved translated phrase cards when needed.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "使用英语解释租赁时段，并在需要时使用获批译文短语卡。"
+    },
+    {
+      "en": "The record does not identify the languages on all phrase cards or an independently tested second-language level.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "记录未指明所有短语卡的语言，亦未记录经独立测试的第二语言水平。"
+    },
+    {
+      "en": "No off-season employment at the lodge is recorded.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "未记录在该旅舍淡季任职的经历。"
+    },
+    {
+      "en": "Volunteered at Fictional Shoreglass Litter Group during 2022-04 to 2025-10 on occasional weekend cleanups.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2022-04 至 2025-10 在虚构岸玻璃清洁团体偶尔参加周末清理志愿活动。"
+    },
+    {
+      "en": "Prepared glove and bag issue lists for 6 cleanup sessions; the organizer selected sites and supervised activities.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "为 6 场清理活动准备手套及垃圾袋发放清单；地点选择及活动监督由组织者负责。"
+    },
+    {
+      "en": "Joined an amateur sand-sculpture display in 2024 as part of a 3-person group; no award is recorded.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2024 年作为 3 人小组的一员参加业余沙雕展示；未记录获奖。"
+    },
+    {
+      "en": "Keeps a personal collection of original seaside sketch postcards.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "保留个人原创海滨素描明信片集。"
+    },
+    {
+      "en": "Availability for the vacancy’s next full season has not been stated.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "尚未说明是否可在该岗位下一整个旺季工作。"
+    }
+  ]
+}

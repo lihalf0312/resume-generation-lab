@@ -1,7 +1,0 @@
-{
-  "version": 26,
-  "previous_case": "case-025",
-  "previous_evaluation_sha256": "a206b54562d19a00a172c3938720ea899d30889e2f4486dffe0dbe7fe2e38a39",
-  "changes": [],
-  "reason": "Case025 reviewer found no new repair. Printing labels is explicitly supported here; keep approved-guide status, unresolved discrepancies and explicitly absent qualifications distinct from unknown evidence."
-}

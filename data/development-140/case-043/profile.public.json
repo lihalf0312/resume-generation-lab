@@ -1,0 +1,119 @@
+{
+  "case_id": "case-043",
+  "creation_batch": "development-001-extension-005",
+  "identity_id": "synthetic-person-043",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-043",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a business operations diploma at Fictional Amberwheel Academy in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构琥轮学院完成商业运营文凭课程。"
+    },
+    {
+      "en": "Completed an internal spreadsheet course in 2024-06; it was not a vendor certification.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2024-06 完成内部电子表格课程；并非厂商认证。"
+    },
+    {
+      "en": "Customer support clerk at Fictional Beacon Ledger, 2021-09 to 2023-12.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2021-09 至 2023-12 在虚构信标账簿机构任客户支持文员。"
+    },
+    {
+      "en": "Customer success operations assistant at Fictional Beacon Ledger, 2024-01 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-09 在虚构信标账簿机构任客户成功运营助理。"
+    },
+    {
+      "en": "Checks onboarding task records in a CRM and reminds account owners of missing due dates.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在 CRM 中检查入门任务记录，并提醒客户负责人补齐到期日期。"
+    },
+    {
+      "en": "Tracked 61 active onboarding records in 2026-09; the 2025-04 seasonal peak was 94 records, not personally owned accounts.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-09 跟踪 61 条活跃入门记录；2025-04 季节高峰为 94 条记录，并非个人负责的客户账户。"
+    },
+    {
+      "en": "Worked with a success manager on an onboarding completeness dashboard during 2025-01 to 2025-03.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-01 至 2025-03 与客户成功经理共同制作入门信息完整度仪表板。"
+    },
+    {
+      "en": "Personally wrote spreadsheet validation formulas and maintained field definitions; the manager chose the operating thresholds.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人编写电子表格校验公式并维护字段定义；运营阈值由经理选定。"
+    },
+    {
+      "en": "In 2025-05, 45 of 50 sampled records had a next-action date, versus 31 of 48 in 2025-01; this measures record completeness, not retention.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "2025-05 抽样 50 条记录中，45 条有下一步行动日期；2025-01 抽样 48 条中为 31 条；此指标衡量记录完整度，而非留存率。"
+    },
+    {
+      "en": "Drafted a renewal-risk tag taxonomy in 2026-04; managers had not deployed it by 2026-09.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-04 起草续约风险标签分类；截至 2026-09 经理们尚未部署。"
+    },
+    {
+      "en": "Uses CRM exports, spreadsheet pivot tables, and documented exception queues.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用 CRM 导出文件、电子表格数据透视表及有文档说明的异常队列。"
+    },
+    {
+      "en": "Coordinates handoff notes between support and account teams without negotiating commercial terms.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "协调支持团队与客户团队之间的交接笔记，不协商商务条款。"
+    },
+    {
+      "en": "In 2024-11, built a personal board-game loan tracker for 22 fictional items.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-11 为 22 件虚构物品制作个人桌游借用跟踪表。"
+    },
+    {
+      "en": "Enjoys urban sketching and does not monetize the drawings.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好城市速写，不通过画作获利。"
+    },
+    {
+      "en": "Volunteered as a book-sorting helper at Fictional Reading Exchange during 2025-08 weekends.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2025-08 周末在虚构阅读交换活动任图书分类志愿助手。"
+    },
+    {
+      "en": "An unsigned slide attributes a 9% retention uplift to the dashboard without a cohort or period; the claim is unverified.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一张未署名幻灯片将 9% 留存提升归因于仪表板，但未注明群体或期间；该主张未经核实。"
+    },
+    {
+      "en": "A role note says CRM administrator, but documented access covered record updates and exports only; permission ownership is unclear.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一条岗位备注称 CRM 管理员，但有记录的权限仅包括记录更新及导出；权限管理责任不明确。"
+    },
+    {
+      "en": "No SQL production querying or revenue forecasting responsibility is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录生产环境 SQL 查询或收入预测责任。"
+    }
+  ]
+}

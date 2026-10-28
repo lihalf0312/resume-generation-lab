@@ -1,7 +1,0 @@
-{
-  "version": 18,
-  "previous_case": "case-017",
-  "previous_evaluation_sha256": "cdd43fb835e754421e090d7794538cb43c58ea24dc77e35b436dfa3f09c82787",
-  "changes": [],
-  "reason": "Case017 reviewer found no new repair. Preserve comparison denominators and referral-versus-certification distinction."
-}

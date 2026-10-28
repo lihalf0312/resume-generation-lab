@@ -1,0 +1,33 @@
+{
+  "case_id": "case-108",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Research Supplies Coordinator",
+    "zh": "研究物资协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain stock records and reconcile physical counts.",
+      "id": "R01",
+      "zh": "维护库存记录并核对实物盘点数量。"
+    },
+    {
+      "en": "Prepare reorder requests and investigate delivery discrepancies.",
+      "id": "R02",
+      "zh": "准备补货申请并检查到货差异。"
+    },
+    {
+      "en": "Maintain clear storage-location records and exception summaries.",
+      "id": "R03",
+      "zh": "维护清晰的存储位置记录及异常摘要。"
+    },
+    {
+      "en": "A completed master’s degree in environmental studies is preferred, not required.",
+      "id": "R04",
+      "zh": "优先考虑已完成环境研究硕士学位者，但非必需。"
+    }
+  ]
+}

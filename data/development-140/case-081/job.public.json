@@ -1,0 +1,33 @@
+{
+  "case_id": "case-081",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Web Content Quality Assistant",
+    "zh": "网页内容质量助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Check web content and record corrections.",
+      "id": "R01",
+      "zh": "检查网页内容并记录修改。"
+    },
+    {
+      "en": "Coordinate issue follow-up with content owners.",
+      "id": "R02",
+      "zh": "与内容负责人协调问题跟进。"
+    },
+    {
+      "en": "Maintain controlled content versions.",
+      "id": "R03",
+      "zh": "维护受控内容版本。"
+    },
+    {
+      "en": "Independently certify full accessibility conformance.",
+      "id": "R04",
+      "zh": "独立认证全面无障碍符合性。"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "case_id": "case-103",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-103",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-103",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Attended Fictional Bruma School of Editions from 2019-09 to 2022-06.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019-09 至 2022-06 就读于虚构布鲁马出版学校。"
+    },
+    {
+      "en": "The credential awarded in 2022 is titled “Diploma Superior de Edición Aplicada” in the issuing school’s language.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2022 年授予的证书在颁发学校所用语言中名为“Diploma Superior de Edición Aplicada”。"
+    },
+    {
+      "en": "The supplied English translation renders that title as “Higher Diploma in Applied Publishing”; the supplied Chinese translation is “应用出版高等文凭”.",
+      "id": "F03",
+      "kind": "education",
+      "zh": "所提供英文译本将该名称译为“Higher Diploma in Applied Publishing”；所提供中文译名为“应用出版高等文凭”。"
+    },
+    {
+      "en": "The records contain no qualification-level assessment or bachelor’s-degree equivalency decision for that credential.",
+      "id": "F04",
+      "kind": "education",
+      "zh": "记录中没有该证书的资格等级评估或学士学位等同性认定。"
+    },
+    {
+      "en": "For the final course project, assembled a 28-page fictional nature activity booklet using supplied text and images.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在结课项目中，使用提供的文字和图片制作了 28 页虚构自然活动册。"
+    },
+    {
+      "en": "Personally laid out headings and captions; a classmate proofread the final course booklet.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "个人排版标题及图片说明；一名同学校对了最终课程活动册。"
+    },
+    {
+      "en": "Paid print-production clerk at Fictional Inkfold Press from 2022-09 to 2025-12.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "2022-09 至 2025-12 在虚构墨折印务任有薪印刷制作文员。"
+    },
+    {
+      "en": "Tracked proof versions, supplier delivery dates and approval emails.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "跟踪校样版本、供应商交付日期及批准邮件。"
+    },
+    {
+      "en": "Checked trim size and page count against approved order forms.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "依据获批订单核对成品尺寸及页数。"
+    },
+    {
+      "en": "Escalated colour discrepancies to the production manager; did not approve press colour standards.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "向制作经理上报色彩差异；不批准印刷色彩标准。"
+    },
+    {
+      "en": "Prepared printer handoff folders after the editor had approved final text.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在编辑批准最终文字后准备交给印厂的文件夹。"
+    },
+    {
+      "en": "Uses page-layout software for template edits and PDF markup for proof comments.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用页面排版软件修改模板，并通过 PDF 标注记录校样意见。"
+    },
+    {
+      "en": "Created a proof-filename guide for the production desk in 2024-03.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-03 为制作部门编写校样文件命名指南。"
+    },
+    {
+      "en": "The production manager approved the guide; the candidate maintained its examples.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "制作经理批准该指南；候选人维护其中的示例。"
+    },
+    {
+      "en": "In a 2024-05 desk review, 23 of 25 sampled proof folders used the approved filename format.",
+      "id": "F15",
+      "kind": "outcome",
+      "zh": "2024-05 的部门审核中，25 个抽样校样文件夹有 23 个使用获批文件名格式。"
+    },
+    {
+      "en": "No earlier comparison sample or attributable cost saving was recorded.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录较早的对比样本或可归因的成本节省。"
+    },
+    {
+      "en": "Completed a non-award online introduction to accessible documents in 2025.",
+      "id": "F17",
+      "kind": "education",
+      "zh": "2025 年完成不授予资格的在线无障碍文档入门课程。"
+    },
+    {
+      "en": "Volunteered to set up tables for Fictional Fold Fair in 2023; this was separate from print employment.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2023 年志愿为虚构折页集市布置桌子；该活动与印刷工作分开。"
+    },
+    {
+      "en": "Made a personal folding-card template collection in 2026 using original drawings.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2026 年使用原创绘画制作个人折叠卡片模板集。"
+    },
+    {
+      "en": "Enjoys drawing imaginary storefront signs.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好绘制想象中的店面招牌。"
+    },
+    {
+      "en": "The record contains no independent translation of the credential beyond the supplied title translations.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "除所提供的证书名称译文外，记录中没有该证书的独立翻译。"
+    }
+  ]
+}

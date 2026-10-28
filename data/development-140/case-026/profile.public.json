@@ -1,0 +1,59 @@
+{
+  "case_id": "case-026",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-026",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-026",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a certificate in Supply Chain Fundamentals at Fictional Institute D026 in 2025.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2025 年在虚构院校 D026 完成供应链基础结业证书。"
+    },
+    {
+      "en": "Worked on a fixed-term dispatch support assignment at Fictional Depot D026 from 2026-01 to 2026-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2026-01 至 2026-06 在虚构仓站 D026 从事定期发运支持工作。"
+    },
+    {
+      "en": "Printed dispatch labels and compared package counts with approved pick lists before supervisor sign-off.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "打印发运标签，在主管签字前将包裹数量与获批拣货单核对。"
+    },
+    {
+      "en": "Recorded carrier collection times and unresolved count discrepancies in a shared spreadsheet.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "在共享电子表格记录承运商取货时间和未解决的数量差异。"
+    },
+    {
+      "en": "Prepared a desk guide explaining where to find carrier cutoff times; a senior clerk approved it.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "编写说明承运商截单时间查询位置的桌面指南，由高级文员批准。"
+    },
+    {
+      "en": "Escalated late collections by telephone using the team contact list; did not negotiate carrier contracts.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "使用团队联系人清单，通过电话上报取货延误；未谈判承运商合同。"
+    },
+    {
+      "en": "No measured throughput improvement was recorded during the assignment.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "该工作期间未记录可量化的吞吐量改善。"
+    },
+    {
+      "en": "No dangerous-goods certification or forklift qualification is held.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未持有危险品认证或叉车操作资格。"
+    }
+  ]
+}

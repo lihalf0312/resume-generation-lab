@@ -1,0 +1,143 @@
+{
+  "case_id": "case-101",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-101",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-101",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a customer operations diploma at Fictional Cove Institute in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构海湾学院完成客户运营文凭课程。"
+    },
+    {
+      "en": "Paid subscription support associate at Fictional Atlas Reading from 2022-03 to 2026-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-03 至 2026-06 在虚构图集阅读公司任有薪订阅支持专员。"
+    },
+    {
+      "en": "Worked from a home office in Fictional Rowan Territory for that employer throughout the role.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该岗位任职期间一直从虚构罗文地区的家庭办公室为该雇主工作。"
+    },
+    {
+      "en": "Handled plan changes, renewal questions and account-access tickets in a shared queue.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在共享队列中处理套餐变更、续订咨询及账户访问工单。"
+    },
+    {
+      "en": "Sent refund requests to the billing team; did not approve refunds.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将退款申请转交账务团队；不审批退款。"
+    },
+    {
+      "en": "Used written shift handovers to identify unresolved tickets and prior customer replies.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "通过书面轮班交接记录标明未解决工单及客户此前的回复。"
+    },
+    {
+      "en": "Uses saved replies, spreadsheet filters and ticket tags; no queue-system administration is documented.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "使用快捷回复、电子表格筛选及工单标签；未记录工单系统管理经历。"
+    },
+    {
+      "en": "The 2026-04 quality sample contained 34 correctly tagged tickets out of 36 reviewed tickets from the candidate’s queue.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2026-04 的质量抽样中，候选人队列内受审的 36 张工单有 34 张标签正确。"
+    },
+    {
+      "en": "That sample measured tagging accuracy, not response speed or customer satisfaction.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "该抽样衡量标签准确性，而非回复速度或客户满意度。"
+    },
+    {
+      "en": "Drafted 8 renewal-response templates with a billing colleague in 2025-09.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-09 与一名账务同事共同起草 8 份续订回复模板。"
+    },
+    {
+      "en": "Personally wrote the access and plan-change explanations; the colleague supplied billing wording.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人撰写访问及套餐变更说明；账务措辞由同事提供。"
+    },
+    {
+      "en": "The support lead approved 6 of the 8 templates for use; the remaining 2 stayed in draft.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "支持主管批准 8 份模板中的 6 份投入使用；其余 2 份仍为草稿。"
+    },
+    {
+      "en": "As of 2026-09, the candidate lives in Fictional Rowan Territory, outside Fictional Luma Territory.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "截至 2026-09，候选人居住在虚构罗文地区，不在虚构卢玛地区境内。"
+    },
+    {
+      "en": "The candidate is willing to discuss relocation to Fictional Luma Territory; no relocation date or arrangement is recorded.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "候选人愿意讨论搬迁至虚构卢玛地区；未记录搬迁日期或安排。"
+    },
+    {
+      "en": "The source records contain no statement or document confirming work authorization in Fictional Luma Territory.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "来源记录中没有确认候选人在虚构卢玛地区具备工作许可的声明或文件。"
+    },
+    {
+      "en": "The candidate reports availability for shifts between 09:00 and 17:00 Luma local time.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "候选人表示可在卢玛当地时间 09:00 至 17:00 之间轮班。"
+    },
+    {
+      "en": "Completed an internal written-de-escalation workshop in 2024; it did not award an external credential.",
+      "id": "F17",
+      "kind": "education",
+      "zh": "2024 年完成内部书面沟通降温工作坊；未授予外部证书。"
+    },
+    {
+      "en": "Built a personal reading tracker in 2023 using a spreadsheet, with no employer or client deployment.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2023 年使用电子表格制作个人阅读记录工具，未供雇主或客户使用。"
+    },
+    {
+      "en": "Volunteered to sort donated books at Fictional Lantern Shelf on 4 weekend visits in 2025.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "2025 年在 4 次周末志愿活动中为虚构灯架书社整理捐赠图书。"
+    },
+    {
+      "en": "Enjoys making miniature paper book covers.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好制作迷你纸质书封。"
+    },
+    {
+      "en": "Prepared short English support replies and used approved Chinese templates for common account questions.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "撰写简短英文支持回复，并使用获批中文模板处理常见账户问题。"
+    },
+    {
+      "en": "No independent assessment of spoken Chinese proficiency is recorded.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录口语中文能力的独立评估。"
+    }
+  ]
+}

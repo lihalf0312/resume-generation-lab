@@ -1,0 +1,65 @@
+{
+  "case_id": "case-017",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-017",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-017",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an associate qualification in Industrial Quality at Fictional Technical College B17 in 2024.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024 年获虚构技术学院 B17 工业质量专科学历。"
+    },
+    {
+      "en": "Quality trainee at Fictional Ceramic Works B17, 2024-08 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-08 至 2026-08，任虚构陶瓷工厂 B17 质量见习员。"
+    },
+    {
+      "en": "Checked glazed tile dimensions with calipers against the shift inspection sheet under supervision.",
+      "id": "F03",
+      "kind": "skill",
+      "zh": "在监督下使用卡尺，依据班次检验表检查釉面砖尺寸。"
+    },
+    {
+      "en": "Recorded 320 sampled tile measurements in a 2026-02 inspection exercise; this is a sample count, not total production.",
+      "id": "F04",
+      "kind": "outcome",
+      "zh": "在 2026-02 的检验练习中记录 320 次抽样瓷砖测量；此数为样本数量，并非总产量。"
+    },
+    {
+      "en": "Labeled nonconforming samples for quality-engineer review; did not authorize batch release.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "标记不合格样品供质量工程师复核；无权批准批次放行。"
+    },
+    {
+      "en": "In 2025-12, prepared a photo reference sheet for 7 visible glaze-defect types.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2025-12，为 7 类可见釉面缺陷制作照片参考表。"
+    },
+    {
+      "en": "The shift trainer approved the reference sheet for internal trainee practice only.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "班次培训员批准该参考表仅用于内部见习练习。"
+    },
+    {
+      "en": "Entered inspection results in spreadsheets and used basic charts to show measurement ranges.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "将检验结果录入电子表格，并用基础图表呈现测量范围。"
+    },
+    {
+      "en": "No ISO lead auditor certification or supplier audit ownership is recorded.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "未记录 ISO 主任审核员认证或供应商审核责任。"
+    }
+  ]
+}

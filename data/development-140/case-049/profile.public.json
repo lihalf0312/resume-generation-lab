@@ -1,0 +1,119 @@
+{
+  "case_id": "case-049",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-049",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-049",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Public Administration at Fictional Institute D049 in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构院校 D049 完成公共行政文学学士学位。"
+    },
+    {
+      "en": "Worked as a municipal facilities programme assistant at Fictional Agency D049 from 2019-06 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-06 至 2026-08 在虚构机构 D049 担任市政设施项目助理。"
+    },
+    {
+      "en": "Maintained meeting and submission schedules for building-efficiency retrofit proposals; engineers produced the technical assessments.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "维护建筑节能改造提案的会议及提交时间表；工程师编制技术评估。"
+    },
+    {
+      "en": "Used spreadsheets to log document versions, approval owners and outstanding actions.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用电子表格记录文件版本、审批负责人及待办行动。"
+    },
+    {
+      "en": "Worked with an engineer and administrator to consolidate evidence folders for 7 retrofit proposals during 2025-03 to 2025-06.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-03 至 2025-06 与工程师及行政员合作，为 7 份改造提案整合证据文件夹。"
+    },
+    {
+      "en": "Across those 7 proposal packs, missing mandatory attachments at internal review fell from 19 in first drafts to 4 at final review; this reflects document completeness, not energy savings.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在这 7 份提案资料中，内部审核发现的必需附件缺失从初稿的 19 项降至终审的 4 项；这反映文件完整性，而非节能量。"
+    },
+    {
+      "en": "Prepared plain-language meeting summaries for facilities managers using engineer-approved technical wording.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "使用工程师批准的技术措辞，为设施经理准备通俗会议摘要。"
+    },
+    {
+      "en": "Completed a 2026-02 self-directed spreadsheet exercise comparing fictional lighting options using supplied consumption assumptions.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2026-02 完成自主电子表格练习，使用给定能耗假设比较虚构照明方案。"
+    },
+    {
+      "en": "The exercise was not a measured building audit and was not used to approve a retrofit.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "该练习并非实测建筑审计，也未用于批准改造。"
+    },
+    {
+      "en": "Drafted a community consultation schedule for 2026-05; the consultation was postponed and no sessions were delivered.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "为 2026-05 起草社区咨询时间表；咨询延期，未开展任何场次。"
+    },
+    {
+      "en": "Supported a peak of 9 proposal files in 2025-10; the regular allocation in 2026-08 was 4.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "2025-10 高峰期支持 9 份提案档案；2026-08 常规分工为 4 份。"
+    },
+    {
+      "en": "Volunteered at Fictional Reuse Network V049 during evenings from 2024-01 to 2024-09 while employed, arranging repair-session bookings.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "2024-01 至 2024-09 任职期间，晚间在虚构再利用网络 V049 志愿安排维修活动预约。"
+    },
+    {
+      "en": "Made a personal photo catalog of neighborhood doors; it was not a heritage survey or environmental dataset.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "制作个人社区门扉照片目录；并非遗产调查或环境数据集。"
+    },
+    {
+      "en": "Applied access controls to draft project documents and maintained a record of authorized recipients.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "为项目草稿文件应用访问控制，并维护授权接收者记录。"
+    },
+    {
+      "en": "No environmental permitting authority, emissions-accounting qualification or field-sampling experience is claimed.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "不声称拥有环境许可审批权限、排放核算资格或现场采样经验。"
+    },
+    {
+      "en": "A slide draft attributes 25% energy reduction to the proposals, but the source contains forecast scenarios rather than post-installation readings.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份幻灯片草稿将 25% 能耗降低归于这些提案，但来源包含预测情景而非安装后读数。"
+    },
+    {
+      "en": "An informal project list names the candidate as consultation lead, while the staffing sheet names an engagement officer and lists the candidate as scheduling support.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "非正式项目清单将候选人列为咨询负责人，而人员表列一位参与事务专员为负责人，候选人为排期支持。"
+    },
+    {
+      "en": "Budget changes and procurement commitments required programme-manager approval; the candidate prepared supporting papers only.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "预算变更及采购承诺需项目经理审批；候选人仅准备支持文件。"
+    }
+  ]
+}

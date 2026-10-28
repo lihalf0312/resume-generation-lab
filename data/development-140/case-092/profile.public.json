@@ -1,0 +1,131 @@
+{
+  "case_id": "case-092",
+  "creation_batch": "development-001-extension-010",
+  "identity_id": "synthetic-person-092",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-092",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a service management diploma at Fictional Otter Academy in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构水獭学院完成服务管理文凭课程。"
+    },
+    {
+      "en": "Employed by Fictional Bridge Staffing from 2022-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-02 至 2026-08 受雇于虚构桥梁派遣机构。"
+    },
+    {
+      "en": "Assigned by that agency to Fictional Cloud Desk client from 2022-03 to 2024-06 as a ticket administration assistant.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-03 至 2024-06 由该派遣机构派驻虚构云台客户，担任工单行政助理。"
+    },
+    {
+      "en": "Assigned by the same agency to Fictional Lantern Service client from 2024-07 to 2026-08 as a service delivery assistant.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2024-07 至 2026-08 由同一派遣机构派驻虚构灯笼服务客户，担任服务交付助理。"
+    },
+    {
+      "en": "Neither client was the candidate’s direct employer; the agency remained the employer for both assignments.",
+      "id": "F05",
+      "kind": "other",
+      "zh": "两家客户均非候选人的直接雇主；两次派驻期间雇主均为派遣机构。"
+    },
+    {
+      "en": "At Cloud Desk, checked ticket categories and routed incomplete records to client supervisors.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "在云台客户处检查工单类别，并将不完整记录转交客户主管。"
+    },
+    {
+      "en": "At Lantern Service, maintained appointment windows and prepared daily exception summaries.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在灯笼服务客户处维护预约窗口并准备每日异常摘要。"
+    },
+    {
+      "en": "Joined a client-led handoff-log revision in 2025-03 with 2 client employees.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-03 与 2 名客户员工参与客户主导的交接日志修订。"
+    },
+    {
+      "en": "Personally tested required fields using 16 fictional examples; the client lead approved the form.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人使用 16 个虚构示例测试必填字段；表单由客户负责人批准。"
+    },
+    {
+      "en": "In 2025-04, 41 of 45 reviewed handoffs contained complete appointment fields; the result belongs to the shared process.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "2025-04，45 份受审交接记录中有 41 份预约字段完整；结果属于共同流程。"
+    },
+    {
+      "en": "Uses spreadsheets, ticket queues and approved email templates.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格、工单队列及获批邮件模板。"
+    },
+    {
+      "en": "Sent status updates without negotiating client contracts.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "发送状态更新，不谈判客户合同。"
+    },
+    {
+      "en": "Drafted an escalation diagram for the agency in 2026-02; it remained unapproved.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2026-02 为派遣机构起草上报流程图；仍未获批。"
+    },
+    {
+      "en": "Attended client tool induction sessions; no vendor certification was issued.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "参加客户工具入门培训；未颁发厂商认证。"
+    },
+    {
+      "en": "Volunteered at Fictional Card Club during 2023-04 to 2023-08 on evenings, separate from either client.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-04 至 2023-08 晚间在虚构卡片社做志愿者，与两家客户均无关。"
+    },
+    {
+      "en": "Prepared sign-in cards for that volunteer club.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "为该志愿者社团准备签到卡。"
+    },
+    {
+      "en": "Created a personal travel packing checklist in 2024; no service delivery impact is claimed.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年制作个人旅行打包清单；不声称有服务交付影响。"
+    },
+    {
+      "en": "Enjoys collecting patterned paper.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好收集图案纸。"
+    },
+    {
+      "en": "An old CV lists Lantern Service as the employer; the agency employment record contradicts that affiliation.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "旧简历将灯笼服务列为雇主；派遣机构雇佣记录与该归属矛盾。"
+    },
+    {
+      "en": "No client-account commercial ownership is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录客户账户商业负责经历。"
+    }
+  ]
+}

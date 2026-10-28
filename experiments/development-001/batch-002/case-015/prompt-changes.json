@@ -1,7 +1,0 @@
-{
-  "version": 15,
-  "previous_case": "case-014",
-  "previous_evaluation_sha256": "20eb214d13d8056b857054181b3e1560a5ad1a5283f9857367dfc80e8e50becf",
-  "changes": [],
-  "reason": "Case014 reviewer found no new repair. Preserve statistic type, limited trial denominator and pending versus completed review distinction."
-}

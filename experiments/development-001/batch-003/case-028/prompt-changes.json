@@ -1,7 +1,0 @@
-{
-  "version": 28,
-  "previous_case": "case-027",
-  "previous_evaluation_sha256": "3a506fb1343ebbfe4e0f6d02622b3554d81e93faf9a01a0635598120bc2b0443",
-  "changes": [],
-  "reason": "Case027 reviewer found no new repair. Preserve community-venue versus hotel context and policy explanation versus financial approval."
-}

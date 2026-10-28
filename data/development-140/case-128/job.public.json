@@ -1,0 +1,28 @@
+{
+  "case_id": "case-128",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community Choir Rehearsal Coordinator",
+    "zh": "社区合唱团排练协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate rehearsal rooms and musician availability; volunteer organizing experience is welcome.",
+      "id": "R01",
+      "zh": "协调排练室及音乐人员可用时间；欢迎志愿组织经历。"
+    },
+    {
+      "en": "Maintain attendance, approved score distribution and clear rehearsal communications.",
+      "id": "R02",
+      "zh": "维护出席记录、获批乐谱分发及清晰排练沟通。"
+    },
+    {
+      "en": "Operate a live sound-mixing desk for amplified rehearsals.",
+      "id": "R03",
+      "zh": "在扩声排练中操作现场调音台。"
+    }
+  ]
+}

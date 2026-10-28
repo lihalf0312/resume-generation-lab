@@ -1,0 +1,33 @@
+{
+  "case_id": "case-047",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community Events Coordinator",
+    "zh": "社区活动协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate event logistics and participant communications.",
+      "id": "R01",
+      "zh": "协调活动后勤与参与者沟通。"
+    },
+    {
+      "en": "Allocate volunteer tasks and collect feedback responsibly.",
+      "id": "R02",
+      "zh": "分配志愿者任务并负责任地收集反馈。"
+    },
+    {
+      "en": "Prepare supplier and spending documentation.",
+      "id": "R03",
+      "zh": "准备供应商和开支文件。"
+    },
+    {
+      "en": "Distinguish confirmed event arrangements from proposed activities in planning documents.",
+      "id": "R04",
+      "zh": "在规划文件中区分已确认活动安排与拟议活动。"
+    }
+  ]
+}

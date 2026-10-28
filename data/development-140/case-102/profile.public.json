@@ -1,0 +1,137 @@
+{
+  "case_id": "case-102",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-102",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-102",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an outdoor programme administration diploma at Fictional Mossbank College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构苔岸学院完成户外项目行政文凭课程。"
+    },
+    {
+      "en": "Paid operations assistant at Fictional Acorn Trails from 2021-05 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-05 至 2026-08 在虚构橡果步道机构任有薪运营助理。"
+    },
+    {
+      "en": "Prepared participant lists, equipment counts and transport times for day workshops.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为日间工作坊准备参与者名单、器材数量及交通时间。"
+    },
+    {
+      "en": "Checked returned equipment against issue sheets and reported missing items to the operations lead.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "按领用单核对归还器材，并向运营负责人报告遗失物品。"
+    },
+    {
+      "en": "Sent weather-related schedule changes using wording approved by the programme lead.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用项目负责人批准的措辞发送天气相关排期变更。"
+    },
+    {
+      "en": "Qualified instructors led outdoor sessions and made route-safety decisions; the candidate handled logistics.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "合格教练带领户外活动并作出路线安全决定；候选人负责后勤。"
+    },
+    {
+      "en": "Received the fictional Trail Response Awareness certificate from Fictional Path School on 2022-05-12.",
+      "id": "F07",
+      "kind": "education",
+      "zh": "2022-05-12 获得虚构步道学校颁发的虚构“步道应急意识”证书。"
+    },
+    {
+      "en": "The certificate’s printed validity ended on 2025-05-12.",
+      "id": "F08",
+      "kind": "education",
+      "zh": "该证书印明的有效期于 2025-05-12 结束。"
+    },
+    {
+      "en": "As of 2026-09, no renewal, refresher assessment or replacement certificate is recorded.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "截至 2026-09，未记录续证、复训考核或替代证书。"
+    },
+    {
+      "en": "Attended an employer equipment-storage briefing in 2026-02; it was not a certificate renewal.",
+      "id": "F10",
+      "kind": "education",
+      "zh": "2026-02 参加雇主器材存储说明会；该说明会不是证书续期。"
+    },
+    {
+      "en": "Uses spreadsheet validation lists and shared booking calendars.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格数据验证列表及共享预订日历。"
+    },
+    {
+      "en": "Revised the equipment-return checklist with an instructor in 2025-10.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2025-10 与一名教练共同修订器材归还核对表。"
+    },
+    {
+      "en": "Personally added item codes and damaged-item fields; the instructor supplied inspection criteria.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "个人添加物品代码及损坏物品字段；检查标准由教练提供。"
+    },
+    {
+      "en": "A 2025-11 review found complete return sheets for 18 of 20 sampled workshops.",
+      "id": "F14",
+      "kind": "outcome",
+      "zh": "2025-11 的审核发现，20 场抽样工作坊中有 18 场具备完整的归还单。"
+    },
+    {
+      "en": "No comparable pre-checklist sample was retained.",
+      "id": "F15",
+      "kind": "outcome",
+      "zh": "未留存使用该核对表前的可比样本。"
+    },
+    {
+      "en": "Logged participant accessibility requests and referred suitability decisions to the programme lead.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "记录参与者无障碍需求，并将适宜性决定转交项目负责人。"
+    },
+    {
+      "en": "Prepared a proposed colour-coded store layout in 2026-04; implementation was deferred.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2026-04 拟定颜色编码库房布局方案；实施被推迟。"
+    },
+    {
+      "en": "Volunteered at a fictional seed-exchange table for 2 afternoons in 2024.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2024 年在虚构种子交换摊位做了 2 个下午的志愿服务。"
+    },
+    {
+      "en": "Created a personal plant sketch index in 2023 without surveying or identifying plants professionally.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2023 年制作个人植物素描索引，未从事专业植物调查或鉴定。"
+    },
+    {
+      "en": "Enjoys carving vegetable-print stamps.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好雕刻蔬菜印章。"
+    },
+    {
+      "en": "No instructor licence or independently led outdoor instruction is documented.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录教练执照或独立带领户外教学的经历。"
+    }
+  ]
+}

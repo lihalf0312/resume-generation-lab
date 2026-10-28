@@ -1,0 +1,38 @@
+{
+  "case_id": "case-127",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Campground Guest Services Assistant",
+    "zh": "露营地宾客服务助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Check guest arrivals and maintain pitch allocations using supplied availability rules.",
+      "id": "R01",
+      "zh": "核对宾客抵达情况，并按所提供可用规则维护营位分配。"
+    },
+    {
+      "en": "Give clear site information and route safety or rule concerns to the on-duty warden.",
+      "id": "R02",
+      "zh": "提供清晰场地信息，并将安全或规则问题转交当班管理员。"
+    },
+    {
+      "en": "Record maintenance requests with enough location and timing detail for the grounds team.",
+      "id": "R03",
+      "zh": "记录维修请求，为场地维护团队提供充分的位置及时间详情。"
+    },
+    {
+      "en": "Support payment and shift-handover procedures; experience with weekend daytime reception is required.",
+      "id": "R04",
+      "zh": "支持支付及轮班交接流程；须有周末日间接待经验。"
+    },
+    {
+      "en": "Preferred: administer inventory and rate settings in a campground reservation platform.",
+      "id": "R05",
+      "zh": "优先：在露营地预订平台中管理可售营位及费率设置。"
+    }
+  ]
+}

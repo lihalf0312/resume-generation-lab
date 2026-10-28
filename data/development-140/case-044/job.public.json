@@ -1,0 +1,33 @@
+{
+  "case_id": "case-044",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "HR Operations Coordinator",
+    "zh": "人力资源运营协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate onboarding document workflows.",
+      "id": "R01",
+      "zh": "协调入职文档流程。"
+    },
+    {
+      "en": "Maintain controlled HR records and checklist fields.",
+      "id": "R02",
+      "zh": "维护受控人力资源记录及核对表字段。"
+    },
+    {
+      "en": "Escalate specialist payroll and policy questions.",
+      "id": "R03",
+      "zh": "上报专业薪资及政策问题。"
+    },
+    {
+      "en": "Calculate monthly payroll independently.",
+      "id": "R04",
+      "zh": "独立计算每月薪资。"
+    }
+  ]
+}

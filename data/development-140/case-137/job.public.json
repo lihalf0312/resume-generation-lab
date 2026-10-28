@@ -1,0 +1,38 @@
+{
+  "case_id": "case-137",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community Pool Reception and Bookings Assistant",
+    "zh": "社区泳池接待与预订助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Process public-swim admissions and membership checks using reception systems.",
+      "id": "R01",
+      "zh": "使用接待系统处理公众游泳入场及会员检查。"
+    },
+    {
+      "en": "Provide clear visitor information and follow capacity-escalation and lost-property procedures.",
+      "id": "R02",
+      "zh": "提供清晰访客信息，并遵循容量上报及失物处理流程。"
+    },
+    {
+      "en": "Maintain accurate receipt reconciliations and report discrepancies.",
+      "id": "R03",
+      "zh": "维护准确的收款核对记录，并报告差异。"
+    },
+    {
+      "en": "Be available for weekend daytime reception shifts.",
+      "id": "R04",
+      "zh": "可在周末日间接待班工作。"
+    },
+    {
+      "en": "Independently administer swim-course waiting lists and allocate lesson places within supplied rules.",
+      "id": "R05",
+      "zh": "按所提供规则独立管理游泳课程候补名单并分配课程名额。"
+    }
+  ]
+}

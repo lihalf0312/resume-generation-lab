@@ -1,0 +1,33 @@
+{
+  "case_id": "case-027",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Quality Documentation Specialist",
+    "zh": "质量文件专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain controlled work instructions and revision histories.",
+      "id": "R01",
+      "zh": "维护受控作业指导书及修订历史。"
+    },
+    {
+      "en": "Compile quality records for internal audits.",
+      "id": "R02",
+      "zh": "为内部审核整理质量记录。"
+    },
+    {
+      "en": "Brief production colleagues on documentation changes.",
+      "id": "R03",
+      "zh": "向生产同事说明文件变更。"
+    },
+    {
+      "en": "Lead supplier quality audits independently.",
+      "id": "R04",
+      "zh": "独立主持供应商质量审核。"
+    }
+  ]
+}

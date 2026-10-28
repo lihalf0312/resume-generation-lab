@@ -1,0 +1,33 @@
+{
+  "case_id": "case-070",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Training Records Clerk",
+    "zh": "培训记录文员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate attendance and completion records from approved evidence.",
+      "id": "R01",
+      "zh": "依据获批证据维护准确出勤及完成记录。"
+    },
+    {
+      "en": "Resolve missing records and preserve approved correction trails.",
+      "id": "R02",
+      "zh": "处理缺失记录并保留获批更正记录。"
+    },
+    {
+      "en": "Provide authorized reports while minimizing personal information.",
+      "id": "R03",
+      "zh": "提供授权报告，同时尽量减少个人信息。"
+    },
+    {
+      "en": "Maintain filing guidance and answer evidence-based record queries.",
+      "id": "R04",
+      "zh": "维护归档指引并依据证据回答记录查询。"
+    }
+  ]
+}

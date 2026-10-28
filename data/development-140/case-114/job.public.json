@@ -1,0 +1,38 @@
+{
+  "case_id": "case-114",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Music Release Metadata Assistant",
+    "zh": "音乐发行元数据助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Enter supplied artist, track and contributor metadata accurately.",
+      "id": "R01",
+      "zh": "准确录入所提供的艺人、曲目及贡献者元数据。"
+    },
+    {
+      "en": "Cross-check audio filenames and track order against approved release sheets.",
+      "id": "R02",
+      "zh": "依据获批发行表交叉核对音频文件名及曲目顺序。"
+    },
+    {
+      "en": "Coordinate clarification of missing fields through the distributor’s coordinator and retain correction history.",
+      "id": "R03",
+      "zh": "通过发行商协调员协调澄清缺失字段，并保留更正历史。"
+    },
+    {
+      "en": "Handle supplied English and Chinese title text without altering approved wording.",
+      "id": "R04",
+      "zh": "处理所提供的英文及中文名称文字，不改动获批措辞。"
+    },
+    {
+      "en": "Preferred: experience reconciling royalty statements to distributor payments.",
+      "id": "R05",
+      "zh": "优先：将版税报表与发行商付款进行核对的经验。"
+    }
+  ]
+}

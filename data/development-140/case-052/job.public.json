@@ -1,0 +1,33 @@
+{
+  "case_id": "case-052",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Service Operations Coordinator",
+    "zh": "服务运营协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain request status and escalation records.",
+      "id": "R01",
+      "zh": "维护请求状态及升级处理记录。"
+    },
+    {
+      "en": "Build spreadsheet controls for service data.",
+      "id": "R02",
+      "zh": "为服务数据建立电子表格控制。"
+    },
+    {
+      "en": "Provide reliable customer status updates.",
+      "id": "R03",
+      "zh": "提供可靠的客户状态更新。"
+    },
+    {
+      "en": "Build SQL service-performance queries.",
+      "id": "R04",
+      "zh": "编写服务绩效 SQL 查询。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-089",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Design Project Assistant",
+    "zh": "设计项目助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain design-project briefs, revision records and review schedules.",
+      "id": "R01",
+      "zh": "维护设计项目简报、修订记录及审查日程。"
+    },
+    {
+      "en": "Coordinate accurate deliverable packaging and handover records.",
+      "id": "R02",
+      "zh": "协调准确交付文件整理及交接记录。"
+    },
+    {
+      "en": "Support visual-layout discussions with basic design vocabulary.",
+      "id": "R03",
+      "zh": "以基础设计术语支持视觉布局讨论。"
+    },
+    {
+      "en": "Independently own client visual concepts and final design approval.",
+      "id": "R04",
+      "zh": "独立负责客户视觉概念及最终设计审批。"
+    }
+  ]
+}

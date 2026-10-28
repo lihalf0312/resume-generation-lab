@@ -1,0 +1,131 @@
+{
+  "case_id": "case-113",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-113",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-113",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a visual merchandising certificate at Fictional Dapple College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构斑影学院完成视觉陈列证书课程。"
+    },
+    {
+      "en": "Paid shop display assistant at Fictional Plumwindow Retail from 2019-03 to 2022-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-03 至 2022-12 在虚构梅窗零售公司任有薪门店陈列助理。"
+    },
+    {
+      "en": "Prepared product labels and maintained a display-prop lending list in that role.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该岗位准备产品标签，并维护陈列道具借用清单。"
+    },
+    {
+      "en": "Paid sample-room assistant at Fictional Cottonkite Textiles from 2023-02 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-08 在虚构棉鸢纺织公司任有薪样品室助理。"
+    },
+    {
+      "en": "Labeled fabric swatches with supplier codes, received dates and the client’s requested reference.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "为布样标注供应商代码、收件日期及客户要求的参考编号。"
+    },
+    {
+      "en": "Tracked swatch loans and requested returns before scheduled design reviews.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "跟踪布样借用，并在预定设计审核前请求归还。"
+    },
+    {
+      "en": "Compared swatches with an approved reference under the sample-room lightbox and referred visible differences to a technologist.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在样品室灯箱下将布样与获批参考样比较，并将可见差异转交技术员。"
+    },
+    {
+      "en": "A textile technologist made colour-approval decisions and signed test reports.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "纺织技术员作出色彩批准决定，并签署测试报告。"
+    },
+    {
+      "en": "Uses spreadsheet lookups, label templates and barcode scanning for sample locations.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "使用电子表格查找、标签模板及条码扫描定位样品。"
+    },
+    {
+      "en": "Reindexed 120 archived swatch envelopes with a colleague during 2025-06.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-06 与一名同事共同重新索引 120 个归档布样信封。"
+    },
+    {
+      "en": "Personally checked supplier-code fields for 65 envelopes; the colleague checked the remaining 55.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人核对 65 个信封的供应商代码字段；同事核对其余 55 个。"
+    },
+    {
+      "en": "The team found 11 envelopes with outdated location labels across the 120-envelope set.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "团队在这组 120 个信封中发现 11 个位置标签过时的信封。"
+    },
+    {
+      "en": "The project log does not attribute those 11 findings to either person individually.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "项目日志未将这 11 项发现分别归属于任何一人。"
+    },
+    {
+      "en": "Packed approved samples for dispatch and retained courier-reference records.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "将获批样品打包发运，并保留快递编号记录。"
+    },
+    {
+      "en": "Completed a 2023 internal lightbox orientation; no professional colour-grading qualification was issued.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2023 年完成内部灯箱使用入门培训；未颁发专业色彩评级资格。"
+    },
+    {
+      "en": "Made a personal patchwork pattern book in 2024 using leftover household fabric.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2024 年使用家中剩余布料制作个人拼布图案册。"
+    },
+    {
+      "en": "That personal book was not a commercial textile collection and contained no performance-test results.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "该个人图案册不是商业纺织系列，且不含性能测试结果。"
+    },
+    {
+      "en": "Volunteered to label costumes for Fictional Fernlight Amateur Theatre during 2021-09.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2021-09 志愿为虚构蕨光业余剧团的服装贴标签。"
+    },
+    {
+      "en": "Enjoys sketching repeating geometric patterns.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好绘制重复几何图案。"
+    },
+    {
+      "en": "No production-lot release responsibility or independently signed textile test is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录生产批次放行职责或独立签署纺织测试报告的经历。"
+    }
+  ]
+}

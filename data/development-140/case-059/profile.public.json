@@ -1,0 +1,119 @@
+{
+  "case_id": "case-059",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-059",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-059",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a certificate in Office Coordination at Fictional Institute D059 in 2024.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024 年在虚构院校 D059 完成办公协调结业证书。"
+    },
+    {
+      "en": "The appointment letter for Fictional Events Workshop D059 states a logistics-assistant start date of 2025-02; an unsigned roster lists a start date of 2024-11.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "虚构活动工作室 D059 的聘书将后勤助理入职日期记为 2025-02；未签字排班表则记为 2024-11。"
+    },
+    {
+      "en": "Both retained records confirm logistics-assistant work continuing through 2026-06, but the earlier start-date discrepancy remains unresolved.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "两份留存记录均确认后勤助理工作持续至 2026-06，但较早入职日期差异仍未解决。"
+    },
+    {
+      "en": "Maintained delivery checklists for event materials and confirmed receipt with the venue contact.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "维护活动物料交付清单，并与场地联系人确认收货。"
+    },
+    {
+      "en": "Used spreadsheets to track equipment quantities and label items by event and collection point.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "使用电子表格跟踪设备数量，并按活动及取货点标记物品。"
+    },
+    {
+      "en": "With the logistics coordinator, reconciled 55 equipment line items for a confirmed 2026-03 indoor showcase.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "与后勤协调员合作，为确认于 2026-03 举行的室内展示活动核对 55 条设备条目。"
+    },
+    {
+      "en": "Before that showcase opened, the team resolved 8 quantity mismatches among the 55 line items; no loss-reduction percentage was measured.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "该展示活动开幕前，团队解决 55 条条目中的 8 项数量不匹配；未测量损失减少百分比。"
+    },
+    {
+      "en": "Phoned suppliers about agreed delivery windows; the coordinator negotiated contracts and approved charges.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "就商定交付时间窗口致电供应商；协调员谈判合同并批准费用。"
+    },
+    {
+      "en": "Prepared a pickup map draft for a proposed outdoor event in 2026-05; the event was canceled and the map was not used.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "为拟于 2026-05 举行的户外活动准备取货地图草稿；活动取消，地图未使用。"
+    },
+    {
+      "en": "The confirmed peak in 2026-03 involved 4 concurrent delivery windows; the normal 2026-06 assignment involved 2.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "确认的 2026-03 高峰涉及 4 个并行交付窗口；2026-06 常规分工涉及 2 个。"
+    },
+    {
+      "en": "A volunteer letter for Fictional Arts Shed V059 states service from 2025-04 to 2025-08, while the candidate’s activity diary says 2025-01 to 2025-05.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "虚构艺术工坊 V059 的志愿证明记服务期间为 2025-04 至 2025-08，而候选人活动日记记为 2025-01 至 2025-05。"
+    },
+    {
+      "en": "Both volunteer records describe weekend sign-in desk support rather than paid event management; their exact chronology is unconfirmed.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "两份志愿记录均描述周末签到台支持，而非有偿活动管理；确切时间线未经确认。"
+    },
+    {
+      "en": "Created a personal scale model of a fictional exhibition booth without a client or construction approval.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "制作虚构展位的个人比例模型，没有客户或施工批准。"
+    },
+    {
+      "en": "Keeps a recreational bird-sketch notebook unrelated to event inventory.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "保留与活动库存无关的休闲鸟类素描笔记。"
+    },
+    {
+      "en": "Recorded damaged-package photographs and escalated them without deciding compensation liability.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "记录受损包裹照片并上报，不决定赔偿责任。"
+    },
+    {
+      "en": "Prepared end-of-day return lists, with final equipment reconciliation signed by the coordinator.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "准备每日结束归还清单，由协调员签署最终设备核对。"
+    },
+    {
+      "en": "No forklift operation, public-road traffic control or independent event safety-plan ownership is recorded.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "未记录叉车操作、公共道路交通管制或独立负责活动安全计划的经历。"
+    },
+    {
+      "en": "Kept access instructions separate from publicly shared delivery notes to avoid disclosing entry codes.",
+      "id": "F18",
+      "kind": "skill",
+      "zh": "将进入指引与公开共享交付单分开，以避免泄露门禁码。"
+    }
+  ]
+}

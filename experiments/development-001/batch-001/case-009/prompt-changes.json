@@ -1,6 +1,0 @@
-{
-  "version": 9,
-  "previous_case": "case-008",
-  "changes": [],
-  "reason": "Case-008 reviewer found no new repair. Retain v8 action disambiguation. Apply prior Chinese collocation feedback where authority and responsibility boundaries occur naturally."
-}

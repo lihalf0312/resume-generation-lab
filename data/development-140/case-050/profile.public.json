@@ -1,0 +1,119 @@
+{
+  "case_id": "case-050",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-050",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-050",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BSc in Business Analytics at Fictional Institute D050 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D050 完成商业分析理学学士学位。"
+    },
+    {
+      "en": "Worked as a campaign operations assistant at Fictional B2B Publisher D050 from 2021-04 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-04 至 2026-08 在虚构 B2B 出版商 D050 担任营销活动运营助理。"
+    },
+    {
+      "en": "Prepared segmented webinar invitation lists using approved CRM fields and suppression rules.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "使用获批 CRM 字段及抑制规则准备分组网络研讨会邀请名单。"
+    },
+    {
+      "en": "Checked duplicate contacts, consent flags and test links before requesting a campaign manager’s send approval.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "在请求营销活动经理批准发送前，检查重复联系人、同意标记及测试链接。"
+    },
+    {
+      "en": "With the CRM administrator, standardized pre-send checks for 10 webinar campaigns in 2025-Q3.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-Q3 与 CRM 管理员合作，为 10 场网络研讨会营销活动标准化发送前检查。"
+    },
+    {
+      "en": "In those 10 campaigns, 27 duplicate list entries were removed before send; this is a list-quality count, not an incremental sales result.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在这 10 场营销活动中，发送前删除 27 条重复名单记录；这是名单质量计数，而非新增销售成果。"
+    },
+    {
+      "en": "Built weekly funnel tables from exported campaign and CRM data, with definitions approved by the analyst.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "根据导出的营销活动及 CRM 数据建立每周漏斗表，定义经分析师批准。"
+    },
+    {
+      "en": "Used spreadsheet joins and pivots to reconcile registration totals; did not administer CRM permissions or integrations.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "使用电子表格连接及数据透视表核对报名总数；未管理 CRM 权限或集成。"
+    },
+    {
+      "en": "Coordinated execution of a 2026-01 subject-line test with 2 approved variants; the analyst selected the audience split and interpreted results.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2026-01 协调执行包含 2 个获批版本的邮件主题测试；分析师选择受众分组并解读结果。"
+    },
+    {
+      "en": "Drafted a lead-scoring model in 2026-04 using fictional examples; it was not deployed to the live CRM.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-04 使用虚构示例起草潜客评分模型；未部署至真实业务 CRM。"
+    },
+    {
+      "en": "Supported 6 concurrent campaigns at the 2025-11 peak; the routine 2026-08 workload was 3.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2025-11 高峰期支持 6 场并行营销活动；2026-08 常规工作量为 3 场。"
+    },
+    {
+      "en": "Volunteered on evenings for Fictional Makers Newsletter V050 from 2023-09 to 2024-04 while employed, editing event listings.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "2023-09 至 2024-04 任职期间，晚间为虚构创客通讯 V050 志愿编辑活动列表。"
+    },
+    {
+      "en": "Designed a personal recipe-card collection as a hobby; it was not commissioned marketing collateral.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "出于爱好设计个人食谱卡片集；并非受委托制作的营销材料。"
+    },
+    {
+      "en": "Documented naming conventions and campaign handovers for sales-development colleagues.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "为销售开发同事记录命名规则及营销活动交接信息。"
+    },
+    {
+      "en": "Did not own paid-media budgets, revenue forecasts or the final legal interpretation of consent requirements.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "未负责付费媒体预算、收入预测或同意要求的最终法律解释。"
+    },
+    {
+      "en": "A draft achievements sheet claims 300 qualified leads, whereas the retained export contains 300 registrations with no qualification field.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份成果草稿声称获得 300 个合格潜客，而留存导出数据为 300 个报名记录，没有资格评定字段。"
+    },
+    {
+      "en": "A profile note lists an email-platform administrator certificate, but the attached badge title says introductory campaign training.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一份简介备注列出邮件平台管理员证书，但所附徽章名称为入门营销活动培训。"
+    },
+    {
+      "en": "Used a checklist to escalate conflicting consent flags to the privacy contact rather than deciding the legal basis independently.",
+      "id": "F18",
+      "kind": "skill",
+      "zh": "使用清单将冲突的同意标记上报隐私联系人，而非独立决定法律依据。"
+    }
+  ]
+}

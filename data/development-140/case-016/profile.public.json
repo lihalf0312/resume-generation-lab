@@ -1,0 +1,65 @@
+{
+  "case_id": "case-016",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-016",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-016",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a certificate in Event Administration at Fictional Institute B16 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构学院 B16 完成活动行政证书课程。"
+    },
+    {
+      "en": "Equipment booking coordinator at Fictional Event Collective B16, 2020-10 to 2026-07.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-10 至 2026-07，任虚构活动合作组织 B16 设备预订协调员。"
+    },
+    {
+      "en": "Scheduled pickup windows for rented event equipment using a shared spreadsheet.",
+      "id": "F03",
+      "kind": "skill",
+      "zh": "使用共享电子表格安排租赁活动设备的取货时段。"
+    },
+    {
+      "en": "Coordinated 28 equipment handovers during a 2026-04 festival; drivers selected their own routes.",
+      "id": "F04",
+      "kind": "outcome",
+      "zh": "在 2026-04 的一场节庆活动中协调 28 次设备交接；司机自行选择路线。"
+    },
+    {
+      "en": "Recorded item counts and reported missing cases to the equipment manager.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "记录物品数量，并向设备经理报告缺失箱件。"
+    },
+    {
+      "en": "In 2026-06, built a practice dispatch board for a fictional fleet of 4 vans.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2026-06，为由 4 辆货车组成的虚构车队制作练习调度看板。"
+    },
+    {
+      "en": "The dispatch board used invented orders and was not connected to live vehicles.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "该调度看板使用虚构订单，未连接实际车辆。"
+    },
+    {
+      "en": "Communicated revised pickup times to customers by email.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "通过电子邮件向客户传达更新后的取货时间。"
+    },
+    {
+      "en": "No transport management system use or customs documentation experience is recorded.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "未记录运输管理系统使用或海关文件处理经验。"
+    }
+  ]
+}

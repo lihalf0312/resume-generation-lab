@@ -1,0 +1,33 @@
+{
+  "case_id": "case-080",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Finance Operations Records Assistant",
+    "zh": "财务运营记录助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate invoice and expense document records.",
+      "id": "R01",
+      "zh": "维护准确发票及费用文件记录。"
+    },
+    {
+      "en": "Identify missing or potentially duplicate documents and escalate them.",
+      "id": "R02",
+      "zh": "识别缺失或潜在重复文件并上报。"
+    },
+    {
+      "en": "Provide controlled status reports while protecting sensitive fields.",
+      "id": "R03",
+      "zh": "提供受控状态报告，同时保护敏感字段。"
+    },
+    {
+      "en": "Document approved corrections and maintain filing procedures.",
+      "id": "R04",
+      "zh": "记录获批更正并维护归档流程。"
+    }
+  ]
+}

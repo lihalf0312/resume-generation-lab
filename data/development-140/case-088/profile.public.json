@@ -1,0 +1,125 @@
+{
+  "case_id": "case-088",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-088",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-088",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Media Studies at Fictional Institute D088 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D088 完成媒体研究文学学士学位。"
+    },
+    {
+      "en": "Worked as a content coordination assistant at Fictional Learning Publisher D088 from 2021-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-03 至 2026-08 在虚构学习出版商 D088 担任内容协调助理。"
+    },
+    {
+      "en": "Prepared English and Chinese content packets for review using approved text supplied by editors.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "使用编辑提供的获批文本，准备英文及中文内容资料供审阅。"
+    },
+    {
+      "en": "Checked headings, missing strings and consistent product terms against an internal bilingual glossary.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "依据内部双语词汇表检查标题、缺失字符串及产品术语一致性。"
+    },
+    {
+      "en": "With bilingual editors, coordinated a 2025-06 review of 80 help-text strings.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-06 与双语编辑合作协调 80 条帮助文本字符串的审查。"
+    },
+    {
+      "en": "The team flagged 12 terminology inconsistencies among those 80 strings; editors approved 10 corrections and kept 2 pending.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "团队在该批 80 条字符串中标出 12 处术语不一致；编辑批准 10 处更正，保留 2 处待定。"
+    },
+    {
+      "en": "The candidate assembled comparison sheets and entered approved changes; editors determined translation accuracy and final wording.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "候选人整理比较表并录入获批变更；编辑决定翻译准确性及最终措辞。"
+    },
+    {
+      "en": "This was internal localization assistance, not certified translation, interpreting or independent legal-language review.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "这是内部本地化协助，并非认证翻译、口译或独立法律语言审查。"
+    },
+    {
+      "en": "Prepared a 2026-02 glossary handover guide approved for the content team.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-02 准备词汇表交接指南，获批供内容团队使用。"
+    },
+    {
+      "en": "Drafted a multilingual audio-caption plan in 2026-05; no recordings or captions were published.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草多语言音频字幕计划；未发布录音或字幕。"
+    },
+    {
+      "en": "Maintained language-version identifiers and tracked unresolved review questions without substituting guessed text.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "维护语言版本标识并跟踪未解决审阅问题，不用猜测文本替代。"
+    },
+    {
+      "en": "At the 2025-11 release peak, coordinated 6 content packets; the routine 2026-08 allocation was 2.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-11 发布高峰期协调 6 份内容资料；2026-08 常规分工为 2 份。"
+    },
+    {
+      "en": "Completed a 2024-10 short course on plain-language editing; no translator accreditation was awarded.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-10 完成通俗语言编辑短课；未授予翻译认证。"
+    },
+    {
+      "en": "Volunteered for Fictional Cultural Reading Circle V088 on weekends from 2023-02 to 2023-08 while employed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-02 至 2023-08 任职期间，周末在虚构文化阅读社团 V088 志愿服务。"
+    },
+    {
+      "en": "For that circle, organized discussion prompts provided by facilitators rather than interpreting participant conversations.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该社团整理引导师提供的讨论提示，而非为参与者对话口译。"
+    },
+    {
+      "en": "Creates personal watercolor studies of imaginary coastal signs as a hobby.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "以创作虚构海岸标识水彩习作为爱好。"
+    },
+    {
+      "en": "A draft profile describes the candidate as a certified translator, but neither an accreditation record nor a translation qualification is supplied.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一份简介草稿将候选人描述为认证翻译，但未提供认证记录或翻译资格。"
+    },
+    {
+      "en": "Sent review reminders and consolidated editor comments into a single tracked issue list.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "发送审阅提醒，并将编辑意见整合至单一可跟踪问题清单。"
+    },
+    {
+      "en": "No quantified bilingual proficiency test score or independent interpreting assignment is recorded.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "未记录量化双语能力考试分数或独立口译任务。"
+    }
+  ]
+}

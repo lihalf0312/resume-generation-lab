@@ -1,0 +1,28 @@
+{
+  "case_id": "case-123",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Farm Stores and Field-Issue Assistant",
+    "zh": "农场物料库与田间领料助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Receive and locate approved parts, keeping returned items separate from new stock.",
+      "id": "R01",
+      "zh": "接收并定位获批零件，将归还物品与新库存分开。"
+    },
+    {
+      "en": "Prepare field-issue bundles from approved codes and document shortages.",
+      "id": "R02",
+      "zh": "依据获批代码准备田间领料包，并记录短缺。"
+    },
+    {
+      "en": "Reconcile physical counts and maintain clear low-stock and exception records.",
+      "id": "R03",
+      "zh": "核对实物数量，并维护清晰的低库存及异常记录。"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "case_id": "case-135",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-135",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-135",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an agricultural operations support certificate at Fictional Plumfurrow Institute in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构李垄学院完成农业运营支持证书课程。"
+    },
+    {
+      "en": "Paid seasonal packing assistant at Fictional Goldfinch Orchard from 2024-08 to 2024-11 and from 2025-08 to 2025-11.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-08 至 2024-11 及 2025-08 至 2025-11 在虚构金翅雀果园任有薪季节性包装助理。"
+    },
+    {
+      "en": "Sorted harvested fruit using visual examples and grade labels supplied by the packing supervisor.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据包装主管提供的视觉示例及等级标签分拣采收水果。"
+    },
+    {
+      "en": "Set aside uncertain fruit for the supervisor rather than creating new grading rules.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "将难以确定的水果留给主管，而非制定新的分级规则。"
+    },
+    {
+      "en": "Counted filled crates by field-block reference and recorded the batch label before dispatch.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "按田块编号清点装满的筐，并在发运前记录批次标签。"
+    },
+    {
+      "en": "Prepared empty crates and set up collection points according to the team lead’s daily plan.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据团队负责人每日计划准备空筐，并布置收集点。"
+    },
+    {
+      "en": "A trained driver moved palletized loads; the candidate’s documented duties did not include forklift driving.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "由受训司机搬运托盘货物；候选人记录中的职责不含叉车驾驶。"
+    },
+    {
+      "en": "A 2025-09 packing log records 84 crates sent to the main dispatch area and 16 held for supervisor review from one 100-crate intake.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "一份 2025-09 包装日志记录，在一次 100 筐入库中，84 筐送至主要发运区，16 筐留待主管审核。"
+    },
+    {
+      "en": "The source does not state the eventual sale, regrading or disposal outcome of those 16 held crates.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "来源未说明这 16 筐暂留货物最终出售、重新分级或处置的结果。"
+    },
+    {
+      "en": "Crate weights were not recorded in that log, so it provides no total harvested mass.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "该日志未记录筐的重量，因此未提供采收总质量。"
+    },
+    {
+      "en": "Helped test a colour-and-text batch tag during 4 packing shifts in 2025-10.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2025-10 在 4 个包装班次中协助测试结合颜色与文字的批次标签。"
+    },
+    {
+      "en": "Personally checked that the block code remained readable; the supervisor selected the grading colours.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人检查田块代码是否仍清晰可读；分级颜色由主管选择。"
+    },
+    {
+      "en": "Uses manual tally counters, batch tags and simple spreadsheet intake totals.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用手动计数器、批次标签及简单电子表格入库汇总。"
+    },
+    {
+      "en": "Completed the orchard’s seasonal packing induction at the start of each recorded season.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "在记录中的每个季节开始时完成果园季节性包装入职培训。"
+    },
+    {
+      "en": "Volunteered with Fictional Acornbasket Food Share from 2023-02 to 2024-05.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-02 至 2024-05 在虚构橡果篮食物分享团体做志愿者。"
+    },
+    {
+      "en": "At that group, labeled donated produce boxes with dates supplied by the organizer and checked distribution-list counts.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "在该团体依据组织者提供的日期为捐赠农产品箱贴标签，并核对分发清单数量。"
+    },
+    {
+      "en": "The organizer decided food acceptance and distribution allocations; the candidate did not make those decisions.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "组织者决定食品接收及分发配额；候选人不作出这些决定。"
+    },
+    {
+      "en": "Created a personal illustrated orchard-season diary in 2025 with invented fruit-pattern drawings.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2025 年使用虚构水果图案绘画制作个人图解果园季节日记。"
+    },
+    {
+      "en": "Enjoys weaving small decorative baskets from paper strips.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好用纸条编织小型装饰篮。"
+    },
+    {
+      "en": "Recorded packing shifts started at 06:00 during the 2025 season.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "记录中的 2025 年季节性包装班次于 06:00 开始。"
+    },
+    {
+      "en": "Availability for 06:00 starts in the 2027 harvest season has not been confirmed.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "尚未确认能否在 2027 年采收季参加 06:00 开始的班次。"
+    }
+  ]
+}

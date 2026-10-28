@@ -1,0 +1,33 @@
+{
+  "case_id": "case-021",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Internal Tools Developer",
+    "zh": "内部工具开发工程师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Develop Python and SQL data-processing tools.",
+      "id": "R01",
+      "zh": "开发 Python 和 SQL 数据处理工具。"
+    },
+    {
+      "en": "Write automated tests and operational documentation.",
+      "id": "R02",
+      "zh": "编写自动化测试和运维文档。"
+    },
+    {
+      "en": "Gather requirements from operational users.",
+      "id": "R03",
+      "zh": "向运营用户收集需求。"
+    },
+    {
+      "en": "Administer production Kubernetes clusters.",
+      "id": "R04",
+      "zh": "管理生产 Kubernetes 集群。"
+    }
+  ]
+}

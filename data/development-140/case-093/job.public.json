@@ -1,0 +1,33 @@
+{
+  "case_id": "case-093",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Learning Programme Data Assistant",
+    "zh": "学习项目数据助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Reconcile participant records across sessions.",
+      "id": "R01",
+      "zh": "跨场次核对参与者记录。"
+    },
+    {
+      "en": "Report attendance and distinct participant counts accurately.",
+      "id": "R02",
+      "zh": "准确报告出席人次及独立参与者数量。"
+    },
+    {
+      "en": "Maintain reproducible data corrections.",
+      "id": "R03",
+      "zh": "维护可复核的数据修正。"
+    },
+    {
+      "en": "Administer production SQL databases.",
+      "id": "R04",
+      "zh": "管理生产 SQL 数据库。"
+    }
+  ]
+}

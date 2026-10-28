@@ -1,0 +1,33 @@
+{
+  "case_id": "case-042",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Localization Content Coordinator",
+    "zh": "本地化内容协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate English and Chinese content versions.",
+      "id": "R01",
+      "zh": "协调英文及中文内容版本。"
+    },
+    {
+      "en": "Maintain terminology and perform placeholder checks.",
+      "id": "R02",
+      "zh": "维护术语并检查占位符。"
+    },
+    {
+      "en": "Use translation-memory tools.",
+      "id": "R03",
+      "zh": "使用翻译记忆工具。"
+    },
+    {
+      "en": "Write scripts to automate localization imports.",
+      "id": "R04",
+      "zh": "编写脚本自动导入本地化内容。"
+    }
+  ]
+}

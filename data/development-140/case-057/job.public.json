@@ -1,0 +1,33 @@
+{
+  "case_id": "case-057",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Ecommerce Content Operations Coordinator",
+    "zh": "电商内容运营协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Validate structured catalogue content before publication.",
+      "id": "R01",
+      "zh": "发布前验证结构化商品目录内容。"
+    },
+    {
+      "en": "Coordinate staged uploads and maintain change records.",
+      "id": "R02",
+      "zh": "协调分批上传并维护变更记录。"
+    },
+    {
+      "en": "Improve image accessibility through approved alt text.",
+      "id": "R03",
+      "zh": "通过获批替代文本改善图像可访问性。"
+    },
+    {
+      "en": "Develop and test production checkout features.",
+      "id": "R04",
+      "zh": "开发并测试生产结账功能。"
+    }
+  ]
+}

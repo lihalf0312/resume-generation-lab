@@ -1,0 +1,33 @@
+{
+  "case_id": "case-038",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Construction Project Administrator",
+    "zh": "施工项目行政专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain construction document and RFI registers.",
+      "id": "R01",
+      "zh": "维护施工文件及信息请求登记表。"
+    },
+    {
+      "en": "Track meeting actions and outstanding acknowledgments.",
+      "id": "R02",
+      "zh": "跟踪会议行动及待收签收确认。"
+    },
+    {
+      "en": "Support safety induction administration.",
+      "id": "R03",
+      "zh": "支持安全入场培训行政事务。"
+    },
+    {
+      "en": "Independently certify subcontractor payment valuations.",
+      "id": "R04",
+      "zh": "独立认证分包商付款计价。"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "case_id": "case-012",
+  "synthetic": true,
+  "title": {
+    "en": "Data quality analyst",
+    "zh": "数据质量分析师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Reconcile datasets with SQL.",
+      "id": "R01",
+      "zh": "使用 SQL 核对数据集。"
+    },
+    {
+      "en": "Define and document data validation rules.",
+      "id": "R02",
+      "zh": "制定并记录数据校验规则。"
+    },
+    {
+      "en": "Present data exceptions in Power BI.",
+      "id": "R03",
+      "zh": "在 Power BI 中呈现数据异常。"
+    },
+    {
+      "en": "Monitor Kafka streaming pipelines.",
+      "id": "R04",
+      "zh": "监控 Kafka 流处理管道。"
+    }
+  ]
+}

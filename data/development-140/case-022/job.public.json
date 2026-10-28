@@ -1,0 +1,33 @@
+{
+  "case_id": "case-022",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Junior Operations Data Analyst",
+    "zh": "初级运营数据分析师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Clean operational records and document exceptions.",
+      "id": "R01",
+      "zh": "清理运营记录并记录异常。"
+    },
+    {
+      "en": "Use SQL joins and aggregation.",
+      "id": "R02",
+      "zh": "使用 SQL 连接和聚合。"
+    },
+    {
+      "en": "Translate operational findings for stakeholders.",
+      "id": "R03",
+      "zh": "向相关方解释运营分析发现。"
+    },
+    {
+      "en": "Maintain production Power BI dashboards.",
+      "id": "R04",
+      "zh": "维护生产环境 Power BI 仪表板。"
+    }
+  ]
+}

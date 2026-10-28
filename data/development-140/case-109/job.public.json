@@ -1,0 +1,33 @@
+{
+  "case_id": "case-109",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Equipment Dispatch Administrator",
+    "zh": "设备调度管理员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate equipment bookings and collection windows.",
+      "id": "R01",
+      "zh": "协调设备预订及取货窗口。"
+    },
+    {
+      "en": "Check dispatch data and escalate discrepancies.",
+      "id": "R02",
+      "zh": "检查调度数据并上报差异。"
+    },
+    {
+      "en": "Prepare customer confirmations and shift handovers.",
+      "id": "R03",
+      "zh": "准备客户确认及轮班交接。"
+    },
+    {
+      "en": "Supervise depot staff and approve equipment-safety procedures.",
+      "id": "R04",
+      "zh": "管理库场人员并批准设备安全流程。"
+    }
+  ]
+}

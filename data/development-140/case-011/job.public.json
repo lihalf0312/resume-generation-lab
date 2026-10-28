@@ -1,0 +1,31 @@
+{
+  "case_id": "case-011",
+  "synthetic": true,
+  "title": {
+    "en": "Junior test automation engineer",
+    "zh": "初级测试自动化工程师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Write and maintain Python automated tests.",
+      "id": "R01",
+      "zh": "编写和维护 Python 自动化测试。"
+    },
+    {
+      "en": "Provide reproducible defect reports.",
+      "id": "R02",
+      "zh": "提供可复现的缺陷报告。"
+    },
+    {
+      "en": "Collaborate through Git pull requests.",
+      "id": "R03",
+      "zh": "通过 Git 拉取请求协作。"
+    },
+    {
+      "en": "Operate Kubernetes-based test environments.",
+      "id": "R04",
+      "zh": "操作基于 Kubernetes 的测试环境。"
+    }
+  ]
+}

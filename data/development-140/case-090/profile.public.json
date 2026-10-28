@@ -1,0 +1,125 @@
+{
+  "case_id": "case-090",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-090",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-090",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Business Records at Fictional Institute D090 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D090 完成商业档案专科学历。"
+    },
+    {
+      "en": "Worked as a supplier documentation clerk at Fictional Services Office D090 from 2022-04 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-04 至 2026-08 在虚构服务办公室 D090 担任供应商文件文员。"
+    },
+    {
+      "en": "Maintained supplier names, approved identifiers and document-expiry dates in a controlled register.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在受控登记表维护供应商名称、获批标识及文件到期日期。"
+    },
+    {
+      "en": "Checked required fields against the approved onboarding checklist and recorded incomplete submissions without approving suppliers.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "按获批准入清单检查必填字段，记录不完整提交，不批准供应商。"
+    },
+    {
+      "en": "Sent document-renewal reminders using approved templates and routed exceptions to the supplier manager.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用获批模板发送文件续期提醒，并将例外转交供应商经理。"
+    },
+    {
+      "en": "With the supplier manager, reviewed 180 active records during 2025-08.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "在 2025-08 与供应商经理合作复查 180 条活跃记录。"
+    },
+    {
+      "en": "The team found 21 missing expiry dates among those 180 records, recovered 17 from retained documents and left 4 flagged awaiting evidence.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "团队在该批 180 条记录中发现 21 个缺失到期日期，从留存文件恢复 17 个，并保留 4 个标记待证据。"
+    },
+    {
+      "en": "Used spreadsheet validation lists and duplicate-identifier checks to maintain register consistency.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "使用电子表格验证列表及重复标识检查维护登记表一致性。"
+    },
+    {
+      "en": "Kept change logs with reviewer references and preserved original document versions.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "保留带审核引用的变更记录，并保存原始文件版本。"
+    },
+    {
+      "en": "Prepared a 2026-02 renewal-tracking desk guide that the manager approved for team use.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-02 准备续期跟踪桌面指南，由经理批准供团队使用。"
+    },
+    {
+      "en": "Drafted a colored-folder proposal in 2026-05; it remained unused and is not an implemented process improvement.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 起草彩色文件夹提案；仍未使用，并非已实施流程改进。"
+    },
+    {
+      "en": "At the 2025-11 peak, tracked 34 pending renewal requests; the regular 2026-08 queue held 19.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-11 高峰期跟踪 34 个待处理续期请求；2026-08 常规队列有 19 个。"
+    },
+    {
+      "en": "Completed a 2024-06 spreadsheet refresher using fictional records, separate from the paid supplier work.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-06 使用虚构记录完成电子表格复习课，与有偿供应商工作分开。"
+    },
+    {
+      "en": "Volunteered for Fictional Craft Tool Library V090 from 2023-02 to 2023-08 on Saturdays while employed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-02 至 2023-08 任职期间，星期六在虚构手工工具资料馆 V090 志愿服务。"
+    },
+    {
+      "en": "For the library, indexed donated instruction sheets rather than approving purchases or vendors.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该资料馆索引捐赠说明页，而非审批采购或供应商。"
+    },
+    {
+      "en": "Enjoys making small paper boats and keeps a personal folding journal.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "喜爱制作小纸船，并保留个人折叠日记。"
+    },
+    {
+      "en": "Prepared weekly exception summaries without including bank details or unnecessary personal contact information.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "准备每周异常摘要，不包含银行详情或不必要的个人联系信息。"
+    },
+    {
+      "en": "Referred requests to change protected fields to authorized reviewers rather than making unapproved edits.",
+      "id": "F18",
+      "kind": "skill",
+      "zh": "将修改受保护字段的请求转交获授权审核者，而非未经批准修改。"
+    },
+    {
+      "en": "No supplier negotiation, payment approval or legal compliance certification authority is claimed; these are not required by the vacancy.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "不声称具有供应商谈判、付款审批或法律合规认证权限；本空缺不要求这些职责。"
+    }
+  ]
+}

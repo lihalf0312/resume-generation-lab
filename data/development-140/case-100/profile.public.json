@@ -1,0 +1,131 @@
+{
+  "case_id": "case-100",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-100",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-100",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Project Administration at Fictional Institute D100 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D100 完成项目行政专科学历。"
+    },
+    {
+      "en": "Worked as a project documentation clerk at Fictional Delivery Office D100 from 2022-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-02 至 2026-08 在虚构交付办公室 D100 担任项目文件文员。"
+    },
+    {
+      "en": "Registered project documents with revision, owner and receipt-date fields using an approved procedure.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依照获批流程登记项目文件，包含修订版、负责人及收件日期字段。"
+    },
+    {
+      "en": "Checked mandatory metadata and duplicate document references before routing records to reviewers.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "将记录转交审核者前检查必填元数据及重复文件编号。"
+    },
+    {
+      "en": "With the records lead, reviewed 260 register entries during 2025-07.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-07 与记录负责人合作复查 260 条登记记录。"
+    },
+    {
+      "en": "The team found 20 entries missing an owner reference, restored 17 from approved handovers and left 3 visibly pending.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "团队发现 20 条记录缺少负责人引用，从获批交接恢复 17 条，并保留 3 条明确待定。"
+    },
+    {
+      "en": "Distributed approved revisions to authorized recipient lists and retained superseded versions according to procedure.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "向授权接收者名单分发获批修订版，并依流程保留过期版本。"
+    },
+    {
+      "en": "Maintained issue and correction logs with reviewer approval references, without overwriting historical records.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "维护附审核批准引用的问题及更正记录，不覆盖历史记录。"
+    },
+    {
+      "en": "Prepared a 2026-02 handover checklist that the records lead approved and adopted.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-02 准备交接清单，由记录负责人批准并采纳。"
+    },
+    {
+      "en": "Drafted an optional folder-icon scheme in 2026-05; it remained a proposal and was not deployed.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草可选文件夹图标方案；仍为提案，未部署。"
+    },
+    {
+      "en": "Responded to internal retrieval requests by locating approved versions and recording request identifiers.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "通过查找获批版本并记录请求标识，处理内部调阅请求。"
+    },
+    {
+      "en": "Used spreadsheet validation lists and filters to produce weekly pending-review summaries.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用电子表格验证列表及筛选生成每周待审摘要。"
+    },
+    {
+      "en": "At the 2025-11 peak, maintained registers for 7 work packages; the normal 2026-08 assignment was 4.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在 2025-11 高峰期维护 7 个工作包登记表；2026-08 常规分工为 4 个。"
+    },
+    {
+      "en": "Completed a 2024-04 records-formatting refresher with fictional sample documents, separate from employment outputs.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2024-04 使用虚构示例文件完成记录格式复习课程，与任职产出分开。"
+    },
+    {
+      "en": "Volunteered at Fictional Craft Archive V100 on Saturdays from 2023-03 to 2023-08 while employed.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-03 至 2023-08 任职期间，星期六在虚构手工档案社团 V100 志愿服务。"
+    },
+    {
+      "en": "For the archive, sorted donated pattern folders by topic without managing corporate project records.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "为该社团按主题整理捐赠图样文件夹，未管理企业项目记录。"
+    },
+    {
+      "en": "Built a personal index of fictional lighthouse postcards in 2020, unrelated to client projects.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2020 年建立个人虚构灯塔明信片索引，与客户项目无关。"
+    },
+    {
+      "en": "Keeps a hobby notebook of simple embroidery patterns.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "保留简单刺绣图案爱好笔记。"
+    },
+    {
+      "en": "Routed new access requests to the project owner and excluded unnecessary personal details from shared summaries.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "将新访问请求转交项目负责人，并从共享摘要排除不必要的个人详情。"
+    },
+    {
+      "en": "No authority for project budget approval, engineering sign-off or legal retention-policy design is claimed; none is required by this vacancy.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "不声称拥有项目预算审批、工程签字或法律保留政策设计权限；本空缺均不要求。"
+    }
+  ]
+}

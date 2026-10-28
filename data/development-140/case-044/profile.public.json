@@ -1,0 +1,119 @@
+{
+  "case_id": "case-044",
+  "creation_batch": "development-001-extension-005",
+  "identity_id": "synthetic-person-044",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-044",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Office Management at Fictional Copperfern Institute in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构铜蕨学院完成办公室管理文凭课程。"
+    },
+    {
+      "en": "Completed internal data-handling training in 2025-02; it did not confer a legal qualification.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2025-02 完成内部数据处理培训；不授予法律资格。"
+    },
+    {
+      "en": "Facilities records assistant at Fictional Mosaic Tools, 2019-10 to 2022-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2019-10 至 2022-08 在虚构马赛克工具机构任设施记录助理。"
+    },
+    {
+      "en": "People operations assistant at Fictional Mosaic Tools, 2022-09 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2022-09 至 2026-09 在虚构马赛克工具机构任人事运营助理。"
+    },
+    {
+      "en": "Maintains starter checklists and routes missing documents to authorized HR colleagues without judging candidate suitability.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "维护新员工核对表，将缺失文件转交获授权的人力资源同事，不判断候选人适合程度。"
+    },
+    {
+      "en": "Coordinated 12 starter files in 2026-09; the 2024-07 intake peak was 29 files.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-09 协调 12 份新员工文件；2024-07 入职高峰为 29 份。"
+    },
+    {
+      "en": "Co-designed an onboarding checklist revision with an HR advisor during 2025-04 to 2025-05.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-04 至 2025-05 与人力资源顾问共同设计入职核对表修订。"
+    },
+    {
+      "en": "Personally added owner and due-date fields; the advisor approved required document categories.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人添加责任人及到期日期字段；必需文件类别由顾问批准。"
+    },
+    {
+      "en": "A team audit found complete checklist fields in 21 of 25 files in 2025-07 versus 14 of 23 in 2025-03; cohorts differed and causality was not established.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队审核发现，2025-07 的 25 份文件中有 21 份核对字段完整，2025-03 的 23 份中为 14 份；群体不同且未建立因果关系。"
+    },
+    {
+      "en": "Drafted an exit-document handoff guide in 2026-05; it remained unapproved in 2026-09.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草离职文档交接指南；2026-09 仍未获批准。"
+    },
+    {
+      "en": "Uses spreadsheet validation, access-controlled folders, and approved HR email templates.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格校验、访问受控文件夹及经批准的人力资源邮件模板。"
+    },
+    {
+      "en": "Escalates payroll questions to payroll staff and policy interpretation to the HR advisor.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "将薪资问题上报薪资人员，将政策解释问题上报人力资源顾问。"
+    },
+    {
+      "en": "Created a personal sewing inventory of 47 fabric offcuts in 2024-10, outside work.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-10 在工作以外制作包含 47 块布料余片的个人缝纫库存表。"
+    },
+    {
+      "en": "Enjoys mending clothes and walking; neither activity is an HR qualification.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好修补衣物和步行；均非人力资源资格。"
+    },
+    {
+      "en": "Helped label supply boxes at Fictional Craft Weekend in 2025-06 while remaining employed full-time.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2025-06 在虚构手工周末活动中协助标记物资箱，同时保持全职任职。"
+    },
+    {
+      "en": "An unverified draft title says HR advisor, whereas signed employment records say people operations assistant.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份未经核实的职称草稿称人力资源顾问，而签字任职记录为人事运营助理。"
+    },
+    {
+      "en": "A training note lists payroll course complete but has no provider or completion date; completion is unconfirmed.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一条培训备注列为薪资课程已完成，但无提供方或完成日期；完成情况未经确认。"
+    },
+    {
+      "en": "No payroll calculation ownership, legal advice, or candidate ranking is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录薪资计算责任、法律建议或候选人排名经历。"
+    }
+  ]
+}

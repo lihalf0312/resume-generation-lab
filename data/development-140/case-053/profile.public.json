@@ -1,0 +1,113 @@
+{
+  "case_id": "case-053",
+  "creation_batch": "development-001-extension-006",
+  "identity_id": "synthetic-person-053",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-053",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a facilities administration certificate at Fictional Stonepetal College in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构石瓣学院完成设施行政证书课程。"
+    },
+    {
+      "en": "Attended internal building-access orientation in 2022-04; it was not an engineering or safety licence.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "参加 2022-04 内部楼宇访问入门培训；不是工程或安全执照。"
+    },
+    {
+      "en": "Reception and access clerk at Fictional Cedar Prism, 2019-11 to 2022-07.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2019-11 至 2022-07 在虚构杉棱机构任接待及访问文员。"
+    },
+    {
+      "en": "Facilities planning administrator at Fictional Cedar Prism, 2022-08 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2022-08 至 2026-09 在虚构杉棱机构任设施规划行政专员。"
+    },
+    {
+      "en": "Schedules approved maintenance windows and sends access instructions to authorized contractors.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "安排经批准的维护时间窗口，并向获授权承包商发送访问指引。"
+    },
+    {
+      "en": "Maintains planning records for 5 active floors in 2026-09; the 2024-06 relocation peak covered 8 floors.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-09 维护 5 个使用中楼层的规划记录；2024-06 搬迁高峰覆盖 8 个楼层。"
+    },
+    {
+      "en": "Worked with a facilities engineer to improve the access-readiness checklist during 2025-03.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-03 与设施工程师共同改进访问准备核对表。"
+    },
+    {
+      "en": "Personally added contact and approval-date fields; the engineer determined technical access conditions.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人添加联系人及批准日期字段；技术访问条件由工程师确定。"
+    },
+    {
+      "en": "The team found complete access approvals for 14 of 17 visits in 2025-05 versus 9 of 15 in 2025-02; visits differed and no safety outcome was inferred.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队发现，2025-05 的 17 次到访中有 14 次访问批准完整，2025-02 的 15 次中为 9 次；到访不同，未推断安全结果。"
+    },
+    {
+      "en": "Drafted a room-capacity planning template in 2026-01; it was not approved for operational use by 2026-09.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-01 起草房间容量规划模板；截至 2026-09 尚未获准用于运营。"
+    },
+    {
+      "en": "Uses shared calendars, spreadsheet trackers, and revision-controlled floor lists.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用共享日历、电子表格跟踪表及版本受控楼层清单。"
+    },
+    {
+      "en": "Forwards contractor method statements to the engineer; does not sign technical acceptance.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "将承包商作业方法说明转交工程师；不签署技术验收。"
+    },
+    {
+      "en": "Created a personal seating chart for a fictional puzzle club of 12 members in 2024-09.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-09 为有 12 名成员的虚构拼图社制作个人座位表。"
+    },
+    {
+      "en": "Enjoys bookbinding and sketching imaginary buildings.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好书籍装帧及描绘想象中的建筑。"
+    },
+    {
+      "en": "A draft letter says approved maintenance methods, but the work log records forwarding documents only; approval authority is disputed.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "一份信件草稿称批准维护方法，但工作日志仅记录转交文件；审批权限存在争议。"
+    },
+    {
+      "en": "An undated CV fragment says project-management course passed without a course provider or result record.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份未注明日期的简历片段称通过项目管理课程，但无课程提供方或成绩记录。"
+    },
+    {
+      "en": "No professional engineering licence, certified safety credential, or technical inspection authority is documented.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "未记录专业工程执照、经认证安全资格或技术检查权限。"
+    }
+  ]
+}

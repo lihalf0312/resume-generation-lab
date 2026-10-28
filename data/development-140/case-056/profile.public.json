@@ -1,0 +1,137 @@
+{
+  "case_id": "case-056",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-056",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-056",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Public Policy at Fictional Institute D056 in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构院校 D056 完成公共政策文学学士学位。"
+    },
+    {
+      "en": "Worked as a programme information assistant at Fictional Foundation D056 from 2020-04 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-04 至 2026-08 在虚构基金会 D056 担任项目信息助理。"
+    },
+    {
+      "en": "Collected monthly activity returns from 6 community programme teams and tracked missing submissions.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "收集 6 个社区项目团队的月度活动报表，并跟踪缺失提交。"
+    },
+    {
+      "en": "Used spreadsheet validation, pivot tables and documented indicator definitions to check returns.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用电子表格验证、数据透视表及记录的指标定义检查报表。"
+    },
+    {
+      "en": "With the monitoring officer, redesigned a return template during 2025-01 to 2025-03.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-01 至 2025-03 与监测专员合作重新设计报表模板。"
+    },
+    {
+      "en": "Among 36 team-month returns in 2025-H1, 8 required missing-field follow-up versus 17 of 36 in 2024-H2; the teams and monitoring officer shared implementation.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在 2025-H1 的 36 份团队月报中，8 份需要跟进缺失字段；2024-H2 的 36 份中为 17 份；各团队及监测专员共同实施改进。"
+    },
+    {
+      "en": "Prepared narrative summaries distinguishing activity counts from participant outcomes; the programme manager approved external reports.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "编写叙述摘要，区分活动计数与参与者成果；项目经理审批对外报告。"
+    },
+    {
+      "en": "Created a 2026-02 reporting calendar connecting each deliverable to an owner and review date.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "在 2026-02 创建报告日历，将每项交付物与负责人及审核日期关联。"
+    },
+    {
+      "en": "Maintained an audit trail of corrections rather than overwriting original submitted values.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "维护更正审计记录，而非覆盖原始提交值。"
+    },
+    {
+      "en": "Drafted an interactive dashboard specification in 2026-05; it was not built or launched.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草交互仪表板规格；未开发或上线。"
+    },
+    {
+      "en": "At the 2025-12 peak, consolidated inputs for 9 reports; the routine 2026-08 workload was 4 reports.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2025-12 高峰期整合 9 份报告输入；2026-08 常规工作量为 4 份报告。"
+    },
+    {
+      "en": "Helped prepare a 2024-11 internal exhibition by sorting 45 historical programme photographs with a communications colleague.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "在 2024-11 与传播同事合作整理 45 张历史项目照片，协助筹备内部展览。"
+    },
+    {
+      "en": "Designed a fictional transport survey for a 2019 course project; no respondents were recruited.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "为 2019 年课程项目设计虚构交通调查；未招募受访者。"
+    },
+    {
+      "en": "Volunteered for Fictional Puzzle Circle V056 on weekends from 2023-02 to 2023-10 while employed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-02 至 2023-10 任职期间，周末在虚构解谜社团 V056 志愿服务。"
+    },
+    {
+      "en": "For that circle, assembled 7 printable puzzle sheets; these were recreational rather than programme evaluation materials.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该社团编制 7 份可打印谜题单；属于娱乐材料而非项目评估材料。"
+    },
+    {
+      "en": "Maintains a personal seed-germination notebook and collects vintage-style fictional map prints.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "保留个人种子萌发笔记，并收藏复古风格虚构地图印刷品。"
+    },
+    {
+      "en": "Prepared accessible text versions of summary charts and avoided disclosing participant contact details.",
+      "id": "F17",
+      "kind": "skill",
+      "zh": "为摘要图表准备易读文本版本，并避免披露参与者联系方式。"
+    },
+    {
+      "en": "Explained revised indicator definitions at team briefings without setting programme strategy.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "在团队说明会上解释修订后的指标定义，但不制定项目战略。"
+    },
+    {
+      "en": "A draft impact story claims 2,000 unique beneficiaries, but the available table contains 2,000 attendance instances and no deduplication key.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "一份影响故事草稿声称覆盖 2,000 名不重复受益人，但现有表格为 2,000 人次出席记录，没有去重键。"
+    },
+    {
+      "en": "A training spreadsheet lists an advanced evaluation certificate, while the retained course notice names an introductory workshop.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "培训电子表格列高级评估证书，而留存课程通知写为入门工作坊。"
+    },
+    {
+      "en": "No causal impact study, independent financial audit or grant-award decision authority is recorded.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录因果影响研究、独立财务审计或资助授予决策权限。"
+    }
+  ]
+}

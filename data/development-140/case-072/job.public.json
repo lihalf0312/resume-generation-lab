@@ -1,0 +1,33 @@
+{
+  "case_id": "case-072",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Junior Reporting Analyst",
+    "zh": "初级报表分析师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Refresh reports using SQL joins and grouping.",
+      "id": "R01",
+      "zh": "使用 SQL 连接及分组刷新报告。"
+    },
+    {
+      "en": "Check data quality and document exceptions.",
+      "id": "R02",
+      "zh": "检查数据质量并记录异常。"
+    },
+    {
+      "en": "Maintain clear metric definitions and chart labels.",
+      "id": "R03",
+      "zh": "维护清晰的指标定义及图表标签。"
+    },
+    {
+      "en": "Deploy predictive models into production.",
+      "id": "R04",
+      "zh": "将预测模型部署至生产环境。"
+    }
+  ]
+}

@@ -1,24 +1,36 @@
-# Development progress
+# Development results — fixed 140-case public snapshot
 
-Last verified: 2026-10-27 UTC. Counts below exclude the earlier three-pair pilot and deterministic smoke fixtures.
+**140 fictional pairs, 280 bilingual resumes and 140 simple score/comment records.** Actual native factual-status labels remain 136 pass, 4 needs_review and 0 fail. These labels are unvalidated.
 
-- Initial development target: 30 distinct profile/JD pairs; further batches may follow.
-- Completed generation + independent evaluation: **40 total (30 initial + 10 extension)**.
-- Factual gates: **39 pass, 1 needs_review, 0 fail** (unvalidated LLM judgment).
-- Bilingual content outputs: 80 Markdown resumes; rendered DOCX/PDF outputs: 0.
-- Initial source corpus: 30 fully fictional paired cases across 10 sectors.
-- Current execution: native assistant workflow only; paid external model calls and weight-training runs: 0.
+## Browse
 
-[Batch 003 summary](experiments/development-001/batch-003/SUMMARY.md) · [Batch 002 summary](experiments/development-001/batch-002/SUMMARY.md) · [Batch 001 summary](experiments/development-001/batch-001/SUMMARY.md) · [Evaluation report](experiments/development-001/batch-001/EVALUATION-REPORT.md) · [Publication limits](experiments/development-001/PUBLICATION_NOTES.md)
+| Cases | First case | Last case |
+|---|---|---|
+| 001–010 | [case-001](data/development-140/case-001/evaluation.public.json) | [case-010](data/development-140/case-010/evaluation.public.json) |
+| 011–020 | [case-011](data/development-140/case-011/evaluation.public.json) | [case-020](data/development-140/case-020/evaluation.public.json) |
+| 021–030 | [case-021](data/development-140/case-021/evaluation.public.json) | [case-030](data/development-140/case-030/evaluation.public.json) |
+| 031–040 | [case-031](data/development-140/case-031/evaluation.public.json) | [case-040](data/development-140/case-040/evaluation.public.json) |
+| 041–050 | [case-041](data/development-140/case-041/evaluation.public.json) | [case-050](data/development-140/case-050/evaluation.public.json) |
+| 051–060 | [case-051](data/development-140/case-051/evaluation.public.json) | [case-060](data/development-140/case-060/evaluation.public.json) |
+| 061–070 | [case-061](data/development-140/case-061/evaluation.public.json) | [case-070](data/development-140/case-070/evaluation.public.json) |
+| 071–080 | [case-071](data/development-140/case-071/evaluation.public.json) | [case-080](data/development-140/case-080/evaluation.public.json) |
+| 081–090 | [case-081](data/development-140/case-081/evaluation.public.json) | [case-090](data/development-140/case-090/evaluation.public.json) |
+| 091–100 | [case-091](data/development-140/case-091/evaluation.public.json) | [case-100](data/development-140/case-100/evaluation.public.json) |
+| 101–110 | [case-101](data/development-140/case-101/evaluation.public.json) | [case-110](data/development-140/case-110/evaluation.public.json) |
+| 111–120 | [case-111](data/development-140/case-111/evaluation.public.json) | [case-120](data/development-140/case-120/evaluation.public.json) |
+| 121–130 | [case-121](data/development-140/case-121/evaluation.public.json) | [case-130](data/development-140/case-130/evaluation.public.json) |
+| 131–140 | [case-131](data/development-140/case-131/evaluation.public.json) | [case-140](data/development-140/case-140/evaluation.public.json) |
 
-Scores describe presentation conditional on supplied facts, not candidate qualification or hiring odds. Missing requirements remain gaps; translations do not prove language proficiency. Each pair is generated once; subsequent feedback affects the next distinct pair. A small synthetic set does not establish reliability or improvement.
+The [full index](data/development-140/index.json) lists all cases. Only factual sources, resume text, original dimension ratings and brief comments are published; detailed review bases remain private.
 
-## Extension and evaluator diagnostic
+## Important qualifications
 
-The initial 30-pair target is complete. Richer additional cases 031–040 are complete; cases 041–050 are in progress and counted only after generation and independent review.
+- Case 007: English wording may imply an unestablished printing action; the needs_review label remains.
+- Case 101: an unresolved eligibility question was flagged, not a proven false eligibility claim. The needs_review label is disputed and remains unchanged.
+- Case 103: English wording adds an unsupported approval-authority inference; the negative comment remains.
+- Case 119: a date may be read as applying to undated work; the temporal ambiguity remains.
+- Pass-labelled examples can still need improvement: case 073 has an unclear subject transition and case 078 has a mismatched application heading.
 
-A separate [12-case synthetic evaluator diagnostic](experiments/judge-calibration-001-public/RESULTS.md) is not part of the 30 development pairs. On these fixtures the judge flagged all 9 seeded issues (including 1 needs_review) and raised no issue on 3 controls. These small conspicuous examples do not establish general accuracy, calibrated confidence or HR-quality validity. The original inputs remain unchanged; public metadata paths are normalized with an explicit export ledger.
+No resume was repaired or regenerated for publication. Overall scores remain null, and unassessed dimension ratings are not converted to zero. Brief comments summarize actual ratings or specific reader-facing findings without publishing the detailed basis. No quality improvement, hiring likelihood, HR calibration, production readiness or rendered-document quality is established.
 
-[Batch 004 report](experiments/development-001/batch-004/report.md) · [Review-version provenance erratum](experiments/development-001/batch004-review-history-recovery/ERRATUM.md)
-
-Batch 004 review metadata was enriched after forward feedback hashes were captured. Semantic judgments did not change; nine earlier versions were reconstructed exactly against those hashes and explicitly labeled as reconstructed. Final frozen records were not silently rewritten. This disclosure is part of the released evidence, not a claim that no persistence defect occurred.
+This release is fixed at case 140; later authorized development is separate. Current-tree removal of declined material does not erase earlier Git history.

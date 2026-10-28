@@ -1,0 +1,119 @@
+{
+  "case_id": "case-067",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-067",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-067",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in International Trade Administration at Fictional Institute D067 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D067 完成国际贸易行政专科学历。"
+    },
+    {
+      "en": "Worked as an import purchasing assistant at Fictional Trading Office D067 from 2022-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-03 至 2026-08 在虚构贸易办公室 D067 担任进口采购助理。"
+    },
+    {
+      "en": "Tracked supplier quotations and purchase-order acknowledgments for packaging accessories; buyers approved orders.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "跟踪包装配件供应商报价及采购订单确认；采购员批准订单。"
+    },
+    {
+      "en": "Recorded quoted currency, unit, validity date and freight basis in separate spreadsheet columns.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "在不同电子表格列中记录报价币种、单位、有效日期及运费基础。"
+    },
+    {
+      "en": "For a 2026-02 comparison exercise, recorded Supplier A at USD 12 per carton of 24 pieces and Supplier B at EUR 10 per carton of 20 pieces.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2026-02 比较练习中，记录供应商 A 报价为每箱 24 件、每箱 12 美元，供应商 B 为每箱 20 件、每箱 10 欧元。"
+    },
+    {
+      "en": "Those quotes have different currencies and pack sizes; no approved exchange rate was supplied and no cross-currency cheapest-supplier conclusion was drawn.",
+      "id": "F06",
+      "kind": "other",
+      "zh": "这些报价币种及包装数量不同；未提供获批汇率，也未得出跨币种最低价供应商结论。"
+    },
+    {
+      "en": "Flagged missing pack-size and currency fields rather than assuming a unit or converting prices independently.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "标出缺失包装数量及币种字段，而非自行假定单位或独立换算价格。"
+    },
+    {
+      "en": "With the purchasing officer, reviewed 52 quotations received during 2025-11.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "与采购专员合作，复查 2025-11 收到的 52 份报价。"
+    },
+    {
+      "en": "The team obtained missing unit descriptions for 9 of 11 incomplete quotes among the 52; 2 remained pending and were excluded from comparison.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队从 52 份中的 11 份不完整报价取得 9 份缺失单位描述；2 份仍待处理，未纳入比较。"
+    },
+    {
+      "en": "Followed up on agreed shipping dates and routed delivery-term questions to the buyer rather than providing customs advice.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "跟进商定发货日期，并将交货条款问题转交采购员，而非提供海关建议。"
+    },
+    {
+      "en": "Drafted a freight-comparison sheet in 2026-05; it remained unused because weight and surcharge definitions were incomplete.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 起草运费比较表；因重量及附加费定义不完整而未使用。"
+    },
+    {
+      "en": "Handled a peak of 28 open quotation requests in 2025-10; the 2026-08 active list contained 16.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-10 高峰期处理 28 个未完成询价请求；2026-08 活跃清单有 16 个。"
+    },
+    {
+      "en": "Volunteered for Fictional Model Railway Club V067 from 2024-01 to 2024-06 on Saturdays while employed.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "2024-01 至 2024-06 任职期间，星期六在虚构模型铁路社团 V067 志愿服务。"
+    },
+    {
+      "en": "For the club, labeled storage boxes by model scale; no international purchasing was involved.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "为该社团按模型比例标记储物箱；不涉及国际采购。"
+    },
+    {
+      "en": "Enjoys making miniature paper buildings and keeps a personal materials notebook.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "喜爱制作微型纸建筑，并保留个人材料笔记。"
+    },
+    {
+      "en": "A draft summary converts all quoted amounts into dollars using an undated rate; the source and approval of that rate are unknown.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份摘要草稿使用未注明日期的汇率将全部报价换算为美元；该汇率来源及审批情况未知。"
+    },
+    {
+      "en": "No authority to approve exchange rates, hedge currency exposure, classify customs tariffs or sign supplier contracts is recorded.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "未记录批准汇率、对冲货币敞口、分类海关税则或签署供应商合同的权限。"
+    },
+    {
+      "en": "Maintained original supplier files alongside the quote register so reviewers could check terms and units.",
+      "id": "F18",
+      "kind": "skill",
+      "zh": "在报价登记表旁保留原始供应商文件，使审核者能够检查条款及单位。"
+    }
+  ]
+}

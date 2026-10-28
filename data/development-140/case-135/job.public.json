@@ -1,0 +1,33 @@
+{
+  "case_id": "case-135",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Orchard Harvest Packing Assistant",
+    "zh": "果园采收包装助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Sort and refer uncertain fruit using supplied grading examples.",
+      "id": "R01",
+      "zh": "依据提供的分级示例分拣水果，并转交不确定果品。"
+    },
+    {
+      "en": "Maintain batch and crate counts, separating crates sent to the dispatch area from stock held for review.",
+      "id": "R02",
+      "zh": "维护批次及筐数记录，并区分送至发运区的筐与暂留审核库存。"
+    },
+    {
+      "en": "Prepare crate-collection points and legible batch labels as instructed.",
+      "id": "R03",
+      "zh": "按说明准备筐的收集点及清晰可读的批次标签。"
+    },
+    {
+      "en": "Be available for 06:00 starts throughout the 2027 harvest season.",
+      "id": "R04",
+      "zh": "可在整个 2027 年采收季参加 06:00 开始的班次。"
+    }
+  ]
+}

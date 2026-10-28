@@ -1,8 +1,0 @@
-{
-  "previous_case": "case-031",
-  "previous_evaluation_sha256": "0dfae857704a346f72784e9cc376bc9561d1b1e236ab79ae79cffb938b99d2b0",
-  "changes": [
-    "Review031 recommended retaining concrete outcomes when safely contextualized: include F08/F09 with both cohorts and attribution limitation; preserve prior uncertainty and contribution boundaries."
-  ],
-  "application": "Only this new distinct source; prior output immutable"
-}

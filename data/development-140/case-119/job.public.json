@@ -1,0 +1,28 @@
+{
+  "case_id": "case-119",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Bicycle Workshop Parts Desk Assistant",
+    "zh": "自行车维修工坊零件柜台助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Match approved part numbers to stock and catalogue entries and reconcile incoming deliveries.",
+      "id": "R01",
+      "zh": "将获批零件编号与库存及目录条目匹配，并核对到货。"
+    },
+    {
+      "en": "Maintain labeled reservations and order status, and notify customers about collections.",
+      "id": "R02",
+      "zh": "维护有标签的预留件及订单状态，并通知客户取件。"
+    },
+    {
+      "en": "Keep clear handovers for shortages, uncollected parts and unresolved supplier queries.",
+      "id": "R03",
+      "zh": "为短缺、未取零件及未解决供应商咨询保留清晰交接记录。"
+    }
+  ]
+}

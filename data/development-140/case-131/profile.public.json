@@ -1,0 +1,137 @@
+{
+  "case_id": "case-131",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-131",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-131",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Paid stockroom assistant at Fictional Juniper Paper Merchants from 2016-08 to 2021-12.",
+      "id": "F01",
+      "kind": "employment",
+      "zh": "2016-08 至 2021-12 在虚构杜松纸业商行任有薪库房助理。"
+    },
+    {
+      "en": "Paid finishing assistant at Fictional Bellfold Print Room from 2022-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-02 至 2026-08 在虚构钟折印务室任有薪印后加工助理。"
+    },
+    {
+      "en": "Completed an evening print-finishing certificate at Fictional Reedpress Centre in 2018 while employed in the stockroom.",
+      "id": "F03",
+      "kind": "education",
+      "zh": "2018 年在库房任职期间，于虚构苇印中心完成夜间印后加工证书课程。"
+    },
+    {
+      "en": "At Bellfold, collated supplied printed sections against the approved sequence on each job ticket.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在钟折印务室，依据每张工单上的获批顺序整理提供的印张。"
+    },
+    {
+      "en": "Counted completed booklet sets and checked covers against the job reference.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "清点已完成的小册子套数，并依据工单编号核对封面。"
+    },
+    {
+      "en": "Used a tabletop booklet stapler after internal equipment induction and referred jams to the machine lead.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "在内部设备入门培训后使用台式小册子订书机，并将卡纸问题转交设备负责人。"
+    },
+    {
+      "en": "The machine lead operated the powered cutting equipment and approved final trim settings.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "设备负责人操作动力裁切设备，并批准最终裁切设置。"
+    },
+    {
+      "en": "Packed finished bundles with the specified job label, destination and quantity.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "按指定工单标签、目的地及数量包装成品捆包。"
+    },
+    {
+      "en": "One retained 2026-01 job ticket records 120 completed booklets with 32 printed pages per booklet.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "一张留存的 2026-01 工单记录完成 120 本小册子，每本有 32 个印刷页面。"
+    },
+    {
+      "en": "Those figures describe one job’s finished booklets and page specification, not an hourly output rate.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "这些数字描述单张工单的成品小册子数量及页面规格，并非每小时产量。"
+    },
+    {
+      "en": "Trialed a cover-and-insert cross-check card with another finishing assistant in 2025-05.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2025-05 与另一名印后加工助理共同试用封面与插页交叉核对卡。"
+    },
+    {
+      "en": "Personally wrote the insert-reference field; the colleague wrote the cover-version field.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人编写插页编号字段；同事编写封面版本字段。"
+    },
+    {
+      "en": "In a 2025-06 supervisor sample, 38 of 40 checked bundles had the required cross-check card attached.",
+      "id": "F13",
+      "kind": "outcome",
+      "zh": "2025-06 的主管抽样中，40 捆受检成品有 38 捆附有所需交叉核对卡。"
+    },
+    {
+      "en": "Uses job tickets, hand tally counters and spreadsheet dispatch lists.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用工单、手动计数器及电子表格发货清单。"
+    },
+    {
+      "en": "At the earlier stockroom role, matched paper-ream labels to delivery notes and marked damaged packaging for review.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "在较早的库房岗位中，将成令纸包装上的标签与送货单匹配，并标记包装损坏情况供审核。"
+    },
+    {
+      "en": "Volunteered at Fictional Mapletwine Zine Fair during 2023-07 and 2024-07.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2023-07 及 2024-07 在虚构枫绳小志集市做志愿者。"
+    },
+    {
+      "en": "For that fair, helped fold a shared visitor leaflet and staffed the free-information table; no publication sales were attributed to the candidate.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "为该集市协助折叠共同制作的游客传单，并值守免费信息台；未将出版物销售额归于候选人。"
+    },
+    {
+      "en": "Hand-bound 6 personal sketch notebooks in 2024 using self-drawn covers.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2024 年使用自绘封面手工装订 6 本个人素描笔记本。"
+    },
+    {
+      "en": "Those notebooks were gifts, not commercial print orders.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "这些笔记本是礼物，并非商业印刷订单。"
+    },
+    {
+      "en": "Enjoys creating stamps from textured cardboard.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好使用纹理纸板制作印章。"
+    },
+    {
+      "en": "Passed incomplete jobs to the next shift with a written count of finished and remaining bundles.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "以书面记录成品及剩余捆包数量，将未完成工单交接给下一班。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-087",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Service Insights Assistant",
+    "zh": "服务洞察助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Summarize service feedback accurately and protect personal details.",
+      "id": "R01",
+      "zh": "准确汇总服务反馈并保护个人详情。"
+    },
+    {
+      "en": "Explain observational findings with their sampling limitations.",
+      "id": "R02",
+      "zh": "解释观察性发现及其抽样局限。"
+    },
+    {
+      "en": "Document coding rules and reproducible descriptive calculations.",
+      "id": "R03",
+      "zh": "记录编码规则及可复算描述性计算。"
+    },
+    {
+      "en": "Support supervised experimental planning using basic statistical concepts.",
+      "id": "R04",
+      "zh": "运用基础统计概念支持受监督实验规划。"
+    }
+  ]
+}

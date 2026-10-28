@@ -1,0 +1,107 @@
+{
+  "case_id": "case-061",
+  "creation_batch": "development-001-extension-007",
+  "identity_id": "synthetic-person-061",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-061",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a business information diploma at Fictional Mapleseed Academy in 2024.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024 年在虚构枫籽学院完成商业信息文凭课程。"
+    },
+    {
+      "en": "The final recorded programme average was 85/100 on the academy scale; no GPA or conversion policy is provided.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "课程最终记录平均分为学院评分标准下的 85/100；未提供 GPA 或换算政策。"
+    },
+    {
+      "en": "Completed a capstone course on requirements documentation in 2024-03.",
+      "id": "F03",
+      "kind": "education",
+      "zh": "2024-03 完成需求文档毕业项目课程。"
+    },
+    {
+      "en": "Business support intern at Fictional Thread Atlas, 2024-07 to 2025-02.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2024-07 至 2025-02 在虚构线图集机构任业务支持实习生。"
+    },
+    {
+      "en": "Business support assistant at Fictional Thread Atlas, 2025-03 to 2026-09.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2025-03 至 2026-09 在虚构线图集机构任业务支持助理。"
+    },
+    {
+      "en": "Records stakeholder meeting notes and asks the analyst to confirm ambiguous process steps.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "记录利益相关者会议笔记，并请分析师确认有歧义的流程步骤。"
+    },
+    {
+      "en": "In 2025-08, helped map an internal equipment request workflow with a business analyst.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-08 与业务分析师共同梳理内部设备申请流程。"
+    },
+    {
+      "en": "Personally documented 11 handoff steps and maintained the question log; the analyst approved the final process map.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人记录 11 个交接步骤并维护问题日志；最终流程图由分析师批准。"
+    },
+    {
+      "en": "The team obtained owner confirmation for 9 of 11 documented steps during the 2025-09 review; the other 2 remained open.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队在 2025-09 审核中取得 11 个已记录步骤中 9 个的责任人确认；其余 2 个仍待处理。"
+    },
+    {
+      "en": "Uses spreadsheet filters, basic lookup functions, and diagram connectors.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用电子表格筛选、基础查找函数及图表连接线。"
+    },
+    {
+      "en": "Drafted a requirements traceability sheet in 2026-04; it was approved for a small internal pilot but not enterprise deployment.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-04 起草需求可追溯表；获准用于小规模内部试点，但未在企业范围部署。"
+    },
+    {
+      "en": "Maintains change-request notes without approving project scope or budgets.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "维护变更请求笔记，不批准项目范围或预算。"
+    },
+    {
+      "en": "Created a personal puzzle catalogue with 26 fictional entries in 2023-12.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2023-12 制作含 26 条虚构条目的个人谜题目录。"
+    },
+    {
+      "en": "Enjoys watercolor painting and does not sell the work.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好水彩绘画，不出售作品。"
+    },
+    {
+      "en": "A draft application labels the grade distinction without an academy award definition; the award label is unverified.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "一份申请草稿将分数标为优秀荣誉，但无学院奖项定义；奖项标签未经核实。"
+    },
+    {
+      "en": "No SQL production querying, completed bachelor degree, or GPA is documented.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录生产环境 SQL 查询、已完成学士学位或 GPA。"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "case_id": "case-066",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-066",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-066",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Business Information at Fictional Institute D066 in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构院校 D066 完成商业信息专科学历。"
+    },
+    {
+      "en": "Worked as a commercial reporting clerk at Fictional Distributor D066 from 2023-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-08 在虚构经销商 D066 担任商业报告文员。"
+    },
+    {
+      "en": "Compiled monthly invoiced-sales tables from approved exports; the sales analyst signed off the totals.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "根据获批导出数据编制每月开票销售额表；销售分析师签署确认总额。"
+    },
+    {
+      "en": "Used spreadsheet pivots and lookup checks to match invoice IDs and assigned customer segments.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用电子表格数据透视表及查找检查，匹配发票编号与指定客户分组。"
+    },
+    {
+      "en": "With an analyst, reconciled 320 invoice lines for the 2025-Q4 reporting pack.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "与分析师合作，为 2025-Q4 报告资料核对 320 条发票明细。"
+    },
+    {
+      "en": "The team identified 14 duplicated lines in those 320 lines and removed them before report approval; this was a reporting correction, not new revenue.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "团队在该批 320 条明细中发现 14 条重复项，并在报告获批前删除；这是报告更正，而非新增收入。"
+    },
+    {
+      "en": "Reported a documented invoiced-revenue increase from 180,000 to 198,000 fictional currency units between 2025-Q2 and 2025-Q3 for one segment.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "报告一个客户分组在 2025-Q2 至 2025-Q3 期间经记录的开票收入由 180,000 增至 198,000 虚构货币单位。"
+    },
+    {
+      "en": "That segment report excludes cost of goods, operating expenses and profit calculations; the candidate did not cause the sales increase.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "该分组报告不含商品成本、运营费用或利润计算；候选人并非销售增长的原因。"
+    },
+    {
+      "en": "Labeled gross invoiced amounts separately from credit adjustments using definitions supplied by finance.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "按财务提供的定义，将开票总额与贷项调整分开标记。"
+    },
+    {
+      "en": "Prepared a 2026-01 reporting checklist adopted by the analyst for monthly reconciliation.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在 2026-01 准备报告清单，由分析师采纳用于每月核对。"
+    },
+    {
+      "en": "Drafted a margin dashboard outline in 2026-05 but did not receive cost data or build the dashboard.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 起草利润率仪表板提纲，但未获得成本数据或建立仪表板。"
+    },
+    {
+      "en": "At the 2025-12 reporting peak, supported 7 segment tables; the regular 2026-08 allocation was 4.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-12 报告高峰期支持 7 张分组表；2026-08 常规分工为 4 张。"
+    },
+    {
+      "en": "Volunteered at Fictional Reading Circle V066 on weekends from 2024-02 to 2024-09 while employed.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "2024-02 至 2024-09 任职期间，周末在虚构阅读社团 V066 志愿服务。"
+    },
+    {
+      "en": "For that circle, maintained a book-loan list without tracking sales or membership income.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "为该社团维护图书借阅清单，不跟踪销售或会费收入。"
+    },
+    {
+      "en": "Keeps a personal origami pattern notebook unrelated to commercial reporting.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "保留与商业报告无关的个人折纸图样笔记。"
+    },
+    {
+      "en": "A draft CV labels the 18,000-unit revenue difference as profit generated; no profit evidence or individual attribution supports it.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份简历草稿将 18,000 单位收入差额标为创造的利润；没有利润证据或个人归因支持。"
+    },
+    {
+      "en": "Prepared short variance explanations from approved sales-team notes without forecasting future financial performance.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "根据获批销售团队备注编写简短差异说明，不预测未来财务表现。"
+    },
+    {
+      "en": "Preserved source-export references and calculation notes so reviewers could reproduce totals.",
+      "id": "F18",
+      "kind": "skill",
+      "zh": "保留源导出引用及计算备注，使审核者能够复算总额。"
+    }
+  ]
+}

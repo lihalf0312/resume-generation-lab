@@ -1,7 +1,0 @@
-{
-  "version": 19,
-  "previous_case": "case-018",
-  "previous_evaluation_sha256": "9a09910f5479761b79ea91a77440c667ca381f200d5707bd3a16f4dcd8f06f87",
-  "changes": [],
-  "reason": "Case018 reviewer found no new repair. Maintain pending-review status, library/retail distinction and fictional-practice boundaries."
-}

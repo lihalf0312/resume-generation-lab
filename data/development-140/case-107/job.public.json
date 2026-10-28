@@ -1,0 +1,33 @@
+{
+  "case_id": "case-107",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Packaging Quality Data Assistant",
+    "zh": "包装质量数据助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain traceable inspection records with defect counts and denominators.",
+      "id": "R01",
+      "zh": "维护可追溯且包含缺陷数量及分母的检验记录。"
+    },
+    {
+      "en": "Distinguish rates, counts and percentage-point changes in quality reports.",
+      "id": "R02",
+      "zh": "在质量报告中区分比率、数量及百分点变化。"
+    },
+    {
+      "en": "Escalate inconsistent data and document report-template changes.",
+      "id": "R03",
+      "zh": "上报不一致数据，并记录报告模板变更。"
+    },
+    {
+      "en": "Independently certify statistical process capability.",
+      "id": "R04",
+      "zh": "独立认证统计过程能力。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-079",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Digital Content Coordinator",
+    "zh": "数字内容协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate publication schedules and controlled content updates.",
+      "id": "R01",
+      "zh": "协调发布日程及受控内容更新。"
+    },
+    {
+      "en": "Check links, references and editorial consistency.",
+      "id": "R02",
+      "zh": "检查链接、参考资料及编辑一致性。"
+    },
+    {
+      "en": "Prepare accessible content drafts for expert review.",
+      "id": "R03",
+      "zh": "准备易于访问的内容草稿供专家审阅。"
+    },
+    {
+      "en": "Independently administer production analytics and attribute traffic growth.",
+      "id": "R04",
+      "zh": "独立管理生产分析并归因流量增长。"
+    }
+  ]
+}

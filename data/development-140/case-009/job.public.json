@@ -1,0 +1,31 @@
+{
+  "case_id": "case-009",
+  "synthetic": true,
+  "title": {
+    "en": "Inventory control coordinator",
+    "zh": "库存控制协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate inventory counts across locations.",
+      "id": "R01",
+      "zh": "协调跨门店库存盘点。"
+    },
+    {
+      "en": "Investigate inventory discrepancies using records.",
+      "id": "R02",
+      "zh": "利用记录调查库存差异。"
+    },
+    {
+      "en": "Explain stock-control procedures to colleagues.",
+      "id": "R03",
+      "zh": "向同事讲解库存控制流程。"
+    },
+    {
+      "en": "Develop automated demand forecasts in SQL.",
+      "id": "R04",
+      "zh": "使用 SQL 开发自动化需求预测。"
+    }
+  ]
+}

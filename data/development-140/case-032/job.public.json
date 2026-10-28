@@ -1,0 +1,33 @@
+{
+  "case_id": "case-032",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Editorial Production Coordinator",
+    "zh": "编辑制作协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate proof versions and production schedules.",
+      "id": "R01",
+      "zh": "协调校样版本及制作进度。"
+    },
+    {
+      "en": "Work with editorial and design collaborators.",
+      "id": "R02",
+      "zh": "与编辑及设计伙伴协作。"
+    },
+    {
+      "en": "Prepare files using existing InDesign templates.",
+      "id": "R03",
+      "zh": "使用现有 InDesign 模板准备文件。"
+    },
+    {
+      "en": "Independently certify EPUB accessibility compliance.",
+      "id": "R04",
+      "zh": "独立认证 EPUB 无障碍合规性。"
+    }
+  ]
+}

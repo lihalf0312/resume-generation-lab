@@ -1,0 +1,107 @@
+{
+  "case_id": "case-040",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-040",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-040",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an MSc in Social Research Methods at Fictional Institute D040 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D040 完成社会研究方法理学硕士学位。"
+    },
+    {
+      "en": "Worked as a research administration assistant at Fictional Research Centre D040 from 2021-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-01 至 2026-08 在虚构研究中心 D040 担任研究行政助理。"
+    },
+    {
+      "en": "Scheduled project meetings and maintained deliverable trackers for 3 community-research workstreams.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为 3 个社区研究工作流安排项目会议并维护交付物跟踪表。"
+    },
+    {
+      "en": "Collected expense documentation and checked entries against approved budget codes; the finance officer authorized reimbursements.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "收集费用凭证并按获批预算编码核对条目；财务专员批准报销。"
+    },
+    {
+      "en": "Co-designed a submission checklist with the programme manager for quarterly internal reports in 2025-01.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-01 与项目经理共同设计季度内部报告提交清单。"
+    },
+    {
+      "en": "Across 18 report sections submitted in 2025-Q2, 4 required missing-attachment follow-up compared with 9 of 18 in 2025-Q1; multiple workstream teams used the checklist.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "2025-Q2 提交的 18 个报告部分中，4 个需跟进缺失附件；2025-Q1 的 18 个中为 9 个；多个工作流团队使用该清单。"
+    },
+    {
+      "en": "Used spreadsheet validation lists and shared document folders with project-specific permissions.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "使用电子表格验证列表及具有项目专属权限的共享文件夹。"
+    },
+    {
+      "en": "Prepared draft participant-information packs using ethics-approved wording; investigators approved distribution.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "使用伦理审查批准的措辞准备参与者信息资料草稿；研究负责人批准分发。"
+    },
+    {
+      "en": "Did not approve research ethics applications or act as principal investigator.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "未审批研究伦理申请，也未担任首席研究员。"
+    },
+    {
+      "en": "Drafted a 2026-05 cross-project risk register, but the steering group had not adopted it by 2026-08.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草跨项目风险登记表，但截至 2026-08 指导小组尚未采纳。"
+    },
+    {
+      "en": "From 2023-02 to 2024-02, volunteered remotely for Fictional Science Club V040 on evenings while keeping the centre role.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "2023-02 至 2024-02 在保留中心岗位期间，晚间为虚构科学社团 V040 远程志愿服务。"
+    },
+    {
+      "en": "For the club, edited 5 plain-language summaries of fictional demonstration studies; these were not peer-reviewed publications.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "为该社团编辑 5 篇虚构演示研究的通俗摘要；这些并非同行评审出版物。"
+    },
+    {
+      "en": "Maintains a personal ceramic-glaze test notebook unrelated to research programme administration.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "保留与研究项目行政无关的个人陶瓷釉料试验笔记。"
+    },
+    {
+      "en": "During the 2025-Q4 reporting peak, tracked 5 concurrent workstreams; the regular 2026-08 allocation was 3.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "在 2025-Q4 报告高峰期跟踪 5 个并行工作流；2026-08 的常规分工为 3 个。"
+    },
+    {
+      "en": "One draft CV lists employment beginning 2020-10, whereas the appointment letter states 2021-01; the earlier period has no confirmed role description.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "一份简历草稿将入职时间列为 2020-10，而聘书记为 2021-01；更早期间没有经确认的职位描述。"
+    },
+    {
+      "en": "No independent grant-writing success or funder-contract negotiation is evidenced.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "没有证据支持独立成功申请资助或谈判资助方合同的经历。"
+    }
+  ]
+}

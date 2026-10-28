@@ -1,0 +1,119 @@
+{
+  "case_id": "case-035",
+  "creation_batch": "development-001-extension-004",
+  "identity_id": "synthetic-person-035",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-035",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a language studies bachelor degree at Fictional Copper Finch College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构铜雀学院取得语言研究学士学位。"
+    },
+    {
+      "en": "Customer support associate at Fictional Prism Desk, 2019-02 to 2022-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-02 至 2022-08 在虚构棱镜台机构任客户支持专员。"
+    },
+    {
+      "en": "Support content coordinator at Fictional Prism Desk, 2022-09 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-09 至 2026-08 在虚构棱镜台机构任支持内容协调员。"
+    },
+    {
+      "en": "Edited setup articles after checking steps with a product specialist; did not make product-roadmap decisions.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "与产品专员核对步骤后编辑设置文章；不做产品路线图决策。"
+    },
+    {
+      "en": "Maintained 64 live help articles in 2026-08; an archive inventory of 91 included obsolete articles and was not the active count.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2026-08 维护 64 篇在线帮助文章；档案清单中的 91 篇包含过时文章，不是活跃数量。"
+    },
+    {
+      "en": "Worked with 2 support colleagues and a designer on navigation labels in 2025-01.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2025-01 与 2 名支持同事及一名设计师合作调整导航标签。"
+    },
+    {
+      "en": "Personally summarized search queries and drafted label alternatives; the designer selected the final information architecture.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "个人负责总结搜索查询并起草备选标签；最终信息架构由设计师选择。"
+    },
+    {
+      "en": "In a moderated test during 2025-02, 9 of 12 participants found the reset article without assistance; an earlier test used different participants and cannot establish improvement.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2025-02 主持测试中，12 名参与者有 9 名无需协助找到重置文章；此前测试使用不同参与者，不能据此证明改善。"
+    },
+    {
+      "en": "Uses Markdown, screenshot annotations, and version-history comparisons.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "使用 Markdown、截图标注及版本历史比较。"
+    },
+    {
+      "en": "Reads simple HTML markup to fix links; no JavaScript development experience is documented.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "阅读简单 HTML 标记以修复链接；未记录 JavaScript 开发经验。"
+    },
+    {
+      "en": "Drafted an AI-assisted article review proposal in 2026-03; it was not approved and no customer data was uploaded.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-03 起草 AI 辅助文章审核提案；未获批准，且未上传客户数据。"
+    },
+    {
+      "en": "Created English-to-Chinese draft translations for 6 help articles in 2025; a reviewer finalized them.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2025 年为 6 篇帮助文章制作英译中初稿；由审核者定稿。"
+    },
+    {
+      "en": "No standardized language proficiency score is provided; draft translation work does not establish certified proficiency.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "未提供标准化语言水平分数；翻译初稿工作不代表经认证的语言水平。"
+    },
+    {
+      "en": "Part-time workshop note-taker at Fictional Ink Room, 2020-10 to 2021-04, averaging 4 hours weekly alongside full-time support work.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "2020-10 至 2021-04 在虚构墨室兼职担任工作坊记录员，与全职支持工作同期，平均每周 4 小时。"
+    },
+    {
+      "en": "Maintains a personal illustrated soup-recipe notebook begun in 2024; no commercial readership is claimed.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "维护始于 2024 年的个人插画汤谱笔记；不声称拥有商业读者。"
+    },
+    {
+      "en": "A handover note calls the navigation project launched in 2025-03, while an undated draft calls it pending; launch status requires confirmation.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "交接备注称导航项目于 2025-03 上线，但一份未注明日期的草稿称其待上线；上线状态需确认。"
+    },
+    {
+      "en": "Maintained a review queue showing article owner and next review date.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "维护显示文章负责人及下次审核日期的审核队列。"
+    },
+    {
+      "en": "No direct staff management, customer-support chatbot deployment, or product analytics ownership is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录直属人员管理、客户支持聊天机器人部署或产品分析负责经历。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-083",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Market Data Reporting Assistant",
+    "zh": "市场数据报表助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain reference-data reports and exception logs.",
+      "id": "R01",
+      "zh": "维护参考数据报表及异常日志。"
+    },
+    {
+      "en": "Document data assumptions and missing-value checks.",
+      "id": "R02",
+      "zh": "记录数据假设及缺失值检查。"
+    },
+    {
+      "en": "Use spreadsheets and basic SQL for data checks.",
+      "id": "R03",
+      "zh": "使用电子表格及基础 SQL 进行数据检查。"
+    },
+    {
+      "en": "Own production trading-system monitoring.",
+      "id": "R04",
+      "zh": "负责生产交易系统监控。"
+    }
+  ]
+}

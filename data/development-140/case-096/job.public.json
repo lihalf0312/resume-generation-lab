@@ -1,0 +1,33 @@
+{
+  "case_id": "case-096",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Business Systems Assistant",
+    "zh": "业务系统助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate workflow records and trace approved corrections.",
+      "id": "R01",
+      "zh": "维护准确工作流记录并追溯获批更正。"
+    },
+    {
+      "en": "Document user issues and prepare clear operating guidance.",
+      "id": "R02",
+      "zh": "记录用户问题并准备清晰操作指引。"
+    },
+    {
+      "en": "Apply basic query concepts in supervised data checks.",
+      "id": "R03",
+      "zh": "在受监督数据检查中应用基础查询概念。"
+    },
+    {
+      "en": "Independently administer platform integrations and permissions.",
+      "id": "R04",
+      "zh": "独立管理平台集成及权限。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-088",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Multilingual Content Coordinator",
+    "zh": "多语言内容协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate multilingual content review and version records.",
+      "id": "R01",
+      "zh": "协调多语言内容审阅及版本记录。"
+    },
+    {
+      "en": "Check glossary consistency and enter approved editorial changes.",
+      "id": "R02",
+      "zh": "检查词汇表一致性并录入获批编辑变更。"
+    },
+    {
+      "en": "Support clear-language content preparation under editorial supervision.",
+      "id": "R03",
+      "zh": "在编辑监督下支持清晰语言内容准备。"
+    },
+    {
+      "en": "Hold professional translator accreditation for certified translations.",
+      "id": "R04",
+      "zh": "持有可用于认证翻译的专业翻译认证。"
+    }
+  ]
+}

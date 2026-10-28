@@ -1,0 +1,131 @@
+{
+  "case_id": "case-121",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-121",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-121",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a garment-repair certificate at Fictional Thimblebrook Centre in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构顶针溪中心完成服装修补证书课程。"
+    },
+    {
+      "en": "The course covered hand stitches, basic domestic-machine seams and garment-care labels; it was not an industrial-machinery qualification.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "该课程涵盖手工针法、家用缝纫机基本缝线及服装护理标签；并非工业机械操作资格。"
+    },
+    {
+      "en": "Paid wardrobe assistant at Fictional Marigold Stage from 2023-02 to 2026-07, usually working evening performance calls.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-07 在虚构金盏花舞台任有薪服装助理，通常参加晚间演出值班。"
+    },
+    {
+      "en": "Checked costume pieces against cast-specific rail lists before performances.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "演出前依据对应演员的衣架清单核对服装部件。"
+    },
+    {
+      "en": "Replaced loose buttons and repaired small opened seams using methods approved by the wardrobe supervisor.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用服装主管批准的方法更换松动纽扣并修补小范围开线。"
+    },
+    {
+      "en": "Recorded repairs needing specialist attention and set those garments aside for the supervisor.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "记录需专业处理的修补事项，并将这些服装留给主管处理。"
+    },
+    {
+      "en": "Maintained laundry bags and care-label records; specialist cleaning was handled by an external supplier.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "维护洗衣袋及护理标签记录；专业清洁由外部供应商负责。"
+    },
+    {
+      "en": "Prepared quick-change sets according to the dresser’s marked sequence without designing the performance change plan.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "依据服装师标明的顺序准备快速换装套件，不设计演出换装方案。"
+    },
+    {
+      "en": "Reorganized repair tags for a 2025-09 production with the wardrobe supervisor.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-09 与服装主管共同整理某部演出剧目的修补标签。"
+    },
+    {
+      "en": "Personally added garment IDs and repair-request dates; the supervisor assigned repair priority.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人添加服装编号及修补申请日期；修补优先级由主管分配。"
+    },
+    {
+      "en": "At the final dress rehearsal, 46 of 48 listed costume pieces were on their assigned rails; the 2 exceptions were with the cleaning supplier.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "在最终带妆彩排时，清单上的 48 件服装中有 46 件位于指定衣架；另外 2 件在清洁供应商处。"
+    },
+    {
+      "en": "That rail check recorded location, not a measured reduction in costume faults or production delays.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "该衣架检查记录位置，并非对服装故障或制作延误减少量的测量。"
+    },
+    {
+      "en": "Uses hand-sewing tools, a domestic sewing machine and spreadsheet rail lists.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用手工缝纫工具、家用缝纫机及电子表格衣架清单。"
+    },
+    {
+      "en": "Use of an industrial overlock machine is not recorded.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "未记录工业包缝机使用经历。"
+    },
+    {
+      "en": "Volunteered as a costume mender for Fictional Pebble Dance Circle during 2022-04 to 2022-11.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2022-04 至 2022-11 志愿为虚构卵石舞蹈社修补服装。"
+    },
+    {
+      "en": "For that volunteer group, hand-sewed ribbon closures on 14 practice skirts designed by another member.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "为该志愿团体，在另一名成员设计的 14 条练习裙上手缝丝带系扣。"
+    },
+    {
+      "en": "Also performed in the group’s amateur dance showcase; the sewing and performance roles were unpaid.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "还参加该团体的业余舞蹈展演；缝纫及表演角色均无薪。"
+    },
+    {
+      "en": "Keeps a personal stitch-sample notebook with dated photos of practice seams.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "保留个人针法样本笔记，附有标注日期的练习缝线照片。"
+    },
+    {
+      "en": "Enjoys making fabric bookmarks for friends.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好为朋友制作布艺书签。"
+    },
+    {
+      "en": "Handed over unresolved repairs in writing to the next evening’s wardrobe assistant.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "以书面方式将未解决的修补事项交接给下一晚的服装助理。"
+    }
+  ]
+}

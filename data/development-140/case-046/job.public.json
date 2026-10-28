@@ -1,0 +1,33 @@
+{
+  "case_id": "case-046",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Product Operations Associate",
+    "zh": "产品运营专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Organize customer feedback and surface product themes.",
+      "id": "R01",
+      "zh": "整理客户反馈并提炼产品主题。"
+    },
+    {
+      "en": "Coordinate release-readiness documentation across teams.",
+      "id": "R02",
+      "zh": "跨团队协调发布准备文件。"
+    },
+    {
+      "en": "Explain operational metrics with clear limitations.",
+      "id": "R03",
+      "zh": "清晰说明运营指标及其局限。"
+    },
+    {
+      "en": "Independently write SQL for product usage analysis.",
+      "id": "R04",
+      "zh": "独立编写 SQL 分析产品使用情况。"
+    }
+  ]
+}

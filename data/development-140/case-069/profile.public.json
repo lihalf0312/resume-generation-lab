@@ -1,0 +1,119 @@
+{
+  "case_id": "case-069",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-069",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-069",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Media Administration at Fictional Institute D069 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D069 完成媒体行政文学学士学位。"
+    },
+    {
+      "en": "Worked as a delivery coordination assistant at Fictional Digital Studio D069 from 2022-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-01 至 2026-08 在虚构数字工作室 D069 担任交付协调助理。"
+    },
+    {
+      "en": "Maintained task boards, meeting actions and dependency lists for client website updates.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为客户网站更新维护任务看板、会议行动及依赖清单。"
+    },
+    {
+      "en": "Used a project tracker to record owners and deadlines; designers and developers estimated and executed their own work.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用项目跟踪工具记录负责人及截止日期；设计师和开发者估算并执行各自工作。"
+    },
+    {
+      "en": "Coordinated review invitations and approval records for a 2025-09 website release containing 24 revised pages.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "为 2025-09 一次包含 24 个修订页面的网站发布协调审查邀请及审批记录。"
+    },
+    {
+      "en": "A team of 5 delivered those 24 pages; the candidate maintained coordination records and did not design, code or author all pages.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "一个 5 人团队交付这 24 个页面；候选人维护协调记录，未设计、编码或撰写全部页面。"
+    },
+    {
+      "en": "With a quality analyst, introduced an approval-evidence field in the release checklist during 2025-10.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在 2025-10 与质量分析师合作，在发布清单引入审批证据字段。"
+    },
+    {
+      "en": "Across 12 review packets in 2025-Q4, 2 lacked approval evidence at handover versus 5 of 12 in 2025-Q3; reviewers and project leads shared implementation.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "在 2025-Q4 的 12 份审查资料中，2 份在交接时缺少审批证据；2025-Q3 的 12 份中为 5 份；审核者与项目负责人共同实施改进。"
+    },
+    {
+      "en": "Prepared client status drafts for project-manager approval and escalated blocked dependencies.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "准备供项目经理审批的客户状态草稿，并上报受阻依赖。"
+    },
+    {
+      "en": "Drafted an automated reminder workflow in 2026-04; a developer reviewed feasibility but no automation was shipped.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-04 起草自动提醒流程；开发者审查可行性，但未发布自动化。"
+    },
+    {
+      "en": "Supported a peak of 6 concurrent update streams in 2025-11; the normal 2026-08 assignment was 3.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2025-11 高峰期支持 6 个并行更新工作流；2026-08 常规分工为 3 个。"
+    },
+    {
+      "en": "Volunteered for Fictional Film Circle V069 on evenings from 2023-03 to 2023-08 while employed, scheduling screenings.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "2023-03 至 2023-08 任职期间，晚间在虚构电影社团 V069 志愿安排放映。"
+    },
+    {
+      "en": "Created a personal stop-motion clip using paper shapes; it was not client production work.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "使用纸形制作个人定格动画短片；并非客户制作工作。"
+    },
+    {
+      "en": "Keeps a recreational fountain-pen ink comparison journal unrelated to digital delivery.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "保留与数字交付无关的休闲钢笔墨水比较日记。"
+    },
+    {
+      "en": "Documented decisions without treating meeting attendance as approval or assuming unassigned tasks were complete.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "记录决策，不将出席会议视为批准，也不假定未分配任务已完成。"
+    },
+    {
+      "en": "A portfolio caption says independently launched 24 pages, contradicting the team delivery record and the candidate’s coordination-only remit.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "作品集图注称独立发布 24 个页面，与团队交付记录及候选人仅协调的职责冲突。"
+    },
+    {
+      "en": "No software deployment permissions, visual-design ownership or formal line-management authority is recorded.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "未记录软件部署权限、视觉设计负责或正式直属管理权限。"
+    },
+    {
+      "en": "Collected timesheet completion confirmations but did not set project fees or approve overtime.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "收集工时表完成确认，但不设定项目费用或批准加班。"
+    }
+  ]
+}

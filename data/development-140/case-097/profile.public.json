@@ -1,0 +1,131 @@
+{
+  "case_id": "case-097",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-097",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-097",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Organizational Studies at Fictional Institute D097 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D097 完成组织研究文学学士学位。"
+    },
+    {
+      "en": "Worked as a procedures documentation assistant at Fictional Association D097 from 2022-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-01 至 2026-08 在虚构协会 D097 担任流程文件助理。"
+    },
+    {
+      "en": "Maintained policy-review calendars and collected comments from designated process owners.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "维护政策审阅日历，并收集指定流程负责人的意见。"
+    },
+    {
+      "en": "Tracked version numbers, review dates and approval status in a controlled spreadsheet.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "在受控电子表格跟踪版本号、审阅日期及审批状态。"
+    },
+    {
+      "en": "With the operations lead, consolidated 64 comments on a travel-expense procedure draft during 2025-04.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-04 与运营负责人合作，整合出行费用流程草稿的 64 条意见。"
+    },
+    {
+      "en": "The team assigned 58 of those 64 comments to response owners and left 6 pending clarification; this was review coordination, not policy approval.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "团队为其中 64 条意见的 58 条指定答复负责人，6 条待澄清；这是审阅协调，而非政策审批。"
+    },
+    {
+      "en": "Formatted draft text and checked cross-references; authorized policy owners determined substance and signed approval.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "整理草稿格式并检查交叉引用；获授权政策负责人决定实质内容并签字审批。"
+    },
+    {
+      "en": "Coordinated distribution of an approved visitor-access procedure in 2026-02 after receiving signed authorization.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "在收到签字授权后，于 2026-02 协调分发获批访客进入流程。"
+    },
+    {
+      "en": "The candidate’s distribution role did not confer authority to approve the procedure or interpret legal obligations.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "候选人的分发职责不赋予审批流程或解释法律义务的权限。"
+    },
+    {
+      "en": "Drafted a remote-work FAQ outline in 2026-05; it remained under review and was not issued as policy.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草远程工作常见问题提纲；仍在审查中，未作为政策发布。"
+    },
+    {
+      "en": "Separated draft and approved folders and withdrew superseded copies only on owner instruction.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "将草稿及获批文件夹分开，仅按负责人指示撤除过期副本。"
+    },
+    {
+      "en": "At the 2025-10 review peak, tracked 8 procedures; the normal 2026-08 list contained 4.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-10 审阅高峰期跟踪 8 份流程；2026-08 常规清单有 4 份。"
+    },
+    {
+      "en": "Completed a 2024-11 plain-language editing course using fictional policy examples, not legal or compliance certification.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-11 使用虚构政策示例完成通俗语言编辑课程，并非法律或合规认证。"
+    },
+    {
+      "en": "Volunteered at Fictional Bookbinding Circle V097 from 2023-04 to 2023-09 on weekends while employed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-04 至 2023-09 任职期间，周末在虚构装帧社团 V097 志愿服务。"
+    },
+    {
+      "en": "For the circle, assembled tool-care instruction sheets supplied by the organizer, not organizational policies.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该社团整理组织者提供的工具保养说明页，而非组织政策。"
+    },
+    {
+      "en": "Created a personal illustrated index of fictional gardens in 2020 unrelated to policy work.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2020 年创建个人虚构花园插画索引，与政策工作无关。"
+    },
+    {
+      "en": "Enjoys assembling wooden puzzles as a hobby.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "以拼装木质谜题为爱好。"
+    },
+    {
+      "en": "A draft CV claims approved 8 policies, but the register shows 8 tracked procedures with approvals owned by designated managers.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "一份简历草稿称批准 8 项政策，但登记表显示为跟踪 8 份流程，审批由指定经理负责。"
+    },
+    {
+      "en": "Recorded questions about ambiguous wording and referred them to the policy owner rather than giving independent advice.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "记录对含糊措辞的问题，并转交政策负责人，而非独立提供建议。"
+    },
+    {
+      "en": "Maintained an approval-evidence reference for every distributed final version.",
+      "id": "F20",
+      "kind": "skill",
+      "zh": "为每个分发的最终版本维护审批证据引用。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-067",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "International Purchasing Coordinator",
+    "zh": "国际采购协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain quotation records with explicit currencies and units.",
+      "id": "R01",
+      "zh": "维护币种及单位明确的报价记录。"
+    },
+    {
+      "en": "Resolve incomplete supplier data without unsupported conversions.",
+      "id": "R02",
+      "zh": "解决不完整供应商数据，不作无支持的换算。"
+    },
+    {
+      "en": "Coordinate order follow-up and preserve source documents.",
+      "id": "R03",
+      "zh": "协调订单跟进并保留源文件。"
+    },
+    {
+      "en": "Independently approve foreign-exchange hedging decisions.",
+      "id": "R04",
+      "zh": "独立批准外汇对冲决策。"
+    }
+  ]
+}

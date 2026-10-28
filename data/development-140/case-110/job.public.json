@@ -1,0 +1,33 @@
+{
+  "case_id": "case-110",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Caption Delivery Coordinator",
+    "zh": "字幕交付协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Check English captions against prerecorded English audio and flag uncertain passages.",
+      "id": "R01",
+      "zh": "对照预录英语音频检查英语字幕，并标记不确定片段。"
+    },
+    {
+      "en": "Apply timing and file-naming checklists and retain delivery versions.",
+      "id": "R02",
+      "zh": "应用时间及文件命名核对表，并保留交付版本。"
+    },
+    {
+      "en": "Track revision requests, due dates and delivery status.",
+      "id": "R03",
+      "zh": "跟踪修订请求、截止日期及交付状态。"
+    },
+    {
+      "en": "Prepare clear editor handovers and delivery packages after publication approval.",
+      "id": "R04",
+      "zh": "在发布获批后准备清晰的编辑交接及交付包。"
+    }
+  ]
+}

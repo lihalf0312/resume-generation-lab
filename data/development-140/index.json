@@ -1,0 +1,567 @@
+{
+  "schema_version": "development-public-v4",
+  "case_count": 140,
+  "notice": "Fictional factual sources, unchanged bilingual resumes, actual dimension ratings and brief comments only.",
+  "cases": [
+    {
+      "case_id": "case-001",
+      "path": "data/development-140/case-001"
+    },
+    {
+      "case_id": "case-002",
+      "path": "data/development-140/case-002"
+    },
+    {
+      "case_id": "case-003",
+      "path": "data/development-140/case-003"
+    },
+    {
+      "case_id": "case-004",
+      "path": "data/development-140/case-004"
+    },
+    {
+      "case_id": "case-005",
+      "path": "data/development-140/case-005"
+    },
+    {
+      "case_id": "case-006",
+      "path": "data/development-140/case-006"
+    },
+    {
+      "case_id": "case-007",
+      "path": "data/development-140/case-007"
+    },
+    {
+      "case_id": "case-008",
+      "path": "data/development-140/case-008"
+    },
+    {
+      "case_id": "case-009",
+      "path": "data/development-140/case-009"
+    },
+    {
+      "case_id": "case-010",
+      "path": "data/development-140/case-010"
+    },
+    {
+      "case_id": "case-011",
+      "path": "data/development-140/case-011"
+    },
+    {
+      "case_id": "case-012",
+      "path": "data/development-140/case-012"
+    },
+    {
+      "case_id": "case-013",
+      "path": "data/development-140/case-013"
+    },
+    {
+      "case_id": "case-014",
+      "path": "data/development-140/case-014"
+    },
+    {
+      "case_id": "case-015",
+      "path": "data/development-140/case-015"
+    },
+    {
+      "case_id": "case-016",
+      "path": "data/development-140/case-016"
+    },
+    {
+      "case_id": "case-017",
+      "path": "data/development-140/case-017"
+    },
+    {
+      "case_id": "case-018",
+      "path": "data/development-140/case-018"
+    },
+    {
+      "case_id": "case-019",
+      "path": "data/development-140/case-019"
+    },
+    {
+      "case_id": "case-020",
+      "path": "data/development-140/case-020"
+    },
+    {
+      "case_id": "case-021",
+      "path": "data/development-140/case-021"
+    },
+    {
+      "case_id": "case-022",
+      "path": "data/development-140/case-022"
+    },
+    {
+      "case_id": "case-023",
+      "path": "data/development-140/case-023"
+    },
+    {
+      "case_id": "case-024",
+      "path": "data/development-140/case-024"
+    },
+    {
+      "case_id": "case-025",
+      "path": "data/development-140/case-025"
+    },
+    {
+      "case_id": "case-026",
+      "path": "data/development-140/case-026"
+    },
+    {
+      "case_id": "case-027",
+      "path": "data/development-140/case-027"
+    },
+    {
+      "case_id": "case-028",
+      "path": "data/development-140/case-028"
+    },
+    {
+      "case_id": "case-029",
+      "path": "data/development-140/case-029"
+    },
+    {
+      "case_id": "case-030",
+      "path": "data/development-140/case-030"
+    },
+    {
+      "case_id": "case-031",
+      "path": "data/development-140/case-031"
+    },
+    {
+      "case_id": "case-032",
+      "path": "data/development-140/case-032"
+    },
+    {
+      "case_id": "case-033",
+      "path": "data/development-140/case-033"
+    },
+    {
+      "case_id": "case-034",
+      "path": "data/development-140/case-034"
+    },
+    {
+      "case_id": "case-035",
+      "path": "data/development-140/case-035"
+    },
+    {
+      "case_id": "case-036",
+      "path": "data/development-140/case-036"
+    },
+    {
+      "case_id": "case-037",
+      "path": "data/development-140/case-037"
+    },
+    {
+      "case_id": "case-038",
+      "path": "data/development-140/case-038"
+    },
+    {
+      "case_id": "case-039",
+      "path": "data/development-140/case-039"
+    },
+    {
+      "case_id": "case-040",
+      "path": "data/development-140/case-040"
+    },
+    {
+      "case_id": "case-041",
+      "path": "data/development-140/case-041"
+    },
+    {
+      "case_id": "case-042",
+      "path": "data/development-140/case-042"
+    },
+    {
+      "case_id": "case-043",
+      "path": "data/development-140/case-043"
+    },
+    {
+      "case_id": "case-044",
+      "path": "data/development-140/case-044"
+    },
+    {
+      "case_id": "case-045",
+      "path": "data/development-140/case-045"
+    },
+    {
+      "case_id": "case-046",
+      "path": "data/development-140/case-046"
+    },
+    {
+      "case_id": "case-047",
+      "path": "data/development-140/case-047"
+    },
+    {
+      "case_id": "case-048",
+      "path": "data/development-140/case-048"
+    },
+    {
+      "case_id": "case-049",
+      "path": "data/development-140/case-049"
+    },
+    {
+      "case_id": "case-050",
+      "path": "data/development-140/case-050"
+    },
+    {
+      "case_id": "case-051",
+      "path": "data/development-140/case-051"
+    },
+    {
+      "case_id": "case-052",
+      "path": "data/development-140/case-052"
+    },
+    {
+      "case_id": "case-053",
+      "path": "data/development-140/case-053"
+    },
+    {
+      "case_id": "case-054",
+      "path": "data/development-140/case-054"
+    },
+    {
+      "case_id": "case-055",
+      "path": "data/development-140/case-055"
+    },
+    {
+      "case_id": "case-056",
+      "path": "data/development-140/case-056"
+    },
+    {
+      "case_id": "case-057",
+      "path": "data/development-140/case-057"
+    },
+    {
+      "case_id": "case-058",
+      "path": "data/development-140/case-058"
+    },
+    {
+      "case_id": "case-059",
+      "path": "data/development-140/case-059"
+    },
+    {
+      "case_id": "case-060",
+      "path": "data/development-140/case-060"
+    },
+    {
+      "case_id": "case-061",
+      "path": "data/development-140/case-061"
+    },
+    {
+      "case_id": "case-062",
+      "path": "data/development-140/case-062"
+    },
+    {
+      "case_id": "case-063",
+      "path": "data/development-140/case-063"
+    },
+    {
+      "case_id": "case-064",
+      "path": "data/development-140/case-064"
+    },
+    {
+      "case_id": "case-065",
+      "path": "data/development-140/case-065"
+    },
+    {
+      "case_id": "case-066",
+      "path": "data/development-140/case-066"
+    },
+    {
+      "case_id": "case-067",
+      "path": "data/development-140/case-067"
+    },
+    {
+      "case_id": "case-068",
+      "path": "data/development-140/case-068"
+    },
+    {
+      "case_id": "case-069",
+      "path": "data/development-140/case-069"
+    },
+    {
+      "case_id": "case-070",
+      "path": "data/development-140/case-070"
+    },
+    {
+      "case_id": "case-071",
+      "path": "data/development-140/case-071"
+    },
+    {
+      "case_id": "case-072",
+      "path": "data/development-140/case-072"
+    },
+    {
+      "case_id": "case-073",
+      "path": "data/development-140/case-073"
+    },
+    {
+      "case_id": "case-074",
+      "path": "data/development-140/case-074"
+    },
+    {
+      "case_id": "case-075",
+      "path": "data/development-140/case-075"
+    },
+    {
+      "case_id": "case-076",
+      "path": "data/development-140/case-076"
+    },
+    {
+      "case_id": "case-077",
+      "path": "data/development-140/case-077"
+    },
+    {
+      "case_id": "case-078",
+      "path": "data/development-140/case-078"
+    },
+    {
+      "case_id": "case-079",
+      "path": "data/development-140/case-079"
+    },
+    {
+      "case_id": "case-080",
+      "path": "data/development-140/case-080"
+    },
+    {
+      "case_id": "case-081",
+      "path": "data/development-140/case-081"
+    },
+    {
+      "case_id": "case-082",
+      "path": "data/development-140/case-082"
+    },
+    {
+      "case_id": "case-083",
+      "path": "data/development-140/case-083"
+    },
+    {
+      "case_id": "case-084",
+      "path": "data/development-140/case-084"
+    },
+    {
+      "case_id": "case-085",
+      "path": "data/development-140/case-085"
+    },
+    {
+      "case_id": "case-086",
+      "path": "data/development-140/case-086"
+    },
+    {
+      "case_id": "case-087",
+      "path": "data/development-140/case-087"
+    },
+    {
+      "case_id": "case-088",
+      "path": "data/development-140/case-088"
+    },
+    {
+      "case_id": "case-089",
+      "path": "data/development-140/case-089"
+    },
+    {
+      "case_id": "case-090",
+      "path": "data/development-140/case-090"
+    },
+    {
+      "case_id": "case-091",
+      "path": "data/development-140/case-091"
+    },
+    {
+      "case_id": "case-092",
+      "path": "data/development-140/case-092"
+    },
+    {
+      "case_id": "case-093",
+      "path": "data/development-140/case-093"
+    },
+    {
+      "case_id": "case-094",
+      "path": "data/development-140/case-094"
+    },
+    {
+      "case_id": "case-095",
+      "path": "data/development-140/case-095"
+    },
+    {
+      "case_id": "case-096",
+      "path": "data/development-140/case-096"
+    },
+    {
+      "case_id": "case-097",
+      "path": "data/development-140/case-097"
+    },
+    {
+      "case_id": "case-098",
+      "path": "data/development-140/case-098"
+    },
+    {
+      "case_id": "case-099",
+      "path": "data/development-140/case-099"
+    },
+    {
+      "case_id": "case-100",
+      "path": "data/development-140/case-100"
+    },
+    {
+      "case_id": "case-101",
+      "path": "data/development-140/case-101"
+    },
+    {
+      "case_id": "case-102",
+      "path": "data/development-140/case-102"
+    },
+    {
+      "case_id": "case-103",
+      "path": "data/development-140/case-103"
+    },
+    {
+      "case_id": "case-104",
+      "path": "data/development-140/case-104"
+    },
+    {
+      "case_id": "case-105",
+      "path": "data/development-140/case-105"
+    },
+    {
+      "case_id": "case-106",
+      "path": "data/development-140/case-106"
+    },
+    {
+      "case_id": "case-107",
+      "path": "data/development-140/case-107"
+    },
+    {
+      "case_id": "case-108",
+      "path": "data/development-140/case-108"
+    },
+    {
+      "case_id": "case-109",
+      "path": "data/development-140/case-109"
+    },
+    {
+      "case_id": "case-110",
+      "path": "data/development-140/case-110"
+    },
+    {
+      "case_id": "case-111",
+      "path": "data/development-140/case-111"
+    },
+    {
+      "case_id": "case-112",
+      "path": "data/development-140/case-112"
+    },
+    {
+      "case_id": "case-113",
+      "path": "data/development-140/case-113"
+    },
+    {
+      "case_id": "case-114",
+      "path": "data/development-140/case-114"
+    },
+    {
+      "case_id": "case-115",
+      "path": "data/development-140/case-115"
+    },
+    {
+      "case_id": "case-116",
+      "path": "data/development-140/case-116"
+    },
+    {
+      "case_id": "case-117",
+      "path": "data/development-140/case-117"
+    },
+    {
+      "case_id": "case-118",
+      "path": "data/development-140/case-118"
+    },
+    {
+      "case_id": "case-119",
+      "path": "data/development-140/case-119"
+    },
+    {
+      "case_id": "case-120",
+      "path": "data/development-140/case-120"
+    },
+    {
+      "case_id": "case-121",
+      "path": "data/development-140/case-121"
+    },
+    {
+      "case_id": "case-122",
+      "path": "data/development-140/case-122"
+    },
+    {
+      "case_id": "case-123",
+      "path": "data/development-140/case-123"
+    },
+    {
+      "case_id": "case-124",
+      "path": "data/development-140/case-124"
+    },
+    {
+      "case_id": "case-125",
+      "path": "data/development-140/case-125"
+    },
+    {
+      "case_id": "case-126",
+      "path": "data/development-140/case-126"
+    },
+    {
+      "case_id": "case-127",
+      "path": "data/development-140/case-127"
+    },
+    {
+      "case_id": "case-128",
+      "path": "data/development-140/case-128"
+    },
+    {
+      "case_id": "case-129",
+      "path": "data/development-140/case-129"
+    },
+    {
+      "case_id": "case-130",
+      "path": "data/development-140/case-130"
+    },
+    {
+      "case_id": "case-131",
+      "path": "data/development-140/case-131"
+    },
+    {
+      "case_id": "case-132",
+      "path": "data/development-140/case-132"
+    },
+    {
+      "case_id": "case-133",
+      "path": "data/development-140/case-133"
+    },
+    {
+      "case_id": "case-134",
+      "path": "data/development-140/case-134"
+    },
+    {
+      "case_id": "case-135",
+      "path": "data/development-140/case-135"
+    },
+    {
+      "case_id": "case-136",
+      "path": "data/development-140/case-136"
+    },
+    {
+      "case_id": "case-137",
+      "path": "data/development-140/case-137"
+    },
+    {
+      "case_id": "case-138",
+      "path": "data/development-140/case-138"
+    },
+    {
+      "case_id": "case-139",
+      "path": "data/development-140/case-139"
+    },
+    {
+      "case_id": "case-140",
+      "path": "data/development-140/case-140"
+    }
+  ]
+}

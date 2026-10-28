@@ -1,0 +1,31 @@
+{
+  "case_id": "case-016",
+  "synthetic": true,
+  "title": {
+    "en": "Dispatch planning assistant",
+    "zh": "调度计划助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate delivery time windows with customers.",
+      "id": "R01",
+      "zh": "与客户协调配送时间窗口。"
+    },
+    {
+      "en": "Reconcile handover item counts.",
+      "id": "R02",
+      "zh": "核对交接物品数量。"
+    },
+    {
+      "en": "Plan vehicle assignments in a transport management system.",
+      "id": "R03",
+      "zh": "在运输管理系统中规划车辆分配。"
+    },
+    {
+      "en": "Maintain a clear dispatch status board.",
+      "id": "R04",
+      "zh": "维护清晰的调度状态看板。"
+    }
+  ]
+}

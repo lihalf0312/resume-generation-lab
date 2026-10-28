@@ -1,7 +1,0 @@
-{
-  "version": 27,
-  "previous_case": "case-026",
-  "previous_evaluation_sha256": "7de1feaaabf2c0140dc59695a73c4ffe816e471860f89106d7893cbc2db24eb0",
-  "changes": [],
-  "reason": "Case026 reviewer found no new repair. Maintain assistant contribution, approved removal and team-owned observation without causal personal claims."
-}

@@ -1,0 +1,119 @@
+{
+  "case_id": "case-083",
+  "creation_batch": "development-001-extension-009",
+  "identity_id": "synthetic-person-083",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-083",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an economics bachelor degree at Fictional Finch College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构雀鸟学院取得经济学学士学位。"
+    },
+    {
+      "en": "A 2023 course exercise simulated a fictional portfolio using instructor-supplied historical prices.",
+      "id": "F02",
+      "kind": "project",
+      "zh": "2023 年课程练习使用教师提供的历史价格模拟虚构投资组合。"
+    },
+    {
+      "en": "The simulation covered 2018 through 2022; it used no live money or client assets.",
+      "id": "F03",
+      "kind": "project",
+      "zh": "模拟覆盖 2018 至 2022 年；未使用真实资金或客户资产。"
+    },
+    {
+      "en": "The course workbook showed an 8% cumulative simulated change before transaction costs under its stated assumptions; this was not an annualized or realized return.",
+      "id": "F04",
+      "kind": "outcome",
+      "zh": "课程工作簿在所述假设下显示扣除交易成本前累计模拟变化为 8%；这不是年化或已实现收益。"
+    },
+    {
+      "en": "Worked with 2 classmates; personally checked missing price rows and wrote the assumptions note.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "与 2 名同学合作；个人负责检查缺失价格行并撰写假设说明。"
+    },
+    {
+      "en": "No investment recommendation, predictive performance or personal portfolio profit is claimed.",
+      "id": "F06",
+      "kind": "other",
+      "zh": "不声称提供投资建议、预测表现或个人投资组合利润。"
+    },
+    {
+      "en": "Data reporting assistant at Fictional Amber Ledger, 2023-10 to 2026-08.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "2023-10 至 2026-08 在虚构琥珀账册机构任数据报表助理。"
+    },
+    {
+      "en": "Updated reference-data tables from approved files and logged missing fields for analyst review.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "依据获批文件更新参考数据表并记录缺失字段供分析员审核。"
+    },
+    {
+      "en": "Prepared weekly exception summaries without selecting investments or interpreting suitability.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "准备每周异常摘要，不选择投资或解释适当性。"
+    },
+    {
+      "en": "Helped standardize report filenames with a senior analyst in 2025-03.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-03 与高级分析员共同规范报表文件名。"
+    },
+    {
+      "en": "In a 4-week check during 2025-04, 36 of 40 sampled files followed the naming rule; no prior comparable sample was retained.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "2025-04 的 4 周检查中，40 份抽样文件有 36 份遵循命名规则；未保留此前可比样本。"
+    },
+    {
+      "en": "Uses Excel pivot tables and basic SQL queries in a training database.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用 Excel 数据透视表，并在培训数据库中使用基础 SQL 查询。"
+    },
+    {
+      "en": "Drafted a live-dashboard proposal in 2026-02; it was not implemented by 2026-08.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2026-02 起草实时仪表板提案；截至 2026-08 尚未实施。"
+    },
+    {
+      "en": "Volunteered at Fictional Lantern Library during 2024-04 to 2024-10 on weekends alongside paid work.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2024-04 至 2024-10 周末在虚构灯笼图书馆做志愿者，与有薪工作同期。"
+    },
+    {
+      "en": "Prepared a shelf-label inventory for that library; it was not market analysis.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该图书馆准备书架标签清单；并非市场分析。"
+    },
+    {
+      "en": "Enjoys sketching fictional transit maps.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "爱好绘制虚构交通地图。"
+    },
+    {
+      "en": "A portfolio caption calls the simulated 8% a live trading return, contradicting the course record.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "作品集说明将模拟的 8% 称为实盘交易收益，与课程记录矛盾。"
+    },
+    {
+      "en": "No professional investment licence, trading execution or client advisory authority is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录专业投资执照、交易执行或客户咨询权限。"
+    }
+  ]
+}

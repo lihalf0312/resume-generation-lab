@@ -1,0 +1,33 @@
+{
+  "case_id": "case-050",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "B2B Marketing Operations Specialist",
+    "zh": "B2B 营销运营专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Prepare compliant audience lists and campaign quality checks.",
+      "id": "R01",
+      "zh": "准备合规受众名单并执行营销活动质量检查。"
+    },
+    {
+      "en": "Reconcile funnel reporting with clear metric definitions.",
+      "id": "R02",
+      "zh": "以清晰指标定义核对漏斗报告。"
+    },
+    {
+      "en": "Coordinate controlled campaign experiments and handovers.",
+      "id": "R03",
+      "zh": "协调受控营销活动实验及交接。"
+    },
+    {
+      "en": "Administer CRM integrations and deploy production lead scoring.",
+      "id": "R04",
+      "zh": "管理 CRM 集成并部署生产潜客评分。"
+    }
+  ]
+}

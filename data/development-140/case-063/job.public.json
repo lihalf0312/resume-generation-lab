@@ -1,0 +1,33 @@
+{
+  "case_id": "case-063",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Export Documentation Assistant",
+    "zh": "出口文档助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Cross-check packing lists and commercial invoice references.",
+      "id": "R01",
+      "zh": "交叉核对装箱单及商业发票参考编号。"
+    },
+    {
+      "en": "Maintain organized shipment document records.",
+      "id": "R02",
+      "zh": "维护有序的货运文档记录。"
+    },
+    {
+      "en": "Request document corrections using approved templates.",
+      "id": "R03",
+      "zh": "使用经批准的模板请求文档更正。"
+    },
+    {
+      "en": "Classify tariffs and submit customs filings independently.",
+      "id": "R04",
+      "zh": "独立进行关税分类并提交报关文件。"
+    }
+  ]
+}

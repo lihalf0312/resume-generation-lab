@@ -1,0 +1,131 @@
+{
+  "case_id": "case-107",
+  "creation_batch": "development-001-extension-011",
+  "identity_id": "synthetic-person-107",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-107",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a manufacturing administration certificate at Fictional Slatebud Institute in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构板芽学院完成制造行政证书课程。"
+    },
+    {
+      "en": "Paid quality records clerk at Fictional Mothwing Cartons from 2021-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-02 至 2026-08 在虚构蛾翼纸箱公司任有薪质量记录文员。"
+    },
+    {
+      "en": "Entered inspectors’ accepted and defective carton counts into a daily register.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "将检验员记录的合格及缺陷纸箱数量录入每日登记表。"
+    },
+    {
+      "en": "Checked that every daily record included both inspected units and defect counts.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "检查每日日志是否同时包含检验件数及缺陷数量。"
+    },
+    {
+      "en": "Prepared a comparison of complete inspection logs for the 2025-05 and 2025-06 production runs.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "为 2025-05 及 2025-06 生产批次的完整检验日志编制比较。"
+    },
+    {
+      "en": "The 2025-05 run had 8 defective cartons among 200 inspected cartons, a defect rate of 4%.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "2025-05 批次的 200 个受检纸箱中有 8 个缺陷纸箱，缺陷率为 4%。"
+    },
+    {
+      "en": "The 2025-06 run had 12 defective cartons among 600 inspected cartons, a defect rate of 2%.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "2025-06 批次的 600 个受检纸箱中有 12 个缺陷纸箱，缺陷率为 2%。"
+    },
+    {
+      "en": "Across those runs, defective-carton count rose by 50%, while the defect rate fell by 2 percentage points, or 50% relative to the earlier rate.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "上述批次之间，缺陷纸箱数量增加 50%，而缺陷率下降 2 个百分点，即相对较早缺陷率下降 50%。"
+    },
+    {
+      "en": "The inspected volume and product mix differed between the runs; no controlled comparison of a process change was performed.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "两个批次的检验量及产品组合不同；未进行流程变更的对照比较。"
+    },
+    {
+      "en": "Personally checked the denominators and calculations; inspectors classified defects and the production lead selected corrective actions.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人检查分母及计算；缺陷由检验员分类，纠正措施由生产负责人选择。"
+    },
+    {
+      "en": "Uses spreadsheet counts, division formulas and conditional formatting.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格计数、除法公式及条件格式。"
+    },
+    {
+      "en": "Kept corrected entries linked to their original inspector sheets.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "将更正条目与原始检验员记录表关联保存。"
+    },
+    {
+      "en": "Escalated inconsistent units and missing lot identifiers before monthly reporting.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在月度报告前上报单位不一致及批号缺失问题。"
+    },
+    {
+      "en": "Added a units-inspected field to a draft weekly report in 2025-07; the quality supervisor approved its use.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2025-07 在周报草稿中加入受检件数字段；质量主管批准使用。"
+    },
+    {
+      "en": "The next 6 weekly reports contained the inspected-unit denominator; no production-defect effect was measured for the reporting change.",
+      "id": "F15",
+      "kind": "outcome",
+      "zh": "随后 6 份周报包含受检件数分母；未测量报告变更对生产缺陷的影响。"
+    },
+    {
+      "en": "Attended a 2024 internal chart-reading session; no statistical-process-control certification was awarded.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2024 年参加内部图表阅读培训；未获颁统计过程控制认证。"
+    },
+    {
+      "en": "Built a personal dice-roll frequency sheet using 120 practice throws in 2023.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年根据 120 次练习投掷制作个人骰子频数表。"
+    },
+    {
+      "en": "Volunteered to count donated craft boxes at Fictional Willow Shelf during 2022-11.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2022-11 在虚构柳架组织志愿清点捐赠手工盒。"
+    },
+    {
+      "en": "Enjoys making paper kites.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好制作纸风筝。"
+    },
+    {
+      "en": "No responsibility for process-capability certification or production release decisions is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录负责过程能力认证或生产放行决策的经历。"
+    }
+  ]
+}

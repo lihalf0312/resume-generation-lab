@@ -1,0 +1,31 @@
+{
+  "case_id": "case-010",
+  "synthetic": true,
+  "title": {
+    "en": "Volunteer programme coordinator",
+    "zh": "志愿者项目协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate volunteer availability and session communications.",
+      "id": "R01",
+      "zh": "协调志愿者可用时间及活动沟通。"
+    },
+    {
+      "en": "Create clear onboarding materials.",
+      "id": "R02",
+      "zh": "制作清晰的入门材料。"
+    },
+    {
+      "en": "Manage large event staffing schedules.",
+      "id": "R03",
+      "zh": "管理大型活动人员排班。"
+    },
+    {
+      "en": "Maintain donor records in Salesforce.",
+      "id": "R04",
+      "zh": "在 Salesforce 中维护捐赠者记录。"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "case_id": "case-079",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-079",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-079",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Editorial Practice at Fictional Institute D079 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D079 完成编辑实践专科学历。"
+    },
+    {
+      "en": "Worked as an editorial assistant at Fictional Information Studio D079 from 2021-01 to 2023-03.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-01 至 2023-03 在虚构信息工作室 D079 担任编辑助理。"
+    },
+    {
+      "en": "Changed role within the same studio to content operations assistant from 2023-04 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-04 至 2026-08 在同一工作室内部转任内容运营助理。"
+    },
+    {
+      "en": "Earlier editorial work involved checking references and formatting drafts for senior-editor review.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "早期编辑工作包括检查参考资料并整理草稿格式，供高级编辑审阅。"
+    },
+    {
+      "en": "Current work maintains publication schedules and updates approved text in a content-management staging area.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "现任工作维护发布日程，并在内容管理预发布区更新获批文本。"
+    },
+    {
+      "en": "Checked headings, links and image credits against an editorial checklist before requesting publication approval.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "请求发布审批前，按编辑清单检查标题、链接及图片署名。"
+    },
+    {
+      "en": "With an editor and web specialist, reviewed 140 information pages during 2025-02 to 2025-04.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在 2025-02 至 2025-04 与编辑及网站专员合作复查 140 个信息页面。"
+    },
+    {
+      "en": "The team repaired 32 broken links found across those 140 pages; the candidate logged issues and updated approved URLs, while the specialist fixed redirects.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "团队修复该批 140 个页面中发现的 32 个失效链接；候选人记录问题并更新获批网址，专员修复重定向。"
+    },
+    {
+      "en": "No search-ranking or conversion improvement was measured for that repair project.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "该修复项目未测量搜索排名或转化率改善。"
+    },
+    {
+      "en": "Coordinated an executed 2026-01 update of 18 approved help articles, tracking editor sign-off before publication.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在 2026-01 协调完成 18 篇获批帮助文章更新，发布前跟踪编辑签字。"
+    },
+    {
+      "en": "Drafted a multilingual landing-page concept in 2026-05; only a wireframe was reviewed, with no translation or live launch.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 起草多语言落地页构想；仅审查线框图，没有翻译或正式上线。"
+    },
+    {
+      "en": "Prepared alt-text drafts and plain-language summaries for editorial approval rather than certifying accessibility compliance.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "准备替代文本草稿及通俗摘要供编辑审批，而非认证无障碍合规。"
+    },
+    {
+      "en": "At the 2025-11 campaign peak, maintained 6 publication calendars; the normal 2026-08 allocation was 3.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在 2025-11 活动高峰期维护 6 份发布日历；2026-08 常规分工为 3 份。"
+    },
+    {
+      "en": "Completed a 2024-10 analytics course using fictional page-view exports; this did not provide access to employer analytics.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2024-10 完成使用虚构页面浏览导出数据的分析课程；并未因此获得雇主分析系统访问权限。"
+    },
+    {
+      "en": "Volunteered at Fictional Walking Club V079 from 2023-07 to 2024-02 on weekends alongside paid studio employment.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-07 至 2024-02 在工作室有偿任职期间，周末在虚构步行社团 V079 志愿服务。"
+    },
+    {
+      "en": "For that club, proofread route notices prepared by organizers; did not verify route safety or lead walks.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "为该社团校对组织者准备的路线通知；未核验路线安全或带队步行。"
+    },
+    {
+      "en": "Made a personal booklet of fictional constellations in 2022 using hand lettering, unrelated to client work.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2022 年使用手写字体制作个人虚构星座小册子，与客户工作无关。"
+    },
+    {
+      "en": "Keeps a ceramic-mug sketch collection as a hobby.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "以爱好方式保留陶瓷杯素描收藏。"
+    },
+    {
+      "en": "Maintained a correction log identifying approved text changes and the editor who authorized them.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "维护更正记录，标明获批文本变更及授权编辑。"
+    },
+    {
+      "en": "Escalated inconsistent factual statements to subject experts instead of resolving them through unsupported rewriting.",
+      "id": "F20",
+      "kind": "skill",
+      "zh": "将不一致事实陈述上报主题专家，而非通过无支持的改写解决。"
+    },
+    {
+      "en": "A portfolio headline claims a 40% traffic uplift, but its attached chart is a fictional coursework example rather than employer data.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "作品集标题声称流量提升 40%，但所附图表为虚构课程示例，而非雇主数据。"
+    },
+    {
+      "en": "No independent analytics ownership, translation qualification or production web-development responsibility is recorded.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录独立分析负责、翻译资格或生产网站开发职责。"
+    }
+  ]
+}

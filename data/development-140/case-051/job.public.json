@@ -1,0 +1,33 @@
+{
+  "case_id": "case-051",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Technical Writing Assistant",
+    "zh": "技术写作助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain clear technical setup guides.",
+      "id": "R01",
+      "zh": "维护清晰的技术安装指南。"
+    },
+    {
+      "en": "Collaborate with engineers on document review.",
+      "id": "R02",
+      "zh": "与工程师协作文档审核。"
+    },
+    {
+      "en": "Use Markdown and tracked revisions.",
+      "id": "R03",
+      "zh": "使用 Markdown 及修订跟踪。"
+    },
+    {
+      "en": "Author API reference documentation independently.",
+      "id": "R04",
+      "zh": "独立撰写 API 参考文档。"
+    }
+  ]
+}

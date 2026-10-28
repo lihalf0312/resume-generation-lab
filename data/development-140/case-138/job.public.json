@@ -1,0 +1,33 @@
+{
+  "case_id": "case-138",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Commercial Laundry Linen Flow Assistant",
+    "zh": "商业洗衣床品流转助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Receive and sort tagged linen while preserving customer identification and damage notes.",
+      "id": "R01",
+      "zh": "接收并分拣带标签床品，同时保留客户标识及损坏备注。"
+    },
+    {
+      "en": "Record incoming linen quantities and distinguish gross weights from bag tare.",
+      "id": "R02",
+      "zh": "记录送洗床品数量，并区分毛重与洗衣袋扣除重量。"
+    },
+    {
+      "en": "Prepare counted customer bundles, report shortages and hand over cart locations.",
+      "id": "R03",
+      "zh": "准备按件清点的客户包件、报告短缺，并交接推车位置。"
+    },
+    {
+      "en": "Preferred: routine independent operation of a flatwork-finishing machine.",
+      "id": "R04",
+      "zh": "优先：日常独立操作平烫机的经验。"
+    }
+  ]
+}

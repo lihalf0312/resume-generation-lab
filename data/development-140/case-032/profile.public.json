@@ -1,0 +1,119 @@
+{
+  "case_id": "case-032",
+  "creation_batch": "development-001-extension-004",
+  "identity_id": "synthetic-person-032",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-032",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a comparative literature bachelor degree at Fictional Bramble College in 2017.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2017 年在虚构荆棘学院取得比较文学学士学位。"
+    },
+    {
+      "en": "Editorial assistant at Fictional Paper Harbor Press, 2018-03 to 2022-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-03 至 2022-12 在虚构纸港出版社任编辑助理。"
+    },
+    {
+      "en": "Production coordinator at Fictional Paper Harbor Press, 2023-01 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构纸港出版社任制作协调员。"
+    },
+    {
+      "en": "Tracked author corrections, proof versions, and handoffs to an external typesetting team.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "跟踪作者修改、校样版本及向外部排版团队的交接。"
+    },
+    {
+      "en": "Handled 8 concurrent titles at the 2025 autumn peak; the normal 2026 monthly load was 3 to 4 titles.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2025 年秋季高峰同时处理 8 个书目；2026 年通常每月处理 3 至 4 个书目。"
+    },
+    {
+      "en": "Worked with a copy editor and designer to introduce a proof-return checklist in 2024-05.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2024-05 与文字编辑及设计师合作引入校样回传核对表。"
+    },
+    {
+      "en": "Wrote the version-naming section; the designer owned layout checks and the copy editor owned language checks.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "编写版本命名部分；版式检查由设计师负责，语言检查由文字编辑负责。"
+    },
+    {
+      "en": "Across 10 titles completed in 2024-06 to 2024-09, 8 met the internal proof-return target; the previous 9-title cohort had 6 on time.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "2024-06 至 2024-09 完成的 10 个书目中，8 个达到内部校样回传目标；上一组 9 个书目中有 6 个按时。"
+    },
+    {
+      "en": "Different title lengths prevent attributing that comparison solely to the checklist.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "书目篇幅不同，不能将该比较结果完全归因于核对表。"
+    },
+    {
+      "en": "Uses Word tracked changes and spreadsheet production schedules.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用 Word 修订及电子表格制作进度表。"
+    },
+    {
+      "en": "Exported print-ready PDF files from existing InDesign templates under designer review; did not create original page templates.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "在设计师审核下从现有 InDesign 模板导出印刷用 PDF；未创建原创页面模板。"
+    },
+    {
+      "en": "Drafted an accessible e-book checklist in 2026-02, but it had not been tested or adopted by 2026-08.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-02 起草无障碍电子书核对表，但截至 2026-08 尚未测试或采用。"
+    },
+    {
+      "en": "No EPUB accessibility audit certification is documented.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "未记录 EPUB 无障碍审核认证。"
+    },
+    {
+      "en": "Freelance proofreader for Fictional Evening Pamphlet from 2021-02 to 2021-07, averaging 3 evening hours weekly alongside the main job.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "2021-02 至 2021-07 为虚构晚间小册担任自由职业校对员，与主职同期，每周平均晚间工作 3 小时。"
+    },
+    {
+      "en": "Produced a personal illustrated walking map in 2025; it was shared privately, not commercially published.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2025 年制作个人插画步行地图；仅私下分享，未商业出版。"
+    },
+    {
+      "en": "Enjoys sketching historic-looking fictional buildings.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "爱好绘制具有历史风格的虚构建筑。"
+    },
+    {
+      "en": "An unverified CV note lists 12 concurrent titles, conflicting with the dated peak workload log of 8.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一条未经核实的简历备注列出同时处理 12 个书目，与标注日期的高峰工作日志中 8 个书目冲突。"
+    },
+    {
+      "en": "No budget approval or direct staff management authority is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录预算审批或直属人员管理权限。"
+    }
+  ]
+}

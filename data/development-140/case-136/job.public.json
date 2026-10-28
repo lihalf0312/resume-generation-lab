@@ -1,0 +1,28 @@
+{
+  "case_id": "case-136",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Fish Market Orders and Dispatch Assistant",
+    "zh": "鱼市场订单与发货助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Match prepared products to approved order labels and reconcile product weights and ice-pack counts separately.",
+      "id": "R01",
+      "zh": "将已准备产品与获批订单标签匹配，并分别核对产品重量及冰袋数量。"
+    },
+    {
+      "en": "Maintain collection records and refer incomplete labels or collection exceptions to the supervisor.",
+      "id": "R02",
+      "zh": "维护取货记录，并将不完整标签或取货异常转交主管。"
+    },
+    {
+      "en": "Maintain clean packing supplies and clear end-of-shift order records under supplied procedures.",
+      "id": "R03",
+      "zh": "按所提供流程维护清洁包装用品及清晰的班末订单记录。"
+    }
+  ]
+}

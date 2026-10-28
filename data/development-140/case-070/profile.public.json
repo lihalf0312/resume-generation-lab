@@ -1,0 +1,119 @@
+{
+  "case_id": "case-070",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-070",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-070",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a certificate in Administrative Systems at Fictional Institute D070 in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构院校 D070 完成行政系统结业证书。"
+    },
+    {
+      "en": "Worked as a learning records assistant at Fictional Training Office D070 from 2024-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 在虚构培训办公室 D070 担任学习记录助理。"
+    },
+    {
+      "en": "Entered attendance from signed session sheets and linked each record to an approved course identifier.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "根据签字课程表录入出勤，并将每条记录关联至获批课程标识。"
+    },
+    {
+      "en": "Checked participant identifiers against an authorized roster and escalated mismatches to the coordinator.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "将参与者标识与授权名册核对，并将不匹配情况上报协调员。"
+    },
+    {
+      "en": "Updated completion status only after receiving trainer-approved evidence; did not infer completion from registration.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "仅在收到培训师批准的证据后更新完成状态；不根据报名推断完成。"
+    },
+    {
+      "en": "With the records coordinator, checked 150 training records during 2025-07.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "在 2025-07 与记录协调员合作检查 150 条培训记录。"
+    },
+    {
+      "en": "The team found 12 missing attendance attachments among those 150 records, retrieved 10 from trainers and kept 2 flagged pending.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "团队在该批 150 条记录中发现 12 份缺失出勤附件，向培训师取得 10 份，并保留 2 份待定标记。"
+    },
+    {
+      "en": "Used spreadsheet validation and a learning-records system to maintain course dates, status and evidence references.",
+      "id": "F08",
+      "kind": "skill",
+      "zh": "使用电子表格验证及学习记录系统维护课程日期、状态及证据引用。"
+    },
+    {
+      "en": "Produced monthly status extracts for authorized managers and removed unnecessary personal fields before sharing.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "为获授权经理制作每月状态导出，并在共享前删除不必要的个人字段。"
+    },
+    {
+      "en": "Created a 2026-02 filing guide approved and used by the training office.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在 2026-02 编制归档指南，由培训办公室批准并使用。"
+    },
+    {
+      "en": "Drafted an optional visual calendar in 2026-05; it remained a draft and was not adopted.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 起草可选可视化日历；仍为草稿，未被采纳。"
+    },
+    {
+      "en": "At the 2025-09 induction peak, processed records for 11 sessions in one week; the typical 2026-08 weekly workload was 5 sessions.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在 2025-09 入职培训高峰期，一周处理 11 场课程记录；2026-08 典型每周工作量为 5 场。"
+    },
+    {
+      "en": "Volunteered at Fictional Craft Circle V070 on Saturdays from 2024-04 to 2024-10 while employed, organizing supply labels.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "2024-04 至 2024-10 任职期间，星期六在虚构手工社团 V070 志愿整理用品标签。"
+    },
+    {
+      "en": "Built a personal index of crochet patterns; it was not a training curriculum.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "建立个人钩针图样索引；并非培训课程体系。"
+    },
+    {
+      "en": "Enjoys sketching imaginary gardens and keeps the sketches in a personal notebook.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "喜爱描绘想象中的花园，并将素描保留在个人笔记本中。"
+    },
+    {
+      "en": "Maintained a correction log linking original and amended values with the coordinator’s approval reference.",
+      "id": "F16",
+      "kind": "skill",
+      "zh": "维护更正记录，将原值与修改值关联，并附协调员审批引用。"
+    },
+    {
+      "en": "Responded to internal record queries by locating approved evidence rather than issuing new qualifications.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "通过查找获批证据回答内部记录查询，而非授予新资格。"
+    },
+    {
+      "en": "The role did not include designing curricula, certifying competence or administering payroll; the vacancy does not require these duties.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "该岗位不包含设计课程、认证能力或管理薪资；本空缺不要求这些职责。"
+    }
+  ]
+}

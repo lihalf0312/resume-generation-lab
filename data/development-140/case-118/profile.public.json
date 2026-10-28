@@ -1,0 +1,131 @@
+{
+  "case_id": "case-118",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-118",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-118",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Awarded a performing-arts administration diploma by Fictional Twilightsail College in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年获虚构暮帆学院颁发演艺行政文凭。"
+    },
+    {
+      "en": "Paid permissions records assistant at Fictional Velvet Lantern Theatre from 2020-09 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-09 至 2026-08 在虚构绒灯剧院任有薪许可记录助理。"
+    },
+    {
+      "en": "Logged permission requests for scripted performances and attached the relevant correspondence.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "记录剧本演出的许可申请，并附上相关往来函件。"
+    },
+    {
+      "en": "Recorded the territory, performance dates and permitted number of shows exactly as stated in signed permissions.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "按已签署许可原文记录适用地区、演出日期及获准场次。"
+    },
+    {
+      "en": "Kept unsigned requests marked as pending rather than filing them as executed permissions.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将未签署申请标为待处理，而非归档为已签立许可。"
+    },
+    {
+      "en": "Sent reminder emails before recorded permission expiry dates using the producer’s approved template.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "使用制作人批准的模板，在已记录许可到期日前发送提醒邮件。"
+    },
+    {
+      "en": "Flagged planned performances outside the recorded dates to the producer for review.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "将计划中超出已记录日期范围的演出标记给制作人审核。"
+    },
+    {
+      "en": "Rebuilt the permissions register’s status fields in 2024-06 with the production administrator.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2024-06 与制作行政专员共同重建许可登记表的状态字段。"
+    },
+    {
+      "en": "Personally migrated request dates and signature-status flags; the administrator checked contract-scope entries.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人迁移申请日期及签署状态标记；合同范围条目由行政专员核对。"
+    },
+    {
+      "en": "A 2024-07 reconciliation matched 31 of 33 sampled register entries to the corresponding permission document.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "2024-07 核对中，33 条抽样登记记录有 31 条与相应许可文件匹配。"
+    },
+    {
+      "en": "The 2 unmatched entries remained on an exception list at that check; the source does not record their later resolution.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该次检查时，2 条未匹配记录仍在异常清单上；来源未记录其后续解决情况。"
+    },
+    {
+      "en": "Uses spreadsheet filters, linked document indexes and calendar reminders.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用电子表格筛选、关联文档索引及日历提醒。"
+    },
+    {
+      "en": "Prepared a weekly list of outstanding requests and approaching expiries for the producer.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "每周为制作人准备未决申请及即将到期事项清单。"
+    },
+    {
+      "en": "The producer and external adviser negotiated terms; the candidate recorded the agreed wording after approval.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "条款由制作人与外部顾问协商；候选人在批准后记录议定措辞。"
+    },
+    {
+      "en": "Completed a short internal records-retention briefing in 2021; it was not a legal qualification.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2021 年完成短期内部记录保存说明培训；该培训不是法律资格。"
+    },
+    {
+      "en": "Created a personal cue-sheet archive for invented puppet plays in 2025, without obtaining or granting any commercial rights.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2025 年为虚构木偶剧制作个人提示单归档，未取得或授予任何商业权利。"
+    },
+    {
+      "en": "Volunteered to organize costumes at Fictional Poppy Curtain Club from 2018-10 to 2019-03.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2018-10 至 2019-03 在虚构罂粟帘戏剧社志愿整理服装。"
+    },
+    {
+      "en": "Enjoys painting miniature stage backdrops.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好绘制微型舞台背景。"
+    },
+    {
+      "en": "Restricted the permissions folder to the producer-approved access list.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "按照制作人批准的访问名单限制许可文件夹的访问。"
+    },
+    {
+      "en": "No authority to grant rights, sign permissions on behalf of rights holders or provide legal opinions is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录授予权利、代表权利人签署许可或出具法律意见的权限。"
+    }
+  ]
+}

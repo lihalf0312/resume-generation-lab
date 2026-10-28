@@ -1,0 +1,137 @@
+{
+  "case_id": "case-137",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-137",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-137",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a leisure-services administration certificate at Fictional Alderwave College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构桤浪学院完成休闲服务行政证书课程。"
+    },
+    {
+      "en": "Paid reception assistant at Fictional Bluepetal Public Pool from 2024-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 在虚构蓝瓣公共泳池任有薪接待助理。"
+    },
+    {
+      "en": "Sold public-swim admission tickets and checked membership expiry dates in the reception system.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在接待系统中销售公众游泳入场票，并检查会员到期日期。"
+    },
+    {
+      "en": "Recorded arrival headcounts and notified the duty manager when the desk display reached the supplied capacity threshold.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "记录到场人数，并在柜台显示达到所给容量阈值时通知值班经理。"
+    },
+    {
+      "en": "The duty manager controlled admissions during capacity restrictions; poolside supervision was provided by the lifeguard team.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "限流期间由值班经理控制入场；池畔监督由救生员团队负责。"
+    },
+    {
+      "en": "Explained locker deposits, changing-room locations and session times using the centre’s visitor information.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据中心访客信息说明储物柜押金、更衣室位置及场次时间。"
+    },
+    {
+      "en": "Logged lost-property descriptions and followed the desk’s identity-check procedure before returning items.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "记录失物描述，并在归还前遵循柜台身份核验流程。"
+    },
+    {
+      "en": "Took swim-lesson enquiries and passed enrolment changes to the course administrator; did not assign teaching groups.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "接收游泳课程咨询，并将报名变更转交课程管理员；不分配教学小组。"
+    },
+    {
+      "en": "Helped prepare a revised lesson-enquiry form in 2025-05.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-05 协助准备修订后的课程咨询表。"
+    },
+    {
+      "en": "Personally added contact-preference and requested-session fields; the course administrator set eligibility and level questions.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人添加联系偏好及期望场次字段；课程管理员设定资格及水平问题。"
+    },
+    {
+      "en": "In a 2025-06 desk review, 28 of 30 sampled enquiries contained a contact preference and requested session.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "2025-06 柜台审核中，30 份抽样咨询有 28 份包含联系偏好及期望场次。"
+    },
+    {
+      "en": "Uses a reception till, membership lookup and spreadsheet exports of public-swim bookings.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用接待收银系统、会员查询及公众游泳预订电子表格导出文件。"
+    },
+    {
+      "en": "Balanced ticket receipts with the senior receptionist and recorded payment discrepancies for review.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "与高级接待员共同核对售票收款，并记录付款差异供审核。"
+    },
+    {
+      "en": "Completed the centre’s internal emergency-contact and evacuation orientation in 2024-01; no lifeguard award was issued.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2024-01 完成中心内部紧急联系及疏散入门培训；未颁发救生员资格。"
+    },
+    {
+      "en": "Swims recreationally at Fictional Reedfin Club and records personal lap totals without coaching other swimmers.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "在虚构苇鳍俱乐部休闲游泳，并记录个人游泳圈数，不指导其他游泳者。"
+    },
+    {
+      "en": "Volunteered at the club’s 2025-03 equipment exchange, checking donated goggles against the organizer’s collection list.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "在俱乐部 2025-03 器材交换活动中做志愿者，依据组织者领取清单核对捐赠泳镜。"
+    },
+    {
+      "en": "Created a personal sign-up sheet for 7 friends attending a picnic in 2023, separate from swim-course enrolment.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年为 7 名参加野餐的朋友制作个人报名表，与游泳课程报名分开。"
+    },
+    {
+      "en": "Enjoys making collages from recycled magazine paper.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好用回收杂志纸制作拼贴画。"
+    },
+    {
+      "en": "Worked Saturday daytime reception shifts on the recorded pool rota.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "按记录中的泳池排班轮值星期六日间接待班。"
+    },
+    {
+      "en": "As of 2026-09, the candidate states availability for Saturday and Sunday daytime reception shifts.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "截至 2026-09，候选人表示可在星期六及星期日日间接待班工作。"
+    },
+    {
+      "en": "No independent administration of course waiting lists or allocation of lesson places is documented.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录独立管理课程候补名单或分配课程名额的经历。"
+    }
+  ]
+}

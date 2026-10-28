@@ -1,0 +1,33 @@
+{
+  "case_id": "case-099",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Service Content Coordinator",
+    "zh": "服务内容协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate help-content reviews and controlled publication updates.",
+      "id": "R01",
+      "zh": "协调帮助内容审阅及受控发布更新。"
+    },
+    {
+      "en": "Preserve correction histories and use verified current values.",
+      "id": "R02",
+      "zh": "保留更正历史并使用经核实当前值。"
+    },
+    {
+      "en": "Prepare clear documentation and route substantive questions to editors.",
+      "id": "R03",
+      "zh": "准备清晰文档并将实质问题转交编辑。"
+    },
+    {
+      "en": "Independently own service policy and quantify support-demand reduction.",
+      "id": "R04",
+      "zh": "独立负责服务政策并量化支持需求减少。"
+    }
+  ]
+}

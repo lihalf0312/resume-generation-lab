@@ -1,0 +1,33 @@
+{
+  "case_id": "case-055",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community Programme Assistant",
+    "zh": "社区项目助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Prepare programme supplies from approved lists.",
+      "id": "R01",
+      "zh": "依据批准的清单准备项目物资。"
+    },
+    {
+      "en": "Maintain basic attendance and activity records.",
+      "id": "R02",
+      "zh": "维护基础出席及活动记录。"
+    },
+    {
+      "en": "Communicate incomplete tasks to coordinators.",
+      "id": "R03",
+      "zh": "向协调员传达未完成任务。"
+    },
+    {
+      "en": "Complete required safeguarding training before participant-facing work.",
+      "id": "R04",
+      "zh": "在面向参与者的工作前完成要求的安全保障培训。"
+    }
+  ]
+}

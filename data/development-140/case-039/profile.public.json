@@ -1,0 +1,107 @@
+{
+  "case_id": "case-039",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-039",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-039",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Service Management at Fictional Institute D039 in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构院校 D039 完成服务管理文学学士学位。"
+    },
+    {
+      "en": "Worked as a travel support adviser at Fictional Travel Service D039 from 2019-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-01 至 2026-08 在虚构旅行服务企业 D039 担任旅行支持顾问。"
+    },
+    {
+      "en": "Handled itinerary-change enquiries in a ticket queue and escalated fare-rule exceptions to authorized agents.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在工单队列处理行程变更咨询，并将票价规则例外转交获授权代理。"
+    },
+    {
+      "en": "Used a customer-service platform to record case histories and approved response macros; no airline GDS ticketing access is recorded.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用客户服务平台记录个案历史及获批回复模板；未记录航空 GDS 出票权限。"
+    },
+    {
+      "en": "Co-developed a disruption-response checklist with the quality analyst during 2025-06.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-06 与质量分析师共同开发行程中断响应清单。"
+    },
+    {
+      "en": "For a reviewed sample of 60 disruption cases in 2025-07, missing follow-up notes numbered 7 versus 15 in 60 cases reviewed in 2025-05; sampling and seasonal differences limit attribution.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在 2025-07 审查的 60 个行程中断个案中，7 个缺少跟进备注；2025-05 审查的 60 个个案中为 15 个；抽样及季节差异限制归因。"
+    },
+    {
+      "en": "Served as acting shift coordinator for 6 advisers from 2025-08 to 2025-10, assigning queue coverage without hiring or appraisal authority.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "2025-08 至 2025-10 为 6 名顾问代理班次协调工作，分配队列值守，但无招聘或考评权限。"
+    },
+    {
+      "en": "Returned to an individual adviser assignment in 2025-11 and held no current direct reports in 2026-08.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "2025-11 回归个人顾问岗位，2026-08 没有现任直属下属。"
+    },
+    {
+      "en": "Drafted a new-hire coaching plan in 2026-03; only 2 demonstration sessions were delivered before the proposed rollout was paused.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-03 起草新人辅导计划；拟议推广暂停前仅开展 2 场示范课。"
+    },
+    {
+      "en": "Reviewed escalation examples with peers and distinguished policy-approved remedies from exceptions requiring manager sign-off.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "与同事复盘上报实例，区分政策允许的补救措施与需经理签字的例外。"
+    },
+    {
+      "en": "Volunteered for Fictional Visitor Festival V039 on 3 weekends in 2024-09 while employed, providing directions rather than selling travel.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "2024-09 任职期间在虚构游客节 V039 的 3 个周末做志愿者，提供指路服务而非销售旅行产品。"
+    },
+    {
+      "en": "Keeps a personal hiking-route diary; no professional guiding qualification is claimed.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "保留个人徒步路线日记；不声称持有专业导游资格。"
+    },
+    {
+      "en": "A self-written summary claims 95% satisfaction, but the available dashboard shows 19 positive responses out of 24 returned surveys for 2025-10.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "一份自写摘要声称满意度为 95%，但现有仪表板显示 2025-10 收回的 24 份问卷中有 19 份正面评价。"
+    },
+    {
+      "en": "The survey return rate and attribution to the candidate versus the shift are unknown; neither satisfaction figure should be promoted as a validated personal outcome.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "问卷回收率及其归属候选人还是整个班次均未知；两种满意度数字均不应被宣传为已验证的个人成果。"
+    },
+    {
+      "en": "Could authorize goodwill vouchers up to 30 currency units under policy, but could not authorize cash refunds.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "可依政策批准最高 30 货币单位的善意补偿券，但不能批准现金退款。"
+    },
+    {
+      "en": "Has not owned workforce forecasting or a departmental budget.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未负责劳动力预测或部门预算。"
+    }
+  ]
+}

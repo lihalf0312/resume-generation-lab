@@ -1,0 +1,143 @@
+{
+  "case_id": "case-073",
+  "creation_batch": "development-001-extension-008",
+  "identity_id": "synthetic-person-073",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-073",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an industrial administration diploma at Fictional Flintgarden Institute in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构燧石花园学院完成工业行政文凭课程。"
+    },
+    {
+      "en": "Completed internal document-control orientation in 2021-03; it was not auditor certification.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2021-03 完成内部文档控制入门培训；并非审核员认证。"
+    },
+    {
+      "en": "Packing records clerk at Fictional Ceramic Finch, 2018-10 to 2021-06.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2018-10 至 2021-06 在虚构陶瓷雀机构任包装记录文员。"
+    },
+    {
+      "en": "Quality documentation assistant at Fictional Ceramic Finch, 2021-07 to 2024-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2021-07 至 2024-09 在虚构陶瓷雀机构任质量文档助理。"
+    },
+    {
+      "en": "Quality records coordinator at Fictional Ceramic Finch, 2024-10 to 2026-09; these are successive roles at one fictional employer.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2024-10 至 2026-09 在虚构陶瓷雀机构任质量记录协调员；这些是在同一虚构雇主的连续岗位。"
+    },
+    {
+      "en": "As a packing clerk, copied batch identifiers from approved packing sheets without judging product quality.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "任包装文员时从批准的包装表抄录批次标识，不判断产品质量。"
+    },
+    {
+      "en": "In the current role, indexes signed inspection forms and checks revision numbers against the document register.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在现岗位索引已签字检验表，并依据文档登记表检查版本号。"
+    },
+    {
+      "en": "Requests missing signatures from authorized inspectors; does not sign on their behalf.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "向获授权检验员索取缺失签名；不代其签字。"
+    },
+    {
+      "en": "Co-designed a form-revision reminder sheet with a quality engineer during 2025-02 to 2025-03.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-02 至 2025-03 与质量工程师共同设计表单版本提醒表。"
+    },
+    {
+      "en": "Personally built revision lookup formulas and recorded obsolete form identifiers; the engineer approved the master register.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人制作版本查找公式并记录过时表单标识；主登记表由工程师批准。"
+    },
+    {
+      "en": "The 2025-05 review found current revisions in 46 of 50 sampled forms, versus 38 of 45 in 2025-01; the samples were different.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "2025-05 审核发现，抽样 50 份表单中有 46 份为当前版本；2025-01 抽样 45 份中为 38 份；样本不同。"
+    },
+    {
+      "en": "Rolled the approved reminder sheet out to the records desk in 2025-04, not to production equipment.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2025-04 将获批提醒表应用至记录工作台，而非生产设备。"
+    },
+    {
+      "en": "Drafted an image-based defect catalogue in 2026-06; photographs had not been technically reviewed by 2026-09.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2026-06 起草基于图像的缺陷目录；截至 2026-09 照片尚未经过技术审核。"
+    },
+    {
+      "en": "Uses spreadsheet lookups, file naming conventions, and read-only archival folders.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用电子表格查找、文件命名规则及只读归档文件夹。"
+    },
+    {
+      "en": "Prepares requested document bundles for internal reviews without acting as the auditor.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "为内部审核准备所需文档包，不担任审核员。"
+    },
+    {
+      "en": "In the document-control orientation, practiced identifying obsolete fictional forms; this was training, not an audit.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "在文档控制入门培训中练习识别过时虚构表单；此为培训，并非审核。"
+    },
+    {
+      "en": "Volunteered with Fictional Model Railway Club on 2024-11 weekends alongside paid employment.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2024-11 周末在虚构模型铁路社做志愿者，与有薪工作同期。"
+    },
+    {
+      "en": "Labeled storage boxes for the club; the activity did not involve industrial quality checks.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "为社团标记储物箱；该活动不涉及工业质量检查。"
+    },
+    {
+      "en": "Maintained a personal knitting pattern notebook with 17 trial swatches in 2025.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2025 年维护个人编织花样笔记，含 17 块试织样片。"
+    },
+    {
+      "en": "Enjoys knitting and listening to radio plays.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好编织及收听广播剧。"
+    },
+    {
+      "en": "A reference draft calls the candidate quality auditor, while the signed role history states records coordinator.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "一份推荐草稿称候选人为质量审核员，而签字岗位历史为记录协调员。"
+    },
+    {
+      "en": "No batch-release authority or external quality auditor qualification is documented.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录批次放行权限或外部质量审核员资格。"
+    }
+  ]
+}

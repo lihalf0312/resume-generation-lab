@@ -1,0 +1,33 @@
+{
+  "case_id": "case-060",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Document Control Clerk",
+    "zh": "文件控制文员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate document registers and identify missing metadata.",
+      "id": "R01",
+      "zh": "维护准确文件登记表并识别缺失元数据。"
+    },
+    {
+      "en": "Distribute approved revisions and archive superseded copies.",
+      "id": "R02",
+      "zh": "分发获批修订版并归档过期副本。"
+    },
+    {
+      "en": "Follow access approval procedures and support retrieval requests.",
+      "id": "R03",
+      "zh": "遵循访问审批流程并支持调阅请求。"
+    },
+    {
+      "en": "Document procedures and escalate unresolved record issues.",
+      "id": "R04",
+      "zh": "记录流程并上报未解决记录问题。"
+    }
+  ]
+}

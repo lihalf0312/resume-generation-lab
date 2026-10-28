@@ -1,0 +1,31 @@
+{
+  "case_id": "case-003",
+  "synthetic": true,
+  "title": {
+    "en": "Clinic scheduling coordinator",
+    "zh": "诊所排班协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate appointments across multiple teams.",
+      "id": "R01",
+      "zh": "协调多个团队的预约。"
+    },
+    {
+      "en": "Handle confidential scheduling records.",
+      "id": "R02",
+      "zh": "处理保密排班记录。"
+    },
+    {
+      "en": "Train scheduling staff.",
+      "id": "R03",
+      "zh": "培训排班人员。"
+    },
+    {
+      "en": "Use an electronic insurance-claims submission system.",
+      "id": "R04",
+      "zh": "使用电子保险理赔提交系统。"
+    }
+  ]
+}

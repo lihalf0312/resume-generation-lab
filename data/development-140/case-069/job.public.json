@@ -1,0 +1,33 @@
+{
+  "case_id": "case-069",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Digital Project Coordinator",
+    "zh": "数字项目协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate task dependencies, reviews and status communications.",
+      "id": "R01",
+      "zh": "协调任务依赖、审查及状态沟通。"
+    },
+    {
+      "en": "Maintain approval evidence and decision records.",
+      "id": "R02",
+      "zh": "维护审批证据及决策记录。"
+    },
+    {
+      "en": "Support delivery administration without obscuring team ownership.",
+      "id": "R03",
+      "zh": "支持交付行政工作，不掩盖团队归属。"
+    },
+    {
+      "en": "Independently implement and deploy production website code.",
+      "id": "R04",
+      "zh": "独立实现并部署生产网站代码。"
+    }
+  ]
+}

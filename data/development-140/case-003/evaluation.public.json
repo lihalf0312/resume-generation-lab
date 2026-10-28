@@ -1,0 +1,46 @@
+{
+  "case_id": "case-003",
+  "factual_status": "pass",
+  "overall_score": null,
+  "dimension_ratings": [
+    {
+      "dimension": "jd_relevance",
+      "label_zh": "岗位相关性",
+      "label_en": "Job relevance",
+      "rating": 4,
+      "scale_min": 0,
+      "scale_max": 4
+    },
+    {
+      "dimension": "clarity",
+      "label_zh": "表达清晰度",
+      "label_en": "Clarity",
+      "rating": 3,
+      "scale_min": 0,
+      "scale_max": 4
+    },
+    {
+      "dimension": "supported_achievements",
+      "label_zh": "成果表述",
+      "label_en": "Supported achievements",
+      "rating": 4,
+      "scale_min": 0,
+      "scale_max": 4
+    },
+    {
+      "dimension": "format_readability",
+      "label_zh": "实际排版可读性",
+      "label_en": "Rendered-format readability",
+      "rating": null,
+      "scale_min": 0,
+      "scale_max": 4
+    }
+  ],
+  "brief_feedback_zh": "部分中文搭配不够自然，建议改善措辞。",
+  "brief_feedback_en": "Some Chinese phrasing is unnatural; improve the wording.",
+  "review_limitations": [
+    "Unvalidated native review; content only.",
+    "未经校准的原生评审；仅评估文本内容。"
+  ],
+  "disputed_label": false
+}

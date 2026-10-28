@@ -1,0 +1,125 @@
+{
+  "case_id": "case-117",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-117",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-117",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a sport administration certificate at Fictional Greenglass Institute in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构绿玻璃学院完成体育行政证书课程。"
+    },
+    {
+      "en": "Paid fixtures assistant at Fictional Kitefield Community League from 2024-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-02 至 2026-08 在虚构风筝场社区联赛任有薪赛程助理。"
+    },
+    {
+      "en": "Maintained fixture notices for 8 adult recreational teams using the league secretary’s approved schedule.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据联赛秘书批准的赛程，维护 8 支成人休闲球队的比赛通知。"
+    },
+    {
+      "en": "Checked pitch availability and notified team contacts of confirmed booking windows.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "检查球场可用时间，并将已确认预订窗口通知球队联系人。"
+    },
+    {
+      "en": "Requested referee availability, followed up on unanswered requests and forwarded clashes to the appointments officer.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "征询裁判可用时间，跟进未回复请求，并将时间冲突转交任命专员。"
+    },
+    {
+      "en": "Updated cancellation notices after the league secretary or venue operator confirmed a cancellation.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "在联赛秘书或场地方确认取消后更新取消通知。"
+    },
+    {
+      "en": "The 2025 spring fixture register contained 42 scheduled matches, of which 6 were postponed and 3 were cancelled without replay.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "2025 年春季赛程登记表包含 42 场计划比赛，其中 6 场延期，3 场取消且未补赛。"
+    },
+    {
+      "en": "The register does not establish that all 42 scheduled matches were played or that every postponed match was later completed.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "该登记表不能确定计划中的全部 42 场比赛均已举行，或每场延期比赛后来均已完成。"
+    },
+    {
+      "en": "Drafted alternative dates for 4 postponed fixtures in 2025-05 after collecting team and venue availability.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-05 收集球队及场地可用时间后，为 4 场延期比赛起草替代日期。"
+    },
+    {
+      "en": "The league secretary chose and approved the replacement dates; the candidate distributed the notices.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "联赛秘书选择并批准替代日期；候选人分发通知。"
+    },
+    {
+      "en": "Uses shared calendars, spreadsheet filters and a checklist for sending notices to all listed team contacts.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用共享日历、电子表格筛选及向全部所列球队联系人发送通知的核对表。"
+    },
+    {
+      "en": "Kept venue bookings separate from match-result submissions in the league register.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在联赛登记表中将场地预订与比赛结果提交分开记录。"
+    },
+    {
+      "en": "Asked team contacts to confirm receipt of revised fixture notices and followed up on unanswered messages.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "请球队联系人确认收到修订赛程通知，并跟进未回复消息。"
+    },
+    {
+      "en": "Prepared a one-page fixture-change guide in 2026-01 showing who approved changes and who received the notice.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2026-01 编写一页赛程变更指南，列明变更批准人及通知接收人。"
+    },
+    {
+      "en": "Attended an internal venue-booking briefing in 2024-02; no coaching or referee qualification was awarded.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2024-02 参加内部场地预订说明会；未获颁教练或裁判资格。"
+    },
+    {
+      "en": "Volunteered on a water-station rota at Fictional Willowloop Fun Run for one event in 2023.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2023 年在虚构柳环趣味跑的单次活动中按排班担任饮水站志愿者。"
+    },
+    {
+      "en": "Built a personal round-robin schedule for 5 fictional tabletop-game players in 2022.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2022 年为 5 名虚构桌游玩家制作个人循环赛赛程。"
+    },
+    {
+      "en": "Enjoys designing fictional team pennants.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好设计虚构球队队旗。"
+    },
+    {
+      "en": "No independently approved full-season allocation or league disciplinary decision is documented.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "未记录独立批准完整赛季安排或联赛纪律决定的经历。"
+    }
+  ]
+}

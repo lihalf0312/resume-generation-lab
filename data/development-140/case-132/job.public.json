@@ -1,0 +1,33 @@
+{
+  "case_id": "case-132",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Photo Lab Scanning Assistant",
+    "zh": "照片冲印室扫描助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Track customer originals and collection records without losing the link to each order.",
+      "id": "R01",
+      "zh": "跟踪客户原件及领取记录，保持与各订单的关联。"
+    },
+    {
+      "en": "Scan using supplied specifications and check file completeness, orientation and names.",
+      "id": "R02",
+      "zh": "按提供的规格扫描，并检查文件完整性、方向及名称。"
+    },
+    {
+      "en": "Maintain clear review queues and handovers for damaged originals and unfinished work.",
+      "id": "R03",
+      "zh": "为损坏原件及未完成工作维护清晰的审核队列及交接。"
+    },
+    {
+      "en": "Preferred: independently calibrate displays and manage production colour profiles.",
+      "id": "R04",
+      "zh": "优先：独立校准显示器，并管理生产色彩配置文件。"
+    }
+  ]
+}

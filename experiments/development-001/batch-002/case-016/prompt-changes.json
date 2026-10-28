@@ -1,7 +1,0 @@
-{
-  "version": 16,
-  "previous_case": "case-015",
-  "previous_evaluation_sha256": "b9f3b160a57a1e0ab1bd31da89fca6524c1d9b861a6a8a0d583c656197246a62",
-  "changes": [],
-  "reason": "Case015 reviewer found no new repair. Keep precise pickup/delivery, practice/live and recording/reconciliation distinctions."
-}

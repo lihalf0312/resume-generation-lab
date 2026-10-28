@@ -1,0 +1,33 @@
+{
+  "case_id": "case-024",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Learning Programme Coordinator",
+    "zh": "学习项目协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate tutors and course schedules.",
+      "id": "R01",
+      "zh": "协调导师与课程安排。"
+    },
+    {
+      "en": "Track learner participation and improve administrative processes.",
+      "id": "R02",
+      "zh": "跟踪学员参与情况并改进行政流程。"
+    },
+    {
+      "en": "Summarize feedback and route support requests.",
+      "id": "R03",
+      "zh": "汇总反馈并转交支持请求。"
+    },
+    {
+      "en": "Own annual grant budgets and financial reporting.",
+      "id": "R04",
+      "zh": "负责年度资助预算和财务报告。"
+    }
+  ]
+}

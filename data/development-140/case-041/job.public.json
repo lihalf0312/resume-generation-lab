@@ -1,0 +1,33 @@
+{
+  "case_id": "case-041",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "UX Research Assistant",
+    "zh": "用户体验研究助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate research appointments and consent records.",
+      "id": "R01",
+      "zh": "协调研究预约及同意记录。"
+    },
+    {
+      "en": "Organize qualitative observations for researcher review.",
+      "id": "R02",
+      "zh": "整理定性观察材料供研究员审阅。"
+    },
+    {
+      "en": "Handle participant identifiers carefully.",
+      "id": "R03",
+      "zh": "谨慎处理参与者身份标识。"
+    },
+    {
+      "en": "Independently design and moderate usability studies.",
+      "id": "R04",
+      "zh": "独立设计并主持可用性研究。"
+    }
+  ]
+}

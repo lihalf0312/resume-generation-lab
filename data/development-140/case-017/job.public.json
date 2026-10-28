@@ -1,0 +1,31 @@
+{
+  "case_id": "case-017",
+  "synthetic": true,
+  "title": {
+    "en": "Production quality assistant",
+    "zh": "生产质量助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Use calipers and record dimensional inspection results.",
+      "id": "R01",
+      "zh": "使用卡尺并记录尺寸检验结果。"
+    },
+    {
+      "en": "Label nonconforming samples for quality review.",
+      "id": "R02",
+      "zh": "标记不合格样品以供质量复核。"
+    },
+    {
+      "en": "Create visual defect references.",
+      "id": "R03",
+      "zh": "制作缺陷视觉参考材料。"
+    },
+    {
+      "en": "Lead supplier quality audits.",
+      "id": "R04",
+      "zh": "主导供应商质量审核。"
+    }
+  ]
+}

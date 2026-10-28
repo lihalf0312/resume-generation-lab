@@ -1,0 +1,125 @@
+{
+  "case_id": "case-130",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-130",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-130",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a production administration diploma at Fictional Oakhollow College in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构橡谷学院完成生产行政文凭课程。"
+    },
+    {
+      "en": "Paid workshop office assistant at Fictional Thimblewood Joinery from 2020-04 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-04 至 2026-08 在虚构顶针木细木工坊任有薪工坊办公室助理。"
+    },
+    {
+      "en": "Updated the job board from the foreman’s approved build sequence and recorded expected collection dates.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据工头批准的制作顺序更新工单板，并记录预计取件日期。"
+    },
+    {
+      "en": "Checked material deliveries against purchase orders and noted short quantities or visible damage.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "按采购订单核对材料到货，并记录数量短缺或可见损坏。"
+    },
+    {
+      "en": "Reserved boards and fittings against job references after the foreman confirmed the material specification.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在工头确认材料规格后，按工单编号预留木板及五金配件。"
+    },
+    {
+      "en": "Prepared supplier follow-up lists for missing fittings and revised arrival estimates.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "为缺失五金配件及修订到货预期准备供应商跟进清单。"
+    },
+    {
+      "en": "Informed customers of revised collection windows using dates approved by the foreman.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "使用工头批准的日期，通知客户修订后的取件窗口。"
+    },
+    {
+      "en": "Created a linked job-and-materials worksheet in 2024-08 with the workshop purchaser.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2024-08 与工坊采购员共同制作关联工单与材料的工作表。"
+    },
+    {
+      "en": "Personally built the job-reference and expected-arrival columns; the purchaser supplied order values.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人建立工单编号及预计到货列；订单金额由采购员提供。"
+    },
+    {
+      "en": "During a 2024-09 check, 27 of 29 sampled open jobs had a linked purchase-order reference in the worksheet.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "2024-09 检查中，29 份抽样未完结工单有 27 份在工作表中关联采购订单编号。"
+    },
+    {
+      "en": "Kept drawing revisions attached to the corresponding job packet and marked superseded copies.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "将图纸修订版附于相应工单资料包，并标记已被替代的副本。"
+    },
+    {
+      "en": "The foreman approved cutting dimensions and workshop methods; the candidate did not operate production cutting machinery.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "工头批准切割尺寸及工坊加工方法；候选人不操作生产切割机械。"
+    },
+    {
+      "en": "Uses shared production calendars, spreadsheet lookups and supplier order portals.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用共享生产日历、电子表格查找及供应商订单门户。"
+    },
+    {
+      "en": "Prepared an end-of-day handover listing delayed materials, customer callbacks and jobs awaiting revised drawings.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "准备每日结束交接清单，列出延误材料、客户回电及等待修订图纸的工单。"
+    },
+    {
+      "en": "Completed an internal drawing-revision orientation in 2021; it did not confer a carpentry trade qualification.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2021 年完成内部图纸版本入门培训；该培训不授予木工行业资格。"
+    },
+    {
+      "en": "Made a personal cardboard model of a bookshelf in 2022, separate from customer fabrication work.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2022 年制作个人书架纸板模型，与客户加工工作分开。"
+    },
+    {
+      "en": "Volunteered to organize donated screws and drawer handles at Fictional Hazelpatch Repair Day in 2023-06.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2023-06 在虚构榛补修理日活动中志愿整理捐赠螺丝及抽屉拉手。"
+    },
+    {
+      "en": "Enjoys drawing small furniture arrangements for imaginary rooms.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好为想象中的房间绘制小型家具布局。"
+    },
+    {
+      "en": "Maintained collection receipts after customers signed for completed items.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "在客户签收已完成物品后维护取件收据。"
+    }
+  ]
+}

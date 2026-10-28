@@ -1,0 +1,38 @@
+{
+  "case_id": "case-139",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Instrument Repair Service Desk Coordinator",
+    "zh": "乐器维修服务柜台协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain traceable intake records that distinguish customer-reported symptoms from technician findings.",
+      "id": "R01",
+      "zh": "维护可追溯受理记录，区分客户报称症状与技师发现。"
+    },
+    {
+      "en": "Prepare approved quotes and record customer acceptance before work is queued.",
+      "id": "R02",
+      "zh": "准备获批报价，并在维修排队前记录客户接受情况。"
+    },
+    {
+      "en": "Coordinate ready-for-collection appointments and retain collection receipts.",
+      "id": "R03",
+      "zh": "协调可取件预约，并保留取件收据。"
+    },
+    {
+      "en": "Track loan-instrument return dates and escalate overdue returns.",
+      "id": "R04",
+      "zh": "跟踪代用乐器归还日期，并上报逾期归还。"
+    },
+    {
+      "en": "Preferred: perform routine violin setup and string replacement for customers.",
+      "id": "R05",
+      "zh": "优先：为客户进行常规小提琴调校及换弦。"
+    }
+  ]
+}

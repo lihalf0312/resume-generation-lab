@@ -1,0 +1,143 @@
+{
+  "case_id": "case-075",
+  "creation_batch": "development-001-extension-008",
+  "identity_id": "synthetic-person-075",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-075",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a research administration diploma at Fictional Alder Prism Institute in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构桤棱学院完成研究行政文凭课程。"
+    },
+    {
+      "en": "Attended an internal records-retention briefing in 2024-02; it did not qualify the candidate as an ethics reviewer.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "参加 2024-02 内部记录保留简报培训；不授予伦理审阅资格。"
+    },
+    {
+      "en": "Office records intern at Fictional Horizon Cabinet, 2022-08 to 2023-01.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-08 至 2023-01 在虚构地平柜机构任办公室记录实习生。"
+    },
+    {
+      "en": "Research team administrator at Fictional Horizon Cabinet, 2023-02 to 2024-10.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-02 至 2024-10 在虚构地平柜机构任研究团队行政专员。"
+    },
+    {
+      "en": "Research administration assistant at Fictional Horizon Cabinet, 2024-11 to 2026-09; the title changed within the same organization.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2024-11 至 2026-09 在虚构地平柜机构任研究行政助理；职称在同一机构内变化。"
+    },
+    {
+      "en": "The internship involved filing office purchase records, not collecting research data.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "实习涉及归档办公室采购记录，并非收集研究数据。"
+    },
+    {
+      "en": "Tracks proposal deadlines, document versions, and investigator-requested meeting dates.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "跟踪提案截止日期、文档版本及研究负责人要求的会议日期。"
+    },
+    {
+      "en": "Assembles submission folders using the principal investigator-approved checklist; investigators retain scientific and approval responsibility.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "使用首席研究负责人批准的核对表整理提交文件夹；科学及审批责任由研究负责人保留。"
+    },
+    {
+      "en": "Maintains administrative records for 4 active study proposals in 2026-09; 7 proposals were tracked during the 2025-03 deadline peak.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "2026-09 为 4 项活跃研究提案维护行政记录；2025-03 截止高峰期间跟踪 7 项提案。"
+    },
+    {
+      "en": "Co-developed a proposal completeness tracker with a senior administrator in 2025-01.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-01 与高级行政专员共同开发提案完整度跟踪表。"
+    },
+    {
+      "en": "Personally added required-file fields and document version links; the senior administrator approved checklist categories.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人添加必需文件字段及文档版本链接；核对表类别由高级行政专员批准。"
+    },
+    {
+      "en": "During the 2025-04 check, 5 of 6 sampled proposal folders included all checklist documents; this did not measure funding success.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "在 2025-04 检查中，抽样 6 个提案文件夹有 5 个包含全部核对表文档；此并不衡量获资助成功率。"
+    },
+    {
+      "en": "Rolled the approved tracker out to the administrative team in 2025-02 after senior administrator review.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "经高级行政专员审核后，于 2025-02 将获批跟踪表推广至行政团队。"
+    },
+    {
+      "en": "Drafted a conference travel checklist in 2026-06; it had not been approved by 2026-09.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2026-06 起草会议差旅核对表；截至 2026-09 尚未获批。"
+    },
+    {
+      "en": "Uses calendar tools, spreadsheet deadlines, and permission-controlled document folders.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "使用日历工具、电子表格截止日期及权限受控文档文件夹。"
+    },
+    {
+      "en": "Routes scientific questions to investigators and retains an administrative decision log.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "将科学问题转交研究负责人，并保留行政决策日志。"
+    },
+    {
+      "en": "In the retention briefing, sorted invented document examples by an approved retention schedule; no real participant records were used.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "在记录保留简报培训中，按批准的保留计划分类虚构文档示例；未使用真实参与者记录。"
+    },
+    {
+      "en": "Volunteered at Fictional Lantern Museum during 2024-12 weekends while remaining employed full-time.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2024-12 周末在虚构灯笼博物馆做志愿者，同时保持全职任职。"
+    },
+    {
+      "en": "Museum duties involved counting display stands, not conducting academic research.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "博物馆职责涉及清点展示架，而非开展学术研究。"
+    },
+    {
+      "en": "Created a personal catalogue of 29 imaginary shell drawings in 2023-06.",
+      "id": "F20",
+      "kind": "project",
+      "zh": "2023-06 为 29 幅假想贝壳画作制作个人目录。"
+    },
+    {
+      "en": "Enjoys sketching shells and playing cooperative board games.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "爱好描绘贝壳及玩合作类桌游。"
+    },
+    {
+      "en": "No grant award, ethics approval authority, principal-investigator role, or scientific authorship is claimed.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "不声称获得科研资助、伦理审批权限、首席研究负责人角色或科学著作署名。"
+    }
+  ]
+}

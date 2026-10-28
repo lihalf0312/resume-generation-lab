@@ -1,0 +1,107 @@
+{
+  "case_id": "case-062",
+  "creation_batch": "development-001-extension-007",
+  "identity_id": "synthetic-person-062",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-062",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an office administration certificate at Fictional Rainpetal Institute in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构雨瓣学院完成办公室行政证书课程。"
+    },
+    {
+      "en": "Enrolled part-time in an education bachelor programme at Fictional Mossbridge College in 2024-09.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2024-09 在虚构苔桥学院非全日制就读教育学士课程。"
+    },
+    {
+      "en": "The planned graduation date is 2027-06, conditional on completing remaining credits; no bachelor degree has been awarded as of 2026-09.",
+      "id": "F03",
+      "kind": "education",
+      "zh": "计划毕业日期为 2027-06，须完成剩余学分；截至 2026-09 尚未授予学士学位。"
+    },
+    {
+      "en": "Office reception assistant at Fictional Learning Lantern, 2022-10 to 2024-12.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2022-10 至 2024-12 在虚构学习灯笼机构任办公室接待助理。"
+    },
+    {
+      "en": "Training administration assistant at Fictional Learning Lantern, 2025-01 to 2026-09.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2025-01 至 2026-09 在虚构学习灯笼机构任培训行政助理。"
+    },
+    {
+      "en": "Schedules facilitator rooms, sends approved joining instructions, and updates attendance sheets.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "安排讲师教室、发送经批准的参训指引并更新出席表。"
+    },
+    {
+      "en": "Supported 8 workshops in 2026-08; the largest single monthly schedule was 13 workshops in 2025-11.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "2026-08 支持 8 场工作坊；最大单月排期为 2025-11 的 13 场工作坊。"
+    },
+    {
+      "en": "Built a training materials dispatch checklist with a programme coordinator in 2025-06.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-06 与项目协调员共同制作培训材料发放核对表。"
+    },
+    {
+      "en": "Personally added dispatch dates and version fields; facilitators approved the teaching materials.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人添加发放日期及版本字段；教学材料由讲师批准。"
+    },
+    {
+      "en": "The 2025-07 internal review found the current handout version in 10 of 12 checked workshop packs; no learning-effectiveness claim was measured.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "2025-07 内部审核发现，检查的 12 份工作坊资料包中有 10 份含当前版本讲义；未测量学习效果。"
+    },
+    {
+      "en": "Uses calendar invitations, spreadsheet validation, and controlled shared folders.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用日历邀请、电子表格校验及受控共享文件夹。"
+    },
+    {
+      "en": "Drafted a learner feedback form in 2026-05; it was not administered by 2026-09.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-05 起草学习者反馈表；截至 2026-09 尚未实施调查。"
+    },
+    {
+      "en": "Made a personal illustrated recipe booklet in 2024-04 outside work and study.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-04 在工作及学习以外制作个人插画食谱册。"
+    },
+    {
+      "en": "Enjoys jogging and paper marbling.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好慢跑及纸张大理石纹制作。"
+    },
+    {
+      "en": "Part-time study occurs outside contracted working hours; the employment dates do not represent a study break.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "非全日制学习安排在合同工作时间之外；任职日期不代表休学。"
+    },
+    {
+      "en": "No independent instructional design, teaching licence, or completed bachelor degree is documented.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录独立教学设计、教师执照或已完成学士学位。"
+    }
+  ]
+}

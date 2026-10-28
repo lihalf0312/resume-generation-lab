@@ -1,0 +1,107 @@
+{
+  "case_id": "case-037",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-037",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-037",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an MA in Information Studies at Fictional Institute D037 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D037 完成信息研究文学硕士学位。"
+    },
+    {
+      "en": "Worked as a digital collections assistant at Fictional Archive D037 from 2020-10 to 2026-07.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-10 至 2026-07 在虚构档案馆 D037 担任数字馆藏助理。"
+    },
+    {
+      "en": "Entered object descriptions and rights-status notes in a collections database; the curator approved public records.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在馆藏数据库录入藏品描述及权利状态备注；馆长审批公开记录。"
+    },
+    {
+      "en": "Used Dublin Core fields and a local controlled vocabulary to describe scanned photographs.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用 Dublin Core 字段及本地受控词表描述扫描照片。"
+    },
+    {
+      "en": "Coordinated naming and checksum checks for a 2025-02 to 2025-05 digitization tranche of 420 image files.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "为 2025-02 至 2025-05 的一批 420 个数字化图像文件协调命名和校验和检查。"
+    },
+    {
+      "en": "The team corrected 31 naming exceptions before ingest among those 420 files; the candidate logged issues while a technician regenerated files.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "团队在该批 420 个文件入库前修正 31 个命名异常；候选人记录问题，技术员重新生成文件。"
+    },
+    {
+      "en": "Wrote a small Python script to compare filenames against an approved manifest; a senior technician reviewed it.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "编写小型 Python 脚本，将文件名与获批清单比较；由高级技术员审查。"
+    },
+    {
+      "en": "Answered researcher requests by checking access restrictions and routing restricted requests to the curator.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "通过检查访问限制处理研究者请求，并将受限请求转交馆长。"
+    },
+    {
+      "en": "Drafted a disaster-recovery checklist in 2026-01; it remained under review and no recovery drill was run.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-01 起草灾难恢复清单；仍在审查中，未开展恢复演练。"
+    },
+    {
+      "en": "Volunteered remotely for Fictional Oral History Group V037 from 2023-06 to 2024-12 for approximately 2 hours weekly alongside archive employment.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "2023-06 至 2024-12 在档案馆任职期间，为虚构口述史团体 V037 每周远程志愿服务约 2 小时。"
+    },
+    {
+      "en": "Proofread 9 oral-history transcripts against supplied recordings, without independently obtaining participant consent.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "根据提供的录音校对 9 份口述史文本，未独立获取参与者同意。"
+    },
+    {
+      "en": "A personal watercolor portfolio contains landscape studies unrelated to collections management.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "个人水彩作品集包含与馆藏管理无关的风景习作。"
+    },
+    {
+      "en": "At the 2025-04 project peak, coordinated work packets for 4 temporary scanners; no direct reports remained after 2025-05.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "在 2025-04 项目高峰期，为 4 名临时扫描人员协调任务包；2025-05 后没有直属下属。"
+    },
+    {
+      "en": "A later biography draft calls the role a team manager; the employment record identifies an assistant without performance-review authority.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "一份后期简介草稿将该职位称为团队经理；任职记录标明其为助理，没有绩效评审权限。"
+    },
+    {
+      "en": "Prepared accessible plain-text summaries of collection guides; did not conduct a formal accessibility audit.",
+      "id": "F15",
+      "kind": "skill",
+      "zh": "为馆藏指南编写易读纯文本摘要；未开展正式无障碍审核。"
+    },
+    {
+      "en": "No archival certification or independently administered preservation repository is recorded.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录档案专业认证或独立管理数字保存库的经历。"
+    }
+  ]
+}

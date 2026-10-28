@@ -1,0 +1,59 @@
+{
+  "case_id": "case-030",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-030",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-030",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a BA in Community Development at Fictional Institute D030 in 2017.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2017 年在虚构院校 D030 获得社区发展文学学士学位。"
+    },
+    {
+      "en": "Worked as a volunteer programme assistant at Fictional Association D030 from 2018-09 to 2026-07.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-09 至 2026-07 在虚构协会 D030 担任志愿者项目助理。"
+    },
+    {
+      "en": "Maintained availability records and assembled weekly rotas for a pool of 35 volunteers.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "维护可用时间记录，并为由 35 名志愿者组成的人员池编制每周轮值表。"
+    },
+    {
+      "en": "Introduced a reminder checklist and backup-contact field after reviewing missed community-session shifts with the programme lead.",
+      "id": "F04",
+      "kind": "project",
+      "zh": "与项目负责人复盘社区活动缺岗情况后，引入提醒清单和备用联系人字段。"
+    },
+    {
+      "en": "Across the next 12 sessions, unfilled shifts totaled 5 compared with 11 across the preceding 12 sessions; the programme team shared responsibility for the change.",
+      "id": "F05",
+      "kind": "outcome",
+      "zh": "随后 12 场活动的空缺班次合计为 5 个，之前 12 场为 11 个；项目团队共同负责该变更。"
+    },
+    {
+      "en": "Prepared monthly participation summaries and removed personal contact details from reports shared outside the team.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "编制每月参与情况摘要，并从对外共享的报告中删除个人联系方式。"
+    },
+    {
+      "en": "Delivered induction briefings using approved materials and referred safeguarding concerns to the designated lead.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "使用获批材料开展入职说明，并将安全保护疑虑转交指定负责人。"
+    },
+    {
+      "en": "Did not write grant applications or hold responsibility for fundraising targets.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未撰写资助申请，也不负责筹款目标。"
+    }
+  ]
+}

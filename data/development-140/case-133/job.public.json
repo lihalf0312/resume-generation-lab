@@ -1,0 +1,38 @@
+{
+  "case_id": "case-133",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Station Lost-Property Assistant",
+    "zh": "车站失物管理助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain numbered item descriptions, storage locations and received times.",
+      "id": "R01",
+      "zh": "维护编号物品描述、存放位置及接收时间。"
+    },
+    {
+      "en": "Protect claimant contact information and distinguish reported claims from verified records.",
+      "id": "R02",
+      "zh": "保护认领人联系信息，并区分报告的认领陈述与已核实记录。"
+    },
+    {
+      "en": "Record supervisor-approved releases and reconcile storage exceptions.",
+      "id": "R03",
+      "zh": "记录主管批准的交还，并核对存放异常。"
+    },
+    {
+      "en": "Prepare timely retention-review lists without making disposal decisions.",
+      "id": "R04",
+      "zh": "及时准备保管复核清单，不作出处置决定。"
+    },
+    {
+      "en": "Preferred: operating experience with a dedicated lost-property database.",
+      "id": "R05",
+      "zh": "优先：专用失物数据库操作经验。"
+    }
+  ]
+}

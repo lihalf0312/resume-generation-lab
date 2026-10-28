@@ -1,7 +1,0 @@
-{
-  "version": 25,
-  "previous_case": "case-024",
-  "previous_evaluation_sha256": "5f8648e2ec827c17dee4905d8cc9f73712d7c5064a078aaa3e429f60ef2a200f",
-  "changes": [],
-  "reason": "Case024 reviewer found no new repair. Preserve outstanding-work status and separate actual purchasing support from fictional invoice practice."
-}

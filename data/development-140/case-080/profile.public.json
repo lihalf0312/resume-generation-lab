@@ -1,0 +1,143 @@
+{
+  "case_id": "case-080",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-080",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-080",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Accounting Administration at Fictional Institute D080 in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构院校 D080 完成会计行政专科学历。"
+    },
+    {
+      "en": "Worked as an invoice filing clerk at Fictional Office Services D080 from 2022-09 to 2024-02.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-09 至 2024-02 在虚构办公服务企业 D080 担任发票归档文员。"
+    },
+    {
+      "en": "Transferred to finance operations records assistant at the same employer from 2024-03 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2024-03 至 2026-08 在同一雇主转任财务运营记录助理。"
+    },
+    {
+      "en": "The earlier role indexed invoices by supplier, reference and receipt date without posting journal entries.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "早期岗位按供应商、编号及收件日期索引发票，不录入日记账分录。"
+    },
+    {
+      "en": "The current role checks expense submission completeness and routes packets to authorized finance reviewers.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "现任岗位检查费用提交完整性，并将资料转交获授权财务审核者。"
+    },
+    {
+      "en": "Compared invoice references against an approved tracker to flag potential duplicates for review.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "依据获批跟踪表比较发票编号，标出潜在重复项供审查。"
+    },
+    {
+      "en": "With a finance reviewer, checked 210 expense packets during 2025-06.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在 2025-06 与财务审核者合作检查 210 份费用资料。"
+    },
+    {
+      "en": "Among those 210 packets, 16 lacked receipt attachments; the team obtained 13 and kept 3 pending rather than approving incomplete submissions.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "该批 210 份资料中，16 份缺少收据附件；团队取得 13 份并保留 3 份待定，而非批准不完整提交。"
+    },
+    {
+      "en": "This is a document-completeness result, not a measured cash saving or reduction in fraud.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "这是文件完整性成果，而非测量所得现金节省或欺诈减少。"
+    },
+    {
+      "en": "Created a 2026-01 submission checklist that the finance supervisor approved and the team used.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在 2026-01 创建提交清单，经财务主管批准并由团队使用。"
+    },
+    {
+      "en": "Drafted an optional color-coded folder system in 2026-05; it remained unimplemented.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-05 起草可选颜色编码文件夹系统；仍未实施。"
+    },
+    {
+      "en": "Used spreadsheet filters, validation lists and controlled status codes to maintain the expense tracker.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用电子表格筛选、验证列表及受控状态编码维护费用跟踪表。"
+    },
+    {
+      "en": "Prepared weekly missing-document summaries for reviewers and excluded personal bank details from these summaries.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "为审核者准备每周缺失文件摘要，并从摘要中排除个人银行详情。"
+    },
+    {
+      "en": "At the 2025-12 peak, maintained 95 open submission records; the regular 2026-08 open list contained 46.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "在 2025-12 高峰期维护 95 条未完成提交记录；2026-08 常规未完成清单有 46 条。"
+    },
+    {
+      "en": "Completed a 2024-11 bookkeeping refresher using fictional transactions; no professional accountant designation was awarded.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2024-11 使用虚构交易完成记账复习课程；未授予专业会计师称号。"
+    },
+    {
+      "en": "Volunteered for Fictional Repair Cafe V080 from 2023-04 to 2023-10 on Saturdays while retaining the paid filing role.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2023-04 至 2023-10 保留有偿归档岗位期间，星期六在虚构维修咖啡社团 V080 志愿服务。"
+    },
+    {
+      "en": "For that cafe, maintained a tool-return checklist rather than handling donations or payments.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "为该社团维护工具归还清单，而非处理捐赠或付款。"
+    },
+    {
+      "en": "Built a personal spreadsheet catalog of fictional travel postcards in 2021, unrelated to financial reporting.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2021 年建立个人虚构旅行明信片电子表格目录，与财务报告无关。"
+    },
+    {
+      "en": "Enjoys making paper marbling patterns and keeps samples privately.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "喜爱制作纸张大理石纹样，并私人保存样品。"
+    },
+    {
+      "en": "Maintained change notes linking corrected tracker fields to reviewer approval references.",
+      "id": "F20",
+      "kind": "skill",
+      "zh": "维护变更备注，将更正后的跟踪字段与审核批准编号关联。"
+    },
+    {
+      "en": "Responded to internal status requests using approved tracker values and escalated disputed payment questions to finance reviewers.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "使用获批跟踪值回答内部状态请求，并将有争议付款问题上报财务审核者。"
+    },
+    {
+      "en": "Payment approval, ledger posting and tax advice were outside the role; the vacancy does not require them.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "付款审批、账簿录入及税务建议不属该岗位职责；本空缺不要求这些工作。"
+    }
+  ]
+}

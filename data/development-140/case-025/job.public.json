@@ -1,0 +1,33 @@
+{
+  "case_id": "case-025",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Accounts Payable Assistant",
+    "zh": "应付账款助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Match invoices with purchase orders and receipt evidence.",
+      "id": "R01",
+      "zh": "将发票与采购订单及收货凭证匹配。"
+    },
+    {
+      "en": "Maintain accurate spreadsheet trackers.",
+      "id": "R02",
+      "zh": "维护准确的电子表格跟踪记录。"
+    },
+    {
+      "en": "Follow up with suppliers on missing documentation.",
+      "id": "R03",
+      "zh": "向供应商跟进缺失文件。"
+    },
+    {
+      "en": "Execute payment runs in a live ERP system.",
+      "id": "R04",
+      "zh": "在真实业务 ERP 系统执行批量付款。"
+    }
+  ]
+}

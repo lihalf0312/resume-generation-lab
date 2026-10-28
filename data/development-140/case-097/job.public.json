@@ -1,0 +1,33 @@
+{
+  "case_id": "case-097",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Policy Operations Assistant",
+    "zh": "政策运营助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate procedure reviews, version records and comment tracking.",
+      "id": "R01",
+      "zh": "协调流程审阅、版本记录及意见跟踪。"
+    },
+    {
+      "en": "Prepare clear drafts and distribute only authorized final documents.",
+      "id": "R02",
+      "zh": "准备清晰草稿并仅分发获授权最终文件。"
+    },
+    {
+      "en": "Route policy interpretation questions to accountable owners.",
+      "id": "R03",
+      "zh": "将政策解释问题转交负责人员。"
+    },
+    {
+      "en": "Independently approve organizational policies and legal interpretations.",
+      "id": "R04",
+      "zh": "独立批准组织政策及法律解释。"
+    }
+  ]
+}

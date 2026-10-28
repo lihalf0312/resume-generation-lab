@@ -1,0 +1,107 @@
+{
+  "case_id": "case-055",
+  "creation_batch": "development-001-extension-006",
+  "identity_id": "synthetic-person-055",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-055",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a warehouse operations certificate at Fictional Birchlamp Academy in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构桦灯学院完成仓储运营证书课程。"
+    },
+    {
+      "en": "Attended a public introductory event-planning workshop in 2026-08; no professional qualification was issued.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "参加 2026-08 公开活动策划入门工作坊；未颁发专业资格。"
+    },
+    {
+      "en": "Warehouse picking assistant at Fictional Quiet Crate, 2020-11 to 2026-07.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2020-11 至 2026-07 在虚构静箱机构任仓库拣货助理。"
+    },
+    {
+      "en": "Checked pick-list quantities and reported missing items to the shift supervisor.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "检查拣货单数量，并向值班主管报告缺失物品。"
+    },
+    {
+      "en": "Used handover sheets to indicate incomplete picks; did not manage staffing or purchasing.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用交接表标明未完成拣货；不管理员工配置或采购。"
+    },
+    {
+      "en": "The assigned zone contained 46 active bins in 2026-07 and 63 at the 2025-11 seasonal peak.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-07 所分配区域有 46 个活跃料箱；2025-11 季节高峰为 63 个。"
+    },
+    {
+      "en": "As an unpaid helper at Fictional Neighborhood Mural Day in 2026-06, prepared materials beside a programme coordinator.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2026-06 在虚构邻里壁画日担任无偿助手，在项目协调员身旁准备物资。"
+    },
+    {
+      "en": "Personally checked 18 supply packs against a coordinator-written list; did not plan the event or supervise participants.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人对照协调员编写的清单检查 18 份物资包；未策划活动或监督参与者。"
+    },
+    {
+      "en": "Drafted a sign-in sheet during the 2026-08 workshop; it was not used in a live community programme.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2026-08 工作坊中起草签到表；未用于真实社区项目。"
+    },
+    {
+      "en": "Uses basic spreadsheet totals, printed lists, and short shift notes.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用基础电子表格求和、打印清单及简短班次笔记。"
+    },
+    {
+      "en": "Created a personal index of 27 fictional postage stamps in 2025-03, unrelated to programme work.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2025-03 为 27 枚虚构邮票制作个人索引，与项目工作无关。"
+    },
+    {
+      "en": "Enjoys cycling and listening to instrumental music.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "爱好骑行及聆听器乐。"
+    },
+    {
+      "en": "A draft profile describes the mural role as programme lead, while the coordinator note lists supply helper; leadership is unconfirmed.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "一份个人简介草稿将壁画活动角色描述为项目负责人，但协调员备注列为物资助手；领导职责未经确认。"
+    },
+    {
+      "en": "A workshop note says safeguarding completed without a provider, date, or certificate; training completion is unconfirmed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "一条工作坊备注称已完成安全保障培训，但无提供方、日期或证书；培训完成情况未经确认。"
+    },
+    {
+      "en": "No participant case management, donor database work, or safeguarding qualification is documented.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "未记录参与者个案管理、捐赠者数据库工作或安全保障资格。"
+    },
+    {
+      "en": "The mural event occurred during a weekend off from warehouse work, not a second paid position.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "壁画活动发生在仓库工作的周末休息日，并非第二份有薪职位。"
+    }
+  ]
+}

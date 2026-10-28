@@ -1,0 +1,38 @@
+{
+  "case_id": "case-112",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Freight Documentation Coordinator",
+    "zh": "货运单证协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Reconcile references, package counts and dates across freight documents.",
+      "id": "R01",
+      "zh": "核对货运文件之间的编号、包装件数及日期。"
+    },
+    {
+      "en": "Distinguish net goods mass from gross packed mass and escalate inconsistent weight fields.",
+      "id": "R02",
+      "zh": "区分货物净质量与包装后毛质量，并上报不一致的重量字段。"
+    },
+    {
+      "en": "Maintain revision-controlled document packets for a separate filing agent.",
+      "id": "R03",
+      "zh": "为单独负责申报的代理维护受版本控制的单证包。"
+    },
+    {
+      "en": "Coordinate missing-document requests with warehouse and broker contacts.",
+      "id": "R04",
+      "zh": "与仓库及代理联系人协调补件请求。"
+    },
+    {
+      "en": "Preferred, not required: authorization to sign dangerous-goods declarations independently.",
+      "id": "R05",
+      "zh": "优先但非必需：可独立签署危险品申报文件的授权。"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "case_id": "case-095",
+  "creation_batch": "development-001-extension-010",
+  "identity_id": "synthetic-person-095",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-095",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a communications diploma at Fictional Clover College in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构三叶草学院完成传播文凭课程。"
+    },
+    {
+      "en": "Workshop support assistant at Fictional Mosaic Lessons from 2022-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-03 至 2026-08 在虚构马赛克课程机构任工作坊支持助理。"
+    },
+    {
+      "en": "Prepared workshop materials and sent attendance reminders using approved text.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "准备工作坊材料并使用获批文字发送出席提醒。"
+    },
+    {
+      "en": "Answered schedule questions and referred technical teaching questions to instructors.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "回答排期问题并将技术教学问题转交讲师。"
+    },
+    {
+      "en": "Supported a 2025-06 workshop attended by 40 people.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "支持一场于 2025-06 举办、40 人出席的工作坊。"
+    },
+    {
+      "en": "Only 5 of the 40 attendees returned a voluntary feedback form; those 5 respondents had an average score of 4.8 out of 5.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "40 名出席者仅有 5 名自愿交回反馈表；这 5 人平均评分为 4.8 分，满分 5 分。"
+    },
+    {
+      "en": "The score describes those 5 respondents only and is not an overall customer rating or evidence of representativeness.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "该分数仅描述这 5 名答卷者，不是整体客户评分，也不证明代表性。"
+    },
+    {
+      "en": "Personally entered the responses; an instructor reviewed the summary and owned the teaching content.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人录入答复；讲师审核摘要并负责教学内容。"
+    },
+    {
+      "en": "Separated response counts from attendance counts in reports.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "在报表中区分答卷数量与出席数量。"
+    },
+    {
+      "en": "Uses spreadsheet averages, response logs and presentation templates.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用电子表格平均值、答复日志及演示模板。"
+    },
+    {
+      "en": "Co-designed a materials checklist with an instructor in 2025-09.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2025-09 与讲师共同设计材料核对表。"
+    },
+    {
+      "en": "For 6 sessions during 2025-10, 5 material packs were ready by the agreed deadline; no prior comparable measure was available.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "2025-10 的 6 场活动中，5 份材料包在约定期限前就绪；无此前可比指标。"
+    },
+    {
+      "en": "Drafted an automated feedback reminder in 2026-02; it was not sent or deployed.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2026-02 起草自动反馈提醒；未发送或部署。"
+    },
+    {
+      "en": "A 2021 class presentation used fictional survey data; it was not customer research employment.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2021 年课堂演示使用虚构调查数据；并非客户研究工作。"
+    },
+    {
+      "en": "Volunteered at Fictional Garden Table from 2023-05 to 2023-08 alongside employment.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-05 至 2023-08 工作同期在虚构花园桌做志愿者。"
+    },
+    {
+      "en": "Arranged seed-exchange table labels, unrelated to the workshop feedback sample.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "安排种子交换桌标签，与工作坊反馈样本无关。"
+    },
+    {
+      "en": "Enjoys photographing handmade miniature rooms.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好拍摄手工微型房间。"
+    },
+    {
+      "en": "Maintained a dated issue list and followed up with the relevant instructor.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "维护带日期的问题清单并向相关讲师跟进。"
+    },
+    {
+      "en": "A draft CV calls 4.8 out of 5 the overall customer rating; the response log does not support that description.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "简历草稿将满分 5 分中的 4.8 分称为整体客户评分；答复日志不支持该描述。"
+    },
+    {
+      "en": "No statistical sampling design or independent instructional authority is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录统计抽样设计或独立教学权限。"
+    }
+  ]
+}

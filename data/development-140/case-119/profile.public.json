@@ -1,0 +1,119 @@
+{
+  "case_id": "case-119",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-119",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-119",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a retail operations certificate at Fictional Copperkite College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构铜鸢学院完成零售运营证书课程。"
+    },
+    {
+      "en": "Paid parts desk assistant at Fictional Mintwheel Bicycle Workshop from 2023-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-03 至 2026-08 在虚构薄荷轮自行车工坊任有薪零件柜台助理。"
+    },
+    {
+      "en": "Matched mechanic-approved part numbers to supplier catalogue entries and current shelf stock.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "将技师批准的零件编号与供应商目录条目及当前货架库存匹配。"
+    },
+    {
+      "en": "Recorded customer collection names and order references on labeled parts bags.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在有标签的零件袋上记录客户取件姓名及订单编号。"
+    },
+    {
+      "en": "Checked incoming quantities against supplier delivery notes and recorded shortages.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "按供应商送货单核对到货数量，并记录短缺。"
+    },
+    {
+      "en": "Held nonmatching parts in a marked returns tray until the workshop manager confirmed the next action.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将不匹配零件放入有标记的退货托盘，直至工坊经理确认后续处理。"
+    },
+    {
+      "en": "Maintained an order-status sheet with ordered, received, reserved and collected stages.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "维护订单状态表，包含已订购、已收到、已预留及已取走阶段。"
+    },
+    {
+      "en": "Notified customers when reserved parts were ready and recorded collection confirmations.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在预留零件可取时通知客户，并记录取件确认。"
+    },
+    {
+      "en": "Uses barcode scanning, spreadsheet lookups and the workshop’s supplier catalogue search.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "使用条码扫描、电子表格查找及工坊供应商目录搜索。"
+    },
+    {
+      "en": "Introduced a shelf-location column to the parts sheet in 2024-11 with the workshop manager’s approval.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2024-11 经工坊经理批准，在零件表中加入货架位置列。"
+    },
+    {
+      "en": "Personally labeled 48 storage bins and cross-checked their codes against the parts sheet.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人标记 48 个储物格，并将其代码与零件表交叉核对。"
+    },
+    {
+      "en": "In a 2025-01 spot check, 29 of 30 sampled reserved orders had both an order-reference label and a recorded shelf location.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "2025-01 抽查中，30 份抽样预留订单有 29 份同时具备订单编号标签及已记录货架位置。"
+    },
+    {
+      "en": "Prepared a daily handover list of uncollected reservations, shortages and pending supplier replies.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "每日准备交接清单，列出未取预留件、短缺及待回复供应商事项。"
+    },
+    {
+      "en": "Completed an internal parts-catalogue induction in 2023-03.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2023-03 完成内部零件目录入职培训。"
+    },
+    {
+      "en": "Mechanics selected compatibility-critical replacements and carried out repairs; the candidate handled the parts desk.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "技师选择对兼容性有关键要求的替换件并进行维修；候选人负责零件柜台。"
+    },
+    {
+      "en": "Volunteered to sort second-hand cycle bells at Fictional Riverbutton Reuse Day in 2021.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2021 年在虚构河纽再利用日活动中志愿整理二手自行车铃。"
+    },
+    {
+      "en": "Made a personal inventory of model-railway components in 2022, separate from workshop records.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2022 年制作个人模型铁路组件清单，与工坊记录分开。"
+    },
+    {
+      "en": "Enjoys assembling small wooden model bridges.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好组装小型木制桥梁模型。"
+    }
+  ]
+}

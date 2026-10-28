@@ -1,0 +1,59 @@
+{
+  "case_id": "case-020",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-020",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-020",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Community Studies at Fictional College B20 in 2026.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2026 年获虚构学院 B20 社区研究文学学士学位。"
+    },
+    {
+      "en": "Part-time reception assistant at Fictional Arts Workshop B20, 2025-06 to 2026-04.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2025-06 至 2026-04，任虚构艺术工作坊 B20 兼职接待助理。"
+    },
+    {
+      "en": "Maintained workshop attendance lists and passed registration questions to the coordinator.",
+      "id": "F03",
+      "kind": "skill",
+      "zh": "维护工作坊出席名单，并将报名问题转交协调员。"
+    },
+    {
+      "en": "Checked registration entries for 8 workshops in 2026-02; no fundraising or programme outcome is attributed.",
+      "id": "F04",
+      "kind": "outcome",
+      "zh": "2026-02，检查 8 场工作坊的报名记录；不归因任何筹款或项目成效。"
+    },
+    {
+      "en": "For a 2026-03 course assignment, drafted an orientation pack for an imaginary volunteer garden project.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "为 2026-03 的课程作业，起草假想志愿者花园项目的入门资料包。"
+    },
+    {
+      "en": "The pack contained 4 role descriptions and a draft sign-in sheet; no volunteers were recruited.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "该资料包含 4 份职责说明及签到表草稿；未招募志愿者。"
+    },
+    {
+      "en": "Used document templates and spreadsheet sorting for class and reception tasks.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "在课程及接待任务中使用文档模板与电子表格排序。"
+    },
+    {
+      "en": "No volunteer safeguarding training, donor database work, or independent programme delivery is recorded.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未记录志愿者安全保障培训、捐赠者数据库工作或独立项目交付经历。"
+    }
+  ]
+}

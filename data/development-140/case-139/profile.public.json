@@ -1,0 +1,131 @@
+{
+  "case_id": "case-139",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-139",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-139",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a customer-service diploma at Fictional Songcopper College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构歌铜学院完成客户服务文凭课程。"
+    },
+    {
+      "en": "Paid service-desk assistant at Fictional Wrenstring Instrument Workshop from 2022-05 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-05 至 2026-08 在虚构鹪弦乐器工坊任有薪服务柜台助理。"
+    },
+    {
+      "en": "Recorded instrument serial numbers, cases and customer-described symptoms on intake tickets.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在受理票据上记录乐器序列号、乐器盒及客户描述的症状。"
+    },
+    {
+      "en": "Kept customer descriptions labeled as reported concerns; technicians supplied the diagnosis and proposed work.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "将客户描述标为报称问题；诊断及拟议维修工作由技师提供。"
+    },
+    {
+      "en": "Photographed visible marks at intake with customer permission and linked the photos to the ticket.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "经客户同意，在受理时拍摄可见痕迹，并将照片与票据关联。"
+    },
+    {
+      "en": "Prepared quote emails from technician-approved work descriptions and the manager’s price list.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据技师批准的维修描述及经理价目表准备报价邮件。"
+    },
+    {
+      "en": "Logged customer acceptance before moving a ticket to the approved-work queue.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "记录客户接受报价后，才将票据移至已获准维修队列。"
+    },
+    {
+      "en": "Booked collection windows after technicians marked the instrument ready and retained signed collection receipts.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在技师将乐器标记为可取后安排取件窗口，并保留签署的取件收据。"
+    },
+    {
+      "en": "Revised the intake-photo checklist with the workshop manager in 2025-01.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-01 与工坊经理共同修订受理拍照核对表。"
+    },
+    {
+      "en": "Personally added case-condition and serial-label photo fields; technicians defined the instrument-condition prompts.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人添加乐器盒状况及序列号标签照片字段；乐器状况提示由技师定义。"
+    },
+    {
+      "en": "A 2025-02 review found linked intake photos in 19 of 22 sampled tickets; it did not assess repair quality.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "2025-02 审核发现，22 份抽样票据有 19 份关联受理照片；该审核未评估维修质量。"
+    },
+    {
+      "en": "Uses a repair-ticket system, shared booking calendar and approved quote templates.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用维修工单系统、共享预订日历及获批报价模板。"
+    },
+    {
+      "en": "Kept a list of loan-instrument return dates and asked the manager to resolve overdue returns.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "维护代用乐器归还日期清单，并请经理处理逾期归还。"
+    },
+    {
+      "en": "Completed an internal instrument-handling orientation in 2022-05; the training concerned intake and storage rather than repair technique.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2022-05 完成内部乐器搬运入门培训；培训涉及受理及存放，而非维修技术。"
+    },
+    {
+      "en": "Plays amateur violin in Fictional Junebell Ensemble, rehearsing one evening per week since 2021-09.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "自 2021-09 起在虚构六月铃乐团业余拉小提琴，每周排练一个晚间。"
+    },
+    {
+      "en": "Tunes the candidate’s own violin and changes its strings; no paid instrument setup or repair work is recorded.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "为候选人本人的小提琴调音及换弦；未记录有偿乐器调校或维修工作。"
+    },
+    {
+      "en": "Voluntarily organized the ensemble’s instrument-case storage chart in 2024-03.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024-03 志愿整理该乐团的乐器盒存放图表。"
+    },
+    {
+      "en": "Helped staff a second-hand music-book table at Fictional Copperchime Fair in 2023-11, handling book labels rather than instrument appraisals.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2023-11 在虚构铜铃集市协助照看二手乐谱书摊，处理书籍标签，而非乐器估价。"
+    },
+    {
+      "en": "Created a personal illustrated practice journal in 2025 without publishing teaching materials.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2025 年制作个人图解练习日记，未出版教学材料。"
+    },
+    {
+      "en": "Enjoys making miniature paper theatre sets.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好制作微型纸质剧场布景。"
+    }
+  ]
+}

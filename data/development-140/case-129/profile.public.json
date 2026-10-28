@@ -1,0 +1,131 @@
+{
+  "case_id": "case-129",
+  "creation_batch": "development-001-extension-013",
+  "identity_id": "synthetic-person-129",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-129",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a nursery retail certificate at Fictional Ferncopper Institute in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构蕨铜学院完成苗圃零售证书课程。"
+    },
+    {
+      "en": "Paid greenhouse stock assistant at Fictional Sunmoth Nursery from 2022-03 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-03 至 2026-08 在虚构日蛾苗圃任有薪温室库存助理。"
+    },
+    {
+      "en": "Labeled trays with crop batch references, moved approved stock between the propagation and sales areas and logged those moves.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "为育苗盘标注作物批次编号，在繁育区与销售区之间搬运获批库存，并记录这些搬运。"
+    },
+    {
+      "en": "Counted visible live seedlings in assigned trays and recorded empty or damaged cells separately.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "清点指定育苗盘中可见的活苗，并单独记录空穴或受损穴位。"
+    },
+    {
+      "en": "Prepared plant orders from the grower’s pick list and checked labels before dispatch.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据栽培负责人的拣货单准备植物订单，并在发运前核对标签。"
+    },
+    {
+      "en": "Watered assigned benches according to the grower’s written schedule and logged completed rounds.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "按栽培负责人书面计划为指定苗床浇水，并记录已完成的巡回浇灌。"
+    },
+    {
+      "en": "Flagged discoloured leaves and unusual pest signs to the grower, who decided isolation and treatment actions.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "将叶片变色及异常虫害迹象报告给栽培负责人，由其决定隔离及处理措施。"
+    },
+    {
+      "en": "Helped reconcile a seedling batch count in 2025-04.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-04 协助核对一批幼苗数量。"
+    },
+    {
+      "en": "That check covered 10 trays with 40 cells each and counted 372 visible live seedlings on the inspection date.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "该检查涵盖 10 个育苗盘，每盘 40 个穴位，并在检查当天清点到 372 株可见活苗。"
+    },
+    {
+      "en": "The source does not record the original seeds sown, their sowing dates or prior removals for that batch.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "来源未记录该批次最初播种的种子数量、播种日期或此前移走的植株。"
+    },
+    {
+      "en": "Personally recorded the tray-level counts; the grower decided which plants were ready for sale.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人记录各育苗盘数量；哪些植株可供销售由栽培负责人决定。"
+    },
+    {
+      "en": "Uses batch-label templates, handheld stock scanners and spreadsheet totals.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用批次标签模板、手持库存扫描器及电子表格汇总。"
+    },
+    {
+      "en": "Maintained a damaged-pot log and asked the stock lead to approve replacements.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "维护花盆损坏日志，并请库存负责人批准更换。"
+    },
+    {
+      "en": "Completed the nursery’s internal watering and stock-movement induction in 2022-03.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2022-03 完成苗圃内部浇水及库存搬运入职培训。"
+    },
+    {
+      "en": "Built a personal windowsill herb diary in 2023 with photographs and self-recorded watering dates.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2023 年制作个人窗台香草日记，含照片及自行记录的浇水日期。"
+    },
+    {
+      "en": "Volunteered at Fictional Willowseed Community Garden on alternate Sundays during 2024-05 to 2024-09.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2024-05 至 2024-09 隔周星期日在虚构柳籽社区花园做志愿者。"
+    },
+    {
+      "en": "At the community garden, helped label donated pots and prepared visitor planting tables under the garden lead’s instructions.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在社区花园按花园负责人说明，协助标记捐赠花盆并准备访客种植台。"
+    },
+    {
+      "en": "Suggested a colour-coded empty-pot area at the nursery in 2025-11; the stock lead approved a small trial on one bench.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2025-11 在苗圃建议设置颜色编码空花盆区域；库存负责人批准在一个苗床上小规模试行。"
+    },
+    {
+      "en": "Enjoys printing leaf-shaped patterns on scrap paper.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好在废纸上印制叶形图案。"
+    },
+    {
+      "en": "No pesticide application, independent plant-disease diagnosis or crop-breeding work is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录施用农药、独立诊断植物病害或作物育种工作。"
+    }
+  ]
+}

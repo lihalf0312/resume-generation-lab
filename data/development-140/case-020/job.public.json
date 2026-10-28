@@ -1,0 +1,31 @@
+{
+  "case_id": "case-020",
+  "synthetic": true,
+  "title": {
+    "en": "Volunteer programme assistant",
+    "zh": "志愿者项目助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain participant attendance records.",
+      "id": "R01",
+      "zh": "维护参与者出席记录。"
+    },
+    {
+      "en": "Prepare volunteer orientation materials.",
+      "id": "R02",
+      "zh": "准备志愿者入门资料。"
+    },
+    {
+      "en": "Complete volunteer safeguarding training before placement.",
+      "id": "R03",
+      "zh": "在上岗前完成志愿者安全保障培训。"
+    },
+    {
+      "en": "Maintain donor records in a fundraising CRM.",
+      "id": "R04",
+      "zh": "在筹款 CRM 中维护捐赠者记录。"
+    }
+  ]
+}

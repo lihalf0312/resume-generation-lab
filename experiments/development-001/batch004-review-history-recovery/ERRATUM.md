@@ -1,3 +1,0 @@
-# Review-version provenance erratum
-
-Nine reconstructed historical evaluation snapshots exactly match the predecessor SHA256 values captured by cases032–040. These are reconstructed now, not contemporaneously archived originals. Only the appended skill_snapshot_sha256 and frozen_input_hash_verification keys were removed using the original serializer; semantic judgments are unchanged. The finalized evaluations and all149 previously frozen batch004 files remain unchanged. The final evaluation version is distinct from the earlier feedback-time version. See recovery-ledger.json for both hashes and reconstruction timestamp.

@@ -1,0 +1,131 @@
+{
+  "case_id": "case-099",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-099",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-099",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Communications Administration at Fictional Institute D099 in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构院校 D099 完成传播行政专科学历。"
+    },
+    {
+      "en": "Worked as a help-content assistant at Fictional Support Publisher D099 from 2023-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-08 在虚构支持出版商 D099 担任帮助内容助理。"
+    },
+    {
+      "en": "Maintained help-article review dates and routed service-rule questions to designated editors.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "维护帮助文章审阅日期，并将服务规则问题转交指定编辑。"
+    },
+    {
+      "en": "Checked article titles, links and change references before editor-authorized publication.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "在编辑授权发布前检查文章标题、链接及变更引用。"
+    },
+    {
+      "en": "With an editor, reviewed a defined set of 60 help articles during 2025-03.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-03 与编辑合作复查一组明确的 60 篇帮助文章。"
+    },
+    {
+      "en": "The verified final review log records approved text updates to 18 of those 60 articles; the candidate entered edits and the editor approved content.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "经核实的最终审阅记录显示，该批 60 篇文章中有 18 篇获批文本更新；候选人录入编辑，编辑批准内容。"
+    },
+    {
+      "en": "An early worksheet listed 24 updates, including 6 duplicate article rows; the editor corrected the count to 18 on 2025-04-07.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "早期工作表列 24 项更新，包含 6 条重复文章行；编辑在 2025-04-07 将计数更正为 18。"
+    },
+    {
+      "en": "The 24-update claim is explicitly retired and must not replace the confirmed 18-article result.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "24 项更新说法已明确撤回，不得替代已确认的 18 篇文章成果。"
+    },
+    {
+      "en": "Prepared a 2026-01 review-status guide that the editor approved and the team adopted.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-01 准备审阅状态指南，由编辑批准并由团队采纳。"
+    },
+    {
+      "en": "Drafted a 2026-05 conversational-help concept; it was not built, released or tested with users.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-05 起草对话式帮助构想；未构建、发布或进行用户测试。"
+    },
+    {
+      "en": "At the 2025-10 peak, tracked 9 article-review batches; the normal 2026-08 allocation was 4.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2025-10 高峰期跟踪 9 批文章审阅；2026-08 常规分工为 4 批。"
+    },
+    {
+      "en": "Completed a 2024-09 writing course using fictional service scenarios, not professional legal or technical certification.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2024-09 使用虚构服务情景完成写作课程，并非专业法律或技术认证。"
+    },
+    {
+      "en": "Volunteered at Fictional Film Notes Circle V099 from 2024-02 to 2024-08 on evenings while employed.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "2024-02 至 2024-08 任职期间，晚间在虚构影评社团 V099 志愿服务。"
+    },
+    {
+      "en": "For the circle, proofread screening descriptions provided by organizers; it was separate from paid help-content work.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "为该社团校对组织者提供的放映说明；与有偿帮助内容工作分开。"
+    },
+    {
+      "en": "Made a personal booklet of imaginary island names in 2021 unrelated to service documentation.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2021 年制作个人虚构岛屿名小册子，与服务文档无关。"
+    },
+    {
+      "en": "Enjoys sketching tabletop still-life scenes.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "喜爱描绘桌面静物场景。"
+    },
+    {
+      "en": "Maintained a source-and-correction log preserving both superseded values and approved replacement values.",
+      "id": "F17",
+      "kind": "skill",
+      "zh": "维护来源及更正记录，保留被取代值及获批替代值。"
+    },
+    {
+      "en": "Prepared change summaries that identified approved corrections without presenting retired drafts as current facts.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "准备变更摘要，标明获批更正，不将撤回草稿呈现为当前事实。"
+    },
+    {
+      "en": "A separate old biography mentions a service-writing award, but no award record or retirement notice clarifies that claim.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "另一份旧简介提到服务写作奖项，但没有奖项记录或撤回通知澄清该说法。"
+    },
+    {
+      "en": "No independent service-policy ownership or measured reduction in support-ticket volume is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录独立服务政策负责经历或经测量的支持工单量减少。"
+    }
+  ]
+}

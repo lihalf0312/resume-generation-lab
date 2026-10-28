@@ -1,0 +1,137 @@
+{
+  "case_id": "case-057",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-057",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-057",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Digital Publishing at Fictional Institute D057 in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构院校 D057 完成数字出版专科学历。"
+    },
+    {
+      "en": "Worked as a catalogue content assistant at Fictional Online Shop D057 from 2021-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-01 至 2026-08 在虚构网店 D057 担任商品目录内容助理。"
+    },
+    {
+      "en": "Prepared product-description uploads from supplier sheets and routed technical claims to category specialists.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "根据供应商表格准备商品描述上传内容，并将技术说法转交品类专家。"
+    },
+    {
+      "en": "Checked SKU identifiers, image filenames and required attributes in spreadsheets before staged uploads.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "在分批上传前，通过电子表格检查 SKU 标识、图像文件名及必填属性。"
+    },
+    {
+      "en": "With a merchandising colleague, created a pre-publication checklist for a 2025-06 assortment refresh.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "与商品策划同事合作，为 2025-06 商品更新创建发布前检查清单。"
+    },
+    {
+      "en": "In 180 reviewed listings from that refresh, missing size fields fell from 26 in initial drafts to 5 before publication; specialists and the content team jointly corrected them.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "在该次更新审查的 180 条商品信息中，缺失尺寸字段从初稿的 26 项降至发布前的 5 项；专家与内容团队共同修正。"
+    },
+    {
+      "en": "Scheduled approved catalogue updates and kept a change log; the category manager authorized publication.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "安排获批商品目录更新并保留变更记录；品类经理授权发布。"
+    },
+    {
+      "en": "Executed a 2026-02 image-alt-text cleanup for 75 approved product images under editorial guidance.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "在编辑指导下，于 2026-02 为 75 张获批商品图片完成替代文本清理。"
+    },
+    {
+      "en": "Used a content-management staging area and checked previews; did not modify checkout code.",
+      "id": "F09",
+      "kind": "skill",
+      "zh": "使用内容管理预发布区并检查预览；未修改结账代码。"
+    },
+    {
+      "en": "Drafted a multilingual taxonomy proposal in 2026-04; only English sample labels were reviewed and no new taxonomy was deployed.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-04 起草多语言分类法提案；仅审查英文示例标签，未部署新分类法。"
+    },
+    {
+      "en": "At the 2025-11 seasonal peak, coordinated 8 upload batches weekly; the normal 2026-08 load was 3.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在 2025-11 季节性高峰期，每周协调 8 批上传；2026-08 常规负荷为 3 批。"
+    },
+    {
+      "en": "Built a 2020 student zine about fictional street markets using layout software; it was not a commercial campaign.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2020 年使用排版软件制作关于虚构街头市场的学生小杂志；并非商业营销活动。"
+    },
+    {
+      "en": "Helped organize an internal 2024-09 desk-photography challenge unrelated to product photography standards.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "在 2024-09 协助组织内部桌面摄影挑战，与商品摄影标准无关。"
+    },
+    {
+      "en": "Volunteered for Fictional Book Swap V057 from 2023-05 to 2023-12 on alternate Saturdays while employed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-05 至 2023-12 任职期间，隔周星期六在虚构图书交换团体 V057 志愿服务。"
+    },
+    {
+      "en": "Maintained a simple book-title index for that group without collecting online payments.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "为该团体维护简单书名索引，未收取在线付款。"
+    },
+    {
+      "en": "Keeps a personal embroidery-pattern archive and enjoys paper model making.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "保留个人刺绣图案档案，并喜爱纸模型制作。"
+    },
+    {
+      "en": "Compared supplier specifications against approved terminology and flagged inconsistent units rather than guessing corrections.",
+      "id": "F17",
+      "kind": "skill",
+      "zh": "将供应商规格与获批术语比较，标出单位不一致之处，而非猜测更正。"
+    },
+    {
+      "en": "Prepared handover notes for the next content shift, listing held items and review owners.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "为下一内容班次准备交接记录，列明暂缓项目及审核负责人。"
+    },
+    {
+      "en": "A promotional draft credits a 15% sales increase to the cleanup, but pricing and promotion changed concurrently and no attribution analysis is available.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "一份宣传草稿将 15% 销售增长归于清理工作，但定价及促销同时改变，没有归因分析。"
+    },
+    {
+      "en": "An old portfolio labels a catalogue redesign as launched, while the project tracker marks it as a rejected prototype.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "旧作品集将商品目录改版标为已上线，而项目跟踪表将其标为被否决的原型。"
+    },
+    {
+      "en": "No paid-search budget ownership, checkout engineering or independent legal approval of product claims is recorded.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录付费搜索预算负责、结账工程或商品声明独立法律审批经历。"
+    }
+  ]
+}

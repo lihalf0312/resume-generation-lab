@@ -1,0 +1,33 @@
+{
+  "case_id": "case-056",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Programme Reporting Officer",
+    "zh": "项目报告专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Validate programme returns and preserve correction trails.",
+      "id": "R01",
+      "zh": "验证项目报表并保留更正记录。"
+    },
+    {
+      "en": "Write concise reports that distinguish activities from outcomes.",
+      "id": "R02",
+      "zh": "撰写简明报告，区分活动与成果。"
+    },
+    {
+      "en": "Coordinate reporting deadlines and explain indicator definitions.",
+      "id": "R03",
+      "zh": "协调报告截止日期并解释指标定义。"
+    },
+    {
+      "en": "Design and lead causal impact evaluations independently.",
+      "id": "R04",
+      "zh": "独立设计并主导因果影响评估。"
+    }
+  ]
+}

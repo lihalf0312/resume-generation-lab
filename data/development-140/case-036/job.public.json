@@ -1,0 +1,33 @@
+{
+  "case_id": "case-036",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Renewable Energy Procurement Analyst",
+    "zh": "可再生能源采购分析师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Compare supplier quotations and document cost assumptions.",
+      "id": "R01",
+      "zh": "比较供应商报价并记录成本假设。"
+    },
+    {
+      "en": "Interpret solar-component procurement documentation.",
+      "id": "R02",
+      "zh": "解读太阳能组件采购文件。"
+    },
+    {
+      "en": "Coordinate supplier records with purchasing stakeholders.",
+      "id": "R03",
+      "zh": "与采购相关方协调供应商记录。"
+    },
+    {
+      "en": "Independently negotiate renewable-energy supply contracts.",
+      "id": "R04",
+      "zh": "独立谈判可再生能源供应合同。"
+    }
+  ]
+}

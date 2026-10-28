@@ -1,0 +1,59 @@
+{
+  "case_id": "case-023",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-023",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-023",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Office Administration at Fictional Institute D023 in 2025.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2025 年在虚构院校 D023 完成办公行政专科学历。"
+    },
+    {
+      "en": "Held a supervised reception placement at Fictional Clinic D023 from 2025-09 to 2026-03.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2025-09 至 2026-03 在虚构诊所 D023 参加受监督的前台实习。"
+    },
+    {
+      "en": "Booked follow-up appointments using the clinic scheduling system under a supervisor’s access rules.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依照主管规定的访问规则，使用诊所预约系统安排复诊。"
+    },
+    {
+      "en": "Checked two approved identifiers before updating appointment details and referred clinical questions to clinical staff.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "更新预约详情前核对两项获批身份标识，并将临床问题转交临床人员。"
+    },
+    {
+      "en": "Drafted a one-page checklist for rescheduling calls; the reception supervisor reviewed it before use.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "起草一页改约电话清单，经前台主管审阅后使用。"
+    },
+    {
+      "en": "Handled reminder calls during 2 supervised morning shifts each week; no call-volume outcome was recorded.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "每周在 2 个受监督的上午班次拨打提醒电话；未记录通话量成果。"
+    },
+    {
+      "en": "Used word processing and basic spreadsheet filters during the placement.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "实习期间使用文字处理软件和基础电子表格筛选功能。"
+    },
+    {
+      "en": "Training and experience were administrative only; no clinical qualification or insurance-claims experience is claimed.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "培训与经验仅限行政事务；不声称具备临床资格或保险理赔经验。"
+    }
+  ]
+}

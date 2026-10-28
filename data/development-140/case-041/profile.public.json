@@ -1,0 +1,119 @@
+{
+  "case_id": "case-041",
+  "creation_batch": "development-001-extension-005",
+  "identity_id": "synthetic-person-041",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-041",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BA in Social Inquiry at Fictional Willowglass College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年获虚构柳璃学院社会研究文学学士学位。"
+    },
+    {
+      "en": "Attended a 2024-02 introductory usability workshop; no professional certification was awarded.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "参加 2024-02 的可用性入门工作坊；未获专业认证。"
+    },
+    {
+      "en": "Service desk assistant at Fictional Lantern Desk, 2022-08 to 2024-03.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-08 至 2024-03 在虚构灯笼服务台任服务台助理。"
+    },
+    {
+      "en": "Research operations assistant at Fictional Lantern Desk, 2024-04 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2024-04 至 2026-09 在虚构灯笼服务台任研究运营助理。"
+    },
+    {
+      "en": "Booked remote sessions and tracked participant consent forms using a researcher-approved checklist.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用研究员批准的核对表预约远程访谈并跟踪参与者同意书。"
+    },
+    {
+      "en": "Coordinated 18 sessions at the 2025-11 peak; the active 2026-09 study had 7 scheduled sessions.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2025-11 高峰期协调 18 场访谈；2026-09 的在研项目已安排 7 场访谈。"
+    },
+    {
+      "en": "Supported a booking-page usability study during 2025-05 to 2025-06; the senior researcher set the questions and recruited the sample.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-05 至 2025-06 支持预订页面可用性研究；高级研究员制定问题并招募样本。"
+    },
+    {
+      "en": "Personally took notes in 8 sessions and grouped observation excerpts in a shared affinity board.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人在 8 场访谈中记录笔记，并在共享亲和图中归类观察摘录。"
+    },
+    {
+      "en": "The team recorded successful task completion in 6 of 8 sessions; the sample was exploratory and not representative of all users.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队记录 8 场访谈中有 6 场成功完成任务；样本仅用于探索，不能代表全部用户。"
+    },
+    {
+      "en": "Drafted a revised reminder email in 2026-01; it had not been tested or sent by 2026-03.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-01 起草修订后的提醒邮件；截至 2026-03 尚未测试或发送。"
+    },
+    {
+      "en": "Uses spreadsheet filters, video-call scheduling, and shared whiteboards.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用电子表格筛选、视频会议排期和共享白板。"
+    },
+    {
+      "en": "Redacts contact details from exported research notes under the team checklist.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "按照团队核对表隐去导出研究笔记中的联系信息。"
+    },
+    {
+      "en": "In 2024-09, created a personal map of 15 fictional walking routes, unrelated to the employer study.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-09 制作包含 15 条虚构步行路线的个人地图，与雇主研究无关。"
+    },
+    {
+      "en": "Enjoys paper-cutting and weekend sketching; no commercial illustration work is claimed.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好剪纸和周末素描；不声称商业插画经历。"
+    },
+    {
+      "en": "Volunteered at Fictional Seed Swap during 2025-04 weekends while employed full-time.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2025-04 周末在虚构种子交换活动做志愿者，与全职工作同期。"
+    },
+    {
+      "en": "An undated shorthand note says moderator; the signed study log records note-taker, so moderation ownership is unconfirmed.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一条未注明日期的简写备注称主持人；签字研究日志记为记录员，因此主持责任未经确认。"
+    },
+    {
+      "en": "A portfolio screenshot shows an 82% label without a denominator or metric definition; it is not a verified study result.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "一张作品集截图显示 82% 标签，但无分母或指标定义；不是已核实的研究结果。"
+    },
+    {
+      "en": "No independent research-plan ownership or statistical hypothesis testing is documented.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "未记录独立负责研究计划或统计假设检验经历。"
+    }
+  ]
+}

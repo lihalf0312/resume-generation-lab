@@ -1,0 +1,33 @@
+{
+  "case_id": "case-071",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Documentation Coordinator",
+    "zh": "文档协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate technical document reviews and version updates.",
+      "id": "R01",
+      "zh": "协调技术文档审核及版本更新。"
+    },
+    {
+      "en": "Write clear instructions and maintain heading structure.",
+      "id": "R02",
+      "zh": "撰写清晰说明并维护标题结构。"
+    },
+    {
+      "en": "Use Markdown and Git for documentation changes.",
+      "id": "R03",
+      "zh": "使用 Markdown 及 Git 进行文档变更。"
+    },
+    {
+      "en": "Independently verify API examples.",
+      "id": "R04",
+      "zh": "独立验证 API 示例。"
+    }
+  ]
+}

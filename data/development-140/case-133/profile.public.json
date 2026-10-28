@@ -1,0 +1,143 @@
+{
+  "case_id": "case-133",
+  "creation_batch": "development-001-extension-014",
+  "identity_id": "synthetic-person-133",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-133",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Paid passenger information assistant at Fictional Silverreed Coach Station from 2020-06 to 2023-12.",
+      "id": "F01",
+      "kind": "employment",
+      "zh": "2020-06 至 2023-12 在虚构银苇长途汽车站任有薪乘客信息助理。"
+    },
+    {
+      "en": "Transferred to the same station’s paid lost-property desk role from 2024-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 转至同一车站的有薪失物柜台岗位。"
+    },
+    {
+      "en": "Completed a service administration diploma at Fictional Dovewell College in 2020.",
+      "id": "F03",
+      "kind": "education",
+      "zh": "2020 年在虚构鸽井学院完成服务行政文凭课程。"
+    },
+    {
+      "en": "Recorded reported find locations, arrival times and visible item descriptions on numbered property forms.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在编号失物表上记录报告的发现地点、到达时间及可见物品描述。"
+    },
+    {
+      "en": "Placed items in labeled storage areas and cross-referenced the form number in a spreadsheet.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将物品放入贴有标签的存放区域，并在电子表格中交叉记录表单编号。"
+    },
+    {
+      "en": "Kept a claimant’s stated description separate from staff-recorded item details.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将认领人陈述的描述与工作人员记录的物品细节分开。"
+    },
+    {
+      "en": "The desk supervisor approved release decisions after the station’s checks; the candidate recorded signed handovers.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "柜台主管在车站检查后批准交还决定；候选人记录已签署交接。"
+    },
+    {
+      "en": "Limited access to claimant contact sheets according to the supervisor’s access list.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "依据主管的访问名单限制认领人联系表的访问。"
+    },
+    {
+      "en": "Prepared a weekly list of items approaching the station’s stated retention review date.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "每周准备即将到达车站规定保管复核日期的物品清单。"
+    },
+    {
+      "en": "The retention-review list did not itself authorize disposal, sale or donation of items.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "保管复核清单本身不授权处置、出售或捐赠物品。"
+    },
+    {
+      "en": "Helped reconcile a storage-cupboard register in 2025-11.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2025-11 协助核对储物柜登记表。"
+    },
+    {
+      "en": "The cupboard check covered 73 listed items; 68 were present and 5 had signed release slips not yet entered in the spreadsheet.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "储物柜检查涵盖清单上的 73 件物品；68 件在库，5 件有已签署但尚未录入电子表格的交还单。"
+    },
+    {
+      "en": "Personally entered those 5 verified release records after the supervisor matched the slips to the property forms.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "在主管将交还单与失物表匹配后，个人录入这 5 条已核实交还记录。"
+    },
+    {
+      "en": "Uses numbered paper forms, spreadsheet filters and a simple location-code list.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用编号纸质表单、电子表格筛选及简单位置编码清单。"
+    },
+    {
+      "en": "The current desk has not used a dedicated lost-property database during the documented role.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "在记录中的任职期间，当前柜台未使用专用失物数据库。"
+    },
+    {
+      "en": "Completed a 2026-03 online demonstration of a fictional property-tracking platform using sample records; no live station deployment followed.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2026-03 使用示例记录完成虚构失物跟踪平台的在线演示；此后未在车站实际部署。"
+    },
+    {
+      "en": "In the earlier information role, explained printed departures and directed accessibility requests to the duty manager.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "在较早的信息岗位中，解释纸质发车信息，并将无障碍需求转交值班经理。"
+    },
+    {
+      "en": "Volunteered with Fictional Maplekey Puzzle Club from 2022-02 to 2024-10.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2022-02 至 2024-10 在虚构枫匙拼图社做志愿者。"
+    },
+    {
+      "en": "At that club, logged puzzle-box loans and attached component-count notes supplied by members.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "在该社团记录拼图盒借用，并附上成员提供的组件数量备注。"
+    },
+    {
+      "en": "Co-designed 7 noncommercial paper escape-room clue cards with 2 club members in 2023.",
+      "id": "F20",
+      "kind": "project",
+      "zh": "2023 年与 2 名社团成员共同设计 7 张非商业纸质密室解谜线索卡。"
+    },
+    {
+      "en": "The candidate drafted the storage-label puzzle; the other members wrote the remaining clues.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "候选人起草储物标签谜题；其余线索由其他成员编写。"
+    },
+    {
+      "en": "Enjoys building small mechanical-looking puzzles from cardboard, without motors or electronics.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "爱好用纸板制作外观似机械的小谜题，不使用电机或电子元件。"
+    }
+  ]
+}

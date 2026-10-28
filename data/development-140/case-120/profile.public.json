@@ -1,0 +1,131 @@
+{
+  "case_id": "case-120",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-120",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-120",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a public-service administration diploma at Fictional Brookglass Institute in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构溪玻璃学院完成公共服务行政文凭课程。"
+    },
+    {
+      "en": "Paid usage records clerk at Fictional Willowport Water Office from 2020-06 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-06 至 2026-08 在虚构柳港供水办公室任有薪用量记录文员。"
+    },
+    {
+      "en": "Imported meter-reading CSV files and checked meter identifiers, reading dates and missing values.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "导入水表读数 CSV 文件，并检查水表编号、读数日期及缺失值。"
+    },
+    {
+      "en": "Kept readings marked as estimated separate from confirmed meter readings in the account record.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在账户记录中将标为估算的读数与已确认水表读数分开。"
+    },
+    {
+      "en": "Calculated interval use as the difference between consecutive confirmed cumulative readings when the meter identifier was unchanged.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在水表编号未变时，以连续两次已确认累计读数之差计算区间用水量。"
+    },
+    {
+      "en": "Meter replacements and reversed reading sequences were sent for review rather than processed as ordinary usage differences.",
+      "id": "F06",
+      "kind": "other",
+      "zh": "更换水表及读数顺序颠倒的情况会送交审核，而非按普通用量差值处理。"
+    },
+    {
+      "en": "Prepared a 2025-08 practice note using an entirely fictional account with 36 cubic metres used over 60 days.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-08 使用一个完全虚构的账户编写练习备注，该账户在 60 天内使用 36 立方米水。"
+    },
+    {
+      "en": "The note calculated average use as 0.6 cubic metres per day, not a 36-cubic-metre monthly total.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "该备注将日均用量计算为每天 0.6 立方米，而非每月共 36 立方米。"
+    },
+    {
+      "en": "Flagged readings outside the office’s preset review range to the meter team without diagnosing a leak.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "将超出办公室预设审核范围的读数标记给水表团队，不诊断漏水。"
+    },
+    {
+      "en": "Explained reading dates and the difference between estimated and confirmed readings using approved customer-response notes.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "使用获批客户回复备注，解释读数日期以及估算读数与已确认读数的区别。"
+    },
+    {
+      "en": "Referred tariff disputes and adjustment requests to the billing officer.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "将费率争议及调整申请转交账务专员。"
+    },
+    {
+      "en": "Uses spreadsheet import tools, date arithmetic and filters for duplicate meter identifiers.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用电子表格导入工具、日期运算及重复水表编号筛选。"
+    },
+    {
+      "en": "Helped test a revised import checklist in 2024-10 using 16 deliberately constructed example records.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-10 使用 16 条专门构造的示例记录，协助测试修订后的导入核对表。"
+    },
+    {
+      "en": "Personally checked blank-date and duplicate-identifier cases; a systems analyst configured the live import rules.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "个人检查空白日期及重复编号案例；实际运行的导入规则由系统分析师配置。"
+    },
+    {
+      "en": "All 16 example records were assigned the expected review status during the checklist test; this was not a production error-rate measurement.",
+      "id": "F15",
+      "kind": "outcome",
+      "zh": "在核对表测试中，全部 16 条示例记录均被分配至预期审核状态；这不是生产环境错误率测量。"
+    },
+    {
+      "en": "Completed an introductory SQL evening course at Fictional Ternlamp Centre in 2025-11.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2025-11 在虚构燕灯中心完成晚间 SQL 入门课程。"
+    },
+    {
+      "en": "For that course, wrote SELECT and GROUP BY queries against an invented household-usage table; the course database was not connected to the water office.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "在该课程中，对虚构家庭用水表编写 SELECT 及 GROUP BY 查询；课程数据库未连接供水办公室。"
+    },
+    {
+      "en": "Volunteered to count empty water containers for Fictional Reedcup Festival in 2023-07.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "2023-07 在虚构苇杯节志愿清点空水容器。"
+    },
+    {
+      "en": "Built a personal rain-observation notebook in 2022 without linking it to customer water accounts.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2022 年制作个人降雨观察笔记，未将其与客户用水账户关联。"
+    },
+    {
+      "en": "Enjoys drawing imaginary canal networks.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好绘制想象中的运河网络。"
+    }
+  ]
+}

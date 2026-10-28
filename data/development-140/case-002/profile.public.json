@@ -1,0 +1,59 @@
+{
+  "case_id": "case-002",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-002",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-002",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a statistics bachelor degree at Fictional Ember College in 2025-06.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2025-06 在虚构余烬学院取得统计学学士学位。"
+    },
+    {
+      "en": "Reporting intern at Fictional Cloud Orchard, 2025-07 to 2025-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2025-07 至 2025-12 在虚构云果园任报表实习生。"
+    },
+    {
+      "en": "Updated a weekly spreadsheet of subscription cancellations under analyst review.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在分析员审核下更新每周订阅取消数据表。"
+    },
+    {
+      "en": "Used spreadsheet pivot tables and conditional formatting in that internship.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "实习中使用数据透视表和条件格式。"
+    },
+    {
+      "en": "A 2025 capstone compared missing-value treatments on a synthetic survey dataset.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2025 年毕业项目比较了合成调查数据集的缺失值处理方法。"
+    },
+    {
+      "en": "Wrote SQL SELECT, JOIN, and GROUP BY queries for the capstone.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "为毕业项目编写 SQL SELECT、JOIN 和 GROUP BY 查询。"
+    },
+    {
+      "en": "Delivered the capstone report; no measured business improvement is recorded.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "交付毕业项目报告；未记录可量化业务改善。"
+    },
+    {
+      "en": "No dashboard publishing or production data-pipeline ownership is documented.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "未记录仪表板发布或生产数据流水线负责经历。"
+    }
+  ]
+}

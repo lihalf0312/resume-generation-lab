@@ -1,0 +1,33 @@
+{
+  "case_id": "case-049",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Environmental Project Support Officer",
+    "zh": "环境项目支持专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain environmental-project schedules and document registers.",
+      "id": "R01",
+      "zh": "维护环境项目时间表及文件登记表。"
+    },
+    {
+      "en": "Communicate technical project information to nontechnical stakeholders.",
+      "id": "R02",
+      "zh": "向非技术相关方沟通技术项目信息。"
+    },
+    {
+      "en": "Support consultation logistics and controlled document sharing.",
+      "id": "R03",
+      "zh": "支持咨询后勤及受控文件共享。"
+    },
+    {
+      "en": "Prepare approval papers while respecting delegated spending authority.",
+      "id": "R04",
+      "zh": "在遵守授权开支权限的前提下准备审批文件。"
+    }
+  ]
+}

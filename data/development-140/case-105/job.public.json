@@ -1,0 +1,33 @@
+{
+  "case_id": "case-105",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Research Data and Reporting Assistant",
+    "zh": "研究数据与报告助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Validate research CSV files and document data-cleaning decisions.",
+      "id": "R01",
+      "zh": "验证研究 CSV 文件并记录数据清理决定。"
+    },
+    {
+      "en": "Prepare descriptive tables and maintain versioned report records.",
+      "id": "R02",
+      "zh": "制作描述性表格并维护带版本号的报告记录。"
+    },
+    {
+      "en": "Collaborate on research reports with explicit contribution tracking.",
+      "id": "R03",
+      "zh": "在明确记录贡献分工的情况下合作编写研究报告。"
+    },
+    {
+      "en": "Independently design sampling methods and fit statistical models.",
+      "id": "R04",
+      "zh": "独立设计抽样方法并拟合统计模型。"
+    }
+  ]
+}

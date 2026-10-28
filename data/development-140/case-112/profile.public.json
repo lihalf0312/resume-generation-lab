@@ -1,0 +1,137 @@
+{
+  "case_id": "case-112",
+  "creation_batch": "development-001-extension-012",
+  "identity_id": "synthetic-person-112",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-112",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a transport documentation diploma at Fictional Seabriar Institute in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构海荆学院完成运输单证文凭课程。"
+    },
+    {
+      "en": "Paid shipping documents clerk at Fictional Northspool Freight from 2020-06 to 2026-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-06 至 2026-06 在虚构北线货运公司任有薪航运单证文员。"
+    },
+    {
+      "en": "Compared booking references, package counts and dispatch dates across supplied shipping documents.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "核对所提供航运文件之间的预订编号、包装件数及发运日期。"
+    },
+    {
+      "en": "Requested corrected documents when carrier and warehouse references did not match.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "当承运人与仓库编号不匹配时，请求更正文件。"
+    },
+    {
+      "en": "Prepared document packets for a licensed external broker; the broker submitted formal declarations.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "为持牌外部代理准备单证包；正式申报由该代理提交。"
+    },
+    {
+      "en": "The candidate did not classify goods or determine duties independently.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "候选人不独立进行货物分类或确定税费。"
+    },
+    {
+      "en": "Uses spreadsheet cross-checks, PDF annotations and document revision logs.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "使用电子表格交叉核对、PDF 标注及文件修订日志。"
+    },
+    {
+      "en": "Helped reconcile an archived set of 15 fictional consignments in 2025-08.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-08 协助核对一组归档的 15 票虚构托运货物。"
+    },
+    {
+      "en": "Personally compared package weights shown in packing lists with carrier-summary fields.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人比较装箱单上的包装重量与承运人汇总字段。"
+    },
+    {
+      "en": "For that set, the packing lists recorded 18.4 tonnes of net goods mass and 21.1 tonnes of gross packed mass.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "该组货物的装箱单记录货物净质量为 18.4 吨、包装后毛质量为 21.1 吨。"
+    },
+    {
+      "en": "Those masses describe the same consignments on different bases; the gross figure includes packaging.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "这些质量数值以不同口径描述同一组货物；毛质量包含包装。"
+    },
+    {
+      "en": "The reconciliation found 3 weight-basis mismatches among the 15 carrier summaries; the broker confirmed the corrections before submission.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "该核对在 15 份承运人汇总中发现 3 处重量口径不匹配；代理在提交前确认更正。"
+    },
+    {
+      "en": "Tracked returned document versions and marked superseded copies in the archive.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "跟踪退回的文件版本，并在归档中标明已被替代的副本。"
+    },
+    {
+      "en": "Sent daily missing-document lists to warehouse contacts and the external broker.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "每天向仓库联系人及外部代理发送缺失文件清单。"
+    },
+    {
+      "en": "Attended an internal introduction to dangerous-goods document routing in 2024; no handling or classification qualification was awarded.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2024 年参加内部危险品单证转交流程入门培训；未授予操作或分类资格。"
+    },
+    {
+      "en": "Drafted a bilingual packing-list glossary in 2026-01; only the internal supervisor reviewed it.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2026-01 起草双语装箱单词汇表；仅经内部主管审阅。"
+    },
+    {
+      "en": "No external certification of that glossary’s translation is recorded.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "未记录该词汇表翻译的外部认证。"
+    },
+    {
+      "en": "Made a personal scale-model cargo manifest in 2023 using imaginary vessels and goods.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2023 年使用想象中的船舶及货物制作个人比例模型货物清单。"
+    },
+    {
+      "en": "Volunteered to inventory borrowed tables for Fictional Harbor Lantern Club in 2022-07.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "2022-07 志愿为虚构港灯社清点借入桌子。"
+    },
+    {
+      "en": "Enjoys building model lighthouses from scrap cardboard.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好使用废纸板制作灯塔模型。"
+    },
+    {
+      "en": "No independent customs brokerage or dangerous-goods sign-off authority is documented.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录独立报关代理或危险品签署批准权限。"
+    }
+  ]
+}

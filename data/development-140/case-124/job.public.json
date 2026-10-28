@@ -1,0 +1,33 @@
+{
+  "case_id": "case-124",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Beach Guest Equipment Hire Assistant",
+    "zh": "海滩宾客用品租赁助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Issue and reconcile shore-based guest equipment using numbered records.",
+      "id": "R01",
+      "zh": "使用编号记录发放并核对岸上宾客用品。"
+    },
+    {
+      "en": "Identify visible damage and communicate supervisor-approved hire restrictions.",
+      "id": "R02",
+      "zh": "识别可见损坏，并传达主管批准的租赁限制。"
+    },
+    {
+      "en": "Record receipts and refer deposit-refund decisions to the responsible supervisor.",
+      "id": "R03",
+      "zh": "记录收款，并将押金退款决定转交负责主管。"
+    },
+    {
+      "en": "Be available for the entire 2027-05 to 2027-09 season.",
+      "id": "R04",
+      "zh": "可在 2027-05 至 2027-09 整个旺季工作。"
+    }
+  ]
+}

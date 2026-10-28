@@ -1,0 +1,33 @@
+{
+  "case_id": "case-103",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Publishing Production Coordinator",
+    "zh": "出版制作协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Track publishing proofs, version history and supplier delivery dates.",
+      "id": "R01",
+      "zh": "跟踪出版校样、版本历史及供应商交付日期。"
+    },
+    {
+      "en": "Prepare approved production handoffs and check page specifications.",
+      "id": "R02",
+      "zh": "准备获批制作交接材料并核对页面规格。"
+    },
+    {
+      "en": "Use page-layout and PDF-review tools for routine production work.",
+      "id": "R03",
+      "zh": "使用页面排版及 PDF 审阅工具处理日常制作工作。"
+    },
+    {
+      "en": "Hold a bachelor’s degree or a formally assessed equivalent qualification.",
+      "id": "R04",
+      "zh": "持有学士学位或经正式评估的同等资格。"
+    }
+  ]
+}

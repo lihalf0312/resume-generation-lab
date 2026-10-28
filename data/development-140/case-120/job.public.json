@@ -1,0 +1,33 @@
+{
+  "case_id": "case-120",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Water Usage Records Assistant",
+    "zh": "用水量记录助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Validate imported meter records and distinguish estimated readings from confirmed readings.",
+      "id": "R01",
+      "zh": "验证导入的水表记录，并区分估算读数与已确认读数。"
+    },
+    {
+      "en": "Calculate usage over the documented interval and escalate exceptional meter records.",
+      "id": "R02",
+      "zh": "计算已记录区间内的用水量，并上报异常水表记录。"
+    },
+    {
+      "en": "Explain account reading information using approved wording and refer billing disputes appropriately.",
+      "id": "R03",
+      "zh": "使用获批措辞解释账户读数信息，并适当转交账务争议。"
+    },
+    {
+      "en": "Preferred: write SQL queries against operational usage databases.",
+      "id": "R04",
+      "zh": "优先：能够对运营用量数据库编写 SQL 查询。"
+    }
+  ]
+}

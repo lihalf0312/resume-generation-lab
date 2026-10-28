@@ -1,0 +1,38 @@
+{
+  "case_id": "case-116",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Shelter Intake and Foster Administrator",
+    "zh": "动物收容与寄养行政专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain intake records that distinguish reported information from verified checks.",
+      "id": "R01",
+      "zh": "维护接收记录，区分报称信息与已核实查验。"
+    },
+    {
+      "en": "Coordinate approved foster handovers and protect personal contact information.",
+      "id": "R02",
+      "zh": "协调获批寄养交接，并保护个人联系信息。"
+    },
+    {
+      "en": "Route animal-health questions to veterinary staff without providing clinical advice.",
+      "id": "R03",
+      "zh": "将动物健康问题转交兽医人员，不提供临床建议。"
+    },
+    {
+      "en": "Lead structured foster-volunteer orientation sessions.",
+      "id": "R04",
+      "zh": "主持有组织的寄养志愿者说明会。"
+    },
+    {
+      "en": "Be available for rotating Sunday daytime shifts.",
+      "id": "R05",
+      "zh": "可轮值星期日日间班次。"
+    }
+  ]
+}

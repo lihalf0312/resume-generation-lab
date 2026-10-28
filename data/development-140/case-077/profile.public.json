@@ -1,0 +1,143 @@
+{
+  "case_id": "case-077",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-077",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-077",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Operations Administration at Fictional Institute D077 in 2021.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2021 年在虚构院校 D077 完成运营行政专科学历。"
+    },
+    {
+      "en": "Worked as a warehouse records clerk at Fictional Goods Cooperative D077 from 2021-09 to 2023-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2021-09 至 2023-12 在虚构商品合作社 D077 担任仓库记录文员。"
+    },
+    {
+      "en": "Transferred within that employer to replenishment administration from 2024-01 to 2026-08, with no overlap between the paid roles.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 在该雇主内部转任补货行政岗位，两份有偿岗位无重叠。"
+    },
+    {
+      "en": "The earlier role recorded receipts and escalated stock-count variances to a stock controller.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "早期岗位记录收货，并将库存盘点差异上报库存管理员。"
+    },
+    {
+      "en": "In replenishment administration, maintained purchase-order due dates and planner-approved reorder lists.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在补货行政岗位维护采购订单到期日期及计划员批准的补货清单。"
+    },
+    {
+      "en": "Used spreadsheet lookups to match item codes across open orders and warehouse receipts.",
+      "id": "F06",
+      "kind": "skill",
+      "zh": "使用电子表格查找，将未完成订单与仓库收货中的商品编码匹配。"
+    },
+    {
+      "en": "With a planner, reviewed 110 open order lines during 2025-04 to identify stale delivery dates.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "在 2025-04 与计划员合作，复查 110 条未完成订单明细，识别过期交货日期。"
+    },
+    {
+      "en": "The team confirmed updated dates for 18 of 23 flagged lines; 5 stayed unresolved and were marked pending in the planning sheet.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "团队为标出的 23 条明细中的 18 条确认更新日期；5 条仍未解决，在计划表中标为待定。"
+    },
+    {
+      "en": "This review improved date documentation only; no stockout reduction or inventory-cost saving was measured.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "该复查仅改善日期记录；未测量缺货减少或库存成本节省。"
+    },
+    {
+      "en": "Coordinated a 2026-01 trial of a weekly exception list for 2 product groups, reviewed by the planner.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在 2026-01 协调 2 个商品组的每周异常清单试用，由计划员审阅。"
+    },
+    {
+      "en": "Contacted suppliers for status updates using buyer-approved messages; buyers changed purchase commitments.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "使用采购员批准的消息向供应商询问状态；采购员变更采购承诺。"
+    },
+    {
+      "en": "Drafted a demand-forecast template in 2026-05 using fictional seasonal sales; it was never used for operational orders.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "2026-05 使用虚构季节性销售数据起草需求预测模板；从未用于运营订单。"
+    },
+    {
+      "en": "Completed a 2025-08 planning course exercise on moving averages with 36 fictional monthly observations.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2025-08 完成计划课程中的移动平均练习，使用 36 个虚构月度观测值。"
+    },
+    {
+      "en": "The coursework is not evidence of independently owning a production demand forecast.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "该课程作业不能证明独立负责生产需求预测。"
+    },
+    {
+      "en": "At the 2025-11 seasonal peak, tracked 14 suppliers; the regular 2026-08 list held 8.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "在 2025-11 季节高峰期跟踪 14 家供应商；2026-08 常规名单有 8 家。"
+    },
+    {
+      "en": "Volunteered for Fictional Sports Kit Exchange V077 from 2024-02 to 2024-07 on evenings while employed.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2024-02 至 2024-07 任职期间，晚间在虚构运动用品交换团体 V077 志愿服务。"
+    },
+    {
+      "en": "For the exchange, labeled donated kit by size rather than forecasting demand or purchasing stock.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "为交换团体按尺码标记捐赠用品，而非预测需求或采购库存。"
+    },
+    {
+      "en": "Built a personal model harbor in 2022 using recycled cardboard; it was not a logistics simulation.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2022 年用回收纸板制作个人港口模型；并非物流仿真。"
+    },
+    {
+      "en": "Keeps a bird-call listening journal unrelated to supply planning.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "保留与供应计划无关的鸟鸣聆听日记。"
+    },
+    {
+      "en": "Prepared handover notes separating confirmed supplier dates from estimates awaiting confirmation.",
+      "id": "F20",
+      "kind": "skill",
+      "zh": "准备交接记录，区分已确认供应商日期与待确认估计日期。"
+    },
+    {
+      "en": "An appraisal draft says inventory fell by 30%, but the attached sheet measures open-order line count rather than inventory value or units.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "一份考评草稿称库存减少 30%，但附表衡量未完成订单明细数量，而非库存价值或数量单位。"
+    },
+    {
+      "en": "No authority to set safety stocks, approve supplier contracts or own the forecasting model is recorded.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录设定安全库存、批准供应商合同或负责预测模型的权限。"
+    }
+  ]
+}

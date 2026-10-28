@@ -1,0 +1,33 @@
+{
+  "case_id": "case-077",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Supply Planning Assistant",
+    "zh": "供应计划助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain order and replenishment records accurately.",
+      "id": "R01",
+      "zh": "准确维护订单及补货记录。"
+    },
+    {
+      "en": "Follow up delivery exceptions and distinguish confirmed dates from estimates.",
+      "id": "R02",
+      "zh": "跟进交货异常，并区分已确认日期与估计日期。"
+    },
+    {
+      "en": "Apply basic forecasting concepts in supervised planning work.",
+      "id": "R03",
+      "zh": "在受监督计划工作中应用基础预测概念。"
+    },
+    {
+      "en": "Own operational safety-stock and demand-forecast decisions.",
+      "id": "R04",
+      "zh": "负责运营安全库存及需求预测决策。"
+    }
+  ]
+}

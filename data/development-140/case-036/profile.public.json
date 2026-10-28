@@ -1,0 +1,107 @@
+{
+  "case_id": "case-036",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-036",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-036",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a BSc in Applied Mathematics at Fictional Institute D036 in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构院校 D036 完成应用数学理学学士学位。"
+    },
+    {
+      "en": "Enrolled part-time in an MSc in Energy Systems at Fictional Institute E036 in 2024-09; paused study in 2026-02 after 4 modules and has not earned the degree.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2024-09 在虚构院校 E036 非全日制攻读能源系统理学硕士；完成 4 个模块后于 2026-02 暂停学习，尚未获得该学位。"
+    },
+    {
+      "en": "Worked as a purchasing data assistant at Fictional Packaging Employer D036 from 2020-03 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2020-03 至 2026-08 在虚构包装企业 D036 担任采购数据助理。"
+    },
+    {
+      "en": "Maintained quote-comparison worksheets for corrugated packaging; the procurement manager selected suppliers and signed contracts.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "维护瓦楞包装报价比较表；采购经理选择供应商并签署合同。"
+    },
+    {
+      "en": "Used spreadsheet lookups, pivot tables and unit conversions to compare quoted quantities and delivery terms.",
+      "id": "F05",
+      "kind": "skill",
+      "zh": "使用电子表格查找、数据透视表及单位换算比较报价数量和交货条款。"
+    },
+    {
+      "en": "Built a landed-cost workbook for 6 packaging suppliers during 2025-01 to 2025-03, including freight and minimum-order assumptions.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "2025-01 至 2025-03 为 6 家包装供应商建立到岸成本工作簿，纳入运费及最低订单量假设。"
+    },
+    {
+      "en": "Across 24 quote packs in 2025-Q2, median preparation time fell from 75 minutes to 50 minutes; the buyer and candidate jointly standardized inputs.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "在 2025-Q2 的 24 份报价资料中，准备时间中位数从 75 分钟降至 50 分钟；采购员与候选人共同标准化输入。"
+    },
+    {
+      "en": "The time result is not a verified cost saving and excludes contract negotiation time.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "该时间成果不等于经核实的成本节省，且不包含合同谈判时间。"
+    },
+    {
+      "en": "For a 2025-11 course exercise, compared 3 fictional solar-module bids using warranty, delivery and price criteria; no purchase occurred.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2025-11 课程练习中，按质保、交货及价格标准比较 3 份虚构太阳能组件投标；未发生采购。"
+    },
+    {
+      "en": "Read English technical datasheets for the exercise and recorded unresolved terminology for the course tutor.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "为该练习阅读英文技术数据表，并记录未理解的术语交由课程导师解答。"
+    },
+    {
+      "en": "Volunteered at Fictional Energy Club V036 on weekends from 2024-10 to 2025-06 while retaining the purchasing job.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "2024-10 至 2025-06 在虚构能源社团 V036 利用周末做志愿工作，同时保留采购岗位。"
+    },
+    {
+      "en": "For the club, drafted a roof-survey checklist; a qualified adviser reviewed the draft, but the club did not execute a site survey.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "为该社团起草屋顶勘测清单；合格顾问审阅草稿，但社团未执行现场勘测。"
+    },
+    {
+      "en": "Maintains a personal bread-baking notebook with ingredient experiments; no commercial baking activity is claimed.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "保留记录食材实验的个人面包烘焙笔记；不声称从事商业烘焙。"
+    },
+    {
+      "en": "Handled quote files for a peak of 18 active suppliers in 2025-09; the active list contained 11 suppliers in 2026-08.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "2025-09 高峰时处理 18 家活跃供应商报价档案；2026-08 活跃名单包含 11 家供应商。"
+    },
+    {
+      "en": "A draft appraisal says the workbook saved 12% on purchases, but no baseline or approved savings calculation supports that statement.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "一份考评草稿称工作簿使采购成本降低 12%，但没有基线或获批节省金额计算支持该说法。"
+    },
+    {
+      "en": "No supplier negotiation authority, renewable-energy purchasing employment or executed solar installation is recorded.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "未记录供应商谈判权限、可再生能源采购从业经历或已执行的太阳能安装。"
+    }
+  ]
+}

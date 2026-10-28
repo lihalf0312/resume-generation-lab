@@ -1,0 +1,28 @@
+{
+  "case_id": "case-111",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Claims Intake Records Assistant",
+    "zh": "理赔受理记录助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Create complete claim-intake records, identify missing documents and maintain traceable file indexes.",
+      "id": "R01",
+      "zh": "建立完整理赔受理记录、识别缺失文件并维护可追溯的文件索引。"
+    },
+    {
+      "en": "Send neutral receipt and document-request messages, escalating coverage questions to claims handlers.",
+      "id": "R02",
+      "zh": "发送中性的收件及补件信息，将保障范围问题上报理赔经办人。"
+    },
+    {
+      "en": "Handle restricted records according to supplied access procedures.",
+      "id": "R03",
+      "zh": "依据提供的访问权限流程处理受限记录。"
+    }
+  ]
+}

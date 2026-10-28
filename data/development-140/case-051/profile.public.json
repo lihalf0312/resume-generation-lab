@@ -1,0 +1,113 @@
+{
+  "case_id": "case-051",
+  "creation_batch": "development-001-extension-006",
+  "identity_id": "synthetic-person-051",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-051",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a technical communication certificate at Fictional Cloudreed Academy in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构云芦学院完成技术传播证书课程。"
+    },
+    {
+      "en": "Studied for a computing bachelor degree at Fictional Slateleaf College from 2019-09 to 2021-06; withdrew without a degree.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2019-09 至 2021-06 在虚构板叶学院就读计算学士课程；退学，未取得学位。"
+    },
+    {
+      "en": "Documentation clerk at Fictional Paper Compass, 2022-09 to 2024-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-09 至 2024-08 在虚构纸罗盘机构任文档文员。"
+    },
+    {
+      "en": "Technical content assistant at Fictional Paper Compass, 2024-09 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2024-09 至 2026-09 在虚构纸罗盘机构任技术内容助理。"
+    },
+    {
+      "en": "Updates setup instructions after engineers approve the underlying product behavior.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在工程师批准底层产品行为说明后更新安装指引。"
+    },
+    {
+      "en": "Maintained 24 active guides in 2026-09; the 2025-03 migration peak involved 39 guides.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-09 维护 24 份活跃指南；2025-03 迁移高峰涉及 39 份。"
+    },
+    {
+      "en": "Worked with an engineer to revise a troubleshooting guide during 2025-05 to 2025-06.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-05 至 2025-06 与工程师共同修订故障排查指南。"
+    },
+    {
+      "en": "Personally rewrote headings and captured interface screenshots; the engineer verified technical steps.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人改写标题并截取界面截图；工程师核实技术步骤。"
+    },
+    {
+      "en": "An internal review accepted 16 of 20 revised sections in 2025-07; the remaining 4 required changes, with no customer-impact measurement.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "2025-07 内部审核接受 20 个修订章节中的 16 个；其余 4 个需修改，未测量客户影响。"
+    },
+    {
+      "en": "Drafted a documentation navigation proposal in 2026-02; it remained unimplemented in 2026-09.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2026-02 起草文档导航提案；2026-09 仍未实施。"
+    },
+    {
+      "en": "Uses Markdown, version history, and issue trackers for document revisions.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用 Markdown、版本历史及问题跟踪器进行文档修订。"
+    },
+    {
+      "en": "Checks broken links and screenshot captions before requesting technical review.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "申请技术审核前检查失效链接及截图说明。"
+    },
+    {
+      "en": "Made a personal illustrated bird index with 13 invented species in 2024-10.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2024-10 制作含 13 种虚构鸟类的个人插画索引。"
+    },
+    {
+      "en": "Enjoys kite making; no engineering qualification is inferred from this hobby.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "爱好制作风筝；不得由此推断工程资格。"
+    },
+    {
+      "en": "A draft note calls the troubleshooting revision sole-authored, whereas the approved record credits shared work.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "一份草稿备注称故障排查修订为独立撰写，而批准记录列为共同工作。"
+    },
+    {
+      "en": "An undated skill list says advanced XML without examples or assessment; proficiency is unconfirmed.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "一份未注明日期的技能表称 XML 高级，但无实例或评估；熟练程度未经确认。"
+    },
+    {
+      "en": "No completed bachelor degree or API reference authorship is documented.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "未记录已完成的学士学位或 API 参考文档撰写经历。"
+    }
+  ]
+}

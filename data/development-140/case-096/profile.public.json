@@ -1,0 +1,131 @@
+{
+  "case_id": "case-096",
+  "creation_batch": "development-001",
+  "identity_id": "synthetic-person-096",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-096",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in Business Technology at Fictional Institute D096 in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构院校 D096 完成商业技术专科学历。"
+    },
+    {
+      "en": "Worked as an operations systems clerk at Fictional Service Office D096 from 2023-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构服务办公室 D096 担任运营系统文员。"
+    },
+    {
+      "en": "Entered approved request data into an internal workflow tool and routed incomplete records to process owners.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "将获批请求数据录入内部工作流工具，并将不完整记录转交流程负责人。"
+    },
+    {
+      "en": "Used saved filters and exported reports in that tool; did not configure permissions, integrations or system architecture.",
+      "id": "F04",
+      "kind": "skill",
+      "zh": "使用该工具的已保存筛选及报告导出；未配置权限、集成或系统架构。"
+    },
+    {
+      "en": "With a systems analyst, reviewed 125 request records during 2025-05.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "在 2025-05 与系统分析师合作复查 125 条请求记录。"
+    },
+    {
+      "en": "The team found 18 missing category values among those 125 records, obtained owner confirmation for 15 and left 3 flagged unresolved.",
+      "id": "F06",
+      "kind": "outcome",
+      "zh": "团队在该批 125 条记录中发现 18 个缺失类别值，取得负责人对 15 个的确认，并保留 3 个未解决标记。"
+    },
+    {
+      "en": "Recorded user-reported workflow problems with screenshots and expected behavior for analyst review.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "记录用户报告的工作流问题，附截图及预期行为，供分析师审阅。"
+    },
+    {
+      "en": "Prepared a 2026-02 request-entry guide approved by the analyst for routine use.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2026-02 准备请求录入指南，经分析师批准用于常规工作。"
+    },
+    {
+      "en": "Drafted a 2026-05 automation idea using a diagram; no automation was built or deployed.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2026-05 用图示起草自动化构想；未构建或部署自动化。"
+    },
+    {
+      "en": "Completed a 2024-10 introductory SQL course using fictional tables and 12 practice queries.",
+      "id": "F10",
+      "kind": "education",
+      "zh": "2024-10 使用虚构表格及 12 条练习查询完成 SQL 入门课程。"
+    },
+    {
+      "en": "The SQL course did not involve production database access or establish expert proficiency.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该 SQL 课程不涉及生产数据库访问，也不证明专家熟练程度。"
+    },
+    {
+      "en": "Completed a 2025-03 spreadsheet workshop covering lookup formulas; no advanced professional credential was awarded.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2025-03 完成涵盖查找公式的电子表格工作坊；未授予高级专业资格。"
+    },
+    {
+      "en": "Used lookup formulas to cross-check request IDs under an analyst-provided template.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "在分析师提供的模板中使用查找公式交叉核对请求编号。"
+    },
+    {
+      "en": "At the 2025-11 peak, supported 4 request queues; the normal 2026-08 allocation was 2.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "在 2025-11 高峰期支持 4 个请求队列；2026-08 常规分工为 2 个。"
+    },
+    {
+      "en": "Volunteered for Fictional Model Club V096 on Saturdays from 2024-02 to 2024-07 while employed, sorting instruction cards.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2024-02 至 2024-07 任职期间，星期六在虚构模型社团 V096 志愿整理说明卡。"
+    },
+    {
+      "en": "Built a personal catalog of paper-aircraft designs in 2021, unrelated to enterprise systems.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2021 年建立个人纸飞机设计目录，与企业系统无关。"
+    },
+    {
+      "en": "Keeps a watercolor notebook of imaginary weather scenes.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "保留描绘虚构天气场景的水彩笔记。"
+    },
+    {
+      "en": "A draft profile describes expert SQL and platform administration, although the evidence records coursework and ordinary user access only.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "一份简介草稿描述 SQL 专家能力及平台管理，但证据仅记录课程作业和普通用户访问。"
+    },
+    {
+      "en": "Tracked unresolved issues without choosing technical fixes or approving system changes.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "跟踪未解决问题，不选择技术修复或批准系统变更。"
+    },
+    {
+      "en": "Maintained source references and change notes so analysts could trace corrected data fields.",
+      "id": "F20",
+      "kind": "skill",
+      "zh": "维护源引用及变更备注，使分析师能够追溯更正数据字段。"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "case_id": "case-084",
+  "creation_batch": "development-001-extension-009",
+  "identity_id": "synthetic-person-084",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-084",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a social research bachelor degree at Fictional Otter College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构水獭学院取得社会研究学士学位。"
+    },
+    {
+      "en": "Research administration assistant at Fictional Willow Study Centre, 2022-10 to 2024-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2022-10 至 2024-06 在虚构柳树研究中心任研究行政助理。"
+    },
+    {
+      "en": "Editorial support assistant at the same centre, 2024-07 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2024-07 至 2026-08 在同一中心任编辑支持助理。"
+    },
+    {
+      "en": "Checked references, figure labels and document versions for researcher review.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "检查参考文献、图表标签及文档版本，供研究人员审核。"
+    },
+    {
+      "en": "Supported a 2025 manuscript draft on fictional library services with 3 researchers.",
+      "id": "F05",
+      "kind": "project",
+      "zh": "2025 年与 3 名研究人员合作支持一篇关于虚构图书馆服务的论文草稿。"
+    },
+    {
+      "en": "Personally formatted 46 references and maintained the author-query list; researchers wrote the analysis and conclusions.",
+      "id": "F06",
+      "kind": "project",
+      "zh": "个人负责排版 46 条参考文献并维护作者询问清单；分析及结论由研究人员撰写。"
+    },
+    {
+      "en": "As of 2026-08, the manuscript had not been submitted, accepted or published.",
+      "id": "F07",
+      "kind": "other",
+      "zh": "截至 2026-08，该稿件尚未提交、录用或发表。"
+    },
+    {
+      "en": "Authorship order and inclusion were not finalized; no published authorship is claimed.",
+      "id": "F08",
+      "kind": "other",
+      "zh": "作者排序及名单尚未确定；不声称具有已发表论文署名。"
+    },
+    {
+      "en": "Before an internal review in 2025-11, corrected 12 citation-format issues among 46 references; this was an editorial result, not research validation.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "2025-11 内部审核前，在 46 条参考文献中修正 12 项引文格式问题；这是编辑成果，不是研究验证。"
+    },
+    {
+      "en": "Uses Word tracked changes, reference-manager exports and version logs.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用 Word 修订、文献管理器导出及版本日志。"
+    },
+    {
+      "en": "Drafted a journal submission checklist in 2026-02; no journal submission was performed using it.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "2026-02 起草期刊投稿核对表；未使用它执行期刊投稿。"
+    },
+    {
+      "en": "Attended a 2024 seminar on publication ethics without receiving a professional accreditation.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2024 年参加出版伦理研讨会，未获得专业认证。"
+    },
+    {
+      "en": "Scheduled researcher review meetings and recorded action owners.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "安排研究人员审核会议并记录行动负责人。"
+    },
+    {
+      "en": "Volunteered at Fictional Story Lantern from 2023-01 to 2023-05 on evenings during paid employment.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2023-01 至 2023-05 有薪工作期间晚间在虚构故事灯笼做志愿者。"
+    },
+    {
+      "en": "Proofread a volunteer newsletter; this was not a peer-reviewed research publication.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "校对志愿者通讯；它不是同行评审研究出版物。"
+    },
+    {
+      "en": "A 2022 coursework poster summarized public-domain fictional survey data and was presented only in class.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2022 年课程海报总结公开可用的虚构调查数据，仅在课堂展示。"
+    },
+    {
+      "en": "Enjoys making pressed-leaf bookmarks.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好制作压叶书签。"
+    },
+    {
+      "en": "An old CV draft labels the manuscript a published paper; that label conflicts with the current status record.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "旧简历草稿将该稿件列为已发表论文；该标签与当前状态记录冲突。"
+    }
+  ]
+}
