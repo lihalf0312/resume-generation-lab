@@ -1,0 +1,119 @@
+{
+  "case_id": "case-169",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-169",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-169",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an upper-secondary vocational certificate in logistics at Fictional Brackenford Training School in 2017-06.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2017-06 在虚构蕨津培训学校完成物流中等职业教育证书课程。"
+    },
+    {
+      "en": "Worked as a paid warehouse dispatch assistant at Fictional Pebblecart Distribution from 2017-08 to 2024-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2017-08 至 2024-12 在虚构卵石车配送公司任有薪仓库发运助理。"
+    },
+    {
+      "en": "Matched outgoing cartons to dispatch lists, investigated stock-count discrepancies and booked courier collections through an existing account.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "核对出库纸箱与发运清单，调查库存盘点差异，并通过现有账户预约快递取件。"
+    },
+    {
+      "en": "Completed a 12-week environmental field-support course at Fictional Mirebrook Adult College in 2025-09.",
+      "id": "F04",
+      "kind": "education",
+      "zh": "2025-09 在虚构泽溪成人学院完成为期 12 周的环境现场支持课程。"
+    },
+    {
+      "en": "Course exercises covered clean bottle handling, sample labels and chain-of-custody forms; no laboratory analyst qualification was awarded.",
+      "id": "F05",
+      "kind": "education",
+      "zh": "课程练习涵盖洁净采样瓶操作、样品标签及监管链表格；未授予实验室分析员资格。"
+    },
+    {
+      "en": "Worked as a paid part-time sampling trainee at Fictional Reedglass Catchment Cooperative from 2026-04 to 2026-08.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "2026-04 至 2026-08 在虚构芦玻集水区合作组织任有薪兼职采样实习员。"
+    },
+    {
+      "en": "On 3 supervised shoreline trips, prepared labeled bottles and copied site codes from the approved sampling plan.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在 3 次受监督的岸边出行中准备贴标采样瓶，并从获批采样计划抄录站点代码。"
+    },
+    {
+      "en": "Recorded collection times and cooler temperatures on paper forms; the field lead checked the records before sealing each cooler.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在纸质表格中记录采集时间及冷藏箱温度；现场负责人在封箱前检查记录。"
+    },
+    {
+      "en": "For the 2026-06 route, the two-person crew handled 24 environmental-sample bottles from 6 sites, plus 4 field-blank bottles.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在 2026-06 路线中，两人班组处理来自 6 个站点的 24 个环境样品瓶，另有 4 个现场空白样品瓶。"
+    },
+    {
+      "en": "Personally completed labels and custody-form entries for 10 of the 24 environmental-sample bottles; the lead completed the other 14 and all field-blank entries.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人完成 24 个环境样品瓶中 10 个的标签及监管链表格录入；负责人完成其余 14 个及所有现场空白样品的录入。"
+    },
+    {
+      "en": "Packed the sealed bottles in coolers using the lead's packing checklist and recorded courier handoff signatures.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "依照负责人的包装核对表将密封样品瓶装入冷藏箱，并记录快递交接签名。"
+    },
+    {
+      "en": "Reported 1 smudged label before handoff; the lead checked the field sheet and authorized a replacement label.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在交接前报告 1 张模糊标签；负责人核对现场记录表并批准更换标签。"
+    },
+    {
+      "en": "The field lead chose sampling locations and decided whether conditions permitted entry; the trainee remained on the shoreline and did not operate a boat.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "现场负责人选择采样位置并决定条件是否允许进入；实习员留在岸边，未操作船只。"
+    },
+    {
+      "en": "Uses spreadsheet sorting and simple count formulas and can enter handwritten custody records into a fixed template.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用电子表格排序与简单计数公式，并能将手写监管链记录录入固定模板。"
+    },
+    {
+      "en": "Assembled a personal practice kit of empty containers in 2025 to rehearse reading sample codes aloud while checking a printed list.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2025 年用空容器组装个人练习套件，练习大声读出样品代码并核对打印清单。"
+    },
+    {
+      "en": "Attends Fictional Nightjar Community Astronomy Club and helps carry telescope cases at its public evenings.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "参加虚构夜鹰社区天文俱乐部，在公众晚间活动中帮忙搬运望远镜箱。"
+    },
+    {
+      "en": "Enjoys folding modular origami and repairing canvas shopping bags.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好组合式折纸及修补帆布购物袋。"
+    },
+    {
+      "en": "Used English form labels and Mandarin spoken check-backs with a bilingual field lead during sample packing.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "在样品包装过程中使用英文表格标签，并用普通话与双语现场负责人进行口头复核。"
+    }
+  ]
+}

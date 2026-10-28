@@ -1,0 +1,143 @@
+{
+  "case_id": "case-144",
+  "creation_batch": "development-001-extension-015",
+  "identity_id": "synthetic-person-144",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-144",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Paid cinema front-of-house assistant at Fictional Lanternreel Cinema from 2023-04 to 2026-08.",
+      "id": "F01",
+      "kind": "employment",
+      "zh": "2023-04 至 2026-08 在虚构灯卷影院任有薪前厅助理。"
+    },
+    {
+      "en": "Completed a community arts administration diploma at Fictional Mallowframe College in 2022.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "2022 年在虚构锦葵帧学院完成社区艺术行政文凭课程。"
+    },
+    {
+      "en": "Scanned admission tickets and directed guests to the screen and seat printed on their booking.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "扫描入场票，并按预订票上印明的影厅及座位引导宾客。"
+    },
+    {
+      "en": "Checked the duty manager’s session board before answering questions about captions, access routes or start times.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在回答字幕、通行路线或开场时间问题前，核对值班经理的场次板。"
+    },
+    {
+      "en": "Referred seat-change requests and accessibility arrangements to the duty manager rather than promising unconfirmed options.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将换座请求及无障碍安排转交值班经理，而非承诺未确认的选项。"
+    },
+    {
+      "en": "Counted collected reusable glasses by screening and placed them in the collection bins specified by the shift lead.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "按场次清点收回的可重复使用眼镜，并放入班次负责人指定的收集箱。"
+    },
+    {
+      "en": "Logged auditorium issues and notified the duty manager; the projectionist handled playback faults.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "记录影厅问题并通知值班经理；播放故障由放映员处理。"
+    },
+    {
+      "en": "Helped update a welcome-board layout for a 2025-05 community film weekend.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-05 协助为社区电影周末更新欢迎板版式。"
+    },
+    {
+      "en": "Personally checked screen numbers and printed arrow placement; the events lead supplied the programme order.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人核对影厅编号及印刷箭头位置；节目顺序由活动负责人提供。"
+    },
+    {
+      "en": "The event log lists 9 scheduled screenings, of which 1 was cancelled before ticket sales; attendance totals were not supplied.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "活动日志列出 9 场计划放映，其中 1 场在售票前取消；未提供出席总人数。"
+    },
+    {
+      "en": "The log does not confirm that every remaining scheduled screening took place.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该日志未确认其余每场计划放映均已举行。"
+    },
+    {
+      "en": "Uses ticket scanning, a seating-chart viewer and printed session boards.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用验票扫描、座位图查看器及纸质场次板。"
+    },
+    {
+      "en": "Completed a non-award introduction to digital cinema playlists in 2026-01 using a classroom simulator.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2026-01 使用课堂模拟器完成不授予资格的数字电影播放列表入门课程。"
+    },
+    {
+      "en": "For that course, ordered 5 fictional clips into a sample playlist; it was never used for a public screening.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "在该课程中，将 5 个虚构片段排序为示例播放列表；该列表从未用于公开放映。"
+    },
+    {
+      "en": "Volunteered at Fictional Paperbeam Puppet Circle from 2021-03 to 2023-02.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2021-03 至 2023-02 在虚构纸束木偶社做志愿者。"
+    },
+    {
+      "en": "For that group, painted lightweight scenery panels and helped collect feedback cards after informal shows.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "为该团体绘制轻质布景板，并在非正式表演后协助收集反馈卡。"
+    },
+    {
+      "en": "Co-made a personal 3-minute stop-motion film in 2024 with 2 friends.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年与 2 名朋友共同制作个人 3 分钟定格动画。"
+    },
+    {
+      "en": "Personally built paper sets and moved the models; a friend filmed and edited the sequence, and the other supplied sound effects.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "个人制作纸质布景并移动模型；一名朋友拍摄及剪辑，另一名提供音效。"
+    },
+    {
+      "en": "The film was shown at an informal club gathering, not a juried festival or paid cinema release.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "该影片在非正式社团聚会上放映，并非评审制电影节展映或付费影院发行。"
+    },
+    {
+      "en": "Enjoys collecting patterns for handmade ticket-stub envelopes.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好收集用于手工票根信封的图案。"
+    },
+    {
+      "en": "Wrote shift handovers for unresolved guest questions and equipment items awaiting manager review.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "为未解决宾客问题及等待经理审核的设备物品撰写轮班交接。"
+    },
+    {
+      "en": "No independent operation of the cinema’s production playback system is documented.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录独立操作影院实际放映系统的经历。"
+    }
+  ]
+}

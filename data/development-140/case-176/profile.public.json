@@ -1,0 +1,143 @@
+{
+  "case_id": "case-176",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-176",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-176",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a jewellery-making apprenticeship at Fictional Silverpetal Guild in 2012.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2012 年在虚构银瓣行会完成珠宝制作学徒培训。"
+    },
+    {
+      "en": "Paid bench jeweller at Fictional Mossring Studio from 2012-08 to 2018-02.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2012-08 至 2018-02 在虚构苔戒工作室任有薪珠宝台工。"
+    },
+    {
+      "en": "Paid senior bench jeweller at Fictional Lindenclasp Works from 2018-03 to 2022-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2018-03 至 2022-08 在虚构椴扣工坊任有薪高级珠宝台工。"
+    },
+    {
+      "en": "Paid bench team leader at the same workshop from 2022-09 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2022-09 至 2026-08 在同一工坊任有薪台工团队负责人。"
+    },
+    {
+      "en": "Line-manages 2 junior bench staff and allocates approved fabrication and finishing jobs.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "直接管理 2 名初级台工，并分配获批制作及表面处理工单。"
+    },
+    {
+      "en": "Fabricates simple silver pendants from approved drawings and checks dimensions against the work specification.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据获批图纸制作简式银吊坠，并按作业规格核对尺寸。"
+    },
+    {
+      "en": "Prepares approved components for joining and finishes surfaces using the workshop’s documented procedures.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "依据工坊有文档记录的程序准备待连接的获批组件，并进行表面处理。"
+    },
+    {
+      "en": "Records metal issued, returned offcuts and completed piece counts on separate job-sheet fields.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在工单不同字段分别记录领用金属、退回边角料及完成件数。"
+    },
+    {
+      "en": "The workshop owner approves customer designs and pricing; an external service performs formal metal assay and hallmarking.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "工坊所有者批准客户设计及价格；正式金属成色检验及认证印记的打制由外部服务机构完成。"
+    },
+    {
+      "en": "Led bench scheduling for a 2025-04 order of 30 approved silver pendants.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-04 牵头安排一批 30 件获批银吊坠订单的台工作业。"
+    },
+    {
+      "en": "Personally fabricated 12 pieces and checked dimensions on the team’s other 18 pieces.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人制作 12 件，并核对团队其余 18 件的尺寸。"
+    },
+    {
+      "en": "The final workshop record lists all 30 pieces completed; it does not record customer receipt or sales revenue.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "最终工坊记录列明全部 30 件完成；未记录客户签收或销售收入。"
+    },
+    {
+      "en": "Separates pieces needing further surface work from items ready for owner inspection.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "将需进一步表面处理的作品与可供工坊所有者检查的作品分开。"
+    },
+    {
+      "en": "Uses bench measuring tools, approved design drawings and spreadsheet job tracking.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用台工测量工具、获批设计图及电子表格工单跟踪。"
+    },
+    {
+      "en": "Completed internal supervisor and workshop incident-reporting training in 2022-10.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2022-10 完成内部主管及工坊事件上报培训。"
+    },
+    {
+      "en": "Demonstrates approved finishing steps to junior staff and records supervised-practice sign-offs.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "向初级员工示范获批表面处理步骤，并记录受监督练习的签署确认。"
+    },
+    {
+      "en": "Volunteers with Fictional Copperleaf Craft Circle, teaching simple wire-shape exercises using nonprecious craft wire.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在虚构铜叶手工社做志愿者，使用非贵金属手工线材教授简单线形练习。"
+    },
+    {
+      "en": "Created a personal paper-and-thread necklace in 2024 for a club costume display.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2024 年为社团服装展示制作个人纸与线项链。"
+    },
+    {
+      "en": "The necklace contained no gemstones or precious metals and was not offered for commercial sale.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "该项链不含宝石或贵金属，亦未用于商业销售。"
+    },
+    {
+      "en": "Enjoys drawing knot patterns and carving decorative soap shapes.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好绘制结绳图案及雕刻装饰皂形。"
+    },
+    {
+      "en": "Maintains handovers for unfinished pieces, material returns and customer changes awaiting owner approval.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "维护交接，列明未完成作品、材料退回及待工坊所有者批准的客户变更。"
+    },
+    {
+      "en": "No gemstone grading qualification or independent precious-metal certification authority is recorded.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录宝石分级资格或独立贵金属认证权限。"
+    }
+  ]
+}

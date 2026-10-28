@@ -1,0 +1,33 @@
+{
+  "case_id": "case-149",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Campground Grounds and Supplies Assistant",
+    "zh": "露营地场地与用品助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Replenish wash-block supplies and maintain clear stock-count notes.",
+      "id": "R01",
+      "zh": "补充卫浴区用品，并维护清晰库存计数备注。"
+    },
+    {
+      "en": "Complete prescribed litter rounds and report unidentified materials without mixing them into ordinary waste.",
+      "id": "R02",
+      "zh": "完成规定垃圾巡查，并报告无法识别的材料，不将其混入普通垃圾。"
+    },
+    {
+      "en": "Report maintenance issues, display confirmed closure notices and hand over unfinished work.",
+      "id": "R03",
+      "zh": "报告维护问题、展示已确认关闭告示，并交接未完成工作。"
+    },
+    {
+      "en": "Operate ride-on grounds machinery and utility buggies after site induction.",
+      "id": "R04",
+      "zh": "在场地入职培训后操作乘坐式场地机械及运输车。"
+    }
+  ]
+}

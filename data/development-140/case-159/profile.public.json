@@ -1,0 +1,131 @@
+{
+  "case_id": "case-159",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-159",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-159",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a business administration diploma at Fictional Saffronbridge College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构藏红花桥学院获得工商管理文凭。"
+    },
+    {
+      "en": "Paid domestic order clerk at Fictional Cedarcrate Packaging from 2018-07 to 2021-05.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-07 至 2021-05 在虚构雪松箱包装公司任有薪国内订单文员。"
+    },
+    {
+      "en": "Paid international customer service specialist at Fictional Blueharbour Components from 2021-06 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2021-06 至 2026-08 在虚构蓝港零部件公司任有薪国际客户服务专员。"
+    },
+    {
+      "en": "Checks customer purchase orders against approved item codes, prices and delivery terms in the order system.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在订单系统中依据获批物料代码、价格及交付条款核对客户采购订单。"
+    },
+    {
+      "en": "Sends English order confirmations and explains confirmed dispatch dates using approved templates.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用获批模板发送英文订单确认，并解释已确认发货日期。"
+    },
+    {
+      "en": "Tracks open order lines and obtains revised availability dates from production planners.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "跟踪未完成订单行，并向生产计划人员获取修订后的供货日期。"
+    },
+    {
+      "en": "Collects shipment references and forwards document discrepancies to the logistics team.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "收集货运编号，并将单证差异转交物流团队。"
+    },
+    {
+      "en": "The logistics team and appointed broker prepare customs declarations; the candidate supplies order data.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "物流团队及指定代理编制报关单；候选人提供订单数据。"
+    },
+    {
+      "en": "Helped reconcile a 2025-11 backlog extract before the monthly customer update.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "在月度客户更新前协助核对一份 2025-11 积压订单导出记录。"
+    },
+    {
+      "en": "The extract contained 84 open order lines across 29 customer orders, not 84 separate orders.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "该导出记录包含 29 份客户订单中的 84 条未完成订单行，而非 84 份独立订单。"
+    },
+    {
+      "en": "Personally reconciled promised dates on 52 lines; a colleague handled the remaining 32 lines.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人核对 52 条订单行的承诺日期；一名同事处理其余 32 条。"
+    },
+    {
+      "en": "The reconciliation clarified missing dates on 9 lines; it did not demonstrate that those lines were shipped.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "核对工作明确了 9 条订单行缺失的日期；该工作未证明这些订单行已发货。"
+    },
+    {
+      "en": "Uses an ERP order module, spreadsheet filters and shared customer correspondence logs.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用 ERP 订单模块、电子表格筛选及共享客户往来通信日志。"
+    },
+    {
+      "en": "Completed a non-award evening course in written business English in 2020.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2020 年完成不授予资格的商务英语写作夜间课程。"
+    },
+    {
+      "en": "Uses English for routine written customer communication; no language test score or professional translation credential is recorded.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "使用英语处理日常书面客户沟通；未记录语言考试成绩或专业翻译资质。"
+    },
+    {
+      "en": "Escalates requested price exceptions and commercial disputes to the account manager.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "将客户请求的价格例外及商务争议升级交给客户经理。"
+    },
+    {
+      "en": "Volunteers with Fictional Quiltpost Community Exchange, maintaining a sign-up list for noncommercial craft swaps.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在虚构拼被邮社区交换团体做志愿者，为非商业手工交换维护报名清单。"
+    },
+    {
+      "en": "Created a personal bilingual picture glossary of invented craft tools in 2024 for enjoyment.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2024 年为消遣制作个人双语图解词汇表，内容为虚构手工工具。"
+    },
+    {
+      "en": "Enjoys making folded-paper storage boxes and drawing imaginary shop signs.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好制作折纸收纳盒及绘制想象中的店铺招牌。"
+    },
+    {
+      "en": "Prepares handovers separating confirmed dispatches, pending production dates and unresolved commercial requests.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "准备交接记录，区分已确认发货、待定生产日期及尚未解决的商务请求。"
+    }
+  ]
+}

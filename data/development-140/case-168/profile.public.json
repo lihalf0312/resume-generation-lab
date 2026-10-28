@@ -1,0 +1,155 @@
+{
+  "case_id": "case-168",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-168",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-168",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Engineering in electrical engineering at Fictional Sunreed Institute in 2016-06.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2016-06 在虚构日苇学院获得电气工程工学学士学位。"
+    },
+    {
+      "en": "Worked as a paid maintenance-records coordinator at Fictional Coppermeadow Facilities from 2016-09 to 2018-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2016-09 至 2018-12 在虚构铜甸设施公司任有薪维护记录协调员。"
+    },
+    {
+      "en": "In that role, reconciled equipment identifiers between work orders and a maintenance register and requested clarification from technicians.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该岗位核对工单与维护登记册中的设备编号，并向技术人员请求澄清。"
+    },
+    {
+      "en": "Was a paid renewable-energy data analyst at Fictional Clearwatt Monitoring from 2019-01 to 2022-07.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2019-01 至 2022-07 在虚构澄瓦监测公司任有薪可再生能源数据分析员。"
+    },
+    {
+      "en": "Served as a paid solar performance analyst at Fictional Asterbeam Services from 2022-08 to 2026-09.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2022-08 至 2026-09 在虚构星束服务公司任有薪光伏性能分析员。"
+    },
+    {
+      "en": "Reviewed inverter output, meter energy and irradiance sensor feeds for 9 assigned sites within the team's 24-site portfolio.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "审核团队 24 个站点组合中分配给个人的 9 个站点的逆变器输出、电表电量及辐照度传感器数据。"
+    },
+    {
+      "en": "Uses Python with pandas to resample time series, SQL to join device registers and Git to track analysis-script revisions.",
+      "id": "F07",
+      "kind": "skill",
+      "zh": "使用 Python 的 pandas 重采样时间序列，使用 SQL 关联设备登记册，并使用 Git 跟踪分析脚本版本。"
+    },
+    {
+      "en": "Checked site time zones, daylight-saving transitions, meter reset markers and units before comparing daily totals.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "比较每日总量前，检查站点时区、夏令时切换、电表重置标记及单位。"
+    },
+    {
+      "en": "Marked communications gaps separately from zero-output intervals and kept the original raw files alongside the processed tables.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "将通信中断与零输出时段分开标记，并在处理后表格之外保留原始文件。"
+    },
+    {
+      "en": "For a 2025-07 to 2025-09 review, personally wrote the data-quality checks and exception table; a colleague maintained the dashboard and a field engineer investigated site conditions.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在 2025-07 至 2025-09 审核中，个人编写数据质量检查与异常表；同事维护仪表板，现场工程师调查站点状况。"
+    },
+    {
+      "en": "The review used five-minute data from 6 of the assigned sites and retained a file-level record of excluded intervals.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "该审核使用所负责站点中 6 个站点的五分钟间隔数据，并保留文件级排除时段记录。"
+    },
+    {
+      "en": "The exception table flagged 36 site-time windows for investigation; these were not 36 confirmed equipment failures.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "异常表标记 36 个站点时间窗供调查；这些并非 36 起已确认的设备故障。"
+    },
+    {
+      "en": "A handoff worksheet listed 418 monitored site-days for the review, but did not state whether days with partial communications gaps were included.",
+      "id": "F13",
+      "kind": "outcome",
+      "zh": "交接工作表列出该审核涵盖 418 个监测站点日，但未说明是否包含存在部分通信中断的日期。"
+    },
+    {
+      "en": "Sent engineers a weekly evidence packet containing plots, device IDs, data-coverage notes and open questions.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "每周向工程师发送依据材料包，内含图表、设备编号、数据覆盖说明及未解决问题。"
+    },
+    {
+      "en": "Engineers confirmed physical faults and operations managers approved maintenance visits; the candidate prioritized data exceptions for their review.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "工程师确认物理故障，运营经理批准维护访问；候选人将数据异常排序供其审核。"
+    },
+    {
+      "en": "A separate 2026-02 desktop exercise estimated 68.4 MWh of potential recovery across 3 selected sites using a colleague's baseline workbook.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "另一项 2026-02 桌面分析使用同事的基准工作簿，估算 3 个选定站点的潜在可恢复电量为 68.4 MWh。"
+    },
+    {
+      "en": "The exercise notes say the baseline was adjusted, but the retained copy does not specify whether the adjustment included weather normalization.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "该分析笔记称基准已经调整，但保留副本未说明调整是否包括气象归一化。"
+    },
+    {
+      "en": "The 68.4 MWh figure was a modeled opportunity before field work; no post-maintenance recovered-energy measurement was attached.",
+      "id": "F18",
+      "kind": "outcome",
+      "zh": "68.4 MWh 是现场工作开展前通过模型估算的潜在可恢复电量；未附维护后的恢复电量实测值。"
+    },
+    {
+      "en": "Maintains small test datasets for midnight boundaries, duplicate timestamps and negative cumulative-meter differences.",
+      "id": "F19",
+      "kind": "skill",
+      "zh": "维护小型测试数据集，覆盖午夜边界、重复时间戳及累计电表读数出现负差值的情况。"
+    },
+    {
+      "en": "Explained data-coverage caveats in English and Mandarin during monthly analyst-operations calls.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "在每月分析员与运营人员会议中，用英语和普通话解释数据覆盖范围的限制。"
+    },
+    {
+      "en": "Completed an internal photovoltaic-system overview course in 2020-11; holds no electrical installation or commissioning credential.",
+      "id": "F21",
+      "kind": "education",
+      "zh": "2020-11 完成内部光伏系统概览课程；未持有电气安装或调试资格。"
+    },
+    {
+      "en": "Built a personal indoor-temperature logger in 2024 and plotted gaps caused by battery changes.",
+      "id": "F22",
+      "kind": "project",
+      "zh": "2024 年制作个人室内温度记录器，并绘图展示更换电池导致的数据间断。"
+    },
+    {
+      "en": "Enjoys repairing analog synthesizer knobs and keeping a handwritten listening journal.",
+      "id": "F23",
+      "kind": "other",
+      "zh": "爱好修理模拟合成器旋钮，并手写聆听日记。"
+    },
+    {
+      "en": "Volunteered at Fictional Lanternpond Community Hall during 2023, preparing the rota for a weekly board-game room.",
+      "id": "F24",
+      "kind": "other",
+      "zh": "2023 年在虚构灯塘社区会堂做志愿者，为每周桌游活动室编排值班表。"
+    }
+  ]
+}

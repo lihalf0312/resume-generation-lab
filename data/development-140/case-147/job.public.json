@@ -1,0 +1,38 @@
+{
+  "case_id": "case-147",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Beekeeping Supplies Retail Assistant",
+    "zh": "养蜂用品零售助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Pick and identify beekeeping equipment using approved product codes and listed dimensions.",
+      "id": "R01",
+      "zh": "依据获批产品代码及所列尺寸拣选并识别养蜂设备。"
+    },
+    {
+      "en": "Reconcile sealed packs and loose components without treating components as complete assemblies.",
+      "id": "R02",
+      "zh": "核对密封包及散装组件，不将组件视为完整组装件。"
+    },
+    {
+      "en": "Prepare dispatched and reserved orders with traceable customer notifications.",
+      "id": "R03",
+      "zh": "准备发货及预留订单，并保留可追溯客户通知。"
+    },
+    {
+      "en": "Handle routine till sales and direct specialist or refund questions to the responsible colleague.",
+      "id": "R04",
+      "zh": "处理常规收银销售，并将专业或退款问题转交负责同事。"
+    },
+    {
+      "en": "Preferred: lead customer demonstrations of assembling wooden hive equipment.",
+      "id": "R05",
+      "zh": "优先：为客户主持木制蜂箱设备组装演示。"
+    }
+  ]
+}

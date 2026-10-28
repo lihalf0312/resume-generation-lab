@@ -1,0 +1,131 @@
+{
+  "case_id": "case-152",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-152",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-152",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a computing diploma at Fictional Juniperbyte College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构杜松字节学院获得计算机文凭。"
+    },
+    {
+      "en": "Paid junior front-end developer at Fictional Mossframe Digital from 2024-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-02 至 2026-08 在虚构苔框数字公司任有薪初级前端开发人员。"
+    },
+    {
+      "en": "Implements HTML, CSS and JavaScript changes from reviewed interface tickets.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据经审核的界面工单实施 HTML、CSS 及 JavaScript 修改。"
+    },
+    {
+      "en": "Added explicit form labels, visible focus styles and keyboard-operable disclosure buttons to client pages.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "为客户页面添加显式表单标签、可见的焦点样式及可用键盘操作的展开/收起按钮。"
+    },
+    {
+      "en": "Tests assigned pages using keyboard navigation and a screen reader, recording the browser and test steps.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用键盘导航及屏幕阅读器测试获分配页面，并记录浏览器及测试步骤。"
+    },
+    {
+      "en": "Triages automated accessibility warnings with a senior developer rather than treating every warning as a confirmed defect.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "与高级开发人员共同筛查自动化无障碍检测警告，而非将每条警告都视为已确认的缺陷。"
+    },
+    {
+      "en": "Worked on a team refresh of 12 public information pages in 2025-09.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "2025-09 参与团队对 12 个公共信息页面的更新。"
+    },
+    {
+      "en": "Personally implemented changes on 4 of those pages and reviewed keyboard test notes for 2 other pages.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "个人在其中 4 个页面实施修改，并审核另外 2 个页面的键盘测试记录。"
+    },
+    {
+      "en": "The team closed 28 tracked tickets during the refresh; the source does not assign all closures to the candidate.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "团队在更新期间关闭 28 个跟踪工单；资料未将全部关闭归因于候选人。"
+    },
+    {
+      "en": "A senior developer approved merges, and the delivery lead approved client release.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "高级开发人员批准合并，交付负责人批准向客户发布。"
+    },
+    {
+      "en": "Uses Git pull requests, browser developer tools and an issue tracker in the development workflow.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "在开发流程中使用 Git 拉取请求、浏览器开发者工具及问题跟踪系统。"
+    },
+    {
+      "en": "Writes concise test notes explaining the affected interaction and remaining limitations.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "撰写简洁测试记录，说明受影响交互及仍存限制。"
+    },
+    {
+      "en": "Completed an online introduction to inclusive interface design in 2024-07; it was not a professional certification.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-07 完成在线包容性界面设计入门课程；该课程并非专业认证。"
+    },
+    {
+      "en": "Built a personal React reading-list app in 2023 with local browser storage and sample book titles.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2023 年制作个人 React 阅读清单应用，使用浏览器本地存储及示例书名。"
+    },
+    {
+      "en": "That app had no server account system, payment flow or production client deployment.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "该应用没有服务端账户系统、支付流程或客户生产部署。"
+    },
+    {
+      "en": "Volunteered at Fictional Codeleaf Weekend Club from 2022-10 to 2023-06.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2022-10 至 2023-06 在虚构代码叶周末社做志愿者。"
+    },
+    {
+      "en": "At the club, helped beginners trace simple HTML errors in supervised practice exercises.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "在该社协助初学者排查受监督练习中的简单 HTML 错误。"
+    },
+    {
+      "en": "Enjoys designing fictional board-game cards and playing casual table tennis.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好设计虚构桌游卡牌及休闲乒乓球。"
+    },
+    {
+      "en": "Demonstrates completed ticket changes at internal fortnightly reviews.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "在内部每两周一次的评审中演示已完成工单修改。"
+    },
+    {
+      "en": "No responsibility for certifying an entire website against a formal accessibility standard is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录负责依据正式无障碍标准认证整个网站的职责。"
+    }
+  ]
+}

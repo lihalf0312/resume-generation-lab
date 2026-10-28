@@ -1,0 +1,28 @@
+{
+  "case_id": "case-142",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Stone Workshop Materials Assistant",
+    "zh": "石材工坊材料助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Check approved material references and document deliveries and visible packaging exceptions.",
+      "id": "R01",
+      "zh": "核对获批材料编号，并记录到货及可见包装异常。"
+    },
+    {
+      "en": "Prepare specified small-material job bundles and maintain shelf-code records.",
+      "id": "R02",
+      "zh": "准备指定小型材料工单配料包，并维护货架代码记录。"
+    },
+    {
+      "en": "Maintain clear open-request, code-confirmation and shift-handover records.",
+      "id": "R03",
+      "zh": "维护清晰的未完成请求、代码确认及轮班交接记录。"
+    }
+  ]
+}

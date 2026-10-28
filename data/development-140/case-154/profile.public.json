@@ -1,0 +1,131 @@
+{
+  "case_id": "case-154",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-154",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-154",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a diploma in instrumentation at Fictional Silvergauge Institute in 2017.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2017 年在虚构银量规学院获得仪器仪表文凭。"
+    },
+    {
+      "en": "Paid laboratory technician at Fictional Cedarstandard Instruments from 2018-04 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-04 至 2026-08 在虚构雪松标准仪器公司任有薪实验室技术员。"
+    },
+    {
+      "en": "Performs assigned bench comparisons for temperature probes using the laboratory’s approved procedure.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据实验室获批程序，对温度探头执行分配的台架比对。"
+    },
+    {
+      "en": "Records instrument serial numbers, reference-equipment IDs and environmental readings on controlled worksheets.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在受控工作表上记录仪器序列号、参考设备编号及环境读数。"
+    },
+    {
+      "en": "Calculates specified differences in a validated spreadsheet and flags results outside the stated acceptance band.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在经验证的电子表格中计算指定差值，并标记超出规定接受范围的结果。"
+    },
+    {
+      "en": "The authorized signatory reviews results and issues calibration certificates; the candidate prepares the supporting worksheet.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "授权签字人审核结果并签发校准证书；候选人准备支持工作表。"
+    },
+    {
+      "en": "Keeps incoming instruments separate from items cleared for return and logs unresolved identification issues.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "将送检仪器与获准退回的仪器分开存放，并记录尚未解决的仪器标识问题。"
+    },
+    {
+      "en": "Helped revise the serial-number transcription checklist in 2025-06.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-06 协助修订序列号抄录核对表。"
+    },
+    {
+      "en": "Personally compared old and proposed worksheet layouts using 30 fictional test records.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人使用 30 条虚构测试记录比较旧工作表与拟议版式。"
+    },
+    {
+      "en": "A team note describes roughly 12% fewer transcription corrections after the trial, but the baseline count and observation window are absent.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "一份团队备注称试行后抄录更正约减少 12%，但缺少基线数量及观察时段。"
+    },
+    {
+      "en": "The available note does not isolate the checklist’s effect from other changes made during the same period.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "现有备注未将核对表的影响与同期其他变更的影响区分开。"
+    },
+    {
+      "en": "Uses controlled worksheets, spreadsheet formulas and a laboratory equipment register.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用受控工作表、电子表格公式及实验室设备登记册。"
+    },
+    {
+      "en": "Completed internal procedure refresher sessions in 2024-02 and 2025-02.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-02 及 2025-02 完成内部程序复训。"
+    },
+    {
+      "en": "Reports overdue reference-equipment checks to the laboratory supervisor before starting affected work.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "开始受影响工作前，向实验室主管报告参考设备检查逾期情况。"
+    },
+    {
+      "en": "Explains worksheet completion to new technicians under the supervisor’s training plan.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "按主管培训计划向新技术员讲解工作表填写。"
+    },
+    {
+      "en": "Volunteered at Fictional Clockfern Makers Club from 2020-01 to 2022-05, organizing donated craft materials.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2020-01 至 2022-05 在虚构钟蕨创客社做志愿者，整理捐赠手工材料。"
+    },
+    {
+      "en": "Built a personal cardboard clock-face model in 2023 for a club display; it had no measuring mechanism.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年为社团展示制作个人纸板钟面模型；该模型没有测量机构。"
+    },
+    {
+      "en": "Enjoys photographing geometric shadows and making paper sundial decorations.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好拍摄几何阴影及制作纸日晷装饰。"
+    },
+    {
+      "en": "Maintains handovers listing incomplete measurements, held instruments and worksheets awaiting review.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "维护交接记录，列明未完成测量、暂留仪器及待审核工作表。"
+    },
+    {
+      "en": "No authority to approve uncertainty budgets or issue final calibration certificates is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录批准不确定度预算或签发最终校准证书的权限。"
+    }
+  ]
+}

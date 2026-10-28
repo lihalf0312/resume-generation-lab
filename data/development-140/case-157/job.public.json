@@ -1,0 +1,33 @@
+{
+  "case_id": "case-157",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Apparel Pattern Development Lead",
+    "zh": "服装制版开发负责人"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Develop and revise woven-garment patterns from drawings, specifications and fit feedback.",
+      "id": "R01",
+      "zh": "依据图纸、规格及试穿反馈开发并修改梭织服装纸样。"
+    },
+    {
+      "en": "Coordinate technical pattern work and maintain clear revision and approval records.",
+      "id": "R02",
+      "zh": "协调制版技术工作，并维护清晰修改及审批记录。"
+    },
+    {
+      "en": "Communicate construction details effectively with sample-room colleagues.",
+      "id": "R03",
+      "zh": "与样衣室同事有效沟通制作细节。"
+    },
+    {
+      "en": "Preferred: independently approve final production patterns and conduct staff performance appraisals.",
+      "id": "R04",
+      "zh": "优先：独立批准最终生产纸样，并开展员工绩效评估。"
+    }
+  ]
+}

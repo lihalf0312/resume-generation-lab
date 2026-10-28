@@ -1,0 +1,125 @@
+{
+  "case_id": "case-162",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-162",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-162",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a bicycle repair certificate at Fictional Spokefield Training Centre in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构辐田培训中心完成自行车维修证书课程。"
+    },
+    {
+      "en": "Paid trainee technician at Fictional Cloverhub Cycles from 2023-07 to 2024-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2023-07 至 2024-06 在虚构三叶轮毂自行车店任有薪见习技术员。"
+    },
+    {
+      "en": "Paid workshop technician at the same shop from 2024-07 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2024-07 至 2026-08 在同一店铺任有薪工坊技术员。"
+    },
+    {
+      "en": "Replaces inner tubes, chains and brake cables on conventional pedal bicycles using the shop’s work instructions.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据店铺作业说明，为普通脚踏自行车更换内胎、链条及刹车线。"
+    },
+    {
+      "en": "Checks wheel seating, brake operation and gear changes against the post-repair checklist.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据维修后核对表检查车轮是否安装到位、刹车功能及变速情况。"
+    },
+    {
+      "en": "Writes the replaced parts and observed issues on each work card before supervisor review.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "在主管审核前，将已更换零件及观察到的问题写入各工单。"
+    },
+    {
+      "en": "The senior mechanic signs the release check; the candidate does not authorize release of repaired bicycles.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "高级技师签署交车检查；候选人不授权维修后自行车交付。"
+    },
+    {
+      "en": "Helped reorganize the common-cable storage rack in 2025-03.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-03 协助重整常用线缆存放架。"
+    },
+    {
+      "en": "Personally measured and labelled 14 storage compartments; the senior mechanic approved the part categories.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人测量并标注 14 个存放格；零件分类由高级技师批准。"
+    },
+    {
+      "en": "A one-day 2025-10 work-card sample lists 9 bicycles handled by the candidate, including 2 awaiting supervisor release at closing.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "一份 2025-10 单日工单抽样列出候选人处理的 9 辆自行车，其中 2 辆在关店时仍待主管批准交付。"
+    },
+    {
+      "en": "The sample does not establish that the 2 pending bicycles were delivered that day.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该抽样未证明 2 辆待批准自行车在当天交付。"
+    },
+    {
+      "en": "Uses hand tools, work-card records and a parts catalogue for assigned mechanical repairs.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用手工具、工单记录及零件目录完成分配的机械维修。"
+    },
+    {
+      "en": "Completed the shop’s internal workbench and tool induction in 2023-07.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2023-07 完成店铺内部工作台及工具入职培训。"
+    },
+    {
+      "en": "Volunteered with Fictional Fernwheel Leisure Rides in 2022, preparing route handouts and a sign-in table.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2022 年在虚构蕨轮休闲骑行团做志愿者，准备路线说明及签到台。"
+    },
+    {
+      "en": "Built a personal wooden bicycle display stand in 2024 from a supplied craft plan.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2024 年依据提供的手工方案制作个人木制自行车展示架。"
+    },
+    {
+      "en": "Enjoys recreational cycling and sketching imagined frame colour schemes.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "爱好休闲骑行及绘制想象中的车架配色。"
+    },
+    {
+      "en": "Explains supervisor-approved repair notes to customers and refers additional work requests for a new estimate.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "向客户说明主管批准的维修记录，并将新增维修请求转交以重新报价。"
+    },
+    {
+      "en": "Keeps bicycles with unresolved faults labelled and separate from the collection area.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "为存在未解决故障的自行车贴标，并与取车区分开存放。"
+    },
+    {
+      "en": "No electrical diagnosis, battery servicing or powered-drive repair work is recorded.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "未记录电气诊断、电池维护或动力驱动系统维修工作。"
+    }
+  ]
+}

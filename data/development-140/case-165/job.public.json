@@ -1,0 +1,28 @@
+{
+  "case_id": "case-165",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Recreation Course Programme Assistant",
+    "zh": "康乐课程项目助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate recreation course calendars, room use and instructor information.",
+      "id": "R01",
+      "zh": "协调康乐课程日历、房间使用及讲师信息。"
+    },
+    {
+      "en": "Maintain enrolment and waiting-list records without confusing capacity with attendance.",
+      "id": "R02",
+      "zh": "维护报名及候补名单记录，避免混淆容量与出席人数。"
+    },
+    {
+      "en": "Communicate approved programme information and route content or policy exceptions appropriately.",
+      "id": "R03",
+      "zh": "沟通获批项目信息，并适当转交内容或政策例外问题。"
+    }
+  ]
+}

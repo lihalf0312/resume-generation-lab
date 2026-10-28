@@ -1,0 +1,33 @@
+{
+  "case_id": "case-175",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Animation Production Assistant",
+    "zh": "动画制作助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain accurate shot and version records within an animation production workflow.",
+      "id": "R01",
+      "zh": "在动画制作流程中维护准确镜头及版本记录。"
+    },
+    {
+      "en": "Organize review materials and track approved follow-up actions.",
+      "id": "R02",
+      "zh": "组织评审资料，并跟踪获批后续行动。"
+    },
+    {
+      "en": "Escalate missing submissions and version conflicts through clear handovers.",
+      "id": "R03",
+      "zh": "通过清晰交接升级上报缺失提交内容及版本冲突。"
+    },
+    {
+      "en": "Preferred: deliver professional character animation shots independently.",
+      "id": "R04",
+      "zh": "优先：独立交付专业角色动画镜头。"
+    }
+  ]
+}

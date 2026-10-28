@@ -1,0 +1,137 @@
+{
+  "case_id": "case-161",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-161",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-161",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a media operations diploma at Fictional Brackenair College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构蕨空学院完成媒体运营文凭课程。"
+    },
+    {
+      "en": "Paid scheduling assistant at Fictional Meadowtone Radio from 2018-10 to 2021-07.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-10 至 2021-07 在虚构草音广播电台任有薪排程助理。"
+    },
+    {
+      "en": "Paid traffic coordinator at Fictional Lanternsignal Broadcasting from 2021-08 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2021-08 至 2026-08 在虚构灯讯广播公司任有薪播出编排协调员。"
+    },
+    {
+      "en": "Builds draft daily programme logs from approved programme times, advertising bookings and continuity notes.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据获批节目时间、广告预订及节目衔接备注编制每日节目日志草稿。"
+    },
+    {
+      "en": "Checks booked durations and identifies overlaps or unfilled intervals before the log goes for approval.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "核对预订时长，并在日志送审前识别重叠或未填充时段。"
+    },
+    {
+      "en": "Matches audio asset codes to the approved campaign versions and records items awaiting delivery.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将音频素材代码与获批广告活动版本匹配，并记录待交付素材。"
+    },
+    {
+      "en": "The duty editor approves the programme log; the playout operator handles live transmission.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "值班编辑批准节目日志；播出操作员负责实时播出。"
+    },
+    {
+      "en": "Sends approved timing changes to programme teams and keeps the revision time on the shared schedule.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "向节目团队发送获批时间调整，并在共享排程上保留修订时间。"
+    },
+    {
+      "en": "Coordinated log reconciliation for a 2025-12 holiday broadcast week.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "为 2025-12 假日播出周协调日志核对。"
+    },
+    {
+      "en": "The booking sheet listed 96 advertising placements, including 12 subsequently cancelled placements.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "预订表列出 96 个广告投放位，其中包含 12 个后来取消的投放位。"
+    },
+    {
+      "en": "The available sheet recorded 84 remaining bookings but did not confirm that all were broadcast.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "现有表单记录 84 个剩余预订，但未确认全部已播出。"
+    },
+    {
+      "en": "Personally checked campaign version codes and cancellation notes; a colleague reconciled invoice references.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人核对广告活动版本代码及取消备注；一名同事核对发票编号。"
+    },
+    {
+      "en": "Uses a broadcast scheduling application, asset-code searches and spreadsheet time calculations.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用播出排程应用、素材代码检索及电子表格时间计算。"
+    },
+    {
+      "en": "Completed an internal introduction to programme-log standards in 2022-02.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2022-02 完成内部节目日志标准入门培训。"
+    },
+    {
+      "en": "Logs last-minute asset substitutions and obtains editor approval before distributing an amended schedule.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "记录临时素材替换，并在分发修订排程前取得编辑批准。"
+    },
+    {
+      "en": "Volunteered with Fictional Paperantenna Drama Circle from 2016-09 to 2018-06.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2016-09 至 2018-06 在虚构纸天线戏剧社做志愿者。"
+    },
+    {
+      "en": "For that circle, organized rehearsal notices and collected performers’ availability.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "为该社组织排练通知，并收集演员可参加的时间。"
+    },
+    {
+      "en": "Made a personal 6-minute fictional radio sketch in 2024 with 2 friends; personally wrote the continuity links.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2024 年与 2 名朋友制作个人 6 分钟虚构广播短剧；个人撰写节目衔接词。"
+    },
+    {
+      "en": "The sketch was played at a private gathering, with no commercial airtime or audience measurement recorded.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "该短剧在私人聚会上播放，未记录商业播出时段或受众测量。"
+    },
+    {
+      "en": "Enjoys designing imaginary station badges and collecting paper collage textures.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好设计想象中的电台徽章及收集纸艺拼贴纹理。"
+    },
+    {
+      "en": "Provides end-of-shift handovers covering missing assets, unresolved timing conflicts and changes awaiting approval.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "提供班末交接，涵盖缺失素材、未解决时间冲突及待批准变更。"
+    }
+  ]
+}

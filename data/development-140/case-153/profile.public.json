@@ -1,0 +1,131 @@
+{
+  "case_id": "case-153",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-153",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-153",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a furniture-making apprenticeship at Fictional Alderchisel Guild in 2011.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2011 年在虚构桤凿行会完成家具制作学徒培训。"
+    },
+    {
+      "en": "Paid display maker at Fictional Ivoryhinge Exhibits from 2011-09 to 2017-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2011-09 至 2017-12 在虚构象牙铰展陈公司任有薪展示装置制作员。"
+    },
+    {
+      "en": "Paid workshop supervisor at Fictional Lanternplinth Museum Services from 2018-01 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2018-01 至 2026-08 在虚构灯台博物馆服务公司任有薪工坊主管。"
+    },
+    {
+      "en": "Line-manages 5 fabricators, allocating approved jobs and conducting scheduled development conversations.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "直接管理 5 名制作员，分配获批工单，并定期开展员工发展沟通。"
+    },
+    {
+      "en": "Translates approved exhibit drawings into workshop cut lists, material reservations and assembly sequences.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将获批展陈图纸转化为工坊下料清单、材料预留及装配顺序。"
+    },
+    {
+      "en": "Checks completed nonstructural display furniture against approved dimensions before arranging client inspection.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "安排客户检查前，依据获批尺寸核对已完成的非结构性展示家具。"
+    },
+    {
+      "en": "An external engineer approves load-bearing structures; the candidate does not sign engineering calculations.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "承重结构由外部工程师批准；候选人不签署工程计算。"
+    },
+    {
+      "en": "Requests material quotations and recommends purchases within the assigned workshop budget.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在获分配工坊预算范围内索取材料报价并提出采购建议。"
+    },
+    {
+      "en": "The operations director signs supplier contracts and approves changes to the overall project budget.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "运营总监签署供应商合同，并批准整体项目预算变更。"
+    },
+    {
+      "en": "Led workshop delivery for a 2025-04 travelling display comprising 16 modular nonstructural plinths.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-04 牵头完成巡展的工坊交付，包含 16 个模块化非结构性展台。"
+    },
+    {
+      "en": "Personally created the assembly sequence and supervised fit checks; a designer supplied the visual concept.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人制定装配顺序并监督适配检查；视觉概念由设计师提供。"
+    },
+    {
+      "en": "Workshop records show 15 plinths accepted at the first client inspection and 1 accepted after a surface-finish correction.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "工坊记录显示，15 个展台在首次客户检查时通过验收，1 个在修正表面饰面后通过验收。"
+    },
+    {
+      "en": "All 16 were accepted before the agreed dispatch date; the record gives no comparison with previous projects.",
+      "id": "F13",
+      "kind": "outcome",
+      "zh": "全部 16 个展台均在约定发货日期前通过验收；记录未提供与既往项目的比较。"
+    },
+    {
+      "en": "Uses CAD drawings, workshop scheduling boards and spreadsheet materials forecasts.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用 CAD 图纸、工坊排程板及电子表格材料预测。"
+    },
+    {
+      "en": "Completed internal supervisor training on incident escalation and workshop induction in 2018-02.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2018-02 完成有关事件升级上报及工坊入职培训的内部主管培训。"
+    },
+    {
+      "en": "Maintains training sign-off records and arranges supervised practice before assigning unfamiliar tasks.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "维护培训签署记录，并在分配不熟悉任务前安排受监督练习。"
+    },
+    {
+      "en": "Volunteers with Fictional Coppersprig Repair Circle, helping repair small non-electrical household items.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在虚构铜芽修理社做志愿者，协助修理小型非电器家居物品。"
+    },
+    {
+      "en": "Co-built a personal tabletop puppet theatre in 2022 with a sibling; personally made the folding frame.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2022 年与一名兄弟姐妹共同制作个人桌面木偶剧场；个人制作折叠框架。"
+    },
+    {
+      "en": "Enjoys carving abstract wooden stamps during leisure time.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好在闲暇时雕刻抽象木印章。"
+    },
+    {
+      "en": "Runs weekly workshop planning meetings and communicates capacity constraints to project managers.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "主持每周工坊计划会议，并向项目经理沟通产能限制。"
+    }
+  ]
+}

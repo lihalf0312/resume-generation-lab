@@ -1,0 +1,119 @@
+{
+  "case_id": "case-165",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-165",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-165",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed an office administration diploma at Fictional Mintcourt College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构薄荷庭学院完成办公室行政文凭课程。"
+    },
+    {
+      "en": "Paid appointment clerk at Fictional Birchroom Services from 2020-09 to 2023-01.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-09 至 2023-01 在虚构桦室服务公司任有薪预约文员。"
+    },
+    {
+      "en": "In that role, checked room bookings, sent reminders and recorded cancellations.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该职位核对房间预订、发送提醒并记录取消事项。"
+    },
+    {
+      "en": "Paid recreation programme assistant at Fictional Willowcourt Community Centre from 2023-02 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-08 在虚构柳庭社区中心任有薪康乐项目助理。"
+    },
+    {
+      "en": "Maintains course calendars from approved instructor availability and room allocations.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据获批讲师可用时间及房间分配维护课程日历。"
+    },
+    {
+      "en": "Processes enrolment changes within the centre’s documented booking rules and escalates fee exceptions.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "按中心有文档记录的预订规则处理报名变更，并升级上报费用例外。"
+    },
+    {
+      "en": "Checks waiting-list order before offering spaces released by confirmed cancellations.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在提供因已确认取消而释放的名额前，核对候补名单顺序。"
+    },
+    {
+      "en": "Helped prepare the 2025-09 autumn course schedule across 3 activity rooms.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "协助编制覆盖 3 间活动室的 2025-09 秋季课程表。"
+    },
+    {
+      "en": "The approved schedule offered 14 courses with 168 enrolment places; those places were capacity, not confirmed participants.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "获批课程表提供 14 门课程，共 168 个报名名额；这些名额为容量，而非已确认参与者人数。"
+    },
+    {
+      "en": "Personally checked room conflicts and printed course information; the programme manager approved the course mix.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人核对房间冲突并印制课程信息；项目经理批准课程组合。"
+    },
+    {
+      "en": "Uses booking software, shared calendars and spreadsheet waiting lists.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用预订软件、共享日历及电子表格候补名单。"
+    },
+    {
+      "en": "Prepares instructor packs containing approved class lists, room details and contact procedures.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "准备讲师资料包，包含获批班级名单、房间信息及联系流程。"
+    },
+    {
+      "en": "Completed the centre’s internal visitor-support induction in 2023-02.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2023-02 完成中心内部访客支持入职培训。"
+    },
+    {
+      "en": "Volunteered with Fictional Pinechalk Sketch Club from 2018-05 to 2020-02, arranging drawing materials.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2018-05 至 2020-02 在虚构松粉笔素描社做志愿者，安排绘画材料。"
+    },
+    {
+      "en": "Co-created a personal booklet of imaginary park drawing prompts in 2024 with a friend; personally laid out the pages.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "2024 年与一名朋友共同制作个人想象公园绘画提示小册子；个人负责页面排版。"
+    },
+    {
+      "en": "Enjoys casual badminton and folding paper bookmarks, without any recorded sports coaching appointment.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "爱好休闲羽毛球及折纸书签，未记录任何体育教练任命。"
+    },
+    {
+      "en": "Keeps cancellations, unfilled places and refund requests separate in end-of-week programme summaries.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "在每周结束时的项目汇总中分别记录取消事项、空余名额及退款请求。"
+    },
+    {
+      "en": "Refers class-content questions to the assigned instructor and policy exceptions to the programme manager.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "将课程内容问题转交指定讲师，将政策例外转交项目经理。"
+    }
+  ]
+}

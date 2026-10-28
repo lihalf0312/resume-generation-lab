@@ -1,0 +1,33 @@
+{
+  "case_id": "case-163",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Packaging Development Engineer",
+    "zh": "包装开发工程师"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Develop protective inserts from product requirements and produce controlled drawings.",
+      "id": "R01",
+      "zh": "依据产品要求开发保护性插衬，并制作受控图纸。"
+    },
+    {
+      "en": "Plan internal trials and interpret sample-level observations without overstating field reliability.",
+      "id": "R02",
+      "zh": "规划内部试验，并解释样品级观察结果，不夸大现场可靠性。"
+    },
+    {
+      "en": "Coordinate suppliers and production training while observing material-specification approval boundaries.",
+      "id": "R03",
+      "zh": "协调供应商及生产培训，同时遵守材料规格审批权限边界。"
+    },
+    {
+      "en": "Preferred: independently certify packaging for hazardous-goods transport.",
+      "id": "R04",
+      "zh": "优先：独立认证危险货物运输包装。"
+    }
+  ]
+}

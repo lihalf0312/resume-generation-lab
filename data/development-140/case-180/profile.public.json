@@ -1,0 +1,143 @@
+{
+  "case_id": "case-180",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-180",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-180",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned an archive support diploma at Fictional Quillshore College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构羽岸学院获得档案支持文凭。"
+    },
+    {
+      "en": "Paid digitization assistant at Fictional Cedarvoice Heritage Centre from 2024-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 在虚构雪松声遗产中心任有薪数字化助理。"
+    },
+    {
+      "en": "Transfers assigned oral-history audio carriers using the centre’s approved workstation settings and handling instructions.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "使用中心获批工作站设置及操作说明，转录分配的口述历史音频载体。"
+    },
+    {
+      "en": "Records carrier labels, file identifiers and capture-session notes in the collection register.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在馆藏登记册记录载体标签、文件编号及采集会话备注。"
+    },
+    {
+      "en": "Checks whether captured files open and compares their beginning and ending against the source carrier.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "检查采集文件能否打开，并将其开头及结尾与源载体比较。"
+    },
+    {
+      "en": "The audio specialist sets restoration methods; the archivist approves descriptive records and public access status.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "音频专家设定修复方法；档案馆员批准描述记录及公开访问状态。"
+    },
+    {
+      "en": "Helped digitize a 2025-05 pilot group of 32 audio cassettes.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "协助将一批 2025-05 试点的 32 盒录音带数字化。"
+    },
+    {
+      "en": "The pilot produced 61 capture files because several cassettes required separate side or segment files.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "该试点生成 61 个采集文件，因为数盒录音带需要分成不同磁带面或片段文件。"
+    },
+    {
+      "en": "Personally transferred 14 cassettes; another assistant handled the remaining 18 cassettes.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人转录 14 盒录音带；另一名助理处理其余 18 盒。"
+    },
+    {
+      "en": "The source does not state that the 61 capture files represent 61 unique interviews or that all were publicly released.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "资料未说明 61 个采集文件代表 61 次不同访谈，亦未说明全部公开发布。"
+    },
+    {
+      "en": "Flags unreadable labels and conflicting donor descriptions for archival review rather than silently correcting them.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "标记无法辨读的标签及相互冲突的捐赠者描述，交由档案人员审核，而不在未作说明的情况下自行更正。"
+    },
+    {
+      "en": "For one pilot cassette, the carrier label states 1988 and its donor list states 1989; the interview year remains unresolved.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "试点中一盒录音带的载体标签写明 1988，捐赠者清单写明 1989；访谈年份尚未确定。"
+    },
+    {
+      "en": "Uses audio capture software, file checksum tools and spreadsheet collection registers.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用音频采集软件、文件校验和工具及电子表格馆藏登记册。"
+    },
+    {
+      "en": "Compares copied-file checksums after transfer to managed storage and records any mismatch for technical review.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "文件转存至受管理存储后比较副本校验和，并记录不匹配情况供技术审核。"
+    },
+    {
+      "en": "Completed internal carrier handling and file-storage induction in 2024-01.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2024-01 完成内部载体操作及文件存储入职培训。"
+    },
+    {
+      "en": "Volunteered with Fictional Storyquay Memory Club in 2022, arranging chairs and collecting event feedback cards.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2022 年在虚构故事码头记忆社做志愿者，摆放椅子并收集活动反馈卡。"
+    },
+    {
+      "en": "Recorded a personal 12-minute fictional family-history play in 2024 with 2 relatives.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年与 2 名亲属录制个人 12 分钟虚构家族史短剧。"
+    },
+    {
+      "en": "Personally assembled the audio clips; relatives wrote and performed the fictional dialogue.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "个人拼接音频片段；亲属撰写并表演虚构对白。"
+    },
+    {
+      "en": "The play was shared privately and was not part of the heritage centre’s archival collection.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "该短剧仅私下分享，不属于遗产中心档案馆藏。"
+    },
+    {
+      "en": "Enjoys making paper cassette-box illustrations and listening to instrumental music.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好绘制纸质磁带盒插画及聆听器乐。"
+    },
+    {
+      "en": "Maintains daily handovers listing untransferred carriers, label questions and files awaiting access review.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "维护每日交接，列明未转录载体、标签问题及待访问权限审核文件。"
+    },
+    {
+      "en": "No independent authority to clear copyright or authorize public release is recorded.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "未记录独立办理版权许可或授权公开发布的权限。"
+    }
+  ]
+}

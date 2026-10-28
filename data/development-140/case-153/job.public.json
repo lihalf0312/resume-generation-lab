@@ -1,0 +1,33 @@
+{
+  "case_id": "case-153",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Exhibit Fabrication Workshop Supervisor",
+    "zh": "展陈制作工坊主管"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Supervise a fabrication team, allocate work and maintain training records.",
+      "id": "R01",
+      "zh": "监督制作团队，分配工作并维护培训记录。"
+    },
+    {
+      "en": "Plan nonstructural exhibit fabrication from approved drawings and manage fit and finish checks.",
+      "id": "R02",
+      "zh": "依据获批图纸规划非结构性展陈制作，并管理适配及饰面检查。"
+    },
+    {
+      "en": "Coordinate materials and workshop capacity while respecting purchasing and engineering approval limits.",
+      "id": "R03",
+      "zh": "协调材料与工坊产能，同时遵守采购及工程审批权限限制。"
+    },
+    {
+      "en": "Preferred: hold independent sign-off authority for load-bearing exhibit structures.",
+      "id": "R04",
+      "zh": "优先：拥有承重展陈结构的独立签批权限。"
+    }
+  ]
+}

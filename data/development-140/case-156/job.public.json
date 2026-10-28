@@ -1,0 +1,33 @@
+{
+  "case_id": "case-156",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Audiobook Dialogue Editor",
+    "zh": "有声书对白编辑"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Edit audiobook dialogue against approved scripts while preserving clear review notes.",
+      "id": "R01",
+      "zh": "依据获批脚本编辑有声书对白，同时保留清晰审核记录。"
+    },
+    {
+      "en": "Maintain timecoded pickup requests and accurate chapter-delivery records.",
+      "id": "R02",
+      "zh": "维护带时间码的补录请求及准确章节交付记录。"
+    },
+    {
+      "en": "Use a digital audio workstation and distinguish final programme duration from the duration of raw recordings.",
+      "id": "R03",
+      "zh": "使用数字音频工作站，并区分最终节目时长与原始录音时长。"
+    },
+    {
+      "en": "Preferred: independently master distribution audio and approve final delivery levels.",
+      "id": "R04",
+      "zh": "优先：独立制作发行母带，并批准最终交付电平。"
+    }
+  ]
+}

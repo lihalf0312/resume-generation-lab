@@ -1,0 +1,38 @@
+{
+  "case_id": "case-180",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Oral History Digitization Assistant",
+    "zh": "口述历史数字化助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Digitize assigned oral-history carriers using approved settings and traceable capture notes.",
+      "id": "R01",
+      "zh": "使用获批设置及可追溯采集备注，将分配的口述历史载体数字化。"
+    },
+    {
+      "en": "Check captured files and verify copies in managed storage using checksums.",
+      "id": "R02",
+      "zh": "检查采集文件，并使用校验和验证受管理存储中的副本。"
+    },
+    {
+      "en": "Preserve unresolved descriptive conflicts and distinguish carriers, capture files and interviews.",
+      "id": "R03",
+      "zh": "保留未解决描述冲突，并区分载体、采集文件及访谈。"
+    },
+    {
+      "en": "Maintain clear collection handovers within archival access-approval controls.",
+      "id": "R04",
+      "zh": "在档案访问审批控制范围内维护清晰馆藏交接。"
+    },
+    {
+      "en": "Preferred: independently restore damaged recordings and clear public-release rights.",
+      "id": "R05",
+      "zh": "优先：独立修复受损录音，并办理公开发布所需的权利许可。"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "case_id": "case-163",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-163",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-163",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Engineering in materials engineering at Fictional Ashcell University in 2016.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2016 年在虚构白蜡格大学获得材料工程工学学士学位。"
+    },
+    {
+      "en": "Paid packaging test assistant at Fictional Reedbuffer Products from 2016-09 to 2019-04.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2016-09 至 2019-04 在虚构芦缓产品公司任有薪包装测试助理。"
+    },
+    {
+      "en": "Paid packaging development engineer at Fictional Honeycombspan Devices from 2019-05 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2019-05 至 2026-08 在虚构蜂窝跨设备公司任有薪包装开发工程师。"
+    },
+    {
+      "en": "Designs corrugated inserts for small nonhazardous devices using approved product dimensions and handling requirements.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据获批产品尺寸及搬运要求，为小型非危险设备设计瓦楞插衬。"
+    },
+    {
+      "en": "Creates CAD cut patterns and assembly drawings for prototype samples.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "为原型样品制作 CAD 裁切图样及装配图。"
+    },
+    {
+      "en": "Plans internal drop and vibration trials using the company’s approved test procedure and records sample conditions.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据公司获批测试程序规划内部跌落及振动试验，并记录样品状态。"
+    },
+    {
+      "en": "Has delegated authority to approve insert drawing revisions within an existing approved material specification.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "经授权，可在现有获批材料规格范围内批准插衬图纸修订。"
+    },
+    {
+      "en": "The quality manager approves material-specification changes and external certification claims.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "质量经理批准材料规格变更及外部认证声明。"
+    },
+    {
+      "en": "Led an insert redesign trial for a 2025-05 device package with a technician and purchasing colleague.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-05 与一名技术员及一名采购同事共同参与设备包装插衬重新设计试验，由候选人牵头。"
+    },
+    {
+      "en": "Personally designed the folded geometry and wrote the trial protocol; the technician ran the scheduled machine tests.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人设计折叠几何结构并编写试验方案；技术员运行计划内机器测试。"
+    },
+    {
+      "en": "Across 2 prototype rounds, 24 package samples were tested, with 12 samples in each round.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "在 2 轮原型试验中测试 24 个包装样品，每轮 12 个。"
+    },
+    {
+      "en": "Round 2 recorded no visible device damage in its 12 samples; the report did not estimate a field failure rate.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "第 2 轮记录其 12 个样品中的设备均无可见损坏；报告未估计现场失效率。"
+    },
+    {
+      "en": "A project note estimates a 7% reduction in insert material mass, but omits the weighing records and whether the comparison used equal sample sizes.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "一份项目备注估计插衬材料质量减少 7%，但未附称量记录，也未说明比较是否使用相同样本量。"
+    },
+    {
+      "en": "Uses CAD drawing tools, spreadsheet test summaries and controlled specification registers.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用 CAD 绘图工具、电子表格测试摘要及受控规格登记册。"
+    },
+    {
+      "en": "Reviews supplier prototype questions and records deviations requiring quality-manager approval.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "审核供应商原型问题，并记录需要质量经理批准的偏差。"
+    },
+    {
+      "en": "Completed internal packaging-test equipment orientation in 2019-06.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2019-06 完成内部包装测试设备入门培训。"
+    },
+    {
+      "en": "Explains approved insert assembly steps to production trainers using annotated samples.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "使用带注释样品向生产培训人员解释获批插衬装配步骤。"
+    },
+    {
+      "en": "Volunteers with Fictional Foldforest Craft Club, helping adults make paper storage organizers.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "在虚构折林手工社做志愿者，协助成年人制作纸质收纳用品。"
+    },
+    {
+      "en": "Made a personal modular cardboard desk tray in 2024 and shared the pattern free with club members.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "2024 年制作个人模块化纸板桌面托盘，并向社团成员免费分享图样。"
+    },
+    {
+      "en": "The personal tray was not tested for commercial transport or sold as protective packaging.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "个人托盘未经商业运输测试，也未作为保护性包装销售。"
+    },
+    {
+      "en": "Enjoys geometric paper folding and drawing imaginary product boxes.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "爱好几何折纸及绘制想象中的产品盒。"
+    },
+    {
+      "en": "Maintains a change log linking approved drawing revisions to trial reports and released assembly instructions.",
+      "id": "F22",
+      "kind": "employment",
+      "zh": "维护变更日志，将获批图纸修订与试验报告及已发布装配说明关联。"
+    }
+  ]
+}

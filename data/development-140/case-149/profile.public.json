@@ -1,0 +1,131 @@
+{
+  "case_id": "case-149",
+  "creation_batch": "development-001-extension-015",
+  "identity_id": "synthetic-person-149",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-149",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a grounds-services support certificate at Fictional Pinefen College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构松沼学院完成场地服务支持证书课程。"
+    },
+    {
+      "en": "Paid seasonal grounds assistant at Fictional Moonreed Camping Park from 2024-04 to 2024-10 and from 2025-04 to 2025-10.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-04 至 2024-10 及 2025-04 至 2025-10 在虚构月苇露营园任有薪季节性场地助理。"
+    },
+    {
+      "en": "Restocked wash-block paper supplies and checked dispensers against the supervisor’s daily round sheet.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "补充卫浴区纸品，并依据主管每日巡查表检查分配器。"
+    },
+    {
+      "en": "Carried sealed supply boxes between the store and wash blocks using a pedestrian handcart.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "使用步行手推车，在库房与卫浴区之间运送密封用品箱。"
+    },
+    {
+      "en": "Logged litter rounds and emptied designated nonhazardous bins under the park’s sorting instructions.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据营园分类说明记录垃圾巡查，并清空指定非危险废物垃圾桶。"
+    },
+    {
+      "en": "Left unidentified materials untouched and notified the grounds lead rather than adding them to ordinary waste.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "不触碰无法识别的材料，并通知场地负责人，而非将其加入普通垃圾。"
+    },
+    {
+      "en": "Recorded leaking taps, broken dispenser covers and blocked paths for the maintenance team.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "为维护团队记录漏水龙头、破损分配器外盖及受阻路径。"
+    },
+    {
+      "en": "Placed supervisor-supplied signs at temporarily closed wash blocks after the grounds lead confirmed the closure.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在场地负责人确认暂时关闭卫浴区后，摆放主管提供的告示。"
+    },
+    {
+      "en": "Helped count wash-block supplies before a busy weekend in 2025-07.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-07 在一个繁忙周末前协助清点卫浴区用品。"
+    },
+    {
+      "en": "The count recorded 15 sealed cartons labeled as containing 24 paper rolls each, plus 9 loose rolls in an open carton.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "该次清点记录 15 个密封纸箱，每箱标签标为含 24 卷纸，另有一个开箱内的 9 卷散装纸。"
+    },
+    {
+      "en": "The count used carton-label quantities for sealed cartons; their contents were not individually checked.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该次清点对密封纸箱采用箱标数量；未逐一检查其中内容。"
+    },
+    {
+      "en": "Personally counted the open-carton rolls and copied the sealed-carton labels; the store lead approved replenishment orders.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人清点开箱内纸卷并抄录密封箱标签；补货订单由库房负责人批准。"
+    },
+    {
+      "en": "Uses supply tally sheets, a handheld radio and a simple maintenance-request form.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用用品计数表、手持对讲机及简单维修申请表。"
+    },
+    {
+      "en": "Completed the park’s internal pedestrian-route and waste-sorting induction before each recorded season.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "在记录中的每个营业季节前完成营园内部步行路线及垃圾分类入职培训。"
+    },
+    {
+      "en": "Volunteered at Fictional Clovergate Allotments during 2023-05 to 2023-09, collecting hand tools and sweeping the communal shed.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2023-05 至 2023-09 在虚构三叶草门菜园做志愿者，收回手工具并清扫公用棚屋。"
+    },
+    {
+      "en": "At the allotments, helped make a tool-hook number chart under the organizer’s instructions.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "在菜园按组织者说明，协助制作工具挂钩编号表。"
+    },
+    {
+      "en": "Uses an unpowered push mower on a personal lawn; no ride-on mower or utility-buggy operation is recorded.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在个人草坪使用无动力手推割草机；未记录乘坐式割草机或场地运输车操作经历。"
+    },
+    {
+      "en": "Keeps a personal weather-and-garden sketch diary from 2024, with observations rather than professional forecasts.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "自 2024 年保留个人天气与花园素描日记，记录观察而非专业预报。"
+    },
+    {
+      "en": "Enjoys constructing small dry-stone-style patterns from reusable wooden blocks.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好用可重复使用木块拼搭小型干砌石风格图案。"
+    },
+    {
+      "en": "Handed unresolved maintenance requests and low-supply notes to the next grounds shift.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "向下一场地班次交接未解决维修请求及用品不足备注。"
+    }
+  ]
+}

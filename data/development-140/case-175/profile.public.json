@@ -1,0 +1,125 @@
+{
+  "case_id": "case-175",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-175",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-175",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned an animation production diploma at Fictional Fernframe College in 2024.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024 年在虚构蕨帧学院获得动画制作文凭。"
+    },
+    {
+      "en": "Paid production assistant at Fictional Cloudthimble Animation from 2024-07 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-07 至 2026-08 在虚构云顶针动画公司任有薪制作助理。"
+    },
+    {
+      "en": "Updates assigned shot statuses from artists’ submissions and supervisor review notes.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据艺术人员提交内容及主管评审记录，更新分配到的镜头状态。"
+    },
+    {
+      "en": "Checks file naming, version numbers and expected frame ranges before routing material for review.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在转交素材评审前检查文件命名、版本号及预期帧范围。"
+    },
+    {
+      "en": "Organizes review agendas and records the supervisor’s requested follow-up actions.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "组织评审议程，并记录主管要求的后续行动。"
+    },
+    {
+      "en": "The animation supervisor approves creative quality; the production manager approves delivery priorities.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "动画主管批准创作品质，制作经理批准交付优先次序。"
+    },
+    {
+      "en": "Supported a 2025-11 short-animation sequence containing 38 planned shots.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "支持一段 2025-11 动画短片序列，包含 38 个计划镜头。"
+    },
+    {
+      "en": "A review snapshot showed 24 shots approved, 9 awaiting review and 5 still in artist work.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "一份评审状态快照显示，24 个镜头获批、9 个待评审、5 个仍由艺术人员制作。"
+    },
+    {
+      "en": "That snapshot did not establish final delivery of all 38 shots or the candidate’s animation authorship.",
+      "id": "F09",
+      "kind": "other",
+      "zh": "该快照未证明全部 38 个镜头最终交付，亦未证明动画由候选人创作。"
+    },
+    {
+      "en": "Personally maintained the review tracker and assembled version links; artists created the animation.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人维护评审跟踪表并汇集版本链接；动画由艺术人员创作。"
+    },
+    {
+      "en": "Uses a production tracker, shared file directories and spreadsheet status summaries.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用制作跟踪系统、共享文件目录及电子表格状态摘要。"
+    },
+    {
+      "en": "Completed an internal production-file workflow induction in 2024-07.",
+      "id": "F12",
+      "kind": "education",
+      "zh": "2024-07 完成内部制作文件流程入职培训。"
+    },
+    {
+      "en": "For the diploma course, animated a personal 40-second bouncing-object exercise using Blender in 2023.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "2023 年在文凭课程中使用 Blender 制作个人 40 秒弹跳物体动画练习。"
+    },
+    {
+      "en": "That exercise was assessed as coursework and was not a commissioned studio shot.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "该练习作为课程作业接受评核，并非受委托工作室镜头。"
+    },
+    {
+      "en": "Volunteered at Fictional Pebblepuppet Student Festival in 2022, setting out programme leaflets.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2022 年在虚构卵石偶学生节做志愿者，摆放节目单。"
+    },
+    {
+      "en": "Co-created a personal paper-character flipbook in 2025 with a friend; personally drew background shapes.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2025 年与一名朋友共同制作个人纸角色翻页书；个人绘制背景形状。"
+    },
+    {
+      "en": "Enjoys designing imaginary creature silhouettes and playing cooperative puzzle games.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好设计想象生物剪影及玩合作式解谜游戏。"
+    },
+    {
+      "en": "Flags missing submissions and unresolved version conflicts in daily production handovers.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "在每日制作交接中标记缺失提交内容及未解决版本冲突。"
+    },
+    {
+      "en": "No professional responsibility for rigging characters or approving rendered lighting is documented.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "未记录在职业工作中承担角色绑定或批准渲染灯光的职责。"
+    }
+  ]
+}

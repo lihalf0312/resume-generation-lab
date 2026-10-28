@@ -1,0 +1,149 @@
+{
+  "case_id": "case-167",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-167",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-167",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Arts in translation at Fictional Lanternvale University in 2019-07, studying English and Chinese.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019-07 在虚构灯谷大学获得翻译文学学士学位，学习英语及中文。"
+    },
+    {
+      "en": "From 2019-09 to 2020-05, volunteered on the Chinese fan translation of a fictional freeware puzzle game with the creator's permission.",
+      "id": "F02",
+      "kind": "other",
+      "zh": "2019-09 至 2020-05 经创作者许可，志愿参与一款虚构免费解谜游戏的中文爱好者翻译。"
+    },
+    {
+      "en": "For that fan project, maintained a character-name glossary and compared dialogue lines with speaker context supplied by the creator.",
+      "id": "F03",
+      "kind": "project",
+      "zh": "在该爱好者项目中维护角色姓名词汇表，并依据创作者提供的说话者背景核对对话文本。"
+    },
+    {
+      "en": "Worked as a paid localization test assistant at Fictional Papercomet Interactive from 2020-08 to 2022-02.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2020-08 至 2022-02 在虚构纸彗星互动公司任有薪本地化测试助理。"
+    },
+    {
+      "en": "Was a paid localization QA specialist at Fictional Ribbonfox Games from 2022-03 to 2026-09.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2022-03 至 2026-09 在虚构缎狐游戏公司任有薪本地化质量保证专员。"
+    },
+    {
+      "en": "Tested English, Simplified Chinese and Traditional Chinese interface builds on Windows and Android against the studio's locale checklists.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据工作室的区域语言核对表，在 Windows 和 Android 上测试英语、简体中文及繁体中文界面构建版本。"
+    },
+    {
+      "en": "Filed reproducible reports with build ID, locale, screen path, expected text source and an annotated screenshot.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "提交可复现的问题报告，包含构建版本编号、区域语言、界面路径、预期文本来源及带注释的截图。"
+    },
+    {
+      "en": "Checked line wrapping, missing glyphs, placeholder order and text clipped by fixed-width buttons.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "检查换行、缺字、占位符顺序及固定宽度按钮造成的文本截断。"
+    },
+    {
+      "en": "Separated mistranslation reports from functional failures and assigned a suggested severity using the studio’s criteria before lead triage.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "区分误译报告与功能故障，依据工作室标准标注建议严重程度，再交由负责人分类评估。"
+    },
+    {
+      "en": "The localization lead approved final wording, while the release manager decided which reported issues needed resolution before shipment and which could be deferred.",
+      "id": "F10",
+      "kind": "employment",
+      "zh": "本地化负责人批准最终措辞，发布经理决定哪些已报告问题须在发布前解决、哪些可延期处理。"
+    },
+    {
+      "en": "In the fictional Harbor of Lanterns update test cycle in 2025-11, the four-person localization team logged 612 test executions across 289 distinct test cases.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "在虚构《灯港》2025-11 更新测试周期中，四人本地化团队对 289 个不同测试用例累计执行并记录 612 次测试。"
+    },
+    {
+      "en": "Personally executed 184 of those 612 runs and filed 21 of the team's 38 issue reports.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人执行上述 612 次测试中的 184 次，并提交团队 38 份问题报告中的 21 份。"
+    },
+    {
+      "en": "At cycle close, 27 of the team's 38 reports were marked fixed and 11 were closed as duplicates, intended behavior or deferred work.",
+      "id": "F13",
+      "kind": "outcome",
+      "zh": "周期结束时，团队 38 份报告中有 27 份标记为已修复，11 份因重复、预期行为或延期处理而关闭。"
+    },
+    {
+      "en": "Retested corrected builds and linked the retest result to the original issue rather than counting each retest as a new issue.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "复测修正后的构建版本，将复测结果关联到原问题，而不是把每次复测记作新问题。"
+    },
+    {
+      "en": "Wrote a short Python utility that checks screenshot filenames for the required build and locale tokens; it was run manually on a local folder.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "编写短小的 Python 工具，检查截图文件名是否包含必需的构建版本和区域语言标记；工具在本地文件夹上手动运行。"
+    },
+    {
+      "en": "Uses issue-tracker filters, spreadsheet lookup formulas and regular expressions for string searches.",
+      "id": "F16",
+      "kind": "skill",
+      "zh": "使用问题跟踪器筛选、电子表格查找公式及正则表达式进行字符串搜索。"
+    },
+    {
+      "en": "Prepared English-Chinese handoff notes explaining unresolved terminology questions for the translation vendor.",
+      "id": "F17",
+      "kind": "employment",
+      "zh": "为翻译供应商准备英中双语交接笔记，解释未解决的术语问题。"
+    },
+    {
+      "en": "Paired with two incoming contractors during checklist practice and reviewed their sample reports; did not conduct performance reviews or allocate their contracts.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "在核对表练习中与两名新合同人员结对并审阅其样例报告；未进行绩效评估或分配其合同。"
+    },
+    {
+      "en": "Completed an internal accessibility-awareness workshop in 2024-04 covering subtitle readability and color-only cues.",
+      "id": "F19",
+      "kind": "education",
+      "zh": "2024-04 完成内部无障碍意识工作坊，内容包括字幕可读性及仅以颜色传达的信息。"
+    },
+    {
+      "en": "Built a personal branching-dialogue prototype in 2023 with 26 dialogue nodes to practice contextual translation.",
+      "id": "F20",
+      "kind": "project",
+      "zh": "2023 年制作含 26 个对话节点的个人分支对话原型，用于练习结合上下文的翻译。"
+    },
+    {
+      "en": "Hosts a small monthly tabletop storytelling evening and writes short scene prompts for friends.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "每月组织小型桌面叙事聚会，为朋友撰写简短场景提示。"
+    },
+    {
+      "en": "Collects invented postage-stamp designs in a sketchbook and practices brush lettering.",
+      "id": "F22",
+      "kind": "other",
+      "zh": "在素描本中收集虚构邮票设计，并练习毛笔字形书写。"
+    },
+    {
+      "en": "Commercial testing assignments covered Windows and Android only; no console development-kit or console certification submission work is recorded.",
+      "id": "F23",
+      "kind": "employment",
+      "zh": "商业测试任务仅涵盖 Windows 和 Android；未记录主机开发套件或主机认证提交工作。"
+    }
+  ]
+}

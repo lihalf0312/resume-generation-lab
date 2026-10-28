@@ -1,0 +1,28 @@
+{
+  "case_id": "case-169",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Freshwater Sampling Operations Assistant",
+    "zh": "淡水采样作业助理"
+  },
+  "vacancy_label": "Wholly fictional synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Assist with freshwater sample preparation, labeling and custody records under a field lead.",
+      "id": "R01",
+      "zh": "在现场负责人指导下协助淡水样品准备、贴标及监管链记录。"
+    },
+    {
+      "en": "Pack samples using a prescribed cooler checklist and document courier handoffs.",
+      "id": "R02",
+      "zh": "按规定冷藏箱核对表包装样品，并记录快递交接。"
+    },
+    {
+      "en": "Maintain sampling-supply inventory, investigate stock discrepancies and arrange replenishment deliveries.",
+      "id": "R03",
+      "zh": "维护采样耗材库存、调查库存差异，并安排补货配送。"
+    }
+  ]
+}

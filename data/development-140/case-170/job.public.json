@@ -1,0 +1,38 @@
+{
+  "case_id": "case-170",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Race Timing and Results Coordinator",
+    "zh": "赛事计时与成绩协调员"
+  },
+  "vacancy_label": "Wholly fictional synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Prepare bib-chip mappings and test timing readers before an event.",
+      "id": "R01",
+      "zh": "在活动前准备号码布与芯片对应关系，并测试计时芯片读取器。"
+    },
+    {
+      "en": "Reconcile anomalous reads with backup evidence while distinguishing detection counts from participant counts.",
+      "id": "R02",
+      "zh": "依据备用证据核对异常读取，并区分检测记录数与参赛人数。"
+    },
+    {
+      "en": "Communicate provisional results and follow the event's correction and official-classification approval process.",
+      "id": "R03",
+      "zh": "沟通暂定成绩，并遵循赛事更正及正式排名审批流程。"
+    },
+    {
+      "en": "Recruit, roster and formally supervise seasonal timing staff.",
+      "id": "R04",
+      "zh": "招聘、排班并正式管理季节性计时人员。"
+    },
+    {
+      "en": "Preferred: hold course-measurement certification and sign certified race-distance reports.",
+      "id": "R05",
+      "zh": "优先：持有赛道测量认证，并签署认证比赛距离报告。"
+    }
+  ]
+}

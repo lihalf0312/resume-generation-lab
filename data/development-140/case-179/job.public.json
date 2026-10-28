@@ -1,0 +1,33 @@
+{
+  "case_id": "case-179",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Ventilation Commissioning Support Technician",
+    "zh": "通风调试支持技术员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Collect assigned ventilation readings and maintain traceable instrument, unit and location references.",
+      "id": "R01",
+      "zh": "采集分配的通风读数，并维护可追溯仪器、单位及位置编号。"
+    },
+    {
+      "en": "Check records and refer inaccessible points or reference discrepancies to the commissioning engineer.",
+      "id": "R02",
+      "zh": "检查记录，并将无法到达测点或编号差异转交调试工程师。"
+    },
+    {
+      "en": "Maintain clear measurement handovers and preserve engineer approval boundaries.",
+      "id": "R03",
+      "zh": "维护清晰测量交接，并遵守工程师审批权限边界。"
+    },
+    {
+      "en": "Preferred: independently approve complete ventilation-system performance.",
+      "id": "R04",
+      "zh": "优先：独立批准完整通风系统的性能。"
+    }
+  ]
+}

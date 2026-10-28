@@ -1,0 +1,33 @@
+{
+  "case_id": "case-144",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Community Cinema Visitor Services Assistant",
+    "zh": "社区影院访客服务助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Check admission bookings and provide accurate screen, seat and session information.",
+      "id": "R01",
+      "zh": "核对入场预订，并提供准确影厅、座位及场次信息。"
+    },
+    {
+      "en": "Refer unconfirmed accessibility or seat-change arrangements to the duty manager.",
+      "id": "R02",
+      "zh": "将未确认无障碍或换座安排转交值班经理。"
+    },
+    {
+      "en": "Track visitor-service issues and maintain clear manager handovers.",
+      "id": "R03",
+      "zh": "跟踪访客服务问题，并维护清晰的经理交接记录。"
+    },
+    {
+      "en": "Preferred: independently build and run playlists on a cinema’s production playback system.",
+      "id": "R04",
+      "zh": "优先：独立在影院实际放映系统中建立并运行播放列表。"
+    }
+  ]
+}

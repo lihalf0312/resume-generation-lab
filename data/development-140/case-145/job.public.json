@@ -1,0 +1,28 @@
+{
+  "case_id": "case-145",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Egg Packing and Order Records Assistant",
+    "zh": "鸡蛋包装与订单记录助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Pack released eggs using approved carton, grade and batch instructions.",
+      "id": "R01",
+      "zh": "依据获批纸盒、等级及批次说明包装已放行鸡蛋。"
+    },
+    {
+      "en": "Maintain separate counts for filled product cartons and unused packaging, reporting damaged or unclear items.",
+      "id": "R02",
+      "zh": "分别维护装有产品的纸盒及未使用包装的数量，并报告损坏或不清晰事项。"
+    },
+    {
+      "en": "Maintain order-dispatch references and clear packing-shift handovers.",
+      "id": "R03",
+      "zh": "维护订单发货编号及清晰包装轮班交接。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "case-172",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Nonclinical Equipment Logistics Assistant",
+    "zh": "非临床设备物流助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate approved nonclinical furniture moves and maintain item-location records.",
+      "id": "R01",
+      "zh": "协调获批非临床家具搬移，并维护物品位置记录。"
+    },
+    {
+      "en": "Reconcile tagged stock and escalate damage or unresolved ownership and destination questions.",
+      "id": "R02",
+      "zh": "核对带标签库存，并升级上报损坏或未解决归属及目的位置问题。"
+    },
+    {
+      "en": "Confirm deliveries and prepare clear facilities handovers.",
+      "id": "R03",
+      "zh": "确认配送，并准备清晰设施事务交接。"
+    }
+  ]
+}

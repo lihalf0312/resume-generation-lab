@@ -1,0 +1,33 @@
+{
+  "case_id": "case-176",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Jewellery Bench Team Leader",
+    "zh": "珠宝台工团队负责人"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Lead a small bench team and support supervised development of junior staff.",
+      "id": "R01",
+      "zh": "领导小型台工团队，并支持初级员工在监督下发展技能。"
+    },
+    {
+      "en": "Fabricate and finish simple silver pieces from approved specifications while tracking materials and piece counts.",
+      "id": "R02",
+      "zh": "依据获批规格制作简式银制品并进行表面处理，同时跟踪材料及件数。"
+    },
+    {
+      "en": "Maintain inspection status and controlled handovers without exceeding design or pricing authority.",
+      "id": "R03",
+      "zh": "维护检查状态及受控交接，不超越设计或定价权限。"
+    },
+    {
+      "en": "Preferred: independently grade gemstones and certify precious-metal fineness.",
+      "id": "R04",
+      "zh": "优先：独立进行宝石分级并认证贵金属成色。"
+    }
+  ]
+}

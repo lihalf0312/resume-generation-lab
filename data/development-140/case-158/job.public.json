@@ -1,0 +1,33 @@
+{
+  "case_id": "case-158",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Robotics Learning Programme Coordinator",
+    "zh": "机器人学习项目协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate beginner robotics sessions, instructors’ timetables and learning-kit resources.",
+      "id": "R01",
+      "zh": "协调入门机器人活动、讲师时间表及学习套件资源。"
+    },
+    {
+      "en": "Deliver group activities and follow the centre’s safeguarding escalation process.",
+      "id": "R02",
+      "zh": "开展团体活动，并遵守中心人员保护问题升级上报流程。"
+    },
+    {
+      "en": "Report attendance and learner feedback with clear distinctions between attendance entries, distinct learners and survey responses.",
+      "id": "R03",
+      "zh": "报告出席情况及学习者反馈，并清楚区分出席人次、去重后的学习者人数及问卷答复数。"
+    },
+    {
+      "en": "Preferred: deploy production autonomous robotics software in a commercial environment.",
+      "id": "R04",
+      "zh": "优先：在商业环境部署生产级自主机器人软件。"
+    }
+  ]
+}

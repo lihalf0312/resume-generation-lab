@@ -1,0 +1,137 @@
+{
+  "case_id": "case-173",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-173",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-173",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a logistics management diploma at Fictional Coppergale Institute in 2011.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2011 年在虚构铜风学院获得物流管理文凭。"
+    },
+    {
+      "en": "Paid maintenance stores planner at Fictional Firshaft Industries from 2011-08 to 2017-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2011-08 至 2017-12 在虚构冷杉轴工业公司任有薪维护物料计划员。"
+    },
+    {
+      "en": "Paid spare-parts planner at Fictional Brackenwind Services from 2018-01 to 2022-03.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2018-01 至 2022-03 在虚构蕨风服务公司任有薪备件计划员。"
+    },
+    {
+      "en": "Paid planning lead at the same employer from 2022-04 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2022-04 至 2026-08 在同一雇主任有薪计划负责人。"
+    },
+    {
+      "en": "Line-manages 3 planners and reviews weekly priorities for approved maintenance parts requirements.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "直接管理 3 名计划员，并审核获批维护备件需求的每周优先事项。"
+    },
+    {
+      "en": "Builds replenishment proposals from stock balances, confirmed work orders and supplier lead-time records.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据库存余额、已确认工单及供应商交期记录制定补货建议。"
+    },
+    {
+      "en": "Separates serviceable stock, inspection-held parts and purchase orders not yet received in planning reports.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "在计划报告中区分可用库存、检验暂留零件及尚未收货采购订单。"
+    },
+    {
+      "en": "Engineers approve technical substitutions; purchasing approves purchase commitments and the maintenance manager authorizes work priorities.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "工程师批准技术替代，采购部门批准采购承诺，维护经理授权工作优先次序。"
+    },
+    {
+      "en": "Led a 2025-02 review of spare-part coverage for 6 fictional wind-farm service locations.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-02 牵头审查 6 个虚构风电场服务地点的备件覆盖情况。"
+    },
+    {
+      "en": "Personally designed the coverage workbook and reviewed planner exceptions; site technicians confirmed equipment applicability.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人设计覆盖情况工作簿并审核计划员提出的异常；现场技术员确认设备适用性。"
+    },
+    {
+      "en": "The workbook listed 430 part-location combinations involving 170 distinct part numbers.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "该工作簿列出 430 个零件与地点组合，涉及 170 个不同零件编号。"
+    },
+    {
+      "en": "It flagged 26 combinations below the approved target level; the source does not report 26 turbine failures or actual outages.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "工作簿标记 26 个低于获批目标水平的组合；资料未报告 26 起风机故障或实际停机。"
+    },
+    {
+      "en": "Uses ERP inventory reports, spreadsheet planning formulas and supplier lead-time summaries.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用 ERP 库存报表、电子表格计划公式及供应商交期摘要。"
+    },
+    {
+      "en": "Discusses supply constraints with service managers and records which dates remain supplier estimates.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "与服务经理讨论供应限制，并记录哪些日期仍为供应商估计。"
+    },
+    {
+      "en": "Completed internal people-management training in 2022-06.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2022-06 完成内部人员管理培训。"
+    },
+    {
+      "en": "Coaches planners on demand evidence and reviews their development goals in quarterly meetings.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "指导计划员核对需求依据，并在季度会议审核其发展目标。"
+    },
+    {
+      "en": "Volunteers with Fictional Windleaf Model Club, maintaining a shared supply list for small craft projects.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在虚构风叶模型社做志愿者，为小型手工项目维护共享物料清单。"
+    },
+    {
+      "en": "Built a personal paper windmill display in 2023 for a club open day; it generated no electricity.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2023 年为社团开放日制作个人纸风车展示装置；该装置不发电。"
+    },
+    {
+      "en": "Enjoys designing tile-based strategy games and painting wooden tokens.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好设计板块式策略游戏及给木质标记物上色。"
+    },
+    {
+      "en": "Maintains approval references for changes to planning assumptions and handovers for unresolved supply risks.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "维护计划假设变更的审批编号，并为未解决供应风险准备交接。"
+    },
+    {
+      "en": "No turbine servicing, electrical isolation or engineering sign-off responsibilities are recorded.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "未记录风机维护、电气隔离或工程签批职责。"
+    }
+  ]
+}

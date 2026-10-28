@@ -1,0 +1,131 @@
+{
+  "case_id": "case-166",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-166",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-166",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a diploma in urban horticulture at Fictional Willowstep College in 2024-06.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024-06 在虚构柳阶学院完成城市园艺文凭课程。"
+    },
+    {
+      "en": "The diploma field course covered leaf-key identification, tree measurement and recording visible damage; the course did not confer an arborist credential.",
+      "id": "F02",
+      "kind": "education",
+      "zh": "该文凭的实地课程涵盖叶片检索表鉴定、树木测量及可见损伤记录；课程不授予树艺师资格。"
+    },
+    {
+      "en": "Worked as a paid seasonal grounds assistant at Fictional Northfern Park Trust from 2024-07 to 2024-11.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2024-07 至 2024-11 在虚构北蕨公园信托机构任有薪季节性园务助理。"
+    },
+    {
+      "en": "Kept tool sign-out sheets and watering-round records during that grounds season.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在该园务工作季维护工具借还表及浇水巡回记录。"
+    },
+    {
+      "en": "Held paid tree-inventory assistant contracts with Fictional Northfern Park Trust from 2025-04 to 2025-10 and from 2026-03 to 2026-09.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2025-04 至 2025-10 及 2026-03 至 2026-09 在虚构北蕨公园信托机构担任有薪合同制树木清查助理。"
+    },
+    {
+      "en": "Recorded tag numbers, handheld GPS readings and trunk diameters on a mobile form while paired with a senior inventory worker.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "与一名资深清查人员结对，使用移动表单记录挂牌编号、手持 GPS 读数及树干直径。"
+    },
+    {
+      "en": "Measured diameter at the protocol height of 1.3 m and recorded the alternative measurement height when a fork or obstruction prevented that measurement.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "按规程在 1.3 米高度测量直径；分叉或障碍物妨碍该测量时，记录替代测量高度。"
+    },
+    {
+      "en": "7 provisional common-name labels in the 2026 field log remained awaiting an arborist identification check when the contract ended.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "2026 年合同结束时，现场日志中的 7 个暂定俗名标签仍待树艺师核实鉴定。"
+    },
+    {
+      "en": "Photographed visible trunk damage and attached the photograph number to the tree record; the arborist determined risk ratings and work priorities.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "拍摄可见树干损伤并将照片编号附于树木记录；风险评级及作业优先级由树艺师确定。"
+    },
+    {
+      "en": "Uses spreadsheet filters and conditional formatting to locate duplicate tag numbers and blank measurement units.",
+      "id": "F10",
+      "kind": "skill",
+      "zh": "使用电子表格筛选及条件格式查找重复挂牌编号与缺失的测量单位。"
+    },
+    {
+      "en": "For the 2026 east-loop inventory, personally entered 128 observation rows; the three-person field team entered 386 rows altogether.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "在 2026 年东环线清查中，个人录入 128 行观察记录；三人现场团队合计录入 386 行。"
+    },
+    {
+      "en": "The 386 observation rows referred to 356 distinct tree tags, with 30 rows documenting repeat visits rather than additional trees.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "386 行观察记录涉及 356 个不同树木挂牌编号，其中 30 行记录复访，并非新增树木。"
+    },
+    {
+      "en": "Personally compared the east-loop form export with tag photographs and prepared a list of 12 mismatched tag entries for supervisor review.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "个人将东环线表单导出数据与挂牌照片对照，整理出 12 条挂牌编号不符记录供主管审核。"
+    },
+    {
+      "en": "The supervisor authorized register corrections; the candidate entered the authorized changes and retained the original field-note references.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "主管批准登记册更正；候选人录入获批变更并保留原始现场笔记引用。"
+    },
+    {
+      "en": "Explained the purpose of tree tags to park visitors in English and Mandarin and referred tree-removal requests to the park office.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "用英语和普通话向公园游客解释树木挂牌用途，并将移除树木的请求转交公园办公室。"
+    },
+    {
+      "en": "Can open QGIS layers, inspect attribute values and export a map from an existing layout; has not built a spatial database.",
+      "id": "F16",
+      "kind": "skill",
+      "zh": "能够打开 QGIS 图层、查看属性值并从现有布局导出地图；尚未建立过空间数据库。"
+    },
+    {
+      "en": "Made a personal illustrated leaf notebook in 2025 using fallen leaves collected where collection was permitted.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2025 年制作个人图解叶片笔记本，素材为在允许采集的地点收集的落叶。"
+    },
+    {
+      "en": "Volunteers monthly at Fictional Juniper Shelf Seed Library, sorting donated seed envelopes by the donor-provided growing season.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "每月在虚构杜松架种子图书馆做志愿者，按捐赠者标注的生长季分类种子信封。"
+    },
+    {
+      "en": "Enjoys linocut printing of garden tools and playing informal badminton.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好刻印园艺工具主题的油毡版画及休闲羽毛球。"
+    },
+    {
+      "en": "Joined the daily weather and route briefing and followed the crew lead's decision to stop measurements during unsafe weather.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "参加每日天气与路线简报，并遵从班组负责人在不安全天气下停止测量的决定。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "case_id": "case-150",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Mobile Library Stock and Activities Assistant",
+    "zh": "流动图书馆藏书与活动助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Prepare stop-specific bookstock and reconcile crates using approved lists.",
+      "id": "R01",
+      "zh": "依据获批清单准备各停靠点专用藏书，并核对图书箱。"
+    },
+    {
+      "en": "Process loans and returns and assist visitors with reservations within supplied account procedures.",
+      "id": "R02",
+      "zh": "依据所提供账户流程处理借还，并协助访客预约事项。"
+    },
+    {
+      "en": "Prepare and recover activity materials and support librarian-led visitor sessions.",
+      "id": "R03",
+      "zh": "准备并回收活动材料，支持图书馆员主持的访客活动。"
+    },
+    {
+      "en": "Maintain session attendance records and useful end-of-route handovers.",
+      "id": "R04",
+      "zh": "维护活动出席记录及实用的路线结束交接。"
+    },
+    {
+      "en": "Preferred: independently design and evaluate age-appropriate reading programmes.",
+      "id": "R05",
+      "zh": "优先：独立设计并评估适龄阅读项目。"
+    }
+  ]
+}

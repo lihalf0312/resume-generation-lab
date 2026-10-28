@@ -1,0 +1,137 @@
+{
+  "case_id": "case-170",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-170",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-170",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned an associate diploma in event operations at Fictional Seabanner College in 2015-05.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2015-05 在虚构海旗学院获得活动运营专科文凭。"
+    },
+    {
+      "en": "Worked as a paid event-registration assistant at Fictional Swiftlane Events from 2015-07 to 2021-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2015-07 至 2021-12 在虚构迅道活动公司任有薪活动报名助理。"
+    },
+    {
+      "en": "Checked participant names and bib assignments against entry files and referred age-category disputes to the registration manager.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "依据报名文件核对参赛者姓名及号码布分配，并将年龄组别争议转交报名经理。"
+    },
+    {
+      "en": "Was a paid timing operations technician at Fictional Splitfin Timing from 2022-01 to 2026-09.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2022-01 至 2026-09 在虚构分鳍计时公司任有薪计时运营技术员。"
+    },
+    {
+      "en": "Imported approved entry files into timing software and checked duplicate bib numbers, wave labels and missing chip mappings before race day.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "将获批报名文件导入计时软件，并在比赛日前检查重复号码、出发波次标签及缺失的芯片对应关系。"
+    },
+    {
+      "en": "Performed test crossings over reader mats and logged battery levels and reader-clock offsets using the vendor checklist.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "按供应商核对表进行通过感应垫的测试，记录电池电量及芯片读取器时钟偏差。"
+    },
+    {
+      "en": "Distinguished gun time from net time when answering entrant queries and checked which field the event's published rules used for rankings.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "回答参赛者询问时区分枪声计时与净计时，并核查赛事公布规则采用哪个字段排名。"
+    },
+    {
+      "en": "Compared missing or duplicate chip reads with backup finish video and marshal notes, then prepared a proposed correction log.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "将缺失或重复的芯片读取记录与备用终点视频及工作人员笔记对照，然后准备拟议更正日志。"
+    },
+    {
+      "en": "The chief timekeeper approved time corrections, and the race referee ruled on disqualifications and authorized the official classification.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "总计时员批准时间更正，赛事裁判裁定取消资格并批准正式排名。"
+    },
+    {
+      "en": "At the fictional 2026-05 Reedfin Road Festival, the timing team collected 1480 finish-mat detections associated with 1336 distinct bib numbers.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "在虚构的 2026-05 苇鳍公路跑节中，计时团队收集 1480 条终点感应垫检测记录，对应 1336 个不同号码布编号。"
+    },
+    {
+      "en": "The extra 144 detections were repeated reads of those bibs, not an additional 144 participants.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "额外的 144 条检测记录是对这些号码布的重复读取，并非另外 144 名参赛者。"
+    },
+    {
+      "en": "Personally reviewed 62 flagged bib records in the festival correction queue; teammates handled setup, live monitoring and the remaining review work.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人审核跑节更正队列中 62 条被标记的号码布记录；队友负责设置、实时监测及其余审核工作。"
+    },
+    {
+      "en": "By the 16:00 handoff, 45 of those 62 records had an approved resolution and 17 remained open.",
+      "id": "F13",
+      "kind": "outcome",
+      "zh": "截至 16:00 交接时，上述 62 条记录中有 45 条已获批准解决，17 条仍未结案。"
+    },
+    {
+      "en": "The retained festival handoff file contains provisional records and no referee-approved final finisher count.",
+      "id": "F14",
+      "kind": "outcome",
+      "zh": "保留的跑节交接文件包含暂定记录，但没有裁判批准的最终完赛人数。"
+    },
+    {
+      "en": "Drafted English-Chinese notices explaining that displayed results were provisional until the referee review ended.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "起草英中双语通知，解释所显示成绩在裁判审核结束前均属暂定。"
+    },
+    {
+      "en": "Uses spreadsheet lookup formulas, CSV exports and the timing vendor's desktop application; maintains a change log for manual edits.",
+      "id": "F16",
+      "kind": "skill",
+      "zh": "使用电子表格查找公式、CSV 导出及计时供应商的桌面应用程序；为手动编辑维护变更日志。"
+    },
+    {
+      "en": "Created a reusable bib-chip cross-check workbook in 2024 and documented its column definitions for two other technicians.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年创建可重复使用的号码布与芯片交叉核对工作簿，并为另外两名技术员记录列定义。"
+    },
+    {
+      "en": "Briefed volunteer finish-chute marshals on recording obstructed reads at 6 events in 2025, without holding a hiring or disciplinary role.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "2025 年在 6 场活动中向终点通道志愿工作人员讲解如何记录受阻读取情况，但不负责招聘或纪律管理。"
+    },
+    {
+      "en": "Completed vendor reader-setup training in 2022-02; has no course-measurement certification.",
+      "id": "F19",
+      "kind": "education",
+      "zh": "2022-02 完成供应商芯片读取器设置培训；未持有赛道测量认证。"
+    },
+    {
+      "en": "Runs recreationally on weekends and keeps a personal notebook of route sketches rather than certified distance measurements.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "周末休闲跑步，并在个人笔记本中绘制路线草图，而非进行认证距离测量。"
+    },
+    {
+      "en": "Volunteers at Fictional Ternbell Repair Cafe, sorting spare buttons and teaching simple hand stitching.",
+      "id": "F21",
+      "kind": "other",
+      "zh": "在虚构燕鸥铃维修咖啡馆做志愿者，分类备用纽扣并教授简单手缝。"
+    }
+  ]
+}

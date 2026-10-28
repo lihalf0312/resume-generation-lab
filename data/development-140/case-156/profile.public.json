@@ -1,0 +1,131 @@
+{
+  "case_id": "case-156",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-156",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-156",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a sound-production diploma at Fictional Echoheath College in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构回声荒原学院获得声音制作文凭。"
+    },
+    {
+      "en": "Paid assistant audio editor at Fictional Hollowbell Audio from 2019-09 to 2022-01.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-09 至 2022-01 在虚构空铃音频公司任有薪助理音频编辑。"
+    },
+    {
+      "en": "Paid dialogue editor at Fictional Storyloom Recordings from 2022-02 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2022-02 至 2026-08 在虚构故事织机录音公司任有薪对白编辑。"
+    },
+    {
+      "en": "Edits narration takes in Reaper against the approved script and producer’s marked selections.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在 Reaper 中依据获批脚本及制作人标注的选段编辑旁白录音。"
+    },
+    {
+      "en": "Removes unwanted clicks, adjusts edits around breaths and flags uncertain words for producer review.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "去除不需要的咔嗒声，调整呼吸声附近的剪辑，并标记不确定词语供制作人审核。"
+    },
+    {
+      "en": "Maintains a pickup list with chapter, timecode and the reason a replacement recording is requested.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "维护补录清单，记录章节、时间码及请求替换录音的原因。"
+    },
+    {
+      "en": "A separate mastering engineer sets final delivery levels and exports the distribution master.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "另一名母带工程师设置最终交付电平，并导出发行母带。"
+    },
+    {
+      "en": "Edited assigned narration chapters on a 2025-08 team audiobook project.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "在 2025-08 团队有声书项目中编辑分配到的旁白章节。"
+    },
+    {
+      "en": "The candidate’s assigned chapters totalled 7.5 hours in the approved final programme, drawn from 13 hours of raw takes.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "候选人获分配章节在获批最终节目中共计 7.5 小时，素材来自 13 小时原始录音。"
+    },
+    {
+      "en": "The source does not give the candidate’s labour hours or the full audiobook’s duration.",
+      "id": "F10",
+      "kind": "other",
+      "zh": "资料未提供候选人工时或整部有声书时长。"
+    },
+    {
+      "en": "Personally maintained edit markers and the pickup list; the producer directed narrator retakes.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人维护剪辑标记及补录清单；制作人指导朗读者重录。"
+    },
+    {
+      "en": "Uses Reaper, timecoded review notes and a versioned audio-file naming convention.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用 Reaper、带时间码的审核记录及带版本号的音频文件命名规范。"
+    },
+    {
+      "en": "Checks edited chapter order against the delivery checklist and supplies review exports to the producer.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "依据交付核对表检查已编辑章节顺序，并向制作人提供审核导出文件。"
+    },
+    {
+      "en": "Completed an internal dialogue-cleanup workshop in 2023-05 using practice audio.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2023-05 使用练习音频完成内部对白清理工作坊。"
+    },
+    {
+      "en": "Volunteered with Fictional Rustlereel Story Club from 2017-10 to 2019-06, arranging rehearsal schedules.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "2017-10 至 2019-06 在虚构沙沙卷故事社做志愿者，安排排练日程。"
+    },
+    {
+      "en": "For that club, assembled a noncommercial 18-minute audio story in 2020 with 3 friends.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2020 年为该社与 3 名朋友共同制作一部非商业 18 分钟音频故事。"
+    },
+    {
+      "en": "Personally edited dialogue; the friends performed voices and supplied original background music.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "个人编辑对白；朋友们配音并提供原创背景音乐。"
+    },
+    {
+      "en": "The club story was shared at a private listening evening, with no sales or audience-download figures recorded.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "该社故事在私人试听晚会上分享，未记录销售或听众下载数据。"
+    },
+    {
+      "en": "Enjoys collecting imagined sound-effect ideas in a notebook and playing a small hand drum.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好在笔记本中收集想象中的音效点子，以及演奏小手鼓。"
+    },
+    {
+      "en": "Keeps unresolved pronunciation questions separate from confirmed edits in production handovers.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "在制作交接中将未解决发音问题与已确认剪辑分开记录。"
+    }
+  ]
+}

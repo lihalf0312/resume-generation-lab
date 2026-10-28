@@ -1,0 +1,137 @@
+{
+  "case_id": "case-177",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-177",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-177",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Science in applied statistics at Fictional Amberbay University in 2017.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2017 年在虚构琥珀湾大学获得应用统计学理学学士学位。"
+    },
+    {
+      "en": "Paid reservations reporting assistant at Fictional Reedharbour Hotels from 2017-10 to 2021-01.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2017-10 至 2021-01 在虚构芦港酒店公司任有薪预订报表助理。"
+    },
+    {
+      "en": "Paid revenue data analyst at Fictional Larchwindow Hospitality from 2021-02 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2021-02 至 2026-08 在虚构落叶松窗酒店集团任有薪收益数据分析员。"
+    },
+    {
+      "en": "Combines booking-system exports with approved room-inventory calendars for weekly reporting.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "将预订系统导出数据与获批客房库存日历结合，用于每周报表。"
+    },
+    {
+      "en": "Builds SQL extracts for booking status and compares changes by arrival date and rate category.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "建立预订状态 SQL 提取，并按抵达日期及房价类别比较变化。"
+    },
+    {
+      "en": "Flags cancelled bookings, complimentary stays and rooms unavailable for sale in separate report categories.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "在独立报表类别中标记取消预订、免费住宿及不可售客房。"
+    },
+    {
+      "en": "The revenue manager approves price changes and inventory restrictions; the candidate supplies analysis.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "收益经理批准价格变更及库存限制；候选人提供分析。"
+    },
+    {
+      "en": "Built the validation workbook for a 2025-08 reporting refresh covering 4 fictional hotels.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "为覆盖 4 家虚构酒店的 2025-08 报表更新建立验证工作簿。"
+    },
+    {
+      "en": "Personally wrote booking-status checks and reconciled exceptions with property teams; a data engineer maintained the scheduled feeds.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人编写预订状态检查，并与酒店团队核对异常；数据工程师维护定时数据源。"
+    },
+    {
+      "en": "A draft weekly summary lists 1260 available room-nights and 945 sold room-nights for one property.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "一份周度摘要草稿列出一家酒店 1260 个可售间夜及 945 个已售间夜。"
+    },
+    {
+      "en": "A note says the inventory extract may include rooms under refurbishment; the final confirmed denominator of available room-nights was not supplied.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "一则备注称库存导出数据可能包含翻修中的客房；未提供最终确认的可售间夜数分母。"
+    },
+    {
+      "en": "The supplied draft contains no confirmed occupancy percentage or verified revenue uplift.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "所供草稿不含经确认的入住率或经核实的收益提升。"
+    },
+    {
+      "en": "Uses SQL, spreadsheet scenario tables and dashboard filters for historical reporting.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用 SQL、电子表格情景表及仪表板筛选进行历史报表分析。"
+    },
+    {
+      "en": "Presents descriptive booking trends and explains known data exclusions at weekly revenue meetings.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "在每周收益会议展示描述性预订趋势，并解释已知数据排除项。"
+    },
+    {
+      "en": "Completed internal booking-data governance training in 2022-05.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2022-05 完成内部预订数据治理培训。"
+    },
+    {
+      "en": "Documents report changes and keeps draft analyses distinct from manager-approved trading decisions.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "记录报表变更，并将分析草稿与经理批准的经营决定分开。"
+    },
+    {
+      "en": "Volunteers with Fictional Mintquay Film Club, maintaining a noncommercial seat-reservation list.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在虚构薄荷码头电影社做志愿者，维护非商业座位预约清单。"
+    },
+    {
+      "en": "Created a personal board-game score dashboard in 2024 using invented match data.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2024 年使用虚构对局数据制作个人桌游积分仪表板。"
+    },
+    {
+      "en": "That dashboard was not connected to hotel bookings or used to set commercial room prices.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "该仪表板未连接酒店预订，亦未用于设定商业房价。"
+    },
+    {
+      "en": "Enjoys designing fictional travel postcards and playing strategy card games.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好设计虚构旅行明信片及玩策略卡牌游戏。"
+    },
+    {
+      "en": "Maintains a follow-up list for missing property extracts and unresolved booking-status discrepancies.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "维护后续跟进清单，记录缺失酒店导出数据及未解决预订状态差异。"
+    }
+  ]
+}

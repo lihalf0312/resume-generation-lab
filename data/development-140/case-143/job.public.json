@@ -1,0 +1,38 @@
+{
+  "case_id": "case-143",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Ice Rink Skate Hire Assistant",
+    "zh": "滑冰场冰鞋租赁助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Issue requested skate sizes and refer fit or visible-damage concerns to the supervisor.",
+      "id": "R01",
+      "zh": "发放所需尺码冰鞋，并将合脚或可见损坏问题转交主管。"
+    },
+    {
+      "en": "Maintain pair counts, return statuses and maintenance holds without double counting.",
+      "id": "R02",
+      "zh": "维护按双计的冰鞋数量、归还状态及维护暂留记录，避免重复计数。"
+    },
+    {
+      "en": "Process rental payments and explain return procedures using the desk system.",
+      "id": "R03",
+      "zh": "使用柜台系统处理租赁付款，并说明归还流程。"
+    },
+    {
+      "en": "Be available for Saturday and Sunday afternoon shifts.",
+      "id": "R04",
+      "zh": "可在星期六及星期日下午班工作。"
+    },
+    {
+      "en": "Preferred: carry out routine blade sharpening.",
+      "id": "R05",
+      "zh": "优先：进行日常冰刀磨刃。"
+    }
+  ]
+}

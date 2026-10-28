@@ -1,0 +1,28 @@
+{
+  "case_id": "case-162",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Bicycle Workshop Technician",
+    "zh": "自行车工坊技术员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Carry out instructed mechanical repairs on conventional bicycles and record the work performed.",
+      "id": "R01",
+      "zh": "对普通自行车开展依照说明的机械维修，并记录已完成工作。"
+    },
+    {
+      "en": "Perform documented post-repair checks and keep release decisions with the authorized supervisor.",
+      "id": "R02",
+      "zh": "执行有记录的维修后检查，并由获授权主管作出交付决定。"
+    },
+    {
+      "en": "Maintain orderly parts storage and clear customer and unresolved-fault records.",
+      "id": "R03",
+      "zh": "保持零件存放有序，并维护清晰的客户记录与未解决故障记录。"
+    }
+  ]
+}

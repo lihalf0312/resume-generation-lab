@@ -1,0 +1,33 @@
+{
+  "case_id": "case-141",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Flower Shop Orders and Preparation Assistant",
+    "zh": "花店订单与备料助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Receive and label flower stock against approved supplier and shop records.",
+      "id": "R01",
+      "zh": "依据经批准的供应商记录和门店记录，接收花材库存并贴标签。"
+    },
+    {
+      "en": "Prepare orders from existing recipes and verify supplied message-card text.",
+      "id": "R02",
+      "zh": "按现有配方准备订单，并核对提供的留言卡文字。"
+    },
+    {
+      "en": "Maintain collection records and communicate pending orders and materials.",
+      "id": "R03",
+      "zh": "维护取货记录，并沟通待处理订单及物料情况。"
+    },
+    {
+      "en": "Preferred: independently design and deliver commissioned wedding arrangements.",
+      "id": "R04",
+      "zh": "优先：独立设计并交付受委托婚礼花艺。"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "case_id": "case-143",
+  "creation_batch": "development-001-extension-015",
+  "identity_id": "synthetic-person-143",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-143",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a recreation-service certificate at Fictional Frostfern College in 2023.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2023 年在虚构霜蕨学院完成康乐服务证书课程。"
+    },
+    {
+      "en": "Paid skate-hire assistant at Fictional Amberice Rink from 2024-01 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 在虚构琥珀冰滑冰场任有薪冰鞋租赁助理。"
+    },
+    {
+      "en": "Issued skate sizes requested by visitors and recorded the rental reference on the return rack label.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "发放访客请求尺码的冰鞋，并在归还架标签上记录租赁编号。"
+    },
+    {
+      "en": "Referred fit concerns or visible equipment damage to the rink supervisor before issuing a replacement.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在发放替换品前，将合脚问题或可见设备损坏转交滑冰场主管。"
+    },
+    {
+      "en": "Counted returned pairs and kept incomplete pairs separate from available rental stock.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "清点归还的成对冰鞋，并将不成对冰鞋与可租库存分开。"
+    },
+    {
+      "en": "Updated the desk count sheet when pairs were placed on the supervisor’s maintenance hold list.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "当成对冰鞋被列入主管维护暂留清单时，更新柜台计数表。"
+    },
+    {
+      "en": "A 2025-12 end-of-shift record shows 86 pairs returned, including 4 pairs on maintenance hold; the 4 are part of the 86, not additional returns.",
+      "id": "F07",
+      "kind": "outcome",
+      "zh": "一份 2025-12 班末记录显示归还 86 双冰鞋，其中 4 双暂留维护；这 4 双包含在 86 双内，并非额外归还。"
+    },
+    {
+      "en": "Processed rental payments using the desk till and handed refund requests to the senior receptionist.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "使用柜台收银系统处理租赁付款，并将退款请求交给高级接待员。"
+    },
+    {
+      "en": "Explained the posted rental return time and directed lesson questions to the skating-school desk.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "说明公示的租赁归还时间，并将课程问题转交滑冰学校柜台。"
+    },
+    {
+      "en": "Helped trial a larger size-label format on 3 rental racks in 2025-03.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-03 协助在 3 个租赁架上试用版面更大的尺码标签。"
+    },
+    {
+      "en": "Personally checked label readability at the service counter; the supervisor chose the final rack arrangement.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人在服务柜台检查标签可读性；最终货架安排由主管选择。"
+    },
+    {
+      "en": "Uses a rental till, size-indexed racks and spreadsheet stock exports.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用租赁收银系统、按尺码索引的货架及电子表格库存导出文件。"
+    },
+    {
+      "en": "Observed a staff blade-sharpening demonstration in 2025-09; the record contains no supervised practice or independent sharpening assignment.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2025-09 观摩员工冰刀磨刃演示；记录不含受监督练习或独立磨刃任务。"
+    },
+    {
+      "en": "As of 2026-09, the candidate reports availability for Saturday and Sunday afternoon shifts.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "截至 2026-09，候选人表示可在星期六及星期日下午班工作。"
+    },
+    {
+      "en": "Plays recreational ice hockey with Fictional Pinepuck Social Team and attends a weekly noncompetitive practice.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "在虚构松果球社交队休闲打冰球，并参加每周非竞技练习。"
+    },
+    {
+      "en": "For that team, voluntarily maintained a jersey-loan list during the 2025 practice season.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "在 2025 年练习季为该队志愿维护球衣借用清单。"
+    },
+    {
+      "en": "A team coach led skating drills; the candidate has no recorded coaching appointment.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "滑行训练由球队教练带领；未记录候选人的教练任命。"
+    },
+    {
+      "en": "Made a personal tabletop rink model from card in 2024, including removable paper team markers.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2024 年用卡纸制作个人桌面冰场模型，包含可移除纸质队伍标记。"
+    },
+    {
+      "en": "Enjoys drawing invented team logos.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好绘制虚构队徽。"
+    },
+    {
+      "en": "Prepared handovers listing unreturned rentals, incomplete pairs and equipment held for supervisor review.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "准备交接，列明未归还租赁冰鞋、不成对冰鞋及留待主管审核的设备。"
+    }
+  ]
+}

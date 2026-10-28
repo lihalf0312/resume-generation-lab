@@ -1,0 +1,131 @@
+{
+  "case_id": "case-147",
+  "creation_batch": "development-001-extension-015",
+  "identity_id": "synthetic-person-147",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-147",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a general retail certificate at Fictional Hazelreed College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构榛苇学院完成通用零售证书课程。"
+    },
+    {
+      "en": "Paid hardware counter assistant at Fictional Brickfinch Stores from 2019-02 to 2022-10.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-02 至 2022-10 在虚构砖雀商店任有薪五金柜台助理。"
+    },
+    {
+      "en": "In that role, located supplier-coded fasteners and recorded customer collections against order numbers.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该岗位查找带供应商代码的紧固件，并按订单编号记录客户取货。"
+    },
+    {
+      "en": "Paid sales and stock assistant at Fictional Honeyarch Supplies from 2023-01 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构蜜拱用品店任有薪销售与库存助理。"
+    },
+    {
+      "en": "Picked empty hive boxes, protective clothing and packaged frame parts from the shop’s approved product catalogue.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据商店获批产品目录拣选空蜂箱、防护服及包装好的巢框部件。"
+    },
+    {
+      "en": "Compared part codes and listed dimensions when customers asked whether supplied components matched.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "客户询问所售组件是否匹配时，比较零件代码及所列尺寸。"
+    },
+    {
+      "en": "Passed bee-health and treatment questions to the shop’s designated specialist rather than selecting treatments.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "将蜜蜂健康及治疗方法问题转交商店指定专员，而非选择治疗方案。"
+    },
+    {
+      "en": "Counted sealed component packs against supplier delivery notes and kept opened display packs separately.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "依据供应商送货单清点密封组件包，并将已打开的展示包分开存放。"
+    },
+    {
+      "en": "Helped recount a frame-parts display in 2025-08.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-08 协助重新清点巢框部件展示区。"
+    },
+    {
+      "en": "The recount found 18 sealed packs, each labeled as containing parts for 10 frames, plus 6 loose frame components.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "重新盘点发现 18 个密封包，每包标签标明内含可组装 10 个巢框的部件，另有 6 个散装巢框组件。"
+    },
+    {
+      "en": "The sealed packs were not opened during that recount; the loose components were not recorded as complete frames.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该次盘点未打开密封包；散装组件未被记录为完整巢框。"
+    },
+    {
+      "en": "Prepared parcel labels, recorded dispatch references and told customers when reserved orders were ready.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "准备包裹标签、记录发货编号，并在预留订单可取时通知客户。"
+    },
+    {
+      "en": "Processed sales through the till and referred refund exceptions to the shop manager.",
+      "id": "F13",
+      "kind": "employment",
+      "zh": "通过收银系统处理销售，并将退款异常转交店长。"
+    },
+    {
+      "en": "Uses supplier catalogues, stock-code lookups, a till and parcel-label software.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用供应商目录、库存代码查询、收银系统及包裹标签软件。"
+    },
+    {
+      "en": "Attended a 2-session introductory beekeeping-products course at Fictional Cloverlamp Centre in 2024; the sessions used empty display equipment and photographs.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2024 年在虚构三叶草灯中心参加一门共 2 节课的养蜂产品入门课程；课程使用空展示设备及照片。"
+    },
+    {
+      "en": "During an in-store demonstration in 2025-03, laid out labeled wooden box parts while the supplier representative assembled the demonstration hive.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2025-03 店内演示中摆放有标签的木箱部件，展示蜂箱由供应商代表组装。"
+    },
+    {
+      "en": "Volunteered at Fictional Oakbutton Repair Circle from 2021-04 to 2022-03, sorting donated screws and labeling hand-tool storage.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2021-04 至 2022-03 在虚构橡纽修理社做志愿者，整理捐赠螺丝并标记手工具存放位置。"
+    },
+    {
+      "en": "Made a personal cardboard model of a garden shed in 2022 from an original sketch.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2022 年依据原创素描制作个人花园棚纸板模型。"
+    },
+    {
+      "en": "Enjoys sketching patterned insect wings from photographs.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好根据照片描绘有图案的昆虫翅膀。"
+    },
+    {
+      "en": "The supplied records contain no live-bee husbandry, pesticide application or independently led hive-assembly demonstration.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "所提供记录不含活蜂饲养、施用农药或独立主持蜂箱组装演示的经历。"
+    }
+  ]
+}

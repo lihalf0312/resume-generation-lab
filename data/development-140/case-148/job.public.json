@@ -1,0 +1,33 @@
+{
+  "case_id": "case-148",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Furniture Reuse Showroom Assistant",
+    "zh": "家具再利用展厅助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Prepare item tags and listings with measured dimensions and visible-condition notes.",
+      "id": "R01",
+      "zh": "准备带有实测尺寸及可见状况备注的物品标签和上架信息。"
+    },
+    {
+      "en": "Maintain clear display, review-hold and sold-awaiting-collection statuses.",
+      "id": "R02",
+      "zh": "维护清晰的展示、暂留审核及已售待取状态。"
+    },
+    {
+      "en": "Explain listed item details, book collections and refer technical-condition questions appropriately.",
+      "id": "R03",
+      "zh": "说明上架物品详情、预订取货，并适当转交技术状况问题。"
+    },
+    {
+      "en": "Support showroom positioning under team-handling plans and maintain useful closing handovers.",
+      "id": "R04",
+      "zh": "按团队搬运安排协助展厅摆放，并维护实用的闭店交接。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "case-146",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Ferry Terminal Check-in Assistant",
+    "zh": "渡轮码头乘船报到助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Check passenger bookings, issue check-in records and escalate discrepancies under supplied procedures.",
+      "id": "R01",
+      "zh": "按所提供流程核对乘客预订、发放乘船报到凭据并上报差异。"
+    },
+    {
+      "en": "Give current gate information and relay approved service-change messages and assistance requests.",
+      "id": "R02",
+      "zh": "提供当前登船口信息，并转达获批服务变更消息及协助请求。"
+    },
+    {
+      "en": "Maintain traceable group check-in records and clear unresolved-booking handovers.",
+      "id": "R03",
+      "zh": "维护可追溯团体乘船报到记录，并清晰交接未解决预订事项。"
+    }
+  ]
+}

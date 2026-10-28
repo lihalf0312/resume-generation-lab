@@ -1,0 +1,33 @@
+{
+  "case_id": "case-178",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Robotics Software Test Assistant",
+    "zh": "机器人软件测试助理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Execute simulator regression tests with traceable software and configuration details.",
+      "id": "R01",
+      "zh": "执行模拟器回归测试，并保留可追溯软件及配置信息。"
+    },
+    {
+      "en": "Maintain reviewed Python test assertions and report reproducible failures.",
+      "id": "R02",
+      "zh": "维护经审核的 Python 测试断言，并报告可复现失败。"
+    },
+    {
+      "en": "Communicate test findings while distinguishing execution failures, scenario definitions and confirmed defects.",
+      "id": "R03",
+      "zh": "沟通测试发现，同时区分执行失败、场景定义及已确认缺陷。"
+    },
+    {
+      "en": "Preferred: independently validate safety behavior on deployed physical warehouse robots.",
+      "id": "R04",
+      "zh": "优先：独立验证已部署实体仓储机器人的安全行为。"
+    }
+  ]
+}

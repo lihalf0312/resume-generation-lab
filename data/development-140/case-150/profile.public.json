@@ -1,0 +1,137 @@
+{
+  "case_id": "case-150",
+  "creation_batch": "development-001-extension-015",
+  "identity_id": "synthetic-person-150",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-150",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a library support diploma at Fictional Quillmeadow College in 2020.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2020 年在虚构羽草学院完成图书馆支持文凭课程。"
+    },
+    {
+      "en": "Paid shelving assistant at Fictional Alderbook Branch Library from 2020-09 to 2023-02.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-09 至 2023-02 在虚构桤书分馆任有薪排架助理。"
+    },
+    {
+      "en": "At the branch, reshelved returned books by catalogue code and checked reservation slips against item barcodes.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在分馆按目录代码将归还图书重新排架，并依据图书条码核对预约凭条。"
+    },
+    {
+      "en": "Paid outreach assistant with Fictional Lanternpage Mobile Library from 2023-03 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-03 至 2026-08 在虚构灯页流动图书馆任有薪外展助理。"
+    },
+    {
+      "en": "Prepared rotating book crates from the librarian’s approved stop-specific stock lists.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据图书馆员批准的各停靠点专用藏书清单，准备轮换图书箱。"
+    },
+    {
+      "en": "Scanned loans and returns while the vehicle was parked and recorded items requiring catalogue correction.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "在车辆停稳时扫描借出及归还图书，并记录需要目录更正的图书。"
+    },
+    {
+      "en": "Helped visitors locate reserved books and referred account restrictions to the outreach librarian.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "协助访客查找预约图书，并将账户限制问题转交外展图书馆员。"
+    },
+    {
+      "en": "The assigned driver drove and parked the mobile library; the candidate’s duties were bookstock and visitor support.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "指定司机驾驶并停放流动图书馆车辆；候选人职责为藏书及访客支持。"
+    },
+    {
+      "en": "Helped refresh a picture-book activity kit in 2025-02 for use at community stops.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-02 协助更新供社区停靠点使用的绘本活动套件。"
+    },
+    {
+      "en": "Personally prepared 18 reusable picture cards and a packing checklist from the librarian’s activity plan.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人依据图书馆员活动方案准备 18 张可重复使用图片卡及打包核对表。"
+    },
+    {
+      "en": "Set out the activity kit and helped children find matching cards during librarian-led sessions.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "在图书馆员主持的活动中摆放活动套件，并协助儿童寻找匹配图片卡。"
+    },
+    {
+      "en": "Recorded session dates and group attendance counts on the librarian’s reporting sheet.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "在图书馆员报告表上记录活动日期及团体出席人数。"
+    },
+    {
+      "en": "Those attendance sheets did not record individual reading levels or follow-up learning assessments.",
+      "id": "F13",
+      "kind": "other",
+      "zh": "这些出席表未记录个人阅读水平或后续学习评估。"
+    },
+    {
+      "en": "Uses circulation scanners, catalogue searches, crate checklists and a shared outreach calendar.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用借还扫描器、目录检索、图书箱核对表及共享外展日历。"
+    },
+    {
+      "en": "Checked returned activity materials against the kit list and noted items needing replacement.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "依据套件清单核对归还活动材料，并注明需要更换的物品。"
+    },
+    {
+      "en": "Completed internal visitor-support and safeguarding-reporting induction in 2023-03.",
+      "id": "F16",
+      "kind": "education",
+      "zh": "2023-03 完成内部访客支持及人员保护（safeguarding）问题上报入职培训。"
+    },
+    {
+      "en": "Volunteered at Fictional Storyfern Weekend Club from 2018-10 to 2019-06, preparing name badges and setting out board games.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2018-10 至 2019-06 在虚构故事蕨周末社做志愿者，准备姓名牌并摆放桌游。"
+    },
+    {
+      "en": "For that club, co-created a noncommercial treasure-hunt story with another volunteer; personally drew the clue pictures.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "为该社与另一名志愿者共同创作非商业寻宝故事；个人绘制线索图片。"
+    },
+    {
+      "en": "Keeps a personal notebook of fictional animal stories written for enjoyment, not commissioned educational materials.",
+      "id": "F19",
+      "kind": "project",
+      "zh": "保留个人虚构动物故事笔记，写作为消遣，而非受委托教育材料。"
+    },
+    {
+      "en": "Enjoys making fabric book sleeves from spare cloth.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "爱好用剩余布料制作布艺书套。"
+    },
+    {
+      "en": "Prepared end-of-route handovers listing unfilled reservations, catalogue questions and incomplete activity kits.",
+      "id": "F21",
+      "kind": "employment",
+      "zh": "在路线结束时准备交接，列明未满足预约、目录问题及不完整活动套件。"
+    }
+  ]
+}

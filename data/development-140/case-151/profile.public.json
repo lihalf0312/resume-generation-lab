@@ -1,0 +1,131 @@
+{
+  "case_id": "case-151",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-151",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-151",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Science in geography at Fictional Larchdelta University in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构落叶松三角洲大学获得地理学理学学士学位。"
+    },
+    {
+      "en": "Paid mapping assistant at Fictional Rainspan Survey Services from 2018-08 to 2021-11.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-08 至 2021-11 在虚构雨跨测绘服务公司任有薪制图助理。"
+    },
+    {
+      "en": "There, traced features from approved survey drawings and recorded the drawing revision used for each edit.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该公司依据获批测绘图描绘要素，并记录每次编辑所用图纸版本。"
+    },
+    {
+      "en": "Paid geospatial data analyst at Fictional Brookgrid Utilities from 2021-12 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2021-12 至 2026-08 在虚构溪网公用事业公司任有薪地理空间数据分析员。"
+    },
+    {
+      "en": "Maintains point and line asset layers in QGIS using approved installation records.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用 QGIS，依据获批安装记录维护点状及线状资产图层。"
+    },
+    {
+      "en": "Checks coordinate reference system labels, duplicate asset IDs and disconnected line endpoints before proposing an update.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "提出更新前检查坐标参考系标签、重复资产编号及未连接的线端点。"
+    },
+    {
+      "en": "Writes SQL queries to compare asset IDs between a staging table and the current register.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "编写 SQL 查询，以比较暂存表与现行登记册中的资产编号。"
+    },
+    {
+      "en": "Records unresolved drawing conflicts in an issue log and sends them to the survey lead.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "在问题日志中记录尚未解决的图纸冲突，并提交测绘负责人。"
+    },
+    {
+      "en": "The survey lead approves spatial accuracy and the asset owner authorizes publication; the candidate prepares the proposed edits.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "测绘负责人批准空间精度，资产负责人授权发布；候选人准备拟议编辑。"
+    },
+    {
+      "en": "Co-led a register reconciliation pilot in 2025-02 with a database analyst.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "2025-02 与一名数据库分析员共同牵头登记册核对试点。"
+    },
+    {
+      "en": "Personally wrote the identifier-matching query and documented unresolved joins; the colleague built the import process.",
+      "id": "F11",
+      "kind": "project",
+      "zh": "个人编写编号匹配查询并记录未解决的关联；导入流程由同事建立。"
+    },
+    {
+      "en": "The pilot compared 1240 register rows representing 1185 distinct assets because some assets had multiple record rows.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "该试点比较 1240 行登记记录，代表 1185 项不同资产，因为部分资产有多行记录。"
+    },
+    {
+      "en": "The pilot flagged 37 rows for review; no confirmed count of defective assets was reported.",
+      "id": "F13",
+      "kind": "outcome",
+      "zh": "该试点标记 37 行供审核；未报告经确认的缺陷资产数量。"
+    },
+    {
+      "en": "Uses QGIS, SQL, spreadsheet pivot tables and a documented peer-review checklist.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用 QGIS、SQL、电子表格数据透视表及有文档记录的同行审核核对表。"
+    },
+    {
+      "en": "Completed an internal data-handling workshop in 2024-03 without receiving a professional surveyor qualification.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2024-03 完成内部数据处理工作坊，未获得专业测绘师资格。"
+    },
+    {
+      "en": "Explains proposed record changes to field coordinators using annotated map extracts.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "通过带注释的地图摘图向现场协调员解释拟议记录变更。"
+    },
+    {
+      "en": "Volunteered with Fictional Reedpath Walking Group from 2019-05 to 2022-10, maintaining an outing calendar.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2019-05 至 2022-10 在虚构芦径步行团做志愿者，维护出行日历。"
+    },
+    {
+      "en": "Made a personal map of imagined islands in 2023, using entirely invented coordinates.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2023 年制作个人想象岛屿地图，使用完全虚构的坐标。"
+    },
+    {
+      "en": "Enjoys drawing contour-style patterns and binding sketchbooks.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好绘制等高线风格图案及装订素描本。"
+    },
+    {
+      "en": "Mentored a new mapping assistant through supervised edit reviews but had no formal line-management appointment.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "通过受监督的编辑审核指导一名新制图助理，但未正式担任直属人员管理职务。"
+    }
+  ]
+}

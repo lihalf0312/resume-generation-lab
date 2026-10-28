@@ -26,4 +26,6 @@ python -m resume_pipeline.public_dataset --root .
 
 This read-only command checks public file membership, schemas, identities, rating scales and short-comment boundaries. It never opens private full records. Structural validation is not semantic entailment, independent reviewer calibration or exhaustive privacy certification.
 
-No actual rendered-document or ATS validation is claimed. Current-tree removal does not erase prior Git history. This milestone contains only cases 001–140; later work is separate.
+No actual rendered-document or ATS validation is claimed. Current-tree removal does not erase prior Git history. This milestone contains only cases 001–180; later work is separate.
+
+The `data/development-140/` folder name is retained for stable existing links; its current index defines the complete 180-case milestone. The first 140 five-file case records are unchanged. [The earlier 140-case manifest](../publication-public-v4.json) is a historical inventory, not the current file inventory.

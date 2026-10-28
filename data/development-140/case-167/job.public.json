@@ -1,0 +1,38 @@
+{
+  "case_id": "case-167",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Game Localization QA Specialist",
+    "zh": "游戏本地化质量保证专员"
+  },
+  "vacancy_label": "Wholly fictional synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Test English and Chinese game interfaces for linguistic, layout and locale-specific defects.",
+      "id": "R01",
+      "zh": "测试英中游戏界面的语言、布局及区域语言相关缺陷。"
+    },
+    {
+      "en": "Write reproducible issue reports and trace verification results across builds.",
+      "id": "R02",
+      "zh": "编写可复现的问题报告，并跨构建版本追踪验证结果。"
+    },
+    {
+      "en": "Coordinate terminology questions with translation partners and support new testers.",
+      "id": "R03",
+      "zh": "与翻译合作方协调术语问题，并支持新测试人员。"
+    },
+    {
+      "en": "Build automated localization regression suites integrated with continuous integration.",
+      "id": "R04",
+      "zh": "构建接入持续集成的自动化本地化回归测试套件。"
+    },
+    {
+      "en": "Preferred: lead console localization certification submissions.",
+      "id": "R05",
+      "zh": "优先：牵头主机本地化认证提交。"
+    }
+  ]
+}

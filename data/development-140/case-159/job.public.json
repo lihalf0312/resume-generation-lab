@@ -1,0 +1,33 @@
+{
+  "case_id": "case-159",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "International Order Service Specialist",
+    "zh": "国际订单服务专员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Validate international orders and maintain accurate line-level availability records.",
+      "id": "R01",
+      "zh": "核验国际订单，并维护准确的订单行级供货记录。"
+    },
+    {
+      "en": "Communicate routine order updates in written English and preserve a clear correspondence trail.",
+      "id": "R02",
+      "zh": "以书面英语沟通日常订单更新，并保留清晰往来通信记录。"
+    },
+    {
+      "en": "Coordinate logistics information and escalate pricing or document exceptions to the responsible team.",
+      "id": "R03",
+      "zh": "协调物流信息，并将价格或单证异常升级交给责任团队。"
+    },
+    {
+      "en": "Preferred: independently prepare customs declarations and resolve tariff classifications.",
+      "id": "R04",
+      "zh": "优先：独立编制报关单并解决关税归类问题。"
+    }
+  ]
+}

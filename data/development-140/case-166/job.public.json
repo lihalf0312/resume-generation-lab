@@ -1,0 +1,33 @@
+{
+  "case_id": "case-166",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Park Tree Inventory Assistant",
+    "zh": "公园树木清查助理"
+  },
+  "vacancy_label": "Wholly fictional synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Collect tree-tag, location and diameter observations using an established field protocol.",
+      "id": "R01",
+      "zh": "按既定现场规程采集树木挂牌编号、位置及直径观察数据。"
+    },
+    {
+      "en": "Check inventory records for duplicate identifiers and retain evidence for authorized corrections.",
+      "id": "R02",
+      "zh": "检查清查记录中的重复编号，并为获准的更正保留依据。"
+    },
+    {
+      "en": "Communicate with park visitors and recognize which condition questions require arborist review.",
+      "id": "R03",
+      "zh": "与公园游客沟通，并识别哪些树况问题须由树艺师审核。"
+    },
+    {
+      "en": "Preferred: hold a professional arborist credential and independently assign tree-risk ratings.",
+      "id": "R04",
+      "zh": "优先：持有专业树艺师资格，并能够独立确定树木风险评级。"
+    }
+  ]
+}

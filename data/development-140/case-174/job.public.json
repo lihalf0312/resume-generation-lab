@@ -1,0 +1,33 @@
+{
+  "case_id": "case-174",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Laboratory Report Production Coordinator",
+    "zh": "实验室报告制作协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Assemble environmental testing laboratory reports under document-control procedures and verify identifiers, units and attachments.",
+      "id": "R01",
+      "zh": "按文件控制程序编制环境检测实验室报告，并核验编号、单位及附件。"
+    },
+    {
+      "en": "Maintain draft and final-document status with clear traceability.",
+      "id": "R02",
+      "zh": "维护草稿及最终文件状态，确保清晰可追溯性。"
+    },
+    {
+      "en": "Communicate workflow status and refer technical interpretation to authorized reviewers.",
+      "id": "R03",
+      "zh": "沟通流程状态，并将技术解释转交获授权审核人员。"
+    },
+    {
+      "en": "Preferred: independently interpret analytical results and sign laboratory reports.",
+      "id": "R04",
+      "zh": "优先：独立解释分析结果并签署实验室报告。"
+    }
+  ]
+}

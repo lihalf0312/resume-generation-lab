@@ -1,0 +1,33 @@
+{
+  "case_id": "case-154",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Calibration Laboratory Technician",
+    "zh": "校准实验室技术员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Carry out procedure-based bench comparisons and maintain traceable measurement worksheets.",
+      "id": "R01",
+      "zh": "开展依照程序的台架比对，并维护可追溯测量工作表。"
+    },
+    {
+      "en": "Control instrument status and escalate identification or reference-equipment issues.",
+      "id": "R02",
+      "zh": "控制仪器状态，并升级上报仪器标识或参考设备问题。"
+    },
+    {
+      "en": "Support worksheet improvements and explain controlled procedures to colleagues.",
+      "id": "R03",
+      "zh": "支持工作表改进，并向同事讲解受控程序。"
+    },
+    {
+      "en": "Preferred: independently approve measurement uncertainty budgets and sign calibration certificates.",
+      "id": "R04",
+      "zh": "优先：独立批准测量不确定度预算并签署校准证书。"
+    }
+  ]
+}

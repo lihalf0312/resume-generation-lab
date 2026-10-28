@@ -1,0 +1,125 @@
+{
+  "case_id": "case-142",
+  "creation_batch": "development-001-extension-015",
+  "identity_id": "synthetic-person-142",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-142",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a construction stores certificate at Fictional Flintmeadow Training Centre in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构燧草培训中心完成施工物料库证书课程。"
+    },
+    {
+      "en": "Paid materials assistant at Fictional Hearthstone Masonry Yard from 2020-02 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2020-02 至 2026-08 在虚构炉石砌筑料场任有薪材料助理。"
+    },
+    {
+      "en": "Matched supplier labels to approved material codes and marked the delivery date on the yard register.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "将供应商标签与获批材料代码匹配，并在料场登记表上标注到货日期。"
+    },
+    {
+      "en": "Prepared small fittings and packaging materials for job bundles using the foreman’s pick list.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据工头拣货单，为工单配料包准备小型配件及包装材料。"
+    },
+    {
+      "en": "Checked visible package damage and reported unidentified stone bundles before they were assigned a storage location.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "在分配存放位置前检查可见包装损坏，并报告无法识别的石材捆包。"
+    },
+    {
+      "en": "A qualified lifting team moved large stone loads; the candidate documented their destinations from the foreman’s instructions.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "由合资格吊装团队搬运大型石材货物；候选人依据工头指示记录其目的位置。"
+    },
+    {
+      "en": "The foreman specified stone grade, cutting dimensions and load placement.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "工头指定石材等级、切割尺寸及货物放置位置。"
+    },
+    {
+      "en": "Helped relabel a small-fittings shelf in 2024-10 with the yard purchaser.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2024-10 与料场采购员共同协助为小型配件货架重新贴标签。"
+    },
+    {
+      "en": "Personally checked 54 shelf codes against the supplier catalogue; the purchaser approved replacement product codes.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人依据供应商目录核对 54 个货架代码；替代产品代码由采购员批准。"
+    },
+    {
+      "en": "The shelf check found 6 old codes that no longer appeared in the current catalogue; no value for the affected stock was recorded.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "该货架检查发现 6 个旧代码已不在现行目录中；未记录受影响库存的价值。"
+    },
+    {
+      "en": "Uses delivery-note references, shelf-code lists and spreadsheet filters.",
+      "id": "F11",
+      "kind": "skill",
+      "zh": "使用送货单编号、货架代码清单及电子表格筛选。"
+    },
+    {
+      "en": "Prepared a daily list of unfilled pick requests and deliveries awaiting code confirmation.",
+      "id": "F12",
+      "kind": "employment",
+      "zh": "每天准备未完成拣货请求及等待代码确认到货的清单。"
+    },
+    {
+      "en": "Completed internal yard-access and manual-handling orientation in 2020-02; no lifting-equipment licence was issued.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2020-02 完成内部料场出入及人工搬运入门培训；未颁发起重设备操作执照。"
+    },
+    {
+      "en": "Volunteered with Fictional Birchbrick Model Village Group from 2021-05 to 2024-09.",
+      "id": "F14",
+      "kind": "other",
+      "zh": "2021-05 至 2024-09 在虚构桦砖模型村团体做志愿者。"
+    },
+    {
+      "en": "At that group, sorted donated model-building pieces by size and prepared labeled kits for supervised public workshops.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "在该团体按尺寸整理捐赠模型建筑零件，并为受监督的公众工作坊准备有标签套件。"
+    },
+    {
+      "en": "The workshops used lightweight model materials, not structural masonry.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "这些工作坊使用轻质模型材料，而非结构性砌筑材料。"
+    },
+    {
+      "en": "Made a personal cardboard arch model in 2023 to explore decorative patterns; no engineering load test was performed.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年制作个人纸板拱模型以探索装饰图案；未进行工程荷载测试。"
+    },
+    {
+      "en": "Enjoys sketching imagined courtyard layouts.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好素描想象中的庭院布局。"
+    },
+    {
+      "en": "Handed open delivery discrepancies to the next shift with the related document references.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "将未解决的到货差异连同相关文件编号交接给下一班。"
+    }
+  ]
+}

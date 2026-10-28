@@ -1,0 +1,131 @@
+{
+  "case_id": "case-178",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-178",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-178",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a software testing diploma at Fictional Birchlogic College in 2024.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2024 年在虚构桦逻辑学院获得软件测试文凭。"
+    },
+    {
+      "en": "Paid robotics software test assistant at Fictional Mosscart Systems from 2024-08 to 2026-08.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2024-08 至 2026-08 在虚构苔车系统公司任有薪机器人软件测试助理。"
+    },
+    {
+      "en": "Runs approved regression scenarios in a warehouse-robot simulator and records software version and map configuration.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在仓储机器人模拟器中运行获批回归场景，并记录软件版本及地图配置。"
+    },
+    {
+      "en": "Writes Python assertions for route-status messages and task-cancellation responses within the existing test framework.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在现有测试框架中编写 Python 断言，检查路线状态消息及任务取消响应。"
+    },
+    {
+      "en": "Files reproducible defects with logs and expected behavior from the approved test specification.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据获批测试规格中的预期行为，附日志提交可复现缺陷。"
+    },
+    {
+      "en": "A senior test engineer reviews the assertions and decides whether a failed check is a product defect or a test issue.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "高级测试工程师审核断言，并决定失败检查属于产品缺陷还是测试问题。"
+    },
+    {
+      "en": "Contributed to a 2025-10 simulator regression run containing 180 scenario executions.",
+      "id": "F07",
+      "kind": "project",
+      "zh": "参与一轮 2025-10 模拟器回归运行，包含 180 次场景执行。"
+    },
+    {
+      "en": "The run used 60 scenario definitions executed under 3 map configurations each.",
+      "id": "F08",
+      "kind": "outcome",
+      "zh": "该轮运行使用 60 个场景定义，每个在 3 种地图配置下执行。"
+    },
+    {
+      "en": "There were 14 failed executions in the recorded run; these were not confirmed as 14 distinct defects.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "记录中的运行有 14 次执行失败；未确认其等同于 14 个不同缺陷。"
+    },
+    {
+      "en": "Personally maintained assertions for 8 scenario definitions; colleagues maintained the remaining scenarios and simulator infrastructure.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人维护 8 个场景定义的断言；同事维护其余场景及模拟器基础设施。"
+    },
+    {
+      "en": "The release owner approves deployment to physical robots; the candidate has simulator test access only.",
+      "id": "F11",
+      "kind": "employment",
+      "zh": "发布负责人批准向实体机器人部署；候选人仅拥有模拟器测试访问权限。"
+    },
+    {
+      "en": "Uses Python, Git reviews, test logs and an issue tracker.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用 Python、Git 评审、测试日志及问题跟踪系统。"
+    },
+    {
+      "en": "Completed internal simulator and defect-reporting induction in 2024-08.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2024-08 完成内部模拟器及缺陷报告入职培训。"
+    },
+    {
+      "en": "Built a personal grid-navigation puzzle in 2023 using a simple Python program and invented map data.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "2023 年使用简单 Python 程序及虚构地图数据制作个人网格导航谜题。"
+    },
+    {
+      "en": "The puzzle ran on a laptop and did not control motors, sensors or real vehicles.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "该谜题在笔记本电脑上运行，不控制电机、传感器或真实车辆。"
+    },
+    {
+      "en": "Volunteered with Fictional Codeacorn Club in 2022, checking sign-ins for beginner programming sessions.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2022 年在虚构代码橡子社做志愿者，为入门编程活动核对签到。"
+    },
+    {
+      "en": "Enjoys assembling paper mazes and playing cooperative puzzle board games.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好组装纸迷宫及玩合作式解谜桌游。"
+    },
+    {
+      "en": "Explains simulator reproduction steps at team defect-triage meetings.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "在团队缺陷分类评估会议上解释模拟器复现步骤。"
+    },
+    {
+      "en": "Keeps unresolved flaky checks separate from consistently reproducible failures in test summaries.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "在测试摘要中将尚未解决的不稳定检查与能够稳定复现的失败分开。"
+    },
+    {
+      "en": "No authority for robot safety certification or on-site emergency-stop validation is documented.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录机器人安全认证或现场急停验证权限。"
+    }
+  ]
+}

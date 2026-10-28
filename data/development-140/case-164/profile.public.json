@@ -1,0 +1,131 @@
+{
+  "case_id": "case-164",
+  "creation_batch": "development-001-extension-017",
+  "identity_id": "synthetic-person-164",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-164",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Arts in information management at Fictional Goldfern University in 2013.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2013 年在虚构金蕨大学获得信息管理文学学士学位。"
+    },
+    {
+      "en": "Paid records assistant at Fictional Brightseed Foundation from 2013-09 to 2017-02.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2013-09 至 2017-02 在虚构亮种基金会任有薪档案助理。"
+    },
+    {
+      "en": "Paid fundraising database officer at the same foundation from 2017-03 to 2021-05.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2017-03 至 2021-05 在同一基金会任有薪筹款数据库专员。"
+    },
+    {
+      "en": "Paid data operations manager at Fictional Willowlantern Trust from 2021-06 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2021-06 至 2026-08 在虚构柳灯信托机构任有薪数据运营经理。"
+    },
+    {
+      "en": "Line-manages 4 data officers and sets weekly priorities for imports, corrections and campaign selections.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "直接管理 4 名数据专员，并为导入、更正及活动名单筛选设定每周优先次序。"
+    },
+    {
+      "en": "Maintains documented CRM import rules and checks duplicate-person candidates before approved merges.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "维护有文档记录的 CRM 导入规则，并在获批合并前检查疑似重复人员记录。"
+    },
+    {
+      "en": "Builds campaign selections from approved contact preferences, exclusions and segment definitions.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "依据获批联系偏好、排除条件及分群定义建立活动名单。"
+    },
+    {
+      "en": "The fundraising director approves appeal strategy; the information-governance lead approves retention-policy changes.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "筹款总监批准募捐策略；信息治理负责人批准保留政策变更。"
+    },
+    {
+      "en": "Managed the data workstream of a 2025-03 CRM migration with an external implementation team.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-03 与外部实施团队合作，管理 CRM 迁移的数据工作部分。"
+    },
+    {
+      "en": "Personally approved reconciled import batches within delegated operational authority; the vendor configured system integrations.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人在获授运营权限范围内批准已核对导入批次；供应商配置系统集成。"
+    },
+    {
+      "en": "The reconciliation covered 18000 transaction records associated with 6200 distinct supporter records.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "核对覆盖 18000 条交易记录，关联 6200 条不同支持者记录。"
+    },
+    {
+      "en": "The team resolved 140 flagged mapping exceptions before import sign-off; the report does not identify all as original-data errors.",
+      "id": "F12",
+      "kind": "outcome",
+      "zh": "团队在导入签批前解决 140 个标记的映射异常；报告未将其全部认定为原始数据错误。"
+    },
+    {
+      "en": "Uses CRM reporting, SQL validation queries and spreadsheet reconciliation controls.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用 CRM 报表、SQL 验证查询及电子表格核对控制。"
+    },
+    {
+      "en": "Presents data-quality and unresolved-access issues at monthly governance meetings.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "在每月治理会议汇报数据质量及未解决访问权限问题。"
+    },
+    {
+      "en": "Completed internal manager training on access-request handling in 2022-04.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2022-04 完成有关访问请求处理的内部经理培训。"
+    },
+    {
+      "en": "Maintains change approvals and coordinates post-import spot checks with fundraising users.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "维护变更审批记录，并与筹款系统用户协调导入后抽查。"
+    },
+    {
+      "en": "Volunteers with Fictional Quiltlight Community Theatre, maintaining a costume-loan register.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "在虚构被光社区剧团做志愿者，维护服装借用登记册。"
+    },
+    {
+      "en": "Created a personal illustrated calendar in 2024 for family use, with no fundraising sales campaign.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2024 年制作个人插画日历供家人使用，不涉及筹款销售活动。"
+    },
+    {
+      "en": "Enjoys solving logic grids and making hand-stitched notebook covers.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好解逻辑方格谜题及手缝笔记本封套。"
+    },
+    {
+      "en": "Coaches data officers on reconciliation evidence and records development goals during regular one-to-one meetings.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "指导数据专员整理核对证据，并在定期一对一会议中记录发展目标。"
+    }
+  ]
+}

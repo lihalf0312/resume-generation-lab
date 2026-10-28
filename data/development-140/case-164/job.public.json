@@ -1,0 +1,38 @@
+{
+  "case_id": "case-164",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Fundraising Data Operations Manager",
+    "zh": "筹款数据运营经理"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Lead a data operations team and manage clear delivery and development priorities.",
+      "id": "R01",
+      "zh": "领导数据运营团队，并管理清晰的交付及发展优先事项。"
+    },
+    {
+      "en": "Maintain CRM import controls and reconcile transaction and supporter records using SQL or comparable tools.",
+      "id": "R02",
+      "zh": "维护 CRM 导入控制，并使用 SQL 或同类工具核对交易及支持者记录。"
+    },
+    {
+      "en": "Build campaign selections that respect approved preferences and exclusions.",
+      "id": "R03",
+      "zh": "建立遵守获批偏好及排除条件的活动名单。"
+    },
+    {
+      "en": "Communicate operational data risks and maintain change-approval evidence.",
+      "id": "R04",
+      "zh": "沟通运营数据风险，并维护变更审批证据。"
+    },
+    {
+      "en": "Preferred: independently configure and deploy CRM integration services.",
+      "id": "R05",
+      "zh": "优先：独立配置并部署 CRM 集成服务。"
+    }
+  ]
+}

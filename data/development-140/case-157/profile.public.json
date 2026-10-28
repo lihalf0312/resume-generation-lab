@@ -1,0 +1,131 @@
+{
+  "case_id": "case-157",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-157",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-157",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a garment-technology diploma at Fictional Thimblebrook Institute in 2012.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2012 年在虚构顶针溪学院获得服装技术文凭。"
+    },
+    {
+      "en": "Paid pattern assistant at Fictional Foxstitch Apparel from 2012-07 to 2016-10.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2012-07 至 2016-10 在虚构狐针服装公司任有薪制版助理。"
+    },
+    {
+      "en": "Paid pattern cutter at Fictional Willowseam Clothing from 2016-11 to 2021-03.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2016-11 至 2021-03 在虚构柳缝服装公司任有薪制版师。"
+    },
+    {
+      "en": "Paid pattern development lead at the same employer from 2021-04 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2021-04 至 2026-08 在同一雇主任有薪制版开发负责人。"
+    },
+    {
+      "en": "Develops base patterns for woven shirts from approved design drawings and measurement specifications.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据获批设计图及尺寸规格开发梭织衬衫基础纸样。"
+    },
+    {
+      "en": "Adjusts patterns after fit reviews, recording revision reasons and changed measurement points.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "试穿评审后调整纸样，记录修改原因及变更的测量点。"
+    },
+    {
+      "en": "Coordinates the technical work of 3 pattern staff, while their formal performance reviews remain with the technical manager.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "协调 3 名制版员工的技术工作，其正式绩效评审仍由技术经理负责。"
+    },
+    {
+      "en": "The design director approves style changes and the technical manager authorizes production patterns.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "设计总监批准款式变更，技术经理批准生产用纸样。"
+    },
+    {
+      "en": "Coordinated pattern development for a 2025 spring capsule with 8 shirt styles.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "为 2025 年春季包含 8 款衬衫的小型系列协调制版开发。"
+    },
+    {
+      "en": "Personally developed 3 base patterns and checked measurement sheets for the other 5 styles.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人开发 3 个基础纸样，并核对其余 5 款的尺寸表。"
+    },
+    {
+      "en": "The team’s fit log records 11 review sessions across the 8 styles; some sessions covered more than one style.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "团队试穿日志记录这 8 款共涉及 11 次评审；部分评审覆盖不止一款。"
+    },
+    {
+      "en": "The log does not provide a previous-season baseline or a production defect rate.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "该日志未提供上一季基线或生产缺陷率。"
+    },
+    {
+      "en": "Uses a CAD pattern system, measurement spreadsheets and versioned pattern libraries.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用 CAD 制版系统、尺寸电子表格及带版本记录的纸样库。"
+    },
+    {
+      "en": "Explains seam allowances, notch placement and approved revisions to sample-room colleagues.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "向样衣室同事解释缝份、剪口位置及获批修改。"
+    },
+    {
+      "en": "Completed an internal introduction to digital grading in 2020-09; later grading output was reviewed by the technical manager.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2020-09 完成内部数字放码入门培训；后续放码成果由技术经理审核。"
+    },
+    {
+      "en": "Volunteers with Fictional Patchfern Sewing Circle, demonstrating hand stitches for simple fabric pouches.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "在虚构拼蕨缝纫社做志愿者，示范用于简单布袋的手缝针法。"
+    },
+    {
+      "en": "Designed and sewed a personal reversible apron in 2023 using leftover fabric.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2023 年使用剩余布料设计并缝制个人双面围裙。"
+    },
+    {
+      "en": "Shared the apron at an informal craft gathering; no commercial production run or sales were recorded.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "在非正式手工聚会上分享该围裙；未记录商业批量生产或销售。"
+    },
+    {
+      "en": "Enjoys drawing repeating leaf motifs and visiting noncommercial textile displays.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好绘制重复叶片纹样及参观非商业纺织展示。"
+    },
+    {
+      "en": "Maintains a weekly list of fit decisions awaiting approval and patterns ready for the next sample round.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "维护每周清单，列明待批准试穿决定及已准备好进入下一轮样衣制作的纸样。"
+    }
+  ]
+}

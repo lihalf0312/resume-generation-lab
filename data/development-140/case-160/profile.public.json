@@ -1,0 +1,131 @@
+{
+  "case_id": "case-160",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-160",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-160",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Science in psychology at Fictional Elmflavour University in 2017.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2017 年在虚构榆味大学获得心理学理学学士学位。"
+    },
+    {
+      "en": "Paid meeting coordinator at Fictional Bramblehall Services from 2017-09 to 2021-12.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2017-09 至 2021-12 在虚构荆棘厅服务公司任有薪会议协调员。"
+    },
+    {
+      "en": "At that employer, managed participant reminders, room schedules and attendance records.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该雇主处管理参与者提醒、房间日程及出席记录。"
+    },
+    {
+      "en": "Worked as a paid sensory study operations assistant at Fictional Pebbletaste Research, with an unresolved start month in 2022 and a documented end date of 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "在虚构卵味研究公司任有薪感官研究运营助理，2022 年入职月份尚未确定，已记录离职日期为 2026-08。"
+    },
+    {
+      "en": "An onboarding checklist states 2022-02, while the candidate’s work-history draft states 2022-03; the supplied documents do not resolve the difference.",
+      "id": "F05",
+      "kind": "other",
+      "zh": "入职核对表写明 2022-02，而候选人工作经历草稿写明 2022-03；所供文件未解决该差异。"
+    },
+    {
+      "en": "Schedules participants from an approved roster and sends standardized preparation reminders.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "依据获批名单安排参与者，并发送标准化准备提醒。"
+    },
+    {
+      "en": "Labels sample cups with assigned anonymous codes and follows the study lead’s serving sequence.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "使用分配的匿名代码标注样品杯，并遵循研究负责人指定的呈样顺序。"
+    },
+    {
+      "en": "Records attendance and questionnaire receipt separately to avoid assuming every attendee supplied a response.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "分别记录出席及问卷收取情况，避免假定每位出席者都提交回答。"
+    },
+    {
+      "en": "The study lead sets eligibility, screening rules and research design; the candidate applies the approved operations checklist.",
+      "id": "F09",
+      "kind": "employment",
+      "zh": "研究负责人制定资格、筛选规则及研究设计；候选人执行获批运营核对表。"
+    },
+    {
+      "en": "Coordinated room and sample-code logistics for a 2025-09 fictional snack preference study.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "为一项 2025-09 虚构零食偏好研究协调房间及样品代码事务。"
+    },
+    {
+      "en": "The session log records 60 attendees and 57 completed questionnaires, with no result reported for the 3 nonrespondents.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "活动日志记录 60 名出席者及 57 份已完成问卷，未报告 3 名未作答者的结果。"
+    },
+    {
+      "en": "Personally checked code-to-tray assignments and counted returned questionnaires; an analyst interpreted preference results.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人核对代码与托盘的对应关系，并清点收回问卷；偏好结果由分析员解释。"
+    },
+    {
+      "en": "Uses scheduling spreadsheets, coded sample lists and controlled study checklists.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用排程电子表格、编码样品清单及受控研究核对表。"
+    },
+    {
+      "en": "Completed internal study-room hygiene and incident-reporting induction in 2022.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2022 年完成内部研究室卫生及事件上报入职培训。"
+    },
+    {
+      "en": "Reports participant concerns or unexpected sample issues to the study lead and pauses the affected serving task pending instructions.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "向研究负责人报告参与者提出的顾虑或样品异常，并暂停受影响的呈样任务，等待指示。"
+    },
+    {
+      "en": "Volunteered with Fictional Willowcup Board-Game Club from 2019-01 to 2021-08, scheduling casual game nights.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2019-01 至 2021-08 在虚构柳杯桌游社做志愿者，安排休闲游戏之夜。"
+    },
+    {
+      "en": "For that club, created a reusable game-component checklist and co-designed an informal preference poll about game themes.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "为该社制作可复用游戏配件核对表，并共同设计关于游戏主题的非正式偏好调查。"
+    },
+    {
+      "en": "Keeps a personal notebook comparing imagined flavour combinations for creative writing, without commercial product trials.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "保留个人笔记，比较想象中的风味组合用于创意写作，不涉及商业产品试验。"
+    },
+    {
+      "en": "Enjoys making illustrated recipe cards for fictional foods and playing cooperative board games.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好为虚构食物制作图解食谱卡，以及玩合作式桌游。"
+    },
+    {
+      "en": "Prepares post-session handovers covering unused samples, missing forms and issues awaiting study-lead review.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "准备活动后交接，涵盖未使用样品、缺失表单及等待研究负责人审核的问题。"
+    }
+  ]
+}

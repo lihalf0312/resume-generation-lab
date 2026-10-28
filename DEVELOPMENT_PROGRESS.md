@@ -1,6 +1,6 @@
-# Development results — fixed 140-case public snapshot
+# Development results — fixed 180-case public snapshot
 
-**140 fictional pairs, 280 bilingual resumes and 140 simple score/comment records.** Actual native factual-status labels remain 136 pass, 4 needs_review and 0 fail. These labels are unvalidated.
+**180 fictional pairs, 360 bilingual resumes and 180 simple score/comment records.** Actual native factual-status labels remain 175 pass, 5 needs_review and 0 fail. These labels are unvalidated.
 
 ## Browse
 
@@ -20,6 +20,10 @@
 | 111–120 | [case-111](data/development-140/case-111/evaluation.public.json) | [case-120](data/development-140/case-120/evaluation.public.json) |
 | 121–130 | [case-121](data/development-140/case-121/evaluation.public.json) | [case-130](data/development-140/case-130/evaluation.public.json) |
 | 131–140 | [case-131](data/development-140/case-131/evaluation.public.json) | [case-140](data/development-140/case-140/evaluation.public.json) |
+| 141–150 | [case-141](data/development-140/case-141/evaluation.public.json) | [case-150](data/development-140/case-150/evaluation.public.json) |
+| 151–160 | [case-151](data/development-140/case-151/evaluation.public.json) | [case-160](data/development-140/case-160/evaluation.public.json) |
+| 161–170 | [case-161](data/development-140/case-161/evaluation.public.json) | [case-170](data/development-140/case-170/evaluation.public.json) |
+| 171–180 | [case-171](data/development-140/case-171/evaluation.public.json) | [case-180](data/development-140/case-180/evaluation.public.json) |
 
 The [full index](data/development-140/index.json) lists all cases. Only factual sources, resume text, original dimension ratings and brief comments are published; detailed review bases remain private.
 
@@ -29,8 +33,9 @@ The [full index](data/development-140/index.json) lists all cases. Only factual 
 - Case 101: an unresolved eligibility question was flagged, not a proven false eligibility claim. The needs_review label is disputed and remains unchanged.
 - Case 103: English wording adds an unsupported approval-authority inference; the negative comment remains.
 - Case 119: a date may be read as applying to undated work; the temporal ambiguity remains.
+- Case 166: Chinese wording leaves tree relocation versus removal ambiguous; the needs_review label and brief criticism remain.
 - Pass-labelled examples can still need improvement: case 073 has an unclear subject transition and case 078 has a mismatched application heading.
 
 No resume was repaired or regenerated for publication. Overall scores remain null, and unassessed dimension ratings are not converted to zero. Brief comments summarize actual ratings or specific reader-facing findings without publishing the detailed basis. No quality improvement, hiring likelihood, HR calibration, production readiness or rendered-document quality is established.
 
-This release is fixed at case 140; later authorized development is separate. Current-tree removal of declined material does not erase earlier Git history.
+This release is fixed at case 180; later authorized development is separate. Current-tree removal of declined material does not erase earlier Git history.

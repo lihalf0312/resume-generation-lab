@@ -1,0 +1,125 @@
+{
+  "case_id": "case-179",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-179",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-179",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a building-services fundamentals diploma at Fictional Oakduct College in 2022.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2022 年在虚构橡风管学院完成建筑设备基础文凭课程。"
+    },
+    {
+      "en": "Paid stores assistant at Fictional Willowfitting Supplies from 2018-06 to 2022-07.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-06 至 2022-07 在虚构柳配件用品公司任有薪物料助理。"
+    },
+    {
+      "en": "In that role, matched labelled ventilation fittings to approved pick lists and recorded stock discrepancies.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该职位将带标签通风配件与获批拣货单匹配，并记录库存差异。"
+    },
+    {
+      "en": "Paid commissioning support technician at Fictional Meadowduct Services from 2023-01 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构草风管服务公司任有薪调试支持技术员。"
+    },
+    {
+      "en": "Records airflow readings at engineer-designated points using the approved site worksheet and assigned measuring instrument.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "使用获批现场工作表及分配的测量仪器，在工程师指定测点记录气流读数。"
+    },
+    {
+      "en": "Checks instrument ID, stated unit and room reference before entering readings into the commissioning record.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将读数录入调试记录前，核对仪器编号、注明单位及房间编号。"
+    },
+    {
+      "en": "The commissioning engineer specifies adjustments and approves system performance; the candidate gathers and checks assigned readings.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "调试工程师指定调整并批准系统性能；候选人采集并核对分配的读数。"
+    },
+    {
+      "en": "Supported a 2025-06 office ventilation survey across 18 rooms.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "支持一项覆盖 18 个房间的 2025-06 办公室通风测查。"
+    },
+    {
+      "en": "The worksheet contains 54 readings because 3 designated points were measured in each room.",
+      "id": "F09",
+      "kind": "outcome",
+      "zh": "该工作表包含 54 个读数，因为每个房间测量 3 个指定点。"
+    },
+    {
+      "en": "Personally collected readings in 10 rooms; another technician collected the remaining 8 rooms’ readings.",
+      "id": "F10",
+      "kind": "project",
+      "zh": "个人在 10 个房间采集读数；另一名技术员采集其余 8 个房间的读数。"
+    },
+    {
+      "en": "The supplied worksheet does not include the engineer’s final system-performance approval.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "所供工作表不包含工程师对系统性能的最终批准。"
+    },
+    {
+      "en": "Uses labelled measurement worksheets, spreadsheet range checks and an instrument issue register.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用带标签测量工作表、电子表格范围检查及仪器领用登记册。"
+    },
+    {
+      "en": "Completed internal site-access and instrument-handling induction in 2023-01.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2023-01 完成内部现场访问及仪器操作入职培训。"
+    },
+    {
+      "en": "Reports inaccessible measurement points and inconsistent references to the commissioning engineer.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "向调试工程师报告无法到达的测点及不一致编号。"
+    },
+    {
+      "en": "Volunteers with Fictional Breezepaper Makers Group, setting up tables for paper-model workshops.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "在虚构微风纸创客团体做志愿者，为纸模型工作坊布置桌子。"
+    },
+    {
+      "en": "Built a personal cardboard room model in 2024 to experiment with miniature furniture placement.",
+      "id": "F16",
+      "kind": "project",
+      "zh": "2024 年制作个人纸板房间模型，以尝试微型家具摆放。"
+    },
+    {
+      "en": "Enjoys constructing paper mobiles and sketching imaginary building façades.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "爱好制作纸悬挂装饰及素描想象中的建筑立面。"
+    },
+    {
+      "en": "Prepares handovers listing incomplete measurements and records awaiting engineering review.",
+      "id": "F18",
+      "kind": "employment",
+      "zh": "准备交接，列明未完成测量及待工程审核记录。"
+    },
+    {
+      "en": "No independent electrical work, design approval or energy-savings verification is recorded.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "未记录独立电气作业、设计审批或节能量核验工作。"
+    }
+  ]
+}

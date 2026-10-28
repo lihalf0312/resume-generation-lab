@@ -1,0 +1,33 @@
+{
+  "case_id": "case-177",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Hotel Revenue Data Analyst",
+    "zh": "酒店收益数据分析员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Reconcile hotel booking and inventory data using SQL and transparent status categories.",
+      "id": "R01",
+      "zh": "使用 SQL 及透明状态分类核对酒店预订与库存数据。"
+    },
+    {
+      "en": "Produce descriptive revenue-support reporting and explain uncertain denominators or excluded records.",
+      "id": "R02",
+      "zh": "制作描述性收益支持报表，并解释不确定分母或被排除记录。"
+    },
+    {
+      "en": "Maintain documented data changes and coordinate unresolved issues with property teams.",
+      "id": "R03",
+      "zh": "维护有记录的数据变更，并与酒店团队协调未解决问题。"
+    },
+    {
+      "en": "Preferred: own final pricing decisions and independently deploy automated rate-optimization models.",
+      "id": "R04",
+      "zh": "优先：负责最终定价决定，并独立部署自动化房价优化模型。"
+    }
+  ]
+}

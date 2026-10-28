@@ -1,0 +1,38 @@
+{
+  "case_id": "case-173",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Spare Parts Planning Lead",
+    "zh": "备件计划负责人"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Lead a parts-planning team and maintain evidence-based replenishment proposals.",
+      "id": "R01",
+      "zh": "领导备件计划团队，并维护有依据的补货建议。"
+    },
+    {
+      "en": "Distinguish available stock, held parts and unreceived orders in planning reports.",
+      "id": "R02",
+      "zh": "在计划报告中区分可用库存、暂留零件及未收货订单。"
+    },
+    {
+      "en": "Analyze coverage by part and service location without conflating stock risk with equipment failure.",
+      "id": "R03",
+      "zh": "按零件及服务地点分析覆盖情况，不混淆库存风险与设备故障。"
+    },
+    {
+      "en": "Coordinate supplier constraints and preserve technical and purchasing approval boundaries.",
+      "id": "R04",
+      "zh": "协调供应商限制，并遵守技术及采购审批权限边界。"
+    },
+    {
+      "en": "Preferred: independently approve replacement-part technical equivalence.",
+      "id": "R05",
+      "zh": "优先：独立批准替换零件的技术等同性。"
+    }
+  ]
+}

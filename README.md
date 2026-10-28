@@ -1,10 +1,10 @@
 # Resume Generation Lab / 简历生成研究台
 
-**140 fictional profile/job pairs, 280 bilingual Markdown resumes, and 140 brief score/comment views.** This is a content-only public snapshot, not a trained resume product or held-out benchmark.
+**180 fictional profile/job pairs, 360 bilingual Markdown resumes, and 180 brief score/comment views.** This is a content-only public snapshot, not a trained resume product or held-out benchmark.
 
 ## Browse
 
-- [All 140 cases](data/development-140/index.json)
+- [All 180 cases](data/development-140/index.json)
 - [Results and limitations](DEVELOPMENT_PROGRESS.md)
 - [Public data contract](docs/PUBLIC_DATASET.md)
 - [General evaluation rubric](research/evaluation/rubric.json)
@@ -26,8 +26,10 @@ python -m resume_pipeline validate
 python -m resume_pipeline public-gate
 ```
 
-The exact public distribution passes **54 tests** normally and under optimization. Its validator checks only the five-file contract, factual source schemas and strictly limited score/comment fields. It does not read private full reviews, reproduce original source validation or certify semantic truth. The separate 40-record fictional fixture supports generic software tests; it is not part of the 140 reviewed pairs.
+The exact public distribution passes **54 tests** normally and under optimization. Its validator checks only the five-file contract, factual source schemas and strictly limited score/comment fields. It does not read private full reviews, reproduce original source validation or certify semantic truth. The separate 40-record fictional fixture supports generic software tests; it is not part of the 180 reviewed pairs.
 
 Generic code supports grounded content preparation, inert skill preferences and provisional format-report checks. No paid model calls, model-weight training, HR ground truth, demonstrated quality improvement, rendered-document verification, ATS certification or production readiness is claimed.
 
-This publication is fixed at case 140; later authorized work is separate. See [STATUS](STATUS.md) and the [public-v4 manifest](publication-public-v4.json). A prepared package is not proof of an updated remote branch.
+This publication is fixed at case 180; later authorized work is separate. See [STATUS](STATUS.md) and the [public-v4 manifest](publication-public-v4-180.json). A prepared package is not proof of an updated remote branch.
+
+The `data/development-140/` folder name is retained for stable existing links; its current index defines the complete 180-case milestone. The first 140 five-file case records are unchanged. [The earlier 140-case manifest](publication-public-v4.json) is a historical inventory, not the current file inventory.

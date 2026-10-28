@@ -1,0 +1,33 @@
+{
+  "case_id": "case-168",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Solar Performance Data Analyst",
+    "zh": "光伏性能数据分析员"
+  },
+  "vacancy_label": "Wholly fictional synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Reconcile solar monitoring data and distinguish missing telemetry from recorded low output.",
+      "id": "R01",
+      "zh": "核对光伏监测数据，并区分遥测数据缺失与记录到的低输出。"
+    },
+    {
+      "en": "Maintain reproducible Python and SQL analysis with tests for timestamp and meter anomalies.",
+      "id": "R02",
+      "zh": "维护可复现的 Python 与 SQL 分析，并包含针对时间戳及电表数据异常的测试。"
+    },
+    {
+      "en": "Explain performance findings and data limitations to operations colleagues while routing physical diagnosis to engineers.",
+      "id": "R03",
+      "zh": "向运营同事解释性能发现及数据限制，并将物理故障诊断交由工程师。"
+    },
+    {
+      "en": "Independently commission electrical equipment and sign off inverter protection settings.",
+      "id": "R04",
+      "zh": "独立调试电气设备，并签署批准逆变器保护设置。"
+    }
+  ]
+}

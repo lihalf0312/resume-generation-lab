@@ -1,0 +1,131 @@
+{
+  "case_id": "case-155",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-155",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-155",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Arts in sociology at Fictional Riverquartz University in 2016.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2016 年在虚构河石英大学获得社会学文学学士学位。"
+    },
+    {
+      "en": "Paid customer research assistant at Fictional Hazelmarket Research from 2016-09 to 2021-03.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2016-09 至 2021-03 在虚构榛市研究公司任有薪客户研究助理。"
+    },
+    {
+      "en": "At that employer, cleaned survey exports and summarized open comments using a supervisor-approved coding guide.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该雇主处，清理问卷导出数据，并使用主管批准的编码指南汇总开放式评论。"
+    },
+    {
+      "en": "Completed a part-time postgraduate certificate in urban studies at Fictional Stonebay College in 2022-12.",
+      "id": "F04",
+      "kind": "education",
+      "zh": "2022-12 在虚构石湾学院完成非全日制城市研究研究生证书课程。"
+    },
+    {
+      "en": "Paid planning research assistant at Fictional Willowdistrict Studio from 2023-02 to 2026-08.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2023-02 至 2026-08 在虚构柳区工作室任有薪规划研究助理。"
+    },
+    {
+      "en": "Compiles public consultation responses into thematic summaries and keeps a traceable link to each response.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将公众咨询意见编成主题摘要，并保留与每条意见的可追溯关联。"
+    },
+    {
+      "en": "Builds descriptive tables in R and explains missing-response counts in accompanying notes.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "使用 R 建立描述性统计表，并在随附备注中解释缺失回答数量。"
+    },
+    {
+      "en": "A senior planner chooses policy recommendations and signs reports submitted to clients.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "高级规划师选择政策建议，并签署提交客户的报告。"
+    },
+    {
+      "en": "Contributed to a 2025-10 neighbourhood consultation analysis with 260 submitted forms.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "参与 2025-10 社区咨询分析，共有 260 份提交表单。"
+    },
+    {
+      "en": "Of those forms, 198 answered the transport question and 62 left it blank.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "其中 198 份回答交通问题，62 份留空。"
+    },
+    {
+      "en": "Among the 198 answers, 121 selected improved bus frequency; these results describe the consultation responses, not the views of every neighbourhood resident.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "在 198 份回答中，121 份选择提高公交班次频率；这些结果描述的是咨询答复，而非全体社区居民的意见。"
+    },
+    {
+      "en": "Personally wrote the response-cleaning script and drafted the transport summary; a colleague analyzed housing comments.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人编写意见数据清理脚本并起草交通摘要；一名同事分析住房评论。"
+    },
+    {
+      "en": "Uses R, spreadsheets and simple QGIS layer viewing for research support.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用 R、电子表格及简单 QGIS 图层查看来支持研究。"
+    },
+    {
+      "en": "For the urban studies course, prepared a small-area walking-route comparison from supplied classroom data.",
+      "id": "F14",
+      "kind": "project",
+      "zh": "在城市研究课程中，依据提供的课堂数据编制小区域步行路线比较。"
+    },
+    {
+      "en": "That assignment was an academic exercise and did not form part of a statutory planning application.",
+      "id": "F15",
+      "kind": "project",
+      "zh": "该作业为学术练习，未构成法定规划申请的一部分。"
+    },
+    {
+      "en": "Volunteered with Fictional Pebblebench Neighbours from 2020-05 to 2022-09, distributing event notices.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2020-05 至 2022-09 在虚构卵石凳邻里团体做志愿者，派发活动通知。"
+    },
+    {
+      "en": "Co-created a noncommercial neighbourhood-history quiz with 2 volunteers in 2024; personally wrote clue text.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年与 2 名志愿者共同创作非商业社区历史问答；个人撰写线索文字。"
+    },
+    {
+      "en": "Enjoys sketching imaginary street layouts and collecting patterns for mosaic coasters.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好素描想象中的街道布局，以及收集马赛克杯垫图案。"
+    },
+    {
+      "en": "Presents draft descriptive findings at internal meetings and records reviewers’ requested corrections.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "在内部会议中展示描述性分析结果草稿，并记录审核人员要求的修正。"
+    },
+    {
+      "en": "No professional planning registration or independent statutory submission responsibility is recorded.",
+      "id": "F20",
+      "kind": "other",
+      "zh": "未记录专业规划注册资格或独立负责法定申报的职责。"
+    }
+  ]
+}

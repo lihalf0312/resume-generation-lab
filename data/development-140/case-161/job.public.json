@@ -1,0 +1,38 @@
+{
+  "case_id": "case-161",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Broadcast Traffic Coordinator",
+    "zh": "播出编排协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Prepare accurate draft programme logs and identify scheduling conflicts.",
+      "id": "R01",
+      "zh": "编制准确节目日志草稿，并识别排程冲突。"
+    },
+    {
+      "en": "Check campaign assets, cancellations and pending deliveries against approved bookings.",
+      "id": "R02",
+      "zh": "依据获批预订核对广告活动素材、取消事项及待交付内容。"
+    },
+    {
+      "en": "Communicate timing changes and maintain controlled handovers.",
+      "id": "R03",
+      "zh": "沟通时间调整，并按既定控制流程完成交接。"
+    },
+    {
+      "en": "Work with programme-log approval and revision procedures.",
+      "id": "R04",
+      "zh": "按节目日志审批及修订程序工作。"
+    },
+    {
+      "en": "Preferred: independently operate the live playout console.",
+      "id": "R05",
+      "zh": "优先：独立操作实时播出控制台。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "case_id": "case-160",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Sensory Study Operations Coordinator",
+    "zh": "感官研究运营协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Coordinate participant scheduling and coded sample presentation under an approved study plan.",
+      "id": "R01",
+      "zh": "依据获批研究计划协调参与者排程及编码样品呈现。"
+    },
+    {
+      "en": "Maintain separate attendance and questionnaire records with accurate session handovers.",
+      "id": "R02",
+      "zh": "分别维护出席及问卷记录，并提供准确活动交接。"
+    },
+    {
+      "en": "Apply controlled procedures and escalate participant or sample concerns appropriately.",
+      "id": "R03",
+      "zh": "执行受控程序，并适当升级上报参与者或样品问题。"
+    },
+    {
+      "en": "Preferred: independently design sensory experiments and interpret inferential statistical results.",
+      "id": "R04",
+      "zh": "优先：独立设计感官实验，并解释推断统计结果。"
+    }
+  ]
+}

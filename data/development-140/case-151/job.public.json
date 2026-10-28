@@ -1,0 +1,33 @@
+{
+  "case_id": "case-151",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Geospatial Asset Data Analyst",
+    "zh": "地理空间资产数据分析员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Maintain geospatial asset layers and document the evidence for proposed edits.",
+      "id": "R01",
+      "zh": "维护地理空间资产图层，并记录拟议编辑的依据。"
+    },
+    {
+      "en": "Use SQL to reconcile asset identifiers and distinguish record rows from distinct assets.",
+      "id": "R02",
+      "zh": "使用 SQL 核对资产编号，并区分记录行与不同资产。"
+    },
+    {
+      "en": "Communicate changes clearly and work within survey approval and publication controls.",
+      "id": "R03",
+      "zh": "清晰沟通变更，并遵守测绘审批与发布控制。"
+    },
+    {
+      "en": "Preferred: independently design and deploy automated Python geospatial pipelines.",
+      "id": "R04",
+      "zh": "优先：独立设计并部署自动化 Python 地理空间处理流程。"
+    }
+  ]
+}

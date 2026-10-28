@@ -1,0 +1,33 @@
+{
+  "case_id": "case-152",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Junior Accessibility Front-End Developer",
+    "zh": "初级无障碍前端开发人员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Implement semantic HTML and keyboard-accessible interface changes in a reviewed front-end workflow.",
+      "id": "R01",
+      "zh": "在经审核的前端流程中实施语义化 HTML 及可用键盘访问的界面修改。"
+    },
+    {
+      "en": "Combine manual keyboard and screen-reader checks with careful triage of automated warnings.",
+      "id": "R02",
+      "zh": "结合人工键盘操作检查与屏幕阅读器检查，并审慎筛查自动化检测警告。"
+    },
+    {
+      "en": "Document tests and explain changes during team review.",
+      "id": "R03",
+      "zh": "记录测试，并在团队评审中解释修改。"
+    },
+    {
+      "en": "Preferred: develop production React applications with server-side account management.",
+      "id": "R04",
+      "zh": "优先：开发带服务端账户管理的生产级 React 应用。"
+    }
+  ]
+}

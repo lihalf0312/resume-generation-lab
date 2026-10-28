@@ -1,0 +1,131 @@
+{
+  "case_id": "case-174",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-174",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-174",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a chemistry diploma at Fictional Brookflint College in 2018.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2018 年在虚构溪燧学院获得化学文凭。"
+    },
+    {
+      "en": "Paid sample reception clerk at Fictional Reedwater Laboratory from 2018-09 to 2021-04.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2018-09 至 2021-04 在虚构芦水实验室任有薪样品接收文员。"
+    },
+    {
+      "en": "Paid report production coordinator at the same laboratory from 2021-05 to 2026-08.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "2021-05 至 2026-08 在同一实验室任有薪报告制作协调员。"
+    },
+    {
+      "en": "Assembles environmental testing reports from analyst-approved result tables and authorized report templates.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "依据分析员批准的结果表及获授权报告模板编制环境检测报告。"
+    },
+    {
+      "en": "Checks sample identifiers, units and attached method references against the approved result package.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "依据获批结果资料核对样品编号、单位及所附方法编号。"
+    },
+    {
+      "en": "Flags missing approvals or inconsistent template fields to the technical reviewer rather than selecting substitute values.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "将缺失审批或不一致模板字段标记给技术审核人员，不自行选择替代数值。"
+    },
+    {
+      "en": "The authorized signatory approves technical interpretation and releases the final laboratory report.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "授权签字人批准技术解释，并发布最终实验室报告。"
+    },
+    {
+      "en": "Helped refresh a report-assembly checklist in 2025-01 with the quality coordinator.",
+      "id": "F08",
+      "kind": "project",
+      "zh": "2025-01 与质量协调员共同协助更新报告编制核对表。"
+    },
+    {
+      "en": "Personally tested the revised checklist against 16 fictional report packages and recorded unclear field instructions.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "个人使用 16 套虚构报告资料测试修订核对表，并记录不清晰字段说明。"
+    },
+    {
+      "en": "A separate 2025-03 tracking log contained 52 draft reports: 45 awaiting signatory review and 7 returned for missing attachments.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "另一份 2025-03 跟踪日志包含 52 份报告草稿：45 份待签字人审核，7 份因缺少附件退回。"
+    },
+    {
+      "en": "The log does not state that the 45 pending reports were subsequently released or that the 7 returns involved analytical errors.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "该日志未说明 45 份待审报告后来已发布，亦未说明 7 份退回报告涉及分析错误。"
+    },
+    {
+      "en": "Uses a laboratory report portal, controlled Word templates and spreadsheet release-status logs.",
+      "id": "F12",
+      "kind": "skill",
+      "zh": "使用实验室报告门户、受控 Word 模板及电子表格发布状态日志。"
+    },
+    {
+      "en": "Completed an internal report traceability workshop in 2022-03.",
+      "id": "F13",
+      "kind": "education",
+      "zh": "2022-03 完成内部报告可追溯性工作坊。"
+    },
+    {
+      "en": "Keeps superseded drafts separate from authorized final files and records requested administrative corrections.",
+      "id": "F14",
+      "kind": "employment",
+      "zh": "将被替代草稿与获授权最终文件分开保存，并记录所请求的行政性更正。"
+    },
+    {
+      "en": "Answers report-status enquiries using confirmed workflow states and routes result-interpretation questions to the technical team.",
+      "id": "F15",
+      "kind": "employment",
+      "zh": "使用已确认流程状态回答报告进度询问，并将结果解释问题转交技术团队。"
+    },
+    {
+      "en": "Volunteers with Fictional Mallowink Nature Club, formatting meeting notes and collecting activity sign-ups.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "在虚构锦葵墨自然社做志愿者，排版会议记录并收集活动报名。"
+    },
+    {
+      "en": "Designed a personal booklet of fictional mineral illustrations in 2024 for a hobby display.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年为爱好展示设计个人虚构矿物插画小册子。"
+    },
+    {
+      "en": "The booklet contained invented descriptions and was not used as scientific identification guidance.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "该小册子包含虚构描述，未用作科学鉴定指南。"
+    },
+    {
+      "en": "Enjoys paper marbling and designing geometric book covers.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好制作纸张水拓画及设计几何书封。"
+    },
+    {
+      "en": "Prepares daily handovers listing missing attachments, technical-review questions and confirmed release dates.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "准备每日交接，列明缺失附件、技术审核问题及已确认发布日期。"
+    }
+  ]
+}

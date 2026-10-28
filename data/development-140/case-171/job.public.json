@@ -1,0 +1,33 @@
+{
+  "case_id": "case-171",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "synthetic": true,
+  "title": {
+    "en": "Examination Access Arrangements Coordinator",
+    "zh": "考试便利安排协调员"
+  },
+  "vacancy_label": "Synthetic vacancy; not a real opening",
+  "requirements": [
+    {
+      "en": "Translate approved examination arrangements into accurate room and staffing schedules.",
+      "id": "R01",
+      "zh": "将获批考试安排转化为准确房间及人员排程。"
+    },
+    {
+      "en": "Maintain traceable authorization records and distinguish scheduled sittings from learner counts or attendance.",
+      "id": "R02",
+      "zh": "维护可追溯授权记录，并区分计划应考人次、学习者人数及出席情况。"
+    },
+    {
+      "en": "Communicate approved details and escalate unresolved arrangement questions appropriately.",
+      "id": "R03",
+      "zh": "沟通获批信息，并适当升级上报未解决安排问题。"
+    },
+    {
+      "en": "Preferred: independently assess learning needs and authorize examination adjustments.",
+      "id": "R04",
+      "zh": "优先：独立评估学习需要，并授权考试调整措施。"
+    }
+  ]
+}

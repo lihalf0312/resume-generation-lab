@@ -1,0 +1,131 @@
+{
+  "case_id": "case-172",
+  "creation_batch": "development-001-extension-018",
+  "identity_id": "synthetic-person-172",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-172",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Completed a stock-control certificate at Fictional Maplecrate Training Centre in 2019.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2019 年在虚构枫箱培训中心完成库存控制证书课程。"
+    },
+    {
+      "en": "Paid office-furniture dispatch assistant at Fictional Pebblepost Furnishings from 2019-04 to 2022-11.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2019-04 至 2022-11 在虚构卵邮家具公司任有薪办公家具发货助理。"
+    },
+    {
+      "en": "In that role, matched labelled furniture items to delivery lists and tracked returned transport crates.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该职位将有标签家具与配送清单匹配，并跟踪归还运输箱。"
+    },
+    {
+      "en": "Paid nonclinical equipment logistics assistant at Fictional Mallowbrook Hospital from 2023-01 to 2026-08.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2023-01 至 2026-08 在虚构锦葵溪医院任有薪非临床设备物流助理。"
+    },
+    {
+      "en": "Records collection and delivery locations for meeting-room furniture, noticeboards and office storage units.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "记录会议室家具、通知板及办公储物柜的取送位置。"
+    },
+    {
+      "en": "Checks item labels against the facilities team’s approved move requests before arranging portering slots.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "安排搬运人员时段前，依据设施团队获批搬移请求核对物品标签。"
+    },
+    {
+      "en": "Records visible damage and refers load-handling questions to the portering supervisor.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "记录可见损坏，并将搬运载荷问题转交搬运主管。"
+    },
+    {
+      "en": "The assigned portering team performs the moves; the candidate coordinates records and destination confirmations.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "指定搬运团队执行搬移；候选人协调记录及目的位置确认。"
+    },
+    {
+      "en": "Helped reconcile a temporary furniture holding area in 2025-04.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "2025-04 协助核对临时家具暂存区。"
+    },
+    {
+      "en": "The reconciliation counted 46 tagged items: 31 awaiting delivery and 15 awaiting owner confirmation.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "核对清点 46 件带标签物品：31 件待配送，15 件待物品负责人确认。"
+    },
+    {
+      "en": "The 15 unconfirmed items were not classified as lost or written off in the available record.",
+      "id": "F11",
+      "kind": "other",
+      "zh": "现有记录未将这 15 件未确认物品列为丢失，亦未记录核销处理。"
+    },
+    {
+      "en": "Personally matched tag numbers to move references; a facilities officer decided final storage allocations.",
+      "id": "F12",
+      "kind": "project",
+      "zh": "个人将标签号与搬移编号匹配；设施专员决定最终存放位置分配。"
+    },
+    {
+      "en": "Uses a facilities request portal, barcode lists and spreadsheet location registers.",
+      "id": "F13",
+      "kind": "skill",
+      "zh": "使用设施请求门户、条码清单及电子表格位置登记册。"
+    },
+    {
+      "en": "Completed hospital site-access and nonclinical logistics induction in 2023-01.",
+      "id": "F14",
+      "kind": "education",
+      "zh": "2023-01 完成医院场地访问及非临床物流入职培训。"
+    },
+    {
+      "en": "No handling of patient records, clinical devices or clinical treatment is documented in this role.",
+      "id": "F15",
+      "kind": "other",
+      "zh": "该职位未记录处理患者档案、临床设备或临床治疗的职责。"
+    },
+    {
+      "en": "Volunteered at Fictional Reedbasket Community Hall from 2020-03 to 2022-07, arranging chairs for craft meetings.",
+      "id": "F16",
+      "kind": "other",
+      "zh": "2020-03 至 2022-07 在虚构芦篮社区会堂做志愿者，为手工聚会摆放椅子。"
+    },
+    {
+      "en": "Made a personal labelled storage box for board-game pieces in 2024 using reused cardboard.",
+      "id": "F17",
+      "kind": "project",
+      "zh": "2024 年利用旧纸板制作个人带标签桌游零件收纳盒。"
+    },
+    {
+      "en": "Enjoys drawing room-layout puzzles and making miniature paper furniture.",
+      "id": "F18",
+      "kind": "other",
+      "zh": "爱好绘制房间布局谜题及制作微型纸家具。"
+    },
+    {
+      "en": "Confirms completed deliveries with receiving departments before closing move requests.",
+      "id": "F19",
+      "kind": "employment",
+      "zh": "在关闭搬移请求前，与接收部门确认已完成配送。"
+    },
+    {
+      "en": "Keeps a daily handover of unconfirmed destinations, damaged items and requests awaiting facilities approval.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "维护每日交接，列明未确认目的位置、损坏物品及待设施部门批准的请求。"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "case_id": "case-158",
+  "creation_batch": "development-001-extension-016",
+  "identity_id": "synthetic-person-158",
+  "license": "CC0-1.0",
+  "publication": "public",
+  "source_family": "original-lineage-158",
+  "synthetic": true,
+  "facts": [
+    {
+      "en": "Earned a Bachelor of Engineering in electronic engineering at Fictional Copperwave University in 2015.",
+      "id": "F01",
+      "kind": "education",
+      "zh": "2015 年在虚构铜波大学获得电子工程工学学士学位。"
+    },
+    {
+      "en": "Paid electronics test assistant at Fictional Ripplecircuit Works from 2015-08 to 2018-06.",
+      "id": "F02",
+      "kind": "employment",
+      "zh": "2015-08 至 2018-06 在虚构涟漪电路工厂任有薪电子测试助理。"
+    },
+    {
+      "en": "There, performed scripted bench checks on low-voltage training boards and documented results for an engineer.",
+      "id": "F03",
+      "kind": "employment",
+      "zh": "在该工厂依照脚本对低压培训板进行台架检查，并为工程师记录结果。"
+    },
+    {
+      "en": "Paid robotics workshop instructor at Fictional Lanternbot Learning from 2018-09 to 2023-12.",
+      "id": "F04",
+      "kind": "employment",
+      "zh": "2018-09 至 2023-12 在虚构灯机器人学习中心任有薪机器人工作坊讲师。"
+    },
+    {
+      "en": "Paid programme coordinator at the same centre from 2024-01 to 2026-08.",
+      "id": "F05",
+      "kind": "employment",
+      "zh": "2024-01 至 2026-08 在同一中心任有薪项目协调员。"
+    },
+    {
+      "en": "Plans workshop schedules and adapts approved beginner lessons using block-based coding and small wheeled kits.",
+      "id": "F06",
+      "kind": "employment",
+      "zh": "规划工作坊日程，并使用积木式编程及小型轮式套件调整获批入门课程。"
+    },
+    {
+      "en": "Delivers supervised group activities and checks kit condition before sessions.",
+      "id": "F07",
+      "kind": "employment",
+      "zh": "开展受监督的团体活动，并在活动前检查套件状态。"
+    },
+    {
+      "en": "Coordinates 4 session instructors’ timetables; the centre manager handles contracts and formal performance reviews.",
+      "id": "F08",
+      "kind": "employment",
+      "zh": "协调 4 名活动讲师的时间表；中心经理处理合同及正式绩效评审。"
+    },
+    {
+      "en": "Led timetable and kit planning for a 2025-07 holiday programme.",
+      "id": "F09",
+      "kind": "project",
+      "zh": "牵头为 2025-07 假期项目制定时间表及套件计划。"
+    },
+    {
+      "en": "The programme delivered 24 sessions with 216 attendance entries representing 92 distinct learners.",
+      "id": "F10",
+      "kind": "outcome",
+      "zh": "该项目开展 24 场活动，记录 216 人次出席，代表 92 名不同学习者。"
+    },
+    {
+      "en": "An end-of-programme survey received 38 responses; 34 respondents said the activities were enjoyable.",
+      "id": "F11",
+      "kind": "outcome",
+      "zh": "项目结束问卷收到 38 份回答；34 名回答者表示活动有趣。"
+    },
+    {
+      "en": "The survey measured reported enjoyment rather than verified coding proficiency or long-term learning gains.",
+      "id": "F12",
+      "kind": "other",
+      "zh": "该问卷衡量自报的趣味感受，而非经验证的编程熟练度或长期学习提升。"
+    },
+    {
+      "en": "Personally redesigned the kit checkout sheet and wrote a reusable setup checklist for the programme.",
+      "id": "F13",
+      "kind": "project",
+      "zh": "个人为该项目重新设计套件领用表，并编写可复用的布置核对表。"
+    },
+    {
+      "en": "Uses block-based coding, kit troubleshooting guides, spreadsheets and shared teaching calendars.",
+      "id": "F14",
+      "kind": "skill",
+      "zh": "使用积木式编程、套件故障排查指南、电子表格及共享教学日历。"
+    },
+    {
+      "en": "Completed the centre’s internal safeguarding-reporting refresher in 2025-03.",
+      "id": "F15",
+      "kind": "education",
+      "zh": "2025-03 完成中心内部人员保护问题上报复训。"
+    },
+    {
+      "en": "Reports safeguarding concerns to the designated lead and does not investigate them independently.",
+      "id": "F16",
+      "kind": "employment",
+      "zh": "向指定负责人报告人员保护问题，不独立调查。"
+    },
+    {
+      "en": "Volunteered at Fictional Geargarden Community Fair in 2022, helping visitors assemble paper mechanical toys.",
+      "id": "F17",
+      "kind": "other",
+      "zh": "2022 年在虚构齿轮园社区集市做志愿者，协助访客组装纸机械玩具。"
+    },
+    {
+      "en": "Made a personal battery-powered cardboard rover in 2021 for leisure demonstrations, not commercial deployment.",
+      "id": "F18",
+      "kind": "project",
+      "zh": "2021 年制作个人电池驱动纸板小车，用于休闲演示，而非商业部署。"
+    },
+    {
+      "en": "Enjoys creating logic puzzles and decorating miniature cardboard houses.",
+      "id": "F19",
+      "kind": "other",
+      "zh": "爱好创作逻辑谜题及装饰微型纸板房屋。"
+    },
+    {
+      "en": "Maintains kit-repair requests and updates instructors when a planned activity needs approved substitution.",
+      "id": "F20",
+      "kind": "employment",
+      "zh": "维护套件维修请求，并在计划活动需要获批替代方案时通知讲师。"
+    }
+  ]
+}
