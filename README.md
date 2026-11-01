@@ -1,5 +1,21 @@
 # Resume Generation Lab / 简历生成研究台
 
+## English RC4 alpha preview
+
+The separately packaged [English fixed-template skill](docs/english-rc4/README.md)
+provides model-assisted writing and local Word/PDF tooling. See its exact install
+path, approved archive/checksum, dependencies, recovery limits and known coverage
+gaps there. The implementation is frozen RC4; this is an alpha preview, not stable
+or automatic factual certification. It includes no API keys or model credits;
+host-model use remains subject to the user's subscription and permissions.
+
+Only WSL2/Linux and the recorded Python/LibreOffice dependencies were observed.
+Native Microsoft Word, other OSes, cross-engine compatibility, real ATS and Chinese
+output remain unvalidated. Users must verify final facts and wording. The existing
+180-case content snapshot below is preserved and is not RC4 acceptance evidence.
+
+## Existing 180-case content snapshot
+
 **180 fictional profile/job pairs, 360 bilingual Markdown resumes, and 180 brief score/comment views.** This is a content-only public snapshot, not a trained resume product or held-out benchmark.
 
 ## Browse
