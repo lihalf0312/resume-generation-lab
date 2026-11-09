@@ -45,3 +45,23 @@ def delivery_invariants(rows,source):
  targets=[r for r in rows if r.get('id')=='target' or r.get('text','').startswith('Target:')]
  if len(targets)!=1 or targets[0].get('id')!='target' or targets[0].get('kind')!='contact' or display(targets[0])!='Target: '+role:raise ValueError('delivery Target line must exactly match intended role and prefix')
  return {'synthetic_marker_delivery_check':True,'target_intent_delivery_check':True,'source_truth_verified':None}
+
+
+def semantic_boundary_review(*,source_kind,claim_kind,support_state):
+ """Check annotated relations only; never parse prose or certify source truth."""
+ sources={'activity_not_performed','record_identifier','background_note','budget_constraint','other'}
+ claims={'activity_not_performed','duty_excluded','record_identifier','scheduling_support','efficiency_outcome','personal_recordkeeping','background_description','other'}
+ states={'explicit','absent','unclear'}
+ if not isinstance(source_kind,str) or source_kind not in sources:raise ValueError('unsupported source_kind')
+ if not isinstance(claim_kind,str) or claim_kind not in claims:raise ValueError('unsupported claim_kind')
+ if not isinstance(support_state,str) or support_state not in states:raise ValueError('unsupported support_state')
+ boundary=None
+ if source_kind=='activity_not_performed' and claim_kind=='duty_excluded':boundary='activity_to_responsibility'
+ if source_kind=='record_identifier' and claim_kind in {'scheduling_support','efficiency_outcome'}:boundary='identifier_to_purpose_or_outcome'
+ if source_kind in {'background_note','budget_constraint'} and claim_kind=='personal_recordkeeping':boundary='background_to_personal_action'
+ category=None
+ if boundary and support_state=='absent':category='source_support_gap'
+ if boundary and support_state=='unclear':category='pending_ambiguity'
+ return {'boundary':boundary,'declared_category':category,'additional_support_declared':support_state,
+         'human_judgment_required':True,'semantic_verification_passed':None,
+         'scope':'annotated relationship only; not a runtime or freeze gate'}

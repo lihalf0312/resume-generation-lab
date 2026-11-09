@@ -1,3 +1,13 @@
+# 0.1.0-en-alpha.5-candidate.2 (unpublished)
+
+Documentation-only correction after independent review: distinguish historical RC3/RC4 installation records from new-directory testing with reused dependencies, and list all three test commands (29 tests). No mechanics or semantic rules changed from candidate.1. Candidate.1 remains a preserved local historical snapshot.
+
+# 0.1.0-en-alpha.5-candidate.1 (unpublished)
+
+Adds focused host writing/review instructions and optional declaration diagnostics for activity versus duty, identifiers versus purposes/outcomes, and background documents/constraints versus personal actions. Adds 20 synthetic annotated relation combinations and four new unit tests, including a demonstration that valid literal citations do not establish a personal actor. No rendering implementation, runtime CLI, required input schema, freeze condition, retry/semantic-edit limit or template changed. Host compliance and real semantic benefit require separate judgment; no general improvement is claimed.
+
+The sections below preserve prior-version history.
+
 # RC4 delta from RC3
 
 RC4 corrects render acceptance and installation/workdir separation. Render attempts retain separate immutable artifact/evidence/error directories. Only completed measurement/token/style validation and actual embedded-font program verification produce accepted-render.json. Its hashes bind actual DOCX/PDF/content/text/measurement/font evidence and renderer/configuration/font/template/mechanics identities; structure/edit/freeze/cached reuse validate it. Failed/legacy measurements and stale receipts cannot authorize progression. The per-version initial-plus-two render bound and four semantic-pass bound are unchanged, including configuration-correction recovery. Status and operating docs identify actual evidence and incomplete overflow/cap recovery.

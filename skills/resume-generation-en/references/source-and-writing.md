@@ -30,3 +30,25 @@ The runtime checks these references before saving the first draft. These checks 
 Read [independent review/status rules](review-status.md) when recording source review, evaluations, feedback or final acceptance. It defines the independent confirmation/detection/judgment fields and speech acts, including how to preserve original evaluations and corrections.
 
 For current ratings, certificate states and other time-sensitive personal values, record their confirmation/as-of date; a current value is not automatically a lifetime maximum or a live future value. Use the actual supplied tool/course/certificate names. Do not infer proficiency from the JD, substitute dataset coverage dates for missing development dates, or treat missing repetition of an old experience as its withdrawal.
+
+
+# Activity, responsibility and identifier boundaries (unreleased candidate)
+
+Check these distinctions both before saving the first draft and after every semantic compression. Compare the actual candidate sentence with the complete cited source, not just the claim-map label.
+
+- An activity not performed is not a statement about assigned responsibility. "Did not perform financial analysis during the internship" does not support "Financial analysis was outside the role's responsibilities." Preserve the time/activity limitation when relevant, or omit an irrelevant negative statement. Use a duty-exclusion claim only if a separate source explicitly establishes that scope. Treat an unsupported exclusion as a support gap; do not automatically call it a contradiction.
+- Recording, checking or sorting record identifiers does not establish scheduling work, a workflow purpose or an efficiency result. "Logged request IDs" supports a concise description of that logging. "Supported scheduling by logging request IDs" requires evidence that the action actually supported scheduling; "improved scheduling efficiency" additionally requires supported outcome/measurement scope. A plausible purpose from the JD cannot supply this evidence.
+- Separately evidenced responsibilities, purposes and outcomes may be retained with their proper actor, period and measurement basis. Do not ban words such as support, scheduling or efficiency. Missing or ambiguous support should be kept distinct from an explicitly contradicted claim. Ask only if the unresolved distinction materially changes the current draft; otherwise use supported wording or safe omission.
+
+For these specific relations, reviewers may call review_rules.semantic_boundary_review with explicitly annotated source_kind, claim_kind and support_state. This helper checks the supplied relation labels only. It neither reads prose nor verifies the support annotation, and is not an automatic runtime/freeze gate. Do not treat a non-flagged declaration as source-truth acceptance.
+
+
+# Actor and evidence ownership (unreleased candidate extension)
+
+A resume bullet normally asserts an action by the candidate even when it omits "I". Check the actor for each action, not just whether the same nouns or numbers appear in a cited span. Background facts, project constraints and documents with an unspecified author do not establish personal work.
+
+- "The workshop notes estimated demand at around 18 seats" establishes an estimate in notes, not that the candidate recorded, estimated, compiled or maintained those notes. "Recorded demand estimates" requires separate evidence of the candidate's recording action. Preserve the estimate's uncertainty and document attribution if the context is useful; otherwise omit it.
+- "The project budget ceiling was 250 credits" establishes a constraint. It does not establish that the candidate kept accounts, tracked expenditure, reconciled costs or managed the budget. State only a supported personal action, or retain the constraint as attributed project context when relevant.
+- Where the candidate's authorship or action is explicitly supported, retain it with the actual object, phase and scope. Do not ban recording/accounting verbs or strip evidenced work. Ambiguous authorship stays pending rather than becoming either assumed authorship or an automatic contradiction.
+
+For every selected claim, separately identify the source's actor, the candidate sentence's actor (including implicit resume-bullet attribution), the action, and the evidence connecting that person to that action. Exact citation integrity verifies that words occur in the input; it does not verify this connection. The optional declaration helper can flag annotated background_note/budget_constraint to personal_recordkeeping relations, but a correct label and support state still require contextual judgment.

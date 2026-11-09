@@ -1,0 +1,126 @@
+{
+  "synthetic": true,
+  "scope": "Hand-annotated relation cases, not a model or natural-language benchmark",
+  "cases": [
+    {
+      "source_kind": "activity_not_performed",
+      "claim_kind": "duty_excluded",
+      "support_state": "absent",
+      "expected_category": "source_support_gap"
+    },
+    {
+      "source_kind": "activity_not_performed",
+      "claim_kind": "duty_excluded",
+      "support_state": "unclear",
+      "expected_category": "pending_ambiguity"
+    },
+    {
+      "source_kind": "activity_not_performed",
+      "claim_kind": "duty_excluded",
+      "support_state": "explicit",
+      "expected_category": null
+    },
+    {
+      "source_kind": "record_identifier",
+      "claim_kind": "scheduling_support",
+      "support_state": "absent",
+      "expected_category": "source_support_gap"
+    },
+    {
+      "source_kind": "record_identifier",
+      "claim_kind": "scheduling_support",
+      "support_state": "unclear",
+      "expected_category": "pending_ambiguity"
+    },
+    {
+      "source_kind": "record_identifier",
+      "claim_kind": "scheduling_support",
+      "support_state": "explicit",
+      "expected_category": null
+    },
+    {
+      "source_kind": "record_identifier",
+      "claim_kind": "efficiency_outcome",
+      "support_state": "absent",
+      "expected_category": "source_support_gap"
+    },
+    {
+      "source_kind": "record_identifier",
+      "claim_kind": "efficiency_outcome",
+      "support_state": "unclear",
+      "expected_category": "pending_ambiguity"
+    },
+    {
+      "source_kind": "record_identifier",
+      "claim_kind": "efficiency_outcome",
+      "support_state": "explicit",
+      "expected_category": null
+    },
+    {
+      "source_kind": "activity_not_performed",
+      "claim_kind": "activity_not_performed",
+      "support_state": "absent",
+      "expected_category": null
+    },
+    {
+      "source_kind": "record_identifier",
+      "claim_kind": "record_identifier",
+      "support_state": "absent",
+      "expected_category": null
+    },
+    {
+      "source_kind": "other",
+      "claim_kind": "other",
+      "support_state": "absent",
+      "expected_category": null
+    },
+    {
+      "source_kind": "background_note",
+      "claim_kind": "personal_recordkeeping",
+      "support_state": "absent",
+      "expected_category": "source_support_gap"
+    },
+    {
+      "source_kind": "background_note",
+      "claim_kind": "personal_recordkeeping",
+      "support_state": "unclear",
+      "expected_category": "pending_ambiguity"
+    },
+    {
+      "source_kind": "background_note",
+      "claim_kind": "personal_recordkeeping",
+      "support_state": "explicit",
+      "expected_category": null
+    },
+    {
+      "source_kind": "background_note",
+      "claim_kind": "background_description",
+      "support_state": "absent",
+      "expected_category": null
+    },
+    {
+      "source_kind": "budget_constraint",
+      "claim_kind": "personal_recordkeeping",
+      "support_state": "absent",
+      "expected_category": "source_support_gap"
+    },
+    {
+      "source_kind": "budget_constraint",
+      "claim_kind": "personal_recordkeeping",
+      "support_state": "unclear",
+      "expected_category": "pending_ambiguity"
+    },
+    {
+      "source_kind": "budget_constraint",
+      "claim_kind": "personal_recordkeeping",
+      "support_state": "explicit",
+      "expected_category": null
+    },
+    {
+      "source_kind": "budget_constraint",
+      "claim_kind": "background_description",
+      "support_state": "absent",
+      "expected_category": null
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Candidate scope and acceptance boundaries
+
+This unpublished snapshot is prepared for controlled local trial. A distinct VERSION.json and current MANIFEST.sha256 identify its source bytes. The manifest is an integrity check, not semantic or release approval.
+
+Required local acceptance: verify ZIP and manifest in a fresh directory; run the original 25 regressions and four new declaration tests; execute preflight, init, first, render, structure, render, one source-linked edit, render, actual image/source review, freeze and status in a separate task directory. Raw evidence and private runtime paths remain outside this package. A successful sparse mechanical replay establishes mechanics for that fixture only, not complete resume quality, dense-content handling or new independent model performance.
+
+The proposed semantic distinctions were motivated by observed source-support issues. Current comparison evidence does not establish general error reduction or consistent superiority; some differences concerned background facts rather than core actions, and grammar-sensitive readings can change scores. Do not advertise these rules as proven semantic protection. Twenty manually annotated relation cases test declaration handling, not automatic prose understanding. The optional helper has no runtime/freeze call site; correct classification and source interpretation still require review.
+
+Historical installation/acceptance records copied from RC4 describe their own versions. Native Windows/macOS execution, native Word layout, other renderers/fonts, ATS, Chinese output and other host assistants remain outside this candidate's verified scope. Fonts, binaries, private inputs, author answers, API keys and model credits are not bundled. Keep source material, runtime configuration and task outputs private.

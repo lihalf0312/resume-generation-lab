@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0-en-alpha.5-candidate.2",
+  "status": "unpublished_local_trial_candidate",
+  "base_release": "v0.1.0-en-alpha.4",
+  "base_commit": "b8f73a38a35dc168799354a6cebe998260481580",
+  "changes": "Host writing/review guidance and optional annotated semantic-boundary diagnostics; no automatic semantic judgment or freeze gate",
+  "public_release_created": false,
+  "revision_note": "Documentation-only audit corrections: historical validation scope and all 29 test commands; mechanics unchanged from candidate.1"
+}

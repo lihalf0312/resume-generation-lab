@@ -1,3 +1,9 @@
+# Unpublished local trial candidate: 0.1.0-en-alpha.5-candidate.2
+
+This is a separate candidate based on RC4, not the published RC4 ZIP or a new public release. Start with CANDIDATE-VALIDATION.md. The writing rules add activity/duty, identifier/purpose and background/personal-action distinctions. The optional helper checks supplied annotations only; it is not an automatic semantic judge or freeze gate. No general error reduction or cross-model improvement has been established.
+
+The RC4 installation and command instructions below still describe the mechanics. Use a new installation directory and a separate new task directory. Historical RC3/RC4 acceptance documents remain historical and are not acceptance of this candidate. VERSION.json and the regenerated MANIFEST.sha256 identify this candidate snapshot.
+
 # English resume release candidate
 
 This is a self-contained skill and offline document toolkit. Codex or a human selects evidence and writes English; local tools construct and inspect the fixed approved Word/PDF layout. It ships no model API client, original candidate materials, real employer JD or runtime credentials. `examples/input.synthetic.json` is an invented smoke-test input, not a usable person's resume.
@@ -37,11 +43,11 @@ Final files are delivery/resume.docx, resume.pdf and resume.txt, with FREEZE.jso
 
 Read references/operations.md for evidence/declaration distinctions and bounded recovery. Supported implementation is English fixed-style one-page employment resumes with plain text content. No photos, arbitrary template interchange, automatic hyperlink creation, academic CV adaptation, translation guarantee or local model is included. Nothing is uploaded or published. Review each actual final page and all factual scope yourself. Requirements cannot be met by shrink-to-fit or invented filler. A validated installation does not validate every resume or another OS/render engine.
 
-`INSTALLATION-VALIDATION.md` records this candidate's observed synthetic clean-install checks and their limits; private paths, raw traces and private install config are deliberately excluded.
+`INSTALLATION-VALIDATION.md` preserves historical RC3/RC4 evidence, not this candidate's installation acceptance. Candidate testing used a new installation/task directory with existing Python dependencies, renderer and fonts; it was not a clean-OS or fresh dependency-install test. See `CANDIDATE-VALIDATION.md` for candidate scope. Private paths, raw traces and runtime configurations are excluded.
 
 ## Local invariant checks
 
-Run `python3 /path/to/skill/tests/validate.py` and `python3 /path/to/skill/tests/test_render_acceptance.py` in the installed dependency environment. These cases exercise generic transformations, citation rejection, marker/target rules, source-scope declarations and the Python network guard; they do not replace rendering a real task or source/writing review. See RELEASE-CHECKLIST.md and INSTALLATION-VALIDATION.md for the exact observed release evidence and its limits.
+Run `python3 /path/to/skill/tests/validate.py`, `python3 /path/to/skill/tests/test_render_acceptance.py`, and `python3 /path/to/skill/tests/test_semantic_boundaries.py` in the installed dependency environment. These run 17, 8 and 4 tests respectively (29 total); the last four include annotated semantic-boundary cases, not automatic prose judgment. These cases exercise generic transformations, citation rejection, marker/target rules, source-scope declarations and the Python network guard; they do not replace rendering a real task or source/writing review. RELEASE-CHECKLIST.md and INSTALLATION-VALIDATION.md retain historical RC4 evidence and limits; CANDIDATE-VALIDATION.md describes this unpublished candidate.
 
 ## RC2 scope and provenance additions
 
