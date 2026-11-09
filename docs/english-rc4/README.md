@@ -18,9 +18,13 @@ must verify the final facts, job fit and expression themselves.
 The ZIP SHA-256 is
 `b2753db5475bf4cd26a8a9a3d27df5b6301e22800d5f025542d7bea11aeb850a`.
 GitHub's automatically generated repository source ZIP is **not** this installable
-archive. A prerelease, when available, must attach only this approved ZIP and its
-checksum file. Repository source links above remain usable independently of release
-availability; this document does not assert that a GitHub Release exists.
+archive. The [published RC4 prerelease](https://github.com/lihalf0312/resume-generation-lab/releases/tag/v0.1.0-en-alpha.4)
+contains this ZIP and its checksum file as release assets. Download those two
+attachments, not the automatically generated Source code archives.
+
+Start with the [first-trial guide](FIRST_TRIAL.md) for environment requirements,
+the trial sequence, the 2026-11-09 verification scope and safe feedback guidance.
+The installation ZIP and implementation remain unchanged.
 
 ## Install on the observed WSL2/Linux environment
 
