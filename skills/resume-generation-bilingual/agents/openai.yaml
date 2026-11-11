@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilingual resume / 中英简历"
+  short_description: "Draft grounded Chinese and English resumes with local QA"
+  default_prompt: "Use $resume-generation-bilingual to prepare a resume from my actual background and target job."

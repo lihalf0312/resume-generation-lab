@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "output_languages": null,
+  "formats": [
+    "docx",
+    "pdf"
+  ],
+  "template_paths": {
+    "zh-CN": null,
+    "en": null
+  },
+  "layout": {
+    "page_size": "A4",
+    "target_pages": 1,
+    "fill_normal_body_area": true,
+    "font_and_margins": "follow_template_or_confirm_available_defaults",
+    "body_last_line_min_ratio": 0.5,
+    "body_last_line_preferred_ratio": [
+      0.6667,
+      0.8
+    ],
+    "dates_bold": true,
+    "graduation_label_and_date_bold": true,
+    "separate_long_adjacent_entries_when_space_allows": true,
+    "section_rules": {
+      "zh-CN": "top_and_bottom",
+      "en": "bottom_only"
+    },
+    "numeric_and_latin_auto_spacing": "follow_template",
+    "short_single_line_info_terminal_period": false,
+    "english_spaces": "single_ascii_space",
+    "body_last_line_min_exclusive": true,
+    "punctuation_compression": "when_visual_issue"
+  },
+  "personal_fields": {
+    "photo": "confirm_with_user_and_template",
+    "political_information": "confirm_with_user_and_purpose",
+    "english_default_omit_photo_and_political_information": true
+  },
+  "versioning": {
+    "preserve_originals": true,
+    "overwrite_delivered_versions": false
+  }
+}
