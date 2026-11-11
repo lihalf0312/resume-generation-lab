@@ -1,0 +1,77 @@
+{
+  "schema_version": "controlled-v4-review-routing-1",
+  "resume": {
+    "name": "Lin Fixture",
+    "sections": [
+      {
+        "heading": "Relevant Experience",
+        "purpose": "experience",
+        "items": [
+          {
+            "heading": "Northglass Simulation Library | Records Intern",
+            "date": "Feb–May 2026",
+            "bullets": [
+              "**Intake Checks:** Checked title and box fields on 146 transfer sheets against the source pages, then flagged 18 records for the librarian and noted unclear box numbers or title differences.",
+              "**Exception Log:** Recorded the sheet identifier, original field value and reason for each flagged item in a shared workbook so reviewers could return to the right page.",
+              "**Approved Updates:** Applied the librarian’s written decisions to 11 approved entries in the working copy and left seven unconfirmed entries in the review queue.",
+              "**Desk Handover:** Prepared a handover note describing the intake fields and open questions, then demonstrated how to use it during the incoming intern’s first shift."
+            ]
+          },
+          {
+            "heading": "Paper Lantern Practice Archive | Project Contributor",
+            "date": "Sep–Dec 2025",
+            "bullets": [
+              "**File Inventory:** Mapped 74 practice files to folder and batch identifiers, recorded their existing filenames, and flagged duplicates without deleting the original files.",
+              "**Naming Draft:** Drafted naming examples for three common file types and tested those examples against eight files in a separate practice copy with another team member.",
+              "**Retrieval Trial:** Ran six retrieval scenarios in a read-only test folder and logged the search terms, returned file identifiers and ambiguities for the project lead.",
+              "**Review Packet:** Assembled an inventory, naming examples and trial notes, with file IDs next to each example. The project lead decided which examples to adopt."
+            ]
+          },
+          {
+            "heading": "Cedar Practice Lab | Documentation Volunteer",
+            "date": "Mar–Jun 2025",
+            "bullets": [
+              "**Guide Edits:** Compared four printed workshop guides with their editable copies, highlighted version differences and drafted a short list of changes for the coordinator.",
+              "**Session Records:** Converted sign-in sheets from five fictional workshops into a simple index that captured the session date, source sheet identifier and any missing fields.",
+              "**Accessible Drafts:** Rewrote three instructions as numbered steps and read them aloud with a volunteer. Logged missing actions and listed skipped steps for the coordinator to review.",
+              "**File Handoff:** Delivered the annotated guides and session index to the coordinator. Listed each document and version and distinguished reviewed drafts from edits still open.",
+              "**Version Notes:** Entered the coordinator’s review date and the status of each guide on the handoff checklist, so the next volunteer could identify the current draft."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Education",
+        "purpose": "education",
+        "items": [
+          {
+            "heading": "Ember Sample Institute | BA in Information Studies",
+            "date": "Sep 2021–Jun 2025",
+            "bullets": [
+              "**Coursework:** Completed courses in Records Management and Information Organization, including an exercise in building a controlled list of sample document types.",
+              "**Capstone:** Built a small practice index from supplied documents and compared search terms with a classmate. Documented the chosen labels and known ambiguities."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Skills",
+        "purpose": "skills",
+        "items": [
+          {
+            "heading": "Local Tools | Applied Skills",
+            "date": "",
+            "bullets": [
+              "**Spreadsheets:** Used spreadsheet filters and lookup formulas to check record lists, compare field values and flag rows that needed an additional source check.",
+              "**Word Processing:** Used Word styles, comments and tracked changes to draft handover guides and keep review suggestions visible in an editable working copy."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "state": "ready",
+  "selection_notes": [],
+  "necessary_questions": [],
+  "optional_questions": []
+}

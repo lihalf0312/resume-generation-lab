@@ -1,51 +1,17 @@
-# Resume Generation Lab / 简历生成研究台
+# Bilingual resume skill · 中英双语简历 skill
 
-## English RC4 alpha preview
+Windows bilingual test v9.3 (0.2.0-v9.3-windows-test) for Chinese and English employment resumes. The host assistant selects evidence and drafts from the user’s real background and target job description. The local runtime prepares requests, binds saved responses, renders a reviewable preview and reports what is still pending. No separate API key or paid API call is required.
 
-The separately packaged [English fixed-template skill](docs/english-rc4/README.md)
-provides model-assisted writing and local Word/PDF tooling. See its exact install
-path, approved archive/checksum, dependencies, recovery limits and known coverage
-gaps there. The implementation is frozen RC4; this is an alpha preview, not stable
-or automatic factual certification. It includes no API keys or model credits;
-host-model use remains subject to the user's subscription and permissions.
+The v9 source review request includes the bundled education-date display rule. The rule guides layout. Degree, enrollment, graduation and dates still require personal source evidence.
 
-Only WSL2/Linux and the recorded Python/LibreOffice dependencies were observed.
-Native Microsoft Word, other OSes, cross-engine compatibility, real ATS and Chinese
-output remain unvalidated. Users must verify final facts and wording. The existing
-180-case content snapshot below is preserved and is not RC4 acceptance evidence.
+## Install by giving the agent this repository address
 
-## Existing 180-case content snapshot
+> Please install the bilingual Windows test skill from this root repository URL and the test branch or tag I provided. Resolve the exact commit, verify the archive, check my local prerequisites and start with the fictional sample. Ask before installing dependencies or making extra paid calls.
 
-**180 fictional profile/job pairs, 360 bilingual Markdown resumes, and 180 brief score/comment views.** This is a content-only public snapshot, not a trained resume product or held-out benchmark.
+> 请从这个仓库根地址和我提供的试用分支或标签安装中英双语 Windows 测试版。先确认具体提交、核验压缩包并检查本机依赖，再用虚构样例验证。安装依赖或发起额外付费调用前先问我。
 
-## Browse
+The agent follows [INSTALL.md](INSTALL.md) and [install-manifest.json](install-manifest.json), then reads [SKILL.md](skills/resume-generation-bilingual/SKILL.md) and follows the [first trial](TRIAL.md). Choose the manifest’s bilingual skill path, including when a repository has older English-only releases.
 
-- [All 180 cases](data/development-140/index.json)
-- [Results and limitations](DEVELOPMENT_PROGRESS.md)
-- [Public data contract](docs/PUBLIC_DATASET.md)
-- [General evaluation rubric](research/evaluation/rubric.json)
-- [Generic resume skill](skills/resume-generation/SKILL.md)
+Windows document rendering requires desktop Microsoft Word, Python and the required local licensed fonts. The doctor checks local prerequisites without installing anything. Exact validation scope is in [VALIDATION.md](VALIDATION.md). Keep your source materials and output folders private and separate from this repository.
 
-Each case contains only factual `profile.public.json`/`job.public.json`, unchanged English/Chinese resume text, and `evaluation.public.json`. Evaluations publish **only the actual factual-status label, original dimension ratings, null overall score and brief bilingual comments**. No numerical full score is invented. Comments are newly prepared short summaries, not verbatim full reviews.
-
-Detailed review reasoning, claim assessments, evidence/source mappings, coverage records, quotations, prompts, ledgers, gaps, provenance, snapshots, technical review metadata and design notes are **not included**. Private full records remain unchanged. Current-tree removal does not erase prior Git history.
-
-## Run
-
-Python 3.10+, standard library; safe filesystem checks require POSIX:
-
-```sh
-python -m unittest discover -s tests -q
-python -O -m unittest discover -s tests -q
-python -m resume_pipeline.public_dataset --root .
-python -m resume_pipeline validate
-python -m resume_pipeline public-gate
-```
-
-The exact public distribution passes **54 tests** normally and under optimization. Its validator checks only the five-file contract, factual source schemas and strictly limited score/comment fields. It does not read private full reviews, reproduce original source validation or certify semantic truth. The separate 40-record fictional fixture supports generic software tests; it is not part of the 180 reviewed pairs.
-
-Generic code supports grounded content preparation, inert skill preferences and provisional format-report checks. No paid model calls, model-weight training, HR ground truth, demonstrated quality improvement, rendered-document verification, ATS certification or production readiness is claimed.
-
-This publication is fixed at case 180; later authorized work is separate. See [STATUS](STATUS.md) and the [public-v4 manifest](publication-public-v4-180.json). A prepared package is not proof of an updated remote branch.
-
-The `data/development-140/` folder name is retained for stable existing links; its current index defines the complete 180-case milestone. The first 140 five-file case records are unchanged. [The earlier 140-case manifest](publication-public-v4.json) is a historical inventory, not the current file inventory.
+中文版及英文版可分别生成。请提供目标岗位、职位描述和真实经历。预览仍需核对事实、语言、版面和视觉证据，未通过的关卡会继续保留。安装说明与试用步骤见上方链接。

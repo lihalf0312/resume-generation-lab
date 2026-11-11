@@ -1,4 +1,0 @@
-interface:
-  display_name: "English resume generation"
-  short_description: "Write source-grounded English resumes and inspect fixed-style Word/PDF output"
-  default_prompt: "Use $resume-generation-en with my materials and job description to write and render an English resume in a separate workdir."

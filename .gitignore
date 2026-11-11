@@ -1,9 +1,4 @@
 __pycache__/
 *.pyc
 .venv/
-.env*
-private*/
-raw*/
-runs/
-*.pem
-*.key
+.env
